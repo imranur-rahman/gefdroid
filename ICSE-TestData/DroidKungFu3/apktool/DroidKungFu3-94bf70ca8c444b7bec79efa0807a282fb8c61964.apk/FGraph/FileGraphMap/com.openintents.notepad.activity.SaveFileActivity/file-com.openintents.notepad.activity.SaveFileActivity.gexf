@@ -1,0 +1,386 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<gexf xmlns='qianniao918@qq.com' version='1.2' xmlns:viz='http://www.gexf.net/1.2draft/viz'> xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd'>
+	<meta lastmodifieddate='2014-9-21'>
+		<creator>FanMing</creator>
+		<description>An Android APK Method SCN!</description>
+	</meta>
+	<graph mode='static' defaultedgettype='directed'>
+		<nodes>
+		<node id='android.util.Log: w(java.lang.String,java.lang.String)java.lang.Integer' label='android.util.Log: w(java.lang.String,java.lang.String)java.lang.Integer'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.util.FileUriUtils: getFile(java.io.File,java.lang.String)java.io.File' label='com.openintents.notepad.util.FileUriUtils: getFile(java.io.File,java.lang.String)java.io.File'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.app.Activity: init()void' label='android.app.Activity: init()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.app.AlertDialog$Builder: setPositiveButton(ILandroid.content.DialogInterface$OnClickListener)android.app.AlertDialog$Builder' label='android.app.AlertDialog$Builder: setPositiveButton(ILandroid.content.DialogInterface$OnClickListener)android.app.AlertDialog$Builder'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.app.AlertDialog$Builder: create()android.app.AlertDialog' label='android.app.AlertDialog$Builder: create()android.app.AlertDialog'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.content.Intent: init(android.content.Context,java.lang.Class)void' label='android.content.Intent: init(android.content.Context,java.lang.Class)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.app.AlertDialog$Builder: setMessage(java.lang.Integer)android.app.AlertDialog$Builder' label='android.app.AlertDialog$Builder: setMessage(java.lang.Integer)android.app.AlertDialog$Builder'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.database.Cursor: getLong(java.lang.Integer)J' label='android.database.Cursor: getLong(java.lang.Integer)J'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.app.AlertDialog$Builder: init(android.content.Context)void' label='android.app.AlertDialog$Builder: init(android.content.Context)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.activity.SaveFileActivity: onCreate(android.os.Bundle)void' label='com.openintents.notepad.activity.SaveFileActivity: onCreate(android.os.Bundle)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.activity.SaveFileActivity: access$0(com.openintents.notepad.activity.SaveFileActivity)void' label='com.openintents.notepad.activity.SaveFileActivity: access$0(com.openintents.notepad.activity.SaveFileActivity)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.activity.SaveFileActivity: getIntent()android.content.Intent' label='com.openintents.notepad.activity.SaveFileActivity: getIntent()android.content.Intent'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.activity.SaveFileActivity: getFilenameFromNoteTitle(android.net.Uri)android.net.Uri' label='com.openintents.notepad.activity.SaveFileActivity: getFilenameFromNoteTitle(android.net.Uri)android.net.Uri'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.String: replace(java.lang.CharSequence,java.lang.CharSequence)java.lang.String' label='java.lang.String: replace(java.lang.CharSequence,java.lang.CharSequence)java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.activity.SaveFileActivity: setResult(java.lang.Integer)void' label='com.openintents.notepad.activity.SaveFileActivity: setResult(java.lang.Integer)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.activity.SaveFileActivity: init()void' label='com.openintents.notepad.activity.SaveFileActivity: init()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.content.Intent: setData(android.net.Uri)android.content.Intent' label='android.content.Intent: setData(android.net.Uri)android.content.Intent'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.util.FileUriUtils: getFile(android.net.Uri)java.io.File' label='com.openintents.notepad.util.FileUriUtils: getFile(android.net.Uri)java.io.File'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.activity.SaveFileActivity: onCreateDialog(java.lang.Integer)android.app.Dialog' label='com.openintents.notepad.activity.SaveFileActivity: onCreateDialog(java.lang.Integer)android.app.Dialog'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.String: equals(java.lang.Object)boolean' label='java.lang.String: equals(java.lang.Object)boolean'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.os.Bundle: containsKey(java.lang.String)boolean' label='android.os.Bundle: containsKey(java.lang.String)boolean'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.content.Intent: init()void' label='android.content.Intent: init()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.app.Activity: onCreate(android.os.Bundle)void' label='android.app.Activity: onCreate(android.os.Bundle)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.util.FileUriUtils: getUri(java.io.File)android.net.Uri' label='com.openintents.notepad.util.FileUriUtils: getUri(java.io.File)android.net.Uri'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.activity.SaveFileActivity: askForFilename(android.net.Uri)void' label='com.openintents.notepad.activity.SaveFileActivity: askForFilename(android.net.Uri)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.app.Activity: onSaveInstanceState(android.os.Bundle)void' label='android.app.Activity: onSaveInstanceState(android.os.Bundle)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.app.AlertDialog$Builder: setNegativeButton(ILandroid.content.DialogInterface$OnClickListener)android.app.AlertDialog$Builder' label='android.app.AlertDialog$Builder: setNegativeButton(ILandroid.content.DialogInterface$OnClickListener)android.app.AlertDialog$Builder'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.os.Bundle: putString(java.lang.String,java.lang.String)void' label='android.os.Bundle: putString(java.lang.String,java.lang.String)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.io.File: exists()boolean' label='java.io.File: exists()boolean'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.io.File: init(java.lang.String)void' label='java.io.File: init(java.lang.String)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.io.BufferedWriter: write(java.lang.String)void' label='java.io.BufferedWriter: write(java.lang.String)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.activity.SaveFileActivity: showDialog(java.lang.Integer)void' label='com.openintents.notepad.activity.SaveFileActivity: showDialog(java.lang.Integer)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.app.AlertDialog$Builder: setIcon(java.lang.Integer)android.app.AlertDialog$Builder' label='android.app.AlertDialog$Builder: setIcon(java.lang.Integer)android.app.AlertDialog$Builder'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.net.Uri: getScheme()java.lang.String' label='android.net.Uri: getScheme()java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.StringBuilder: append(java.lang.Integer)java.lang.StringBuilder' label='java.lang.StringBuilder: append(java.lang.Integer)java.lang.StringBuilder'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.activity.SaveFileActivity: onSaveInstanceState(android.os.Bundle)void' label='com.openintents.notepad.activity.SaveFileActivity: onSaveInstanceState(android.os.Bundle)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.os.Environment: getExternalStorageDirectory()java.io.File' label='android.os.Environment: getExternalStorageDirectory()java.io.File'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.activity.SaveFileActivity: setResult(ILandroid.content.Intent)void' label='com.openintents.notepad.activity.SaveFileActivity: setResult(ILandroid.content.Intent)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.activity.SaveFileActivity: startActivityForResult(android.content.Intent,java.lang.Integer)void' label='com.openintents.notepad.activity.SaveFileActivity: startActivityForResult(android.content.Intent,java.lang.Integer)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.activity.SaveFileActivity: writeToFile(android.content.Context,java.io.File,java.lang.String)void' label='com.openintents.notepad.activity.SaveFileActivity: writeToFile(android.content.Context,java.io.File,java.lang.String)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.activity.SaveFileActivity: getSdCardPath()java.io.File' label='com.openintents.notepad.activity.SaveFileActivity: getSdCardPath()java.io.File'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.database.Cursor: close()void' label='android.database.Cursor: close()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.activity.SaveFileActivity: getNote(android.net.Uri)java.lang.String' label='com.openintents.notepad.activity.SaveFileActivity: getNote(android.net.Uri)java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.database.Cursor: moveToFirst()boolean' label='android.database.Cursor: moveToFirst()boolean'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.os.Bundle: getString(java.lang.String)java.lang.String' label='android.os.Bundle: getString(java.lang.String)java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.activity.SaveFileActivity: writeToFileAndFinish()void' label='com.openintents.notepad.activity.SaveFileActivity: writeToFileAndFinish()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.widget.Toast: makeText(android.content.Context,II)android.widget.Toast' label='android.widget.Toast: makeText(android.content.Context,II)android.widget.Toast'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.util.Log: d(java.lang.String,java.lang.String)java.lang.Integer' label='android.util.Log: d(java.lang.String,java.lang.String)java.lang.Integer'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='android.content.Intent: getStringExtra(java.lang.String)java.lang.String' label='android.content.Intent: getStringExtra(java.lang.String)java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.StringBuilder: append(java.lang.Object)java.lang.StringBuilder' label='java.lang.StringBuilder: append(java.lang.Object)java.lang.StringBuilder'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.activity.SaveFileActivity: finish()void' label='com.openintents.notepad.activity.SaveFileActivity: finish()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.io.BufferedWriter: close()void' label='java.io.BufferedWriter: close()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.activity.SaveFileActivity$1: init(com.openintents.notepad.activity.SaveFileActivity)void' label='com.openintents.notepad.activity.SaveFileActivity$1: init(com.openintents.notepad.activity.SaveFileActivity)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.activity.SaveFileActivity: getOverwriteWarningDialog()android.app.Dialog' label='com.openintents.notepad.activity.SaveFileActivity: getOverwriteWarningDialog()android.app.Dialog'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.StringBuilder: toString()java.lang.String' label='java.lang.StringBuilder: toString()java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.StringBuilder: init(java.lang.String)void' label='java.lang.StringBuilder: init(java.lang.String)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.String: valueOf(java.lang.Object)java.lang.String' label='java.lang.String: valueOf(java.lang.Object)java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.activity.SaveFileActivity: getContentResolver()android.content.ContentResolver' label='com.openintents.notepad.activity.SaveFileActivity: getContentResolver()android.content.ContentResolver'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.io.File: getAbsolutePath()java.lang.String' label='java.io.File: getAbsolutePath()java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.content.Intent: putExtra(java.lang.String,java.lang.Integer)android.content.Intent' label='android.content.Intent: putExtra(java.lang.String,java.lang.Integer)android.content.Intent'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.activity.SaveFileActivity: onActivityResult(IILandroid.content.Intent)void' label='com.openintents.notepad.activity.SaveFileActivity: onActivityResult(IILandroid.content.Intent)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.StringBuilder: append(java.lang.String)java.lang.StringBuilder' label='java.lang.StringBuilder: append(java.lang.String)java.lang.StringBuilder'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.content.ContentResolver: query(android.net.Uri,[Ljava.lang.String,java.lang.String,[Ljava.lang.String,java.lang.String)android.database.Cursor' label='android.content.ContentResolver: query(android.net.Uri,[Ljava.lang.String,java.lang.String,[Ljava.lang.String,java.lang.String)android.database.Cursor'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.io.FileWriter: init(java.io.File)void' label='java.io.FileWriter: init(java.io.File)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.io.BufferedWriter: init(java.io.Writer)void' label='java.io.BufferedWriter: init(java.io.Writer)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.util.Log: e(java.lang.String,java.lang.String)java.lang.Integer' label='android.util.Log: e(java.lang.String,java.lang.String)java.lang.Integer'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.activity.SaveFileActivity$2: init(com.openintents.notepad.activity.SaveFileActivity)void' label='com.openintents.notepad.activity.SaveFileActivity$2: init(com.openintents.notepad.activity.SaveFileActivity)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.util.Log: i(java.lang.String,java.lang.String)java.lang.Integer' label='android.util.Log: i(java.lang.String,java.lang.String)java.lang.Integer'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='android.database.Cursor: getString(java.lang.Integer)java.lang.String' label='android.database.Cursor: getString(java.lang.Integer)java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.app.AlertDialog$Builder: setTitle(java.lang.Integer)android.app.AlertDialog$Builder' label='android.app.AlertDialog$Builder: setTitle(java.lang.Integer)android.app.AlertDialog$Builder'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.content.Intent: getData()android.net.Uri' label='android.content.Intent: getData()android.net.Uri'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.widget.Toast: show()void' label='android.widget.Toast: show()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		</nodes>
+		<edges>
+			<edge id='0' source='com.openintents.notepad.activity.SaveFileActivity: onCreate(android.os.Bundle)void' target='com.openintents.notepad.activity.SaveFileActivity: finish()void'/>
+			<edge id='1' source='com.openintents.notepad.activity.SaveFileActivity: getOverwriteWarningDialog()android.app.Dialog' target='android.app.AlertDialog$Builder: setNegativeButton(ILandroid.content.DialogInterface$OnClickListener)android.app.AlertDialog$Builder'/>
+			<edge id='2' source='com.openintents.notepad.activity.SaveFileActivity: getFilenameFromNoteTitle(android.net.Uri)android.net.Uri' target='java.lang.StringBuilder: init(java.lang.String)void'/>
+			<edge id='3' source='com.openintents.notepad.activity.SaveFileActivity: onActivityResult(IILandroid.content.Intent)void' target='android.content.Intent: getData()android.net.Uri'/>
+			<edge id='4' source='com.openintents.notepad.activity.SaveFileActivity: writeToFile(android.content.Context,java.io.File,java.lang.String)void' target='android.widget.Toast: show()void'/>
+			<edge id='5' source='com.openintents.notepad.activity.SaveFileActivity: getOverwriteWarningDialog()android.app.Dialog' target='android.app.AlertDialog$Builder: setIcon(java.lang.Integer)android.app.AlertDialog$Builder'/>
+			<edge id='6' source='com.openintents.notepad.activity.SaveFileActivity: onActivityResult(IILandroid.content.Intent)void' target='com.openintents.notepad.activity.SaveFileActivity: showDialog(java.lang.Integer)void'/>
+			<edge id='7' source='com.openintents.notepad.activity.SaveFileActivity: access$0(com.openintents.notepad.activity.SaveFileActivity)void' target='com.openintents.notepad.activity.SaveFileActivity: writeToFileAndFinish()void'/>
+			<edge id='8' source='com.openintents.notepad.activity.SaveFileActivity: getFilenameFromNoteTitle(android.net.Uri)android.net.Uri' target='android.database.Cursor: getString(java.lang.Integer)java.lang.String'/>
+			<edge id='9' source='com.openintents.notepad.activity.SaveFileActivity: onCreate(android.os.Bundle)void' target='java.lang.String: equals(java.lang.Object)boolean'/>
+			<edge id='10' source='com.openintents.notepad.activity.SaveFileActivity: getFilenameFromNoteTitle(android.net.Uri)android.net.Uri' target='com.openintents.notepad.activity.SaveFileActivity: getSdCardPath()java.io.File'/>
+			<edge id='11' source='com.openintents.notepad.activity.SaveFileActivity: writeToFileAndFinish()void' target='com.openintents.notepad.activity.SaveFileActivity: finish()void'/>
+			<edge id='12' source='com.openintents.notepad.activity.SaveFileActivity: writeToFile(android.content.Context,java.io.File,java.lang.String)void' target='java.io.BufferedWriter: init(java.io.Writer)void'/>
+			<edge id='13' source='com.openintents.notepad.activity.SaveFileActivity: getNote(android.net.Uri)java.lang.String' target='android.util.Log: d(java.lang.String,java.lang.String)java.lang.Integer'/>
+			<edge id='14' source='com.openintents.notepad.activity.SaveFileActivity: askForFilename(android.net.Uri)void' target='android.content.Intent: setData(android.net.Uri)android.content.Intent'/>
+			<edge id='15' source='com.openintents.notepad.activity.SaveFileActivity: writeToFileAndFinish()void' target='com.openintents.notepad.activity.SaveFileActivity: writeToFile(android.content.Context,java.io.File,java.lang.String)void'/>
+			<edge id='16' source='com.openintents.notepad.activity.SaveFileActivity: onCreate(android.os.Bundle)void' target='com.openintents.notepad.activity.SaveFileActivity: getFilenameFromNoteTitle(android.net.Uri)android.net.Uri'/>
+			<edge id='17' source='com.openintents.notepad.activity.SaveFileActivity: onCreate(android.os.Bundle)void' target='android.content.Intent: getData()android.net.Uri'/>
+			<edge id='18' source='com.openintents.notepad.activity.SaveFileActivity: getNote(android.net.Uri)java.lang.String' target='com.openintents.notepad.activity.SaveFileActivity: getContentResolver()android.content.ContentResolver'/>
+			<edge id='19' source='com.openintents.notepad.activity.SaveFileActivity: getNote(android.net.Uri)java.lang.String' target='java.lang.StringBuilder: init(java.lang.String)void'/>
+			<edge id='20' source='com.openintents.notepad.activity.SaveFileActivity: getFilenameFromNoteTitle(android.net.Uri)android.net.Uri' target='android.database.Cursor: moveToFirst()boolean'/>
+			<edge id='21' source='com.openintents.notepad.activity.SaveFileActivity: writeToFile(android.content.Context,java.io.File,java.lang.String)void' target='android.widget.Toast: makeText(android.content.Context,II)android.widget.Toast'/>
+			<edge id='22' source='com.openintents.notepad.activity.SaveFileActivity: writeToFileAndFinish()void' target='com.openintents.notepad.util.FileUriUtils: getUri(java.io.File)android.net.Uri'/>
+			<edge id='23' source='com.openintents.notepad.activity.SaveFileActivity: onCreate(android.os.Bundle)void' target='android.util.Log: w(java.lang.String,java.lang.String)java.lang.Integer'/>
+			<edge id='24' source='com.openintents.notepad.activity.SaveFileActivity: onActivityResult(IILandroid.content.Intent)void' target='java.lang.StringBuilder: append(java.lang.Integer)java.lang.StringBuilder'/>
+			<edge id='25' source='com.openintents.notepad.activity.SaveFileActivity: getFilenameFromNoteTitle(android.net.Uri)android.net.Uri' target='android.database.Cursor: close()void'/>
+			<edge id='26' source='com.openintents.notepad.activity.SaveFileActivity: onActivityResult(IILandroid.content.Intent)void' target='java.lang.StringBuilder: init(java.lang.String)void'/>
+			<edge id='27' source='com.openintents.notepad.activity.SaveFileActivity: onSaveInstanceState(android.os.Bundle)void' target='android.os.Bundle: putString(java.lang.String,java.lang.String)void'/>
+			<edge id='28' source='com.openintents.notepad.activity.SaveFileActivity: onCreate(android.os.Bundle)void' target='com.openintents.notepad.activity.SaveFileActivity: setResult(java.lang.Integer)void'/>
+			<edge id='29' source='com.openintents.notepad.activity.SaveFileActivity: onActivityResult(IILandroid.content.Intent)void' target='com.openintents.notepad.activity.SaveFileActivity: finish()void'/>
+			<edge id='30' source='com.openintents.notepad.activity.SaveFileActivity: getNote(android.net.Uri)java.lang.String' target='java.lang.StringBuilder: append(java.lang.Object)java.lang.StringBuilder'/>
+			<edge id='31' source='com.openintents.notepad.activity.SaveFileActivity: getOverwriteWarningDialog()android.app.Dialog' target='android.app.AlertDialog$Builder: setMessage(java.lang.Integer)android.app.AlertDialog$Builder'/>
+			<edge id='32' source='com.openintents.notepad.activity.SaveFileActivity: init()void' target='android.app.Activity: init()void'/>
+			<edge id='33' source='com.openintents.notepad.activity.SaveFileActivity: getFilenameFromNoteTitle(android.net.Uri)android.net.Uri' target='java.lang.StringBuilder: toString()java.lang.String'/>
+			<edge id='34' source='com.openintents.notepad.activity.SaveFileActivity: getNote(android.net.Uri)java.lang.String' target='android.database.Cursor: getString(java.lang.Integer)java.lang.String'/>
+			<edge id='35' source='com.openintents.notepad.activity.SaveFileActivity: writeToFile(android.content.Context,java.io.File,java.lang.String)void' target='android.util.Log: e(java.lang.String,java.lang.String)java.lang.Integer'/>
+			<edge id='36' source='com.openintents.notepad.activity.SaveFileActivity: onCreate(android.os.Bundle)void' target='android.os.Bundle: getString(java.lang.String)java.lang.String'/>
+			<edge id='37' source='com.openintents.notepad.activity.SaveFileActivity: writeToFile(android.content.Context,java.io.File,java.lang.String)void' target='java.io.BufferedWriter: close()void'/>
+			<edge id='38' source='com.openintents.notepad.activity.SaveFileActivity: getFilenameFromNoteTitle(android.net.Uri)android.net.Uri' target='android.content.ContentResolver: query(android.net.Uri,[Ljava.lang.String,java.lang.String,[Ljava.lang.String,java.lang.String)android.database.Cursor'/>
+			<edge id='39' source='com.openintents.notepad.activity.SaveFileActivity: getFilenameFromNoteTitle(android.net.Uri)android.net.Uri' target='com.openintents.notepad.util.FileUriUtils: getFile(java.io.File,java.lang.String)java.io.File'/>
+			<edge id='40' source='com.openintents.notepad.activity.SaveFileActivity: getOverwriteWarningDialog()android.app.Dialog' target='android.app.AlertDialog$Builder: setTitle(java.lang.Integer)android.app.AlertDialog$Builder'/>
+			<edge id='41' source='com.openintents.notepad.activity.SaveFileActivity: onCreate(android.os.Bundle)void' target='android.net.Uri: getScheme()java.lang.String'/>
+			<edge id='42' source='com.openintents.notepad.activity.SaveFileActivity: onActivityResult(IILandroid.content.Intent)void' target='com.openintents.notepad.util.FileUriUtils: getFile(android.net.Uri)java.io.File'/>
+			<edge id='43' source='com.openintents.notepad.activity.SaveFileActivity: getNote(android.net.Uri)java.lang.String' target='android.content.ContentResolver: query(android.net.Uri,[Ljava.lang.String,java.lang.String,[Ljava.lang.String,java.lang.String)android.database.Cursor'/>
+			<edge id='44' source='com.openintents.notepad.activity.SaveFileActivity: onActivityResult(IILandroid.content.Intent)void' target='java.lang.StringBuilder: append(java.lang.String)java.lang.StringBuilder'/>
+			<edge id='45' source='com.openintents.notepad.activity.SaveFileActivity: getNote(android.net.Uri)java.lang.String' target='android.database.Cursor: getLong(java.lang.Integer)J'/>
+			<edge id='46' source='com.openintents.notepad.activity.SaveFileActivity: writeToFileAndFinish()void' target='com.openintents.notepad.activity.SaveFileActivity: setResult(ILandroid.content.Intent)void'/>
+			<edge id='47' source='com.openintents.notepad.activity.SaveFileActivity: writeToFileAndFinish()void' target='android.content.Intent: init()void'/>
+			<edge id='48' source='com.openintents.notepad.activity.SaveFileActivity: getNote(android.net.Uri)java.lang.String' target='android.database.Cursor: close()void'/>
+			<edge id='49' source='com.openintents.notepad.activity.SaveFileActivity: getOverwriteWarningDialog()android.app.Dialog' target='android.app.AlertDialog$Builder: create()android.app.AlertDialog'/>
+			<edge id='50' source='com.openintents.notepad.activity.SaveFileActivity: onActivityResult(IILandroid.content.Intent)void' target='java.lang.StringBuilder: toString()java.lang.String'/>
+			<edge id='51' source='com.openintents.notepad.activity.SaveFileActivity: getFilenameFromNoteTitle(android.net.Uri)android.net.Uri' target='java.lang.String: replace(java.lang.CharSequence,java.lang.CharSequence)java.lang.String'/>
+			<edge id='52' source='com.openintents.notepad.activity.SaveFileActivity: onCreate(android.os.Bundle)void' target='java.io.File: init(java.lang.String)void'/>
+			<edge id='53' source='com.openintents.notepad.activity.SaveFileActivity: onCreateDialog(java.lang.Integer)android.app.Dialog' target='com.openintents.notepad.activity.SaveFileActivity: getOverwriteWarningDialog()android.app.Dialog'/>
+			<edge id='54' source='com.openintents.notepad.activity.SaveFileActivity: onSaveInstanceState(android.os.Bundle)void' target='java.io.File: getAbsolutePath()java.lang.String'/>
+			<edge id='55' source='com.openintents.notepad.activity.SaveFileActivity: getSdCardPath()java.io.File' target='android.os.Environment: getExternalStorageDirectory()java.io.File'/>
+			<edge id='56' source='com.openintents.notepad.activity.SaveFileActivity: getNote(android.net.Uri)java.lang.String' target='java.lang.StringBuilder: toString()java.lang.String'/>
+			<edge id='57' source='com.openintents.notepad.activity.SaveFileActivity: writeToFile(android.content.Context,java.io.File,java.lang.String)void' target='java.io.BufferedWriter: write(java.lang.String)void'/>
+			<edge id='58' source='com.openintents.notepad.activity.SaveFileActivity: getOverwriteWarningDialog()android.app.Dialog' target='android.app.AlertDialog$Builder: init(android.content.Context)void'/>
+			<edge id='59' source='com.openintents.notepad.activity.SaveFileActivity: onCreate(android.os.Bundle)void' target='android.os.Bundle: containsKey(java.lang.String)boolean'/>
+			<edge id='60' source='com.openintents.notepad.activity.SaveFileActivity: onCreate(android.os.Bundle)void' target='android.content.Intent: getStringExtra(java.lang.String)java.lang.String'/>
+			<edge id='61' source='com.openintents.notepad.activity.SaveFileActivity: onCreate(android.os.Bundle)void' target='com.openintents.notepad.activity.SaveFileActivity: askForFilename(android.net.Uri)void'/>
+			<edge id='62' source='com.openintents.notepad.activity.SaveFileActivity: onActivityResult(IILandroid.content.Intent)void' target='java.io.File: exists()boolean'/>
+			<edge id='63' source='com.openintents.notepad.activity.SaveFileActivity: getNote(android.net.Uri)java.lang.String' target='android.util.Log: e(java.lang.String,java.lang.String)java.lang.Integer'/>
+			<edge id='64' source='com.openintents.notepad.activity.SaveFileActivity: writeToFileAndFinish()void' target='android.content.Intent: setData(android.net.Uri)android.content.Intent'/>
+			<edge id='65' source='com.openintents.notepad.activity.SaveFileActivity: onSaveInstanceState(android.os.Bundle)void' target='android.app.Activity: onSaveInstanceState(android.os.Bundle)void'/>
+			<edge id='66' source='com.openintents.notepad.activity.SaveFileActivity: getOverwriteWarningDialog()android.app.Dialog' target='com.openintents.notepad.activity.SaveFileActivity$2: init(com.openintents.notepad.activity.SaveFileActivity)void'/>
+			<edge id='67' source='com.openintents.notepad.activity.SaveFileActivity: getFilenameFromNoteTitle(android.net.Uri)android.net.Uri' target='android.util.Log: w(java.lang.String,java.lang.String)java.lang.Integer'/>
+			<edge id='68' source='com.openintents.notepad.activity.SaveFileActivity: onActivityResult(IILandroid.content.Intent)void' target='com.openintents.notepad.activity.SaveFileActivity: writeToFileAndFinish()void'/>
+			<edge id='69' source='com.openintents.notepad.activity.SaveFileActivity: getFilenameFromNoteTitle(android.net.Uri)android.net.Uri' target='java.lang.String: valueOf(java.lang.Object)java.lang.String'/>
+			<edge id='70' source='com.openintents.notepad.activity.SaveFileActivity: getOverwriteWarningDialog()android.app.Dialog' target='android.app.AlertDialog$Builder: setPositiveButton(ILandroid.content.DialogInterface$OnClickListener)android.app.AlertDialog$Builder'/>
+			<edge id='71' source='com.openintents.notepad.activity.SaveFileActivity: writeToFile(android.content.Context,java.io.File,java.lang.String)void' target='java.io.FileWriter: init(java.io.File)void'/>
+			<edge id='72' source='com.openintents.notepad.activity.SaveFileActivity: getFilenameFromNoteTitle(android.net.Uri)android.net.Uri' target='com.openintents.notepad.activity.SaveFileActivity: getContentResolver()android.content.ContentResolver'/>
+			<edge id='73' source='com.openintents.notepad.activity.SaveFileActivity: askForFilename(android.net.Uri)void' target='com.openintents.notepad.activity.SaveFileActivity: startActivityForResult(android.content.Intent,java.lang.Integer)void'/>
+			<edge id='74' source='com.openintents.notepad.activity.SaveFileActivity: getFilenameFromNoteTitle(android.net.Uri)android.net.Uri' target='com.openintents.notepad.activity.SaveFileActivity: finish()void'/>
+			<edge id='75' source='com.openintents.notepad.activity.SaveFileActivity: getNote(android.net.Uri)java.lang.String' target='android.database.Cursor: moveToFirst()boolean'/>
+			<edge id='76' source='com.openintents.notepad.activity.SaveFileActivity: onCreate(android.os.Bundle)void' target='com.openintents.notepad.activity.SaveFileActivity: getNote(android.net.Uri)java.lang.String'/>
+			<edge id='77' source='com.openintents.notepad.activity.SaveFileActivity: getFilenameFromNoteTitle(android.net.Uri)android.net.Uri' target='java.lang.StringBuilder: append(java.lang.String)java.lang.StringBuilder'/>
+			<edge id='78' source='com.openintents.notepad.activity.SaveFileActivity: getFilenameFromNoteTitle(android.net.Uri)android.net.Uri' target='com.openintents.notepad.util.FileUriUtils: getUri(java.io.File)android.net.Uri'/>
+			<edge id='79' source='com.openintents.notepad.activity.SaveFileActivity: askForFilename(android.net.Uri)void' target='android.content.Intent: init(android.content.Context,java.lang.Class)void'/>
+			<edge id='80' source='com.openintents.notepad.activity.SaveFileActivity: askForFilename(android.net.Uri)void' target='android.content.Intent: putExtra(java.lang.String,java.lang.Integer)android.content.Intent'/>
+			<edge id='81' source='com.openintents.notepad.activity.SaveFileActivity: onCreate(android.os.Bundle)void' target='com.openintents.notepad.activity.SaveFileActivity: getIntent()android.content.Intent'/>
+			<edge id='82' source='com.openintents.notepad.activity.SaveFileActivity: onActivityResult(IILandroid.content.Intent)void' target='android.util.Log: i(java.lang.String,java.lang.String)java.lang.Integer'/>
+			<edge id='83' source='com.openintents.notepad.activity.SaveFileActivity: onCreate(android.os.Bundle)void' target='android.app.Activity: onCreate(android.os.Bundle)void'/>
+			<edge id='84' source='com.openintents.notepad.activity.SaveFileActivity: getOverwriteWarningDialog()android.app.Dialog' target='com.openintents.notepad.activity.SaveFileActivity$1: init(com.openintents.notepad.activity.SaveFileActivity)void'/>
+		</edges>
+	</graph>
+</gexf>

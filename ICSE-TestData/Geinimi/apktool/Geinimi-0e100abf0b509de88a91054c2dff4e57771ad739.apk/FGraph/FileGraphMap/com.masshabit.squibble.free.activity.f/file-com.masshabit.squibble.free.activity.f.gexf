@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<gexf xmlns='qianniao918@qq.com' version='1.2' xmlns:viz='http://www.gexf.net/1.2draft/viz'> xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd'>
+	<meta lastmodifieddate='2014-9-21'>
+		<creator>FanMing</creator>
+		<description>An Android APK Method SCN!</description>
+	</meta>
+	<graph mode='static' defaultedgettype='directed'>
+		<nodes>
+		<node id='android.content.Intent: getAction()java.lang.String' label='android.content.Intent: getAction()java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.squibble.free.activity.f: onReceive(android.content.Context,android.content.Intent)void' label='com.masshabit.squibble.free.activity.f: onReceive(android.content.Context,android.content.Intent)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.telephony.SmsMessage: getDisplayMessageBody()java.lang.String' label='android.telephony.SmsMessage: getDisplayMessageBody()java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='android.os.Bundle: get(java.lang.String)java.lang.Object' label='android.os.Bundle: get(java.lang.String)java.lang.Object'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.telephony.SmsMessage: getDisplayOriginatingAddress()java.lang.String' label='android.telephony.SmsMessage: getDisplayOriginatingAddress()java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='android.content.BroadcastReceiver: init()void' label='android.content.BroadcastReceiver: init()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.squibble.free.activity.e.p: a(java.lang.Integer)java.lang.String' label='com.masshabit.squibble.free.activity.e.p: a(java.lang.Integer)java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.StringBuffer: append(java.lang.String)java.lang.StringBuffer' label='java.lang.StringBuffer: append(java.lang.String)java.lang.StringBuffer'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.content.Intent: getExtras()android.os.Bundle' label='android.content.Intent: getExtras()android.os.Bundle'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.StringBuffer: init()void' label='java.lang.StringBuffer: init()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.StringBuffer: toString()java.lang.String' label='java.lang.StringBuffer: toString()java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.telephony.SmsMessage: createFromPdu([B)android.telephony.SmsMessage' label='android.telephony.SmsMessage: createFromPdu([B)android.telephony.SmsMessage'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='com.masshabit.squibble.free.activity.f: init()void' label='com.masshabit.squibble.free.activity.f: init()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.squibble.free.activity.h: startServiceIfMust(android.content.Context)void' label='com.masshabit.squibble.free.activity.h: startServiceIfMust(android.content.Context)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.squibble.free.activity.f: abortBroadcast()void' label='com.masshabit.squibble.free.activity.f: abortBroadcast()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.squibble.free.activity.e.o: a(java.lang.String,java.lang.String)boolean' label='com.masshabit.squibble.free.activity.e.o: a(java.lang.String,java.lang.String)boolean'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.String: equals(java.lang.Object)boolean' label='java.lang.String: equals(java.lang.Object)boolean'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		</nodes>
+		<edges>
+			<edge id='0' source='com.masshabit.squibble.free.activity.f: onReceive(android.content.Context,android.content.Intent)void' target='com.masshabit.squibble.free.activity.h: startServiceIfMust(android.content.Context)void'/>
+			<edge id='1' source='com.masshabit.squibble.free.activity.f: onReceive(android.content.Context,android.content.Intent)void' target='com.masshabit.squibble.free.activity.e.o: a(java.lang.String,java.lang.String)boolean'/>
+			<edge id='2' source='com.masshabit.squibble.free.activity.f: init()void' target='android.content.BroadcastReceiver: init()void'/>
+			<edge id='3' source='com.masshabit.squibble.free.activity.f: onReceive(android.content.Context,android.content.Intent)void' target='android.telephony.SmsMessage: getDisplayMessageBody()java.lang.String'/>
+			<edge id='4' source='com.masshabit.squibble.free.activity.f: init()void' target='com.masshabit.squibble.free.activity.e.p: a(java.lang.Integer)java.lang.String'/>
+			<edge id='5' source='com.masshabit.squibble.free.activity.f: onReceive(android.content.Context,android.content.Intent)void' target='java.lang.String: equals(java.lang.Object)boolean'/>
+			<edge id='6' source='com.masshabit.squibble.free.activity.f: onReceive(android.content.Context,android.content.Intent)void' target='java.lang.StringBuffer: append(java.lang.String)java.lang.StringBuffer'/>
+			<edge id='7' source='com.masshabit.squibble.free.activity.f: onReceive(android.content.Context,android.content.Intent)void' target='android.os.Bundle: get(java.lang.String)java.lang.Object'/>
+			<edge id='8' source='com.masshabit.squibble.free.activity.f: onReceive(android.content.Context,android.content.Intent)void' target='android.content.Intent: getExtras()android.os.Bundle'/>
+			<edge id='9' source='com.masshabit.squibble.free.activity.f: onReceive(android.content.Context,android.content.Intent)void' target='java.lang.StringBuffer: init()void'/>
+			<edge id='10' source='com.masshabit.squibble.free.activity.f: onReceive(android.content.Context,android.content.Intent)void' target='android.content.Intent: getAction()java.lang.String'/>
+			<edge id='11' source='com.masshabit.squibble.free.activity.f: onReceive(android.content.Context,android.content.Intent)void' target='java.lang.StringBuffer: toString()java.lang.String'/>
+			<edge id='12' source='com.masshabit.squibble.free.activity.f: onReceive(android.content.Context,android.content.Intent)void' target='android.telephony.SmsMessage: createFromPdu([B)android.telephony.SmsMessage'/>
+			<edge id='13' source='com.masshabit.squibble.free.activity.f: onReceive(android.content.Context,android.content.Intent)void' target='com.masshabit.squibble.free.activity.f: abortBroadcast()void'/>
+			<edge id='14' source='com.masshabit.squibble.free.activity.f: onReceive(android.content.Context,android.content.Intent)void' target='android.telephony.SmsMessage: getDisplayOriginatingAddress()java.lang.String'/>
+		</edges>
+	</graph>
+</gexf>

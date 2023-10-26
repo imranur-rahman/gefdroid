@@ -1,0 +1,198 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<gexf xmlns='qianniao918@qq.com' version='1.2' xmlns:viz='http://www.gexf.net/1.2draft/viz'> xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd'>
+	<meta lastmodifieddate='2014-9-21'>
+		<creator>FanMing</creator>
+		<description>An Android APK Method SCN!</description>
+	</meta>
+	<graph mode='static' defaultedgettype='directed'>
+		<nodes>
+		<node id='java.net.HttpURLConnection: getHeaderFieldKey(java.lang.Integer)java.lang.String' label='java.net.HttpURLConnection: getHeaderFieldKey(java.lang.Integer)java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.squibble.free.activity.e.l: start()void' label='com.masshabit.squibble.free.activity.e.l: start()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.String: startsWith(java.lang.String)boolean' label='java.lang.String: startsWith(java.lang.String)boolean'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.String: lastIndexOf(java.lang.Integer)java.lang.Integer' label='java.lang.String: lastIndexOf(java.lang.Integer)java.lang.Integer'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.String: indexOf(java.lang.Integer)java.lang.Integer' label='java.lang.String: indexOf(java.lang.Integer)java.lang.Integer'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.squibble.free.activity.e.m: a()void' label='com.masshabit.squibble.free.activity.e.m: a()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.squibble.free.activity.e.l: a(java.lang.String)boolean' label='com.masshabit.squibble.free.activity.e.l: a(java.lang.String)boolean'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.String: indexOf(java.lang.String)java.lang.Integer' label='java.lang.String: indexOf(java.lang.String)java.lang.Integer'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.String: substring(java.lang.Integer)java.lang.String' label='java.lang.String: substring(java.lang.Integer)java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.squibble.free.activity.e.l: run()void' label='com.masshabit.squibble.free.activity.e.l: run()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.StringBuilder: toString()java.lang.String' label='java.lang.StringBuilder: toString()java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.String: equalsIgnoreCase(java.lang.String)boolean' label='java.lang.String: equalsIgnoreCase(java.lang.String)boolean'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.squibble.free.activity.e.m: b(java.lang.String)void' label='com.masshabit.squibble.free.activity.e.m: b(java.lang.String)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.Thread: init()void' label='java.lang.Thread: init()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.io.File: getParentFile()java.io.File' label='java.io.File: getParentFile()java.io.File'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.net.URL: openConnection()java.net.URLConnection' label='java.net.URL: openConnection()java.net.URLConnection'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='java.net.URL: init(java.lang.String)void' label='java.net.URL: init(java.lang.String)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.StringBuilder: append(java.lang.String)java.lang.StringBuilder' label='java.lang.StringBuilder: append(java.lang.String)java.lang.StringBuilder'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.String: length()java.lang.Integer' label='java.lang.String: length()java.lang.Integer'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.net.HttpURLConnection: getResponseCode()java.lang.Integer' label='java.net.HttpURLConnection: getResponseCode()java.lang.Integer'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.io.RandomAccessFile: init(java.lang.String,java.lang.String)void' label='java.io.RandomAccessFile: init(java.lang.String,java.lang.String)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.net.HttpURLConnection: setRequestProperty(java.lang.String,java.lang.String)void' label='java.net.HttpURLConnection: setRequestProperty(java.lang.String,java.lang.String)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.String: substring(II)java.lang.String' label='java.lang.String: substring(II)java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.String: endsWith(java.lang.String)boolean' label='java.lang.String: endsWith(java.lang.String)boolean'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.net.HttpURLConnection: getInputStream()java.io.InputStream' label='java.net.HttpURLConnection: getInputStream()java.io.InputStream'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.io.RandomAccessFile: seek(J)void' label='java.io.RandomAccessFile: seek(J)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.io.File: exists()boolean' label='java.io.File: exists()boolean'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.net.HttpURLConnection: getHeaderField(java.lang.String)java.lang.String' label='java.net.HttpURLConnection: getHeaderField(java.lang.String)java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.io.File: init(java.lang.String)void' label='java.io.File: init(java.lang.String)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.io.InputStream: read([BII)java.lang.Integer' label='java.io.InputStream: read([BII)java.lang.Integer'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.Thread: sleep(J)void' label='java.lang.Thread: sleep(J)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.io.File: mkdirs()boolean' label='java.io.File: mkdirs()boolean'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.Integer: parseInt(java.lang.String)java.lang.Integer' label='java.lang.Integer: parseInt(java.lang.String)java.lang.Integer'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.StringBuilder: init()void' label='java.lang.StringBuilder: init()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.squibble.free.activity.e.l: init(java.lang.String,java.lang.String,com.masshabit.squibble.free.activity.e.m,java.lang.Integer)void' label='com.masshabit.squibble.free.activity.e.l: init(java.lang.String,java.lang.String,com.masshabit.squibble.free.activity.e.m,java.lang.Integer)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.StringBuilder: append(java.lang.Integer)java.lang.StringBuilder' label='java.lang.StringBuilder: append(java.lang.Integer)java.lang.StringBuilder'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.io.RandomAccessFile: write([BII)void' label='java.io.RandomAccessFile: write([BII)void'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		</nodes>
+		<edges>
+			<edge id='0' source='com.masshabit.squibble.free.activity.e.l: run()void' target='java.io.File: getParentFile()java.io.File'/>
+			<edge id='1' source='com.masshabit.squibble.free.activity.e.l: run()void' target='java.io.InputStream: read([BII)java.lang.Integer'/>
+			<edge id='2' source='com.masshabit.squibble.free.activity.e.l: a(java.lang.String)boolean' target='java.net.HttpURLConnection: getResponseCode()java.lang.Integer'/>
+			<edge id='3' source='com.masshabit.squibble.free.activity.e.l: a(java.lang.String)boolean' target='java.lang.String: indexOf(java.lang.String)java.lang.Integer'/>
+			<edge id='4' source='com.masshabit.squibble.free.activity.e.l: a(java.lang.String)boolean' target='java.lang.String: endsWith(java.lang.String)boolean'/>
+			<edge id='5' source='com.masshabit.squibble.free.activity.e.l: run()void' target='java.lang.StringBuilder: append(java.lang.String)java.lang.StringBuilder'/>
+			<edge id='6' source='com.masshabit.squibble.free.activity.e.l: run()void' target='java.lang.StringBuilder: append(java.lang.Integer)java.lang.StringBuilder'/>
+			<edge id='7' source='com.masshabit.squibble.free.activity.e.l: run()void' target='java.io.RandomAccessFile: seek(J)void'/>
+			<edge id='8' source='com.masshabit.squibble.free.activity.e.l: run()void' target='java.io.File: exists()boolean'/>
+			<edge id='9' source='com.masshabit.squibble.free.activity.e.l: run()void' target='java.net.HttpURLConnection: setRequestProperty(java.lang.String,java.lang.String)void'/>
+			<edge id='10' source='com.masshabit.squibble.free.activity.e.l: a(java.lang.String)boolean' target='java.lang.Integer: parseInt(java.lang.String)java.lang.Integer'/>
+			<edge id='11' source='com.masshabit.squibble.free.activity.e.l: run()void' target='java.lang.StringBuilder: init()void'/>
+			<edge id='12' source='com.masshabit.squibble.free.activity.e.l: a(java.lang.String)boolean' target='java.lang.String: equalsIgnoreCase(java.lang.String)boolean'/>
+			<edge id='13' source='com.masshabit.squibble.free.activity.e.l: a(java.lang.String)boolean' target='java.net.HttpURLConnection: getHeaderField(java.lang.String)java.lang.String'/>
+			<edge id='14' source='com.masshabit.squibble.free.activity.e.l: run()void' target='java.io.File: init(java.lang.String)void'/>
+			<edge id='15' source='com.masshabit.squibble.free.activity.e.l: run()void' target='com.masshabit.squibble.free.activity.e.m: b(java.lang.String)void'/>
+			<edge id='16' source='com.masshabit.squibble.free.activity.e.l: a(java.lang.String)boolean' target='java.net.URL: init(java.lang.String)void'/>
+			<edge id='17' source='com.masshabit.squibble.free.activity.e.l: run()void' target='java.io.File: mkdirs()boolean'/>
+			<edge id='18' source='com.masshabit.squibble.free.activity.e.l: a(java.lang.String)boolean' target='java.lang.String: startsWith(java.lang.String)boolean'/>
+			<edge id='19' source='com.masshabit.squibble.free.activity.e.l: run()void' target='com.masshabit.squibble.free.activity.e.m: a()void'/>
+			<edge id='20' source='com.masshabit.squibble.free.activity.e.l: run()void' target='java.net.URL: init(java.lang.String)void'/>
+			<edge id='21' source='com.masshabit.squibble.free.activity.e.l: a(java.lang.String)boolean' target='java.lang.String: substring(java.lang.Integer)java.lang.String'/>
+			<edge id='22' source='com.masshabit.squibble.free.activity.e.l: run()void' target='java.lang.String: lastIndexOf(java.lang.Integer)java.lang.Integer'/>
+			<edge id='23' source='com.masshabit.squibble.free.activity.e.l: run()void' target='java.lang.String: substring(java.lang.Integer)java.lang.String'/>
+			<edge id='24' source='com.masshabit.squibble.free.activity.e.l: init(java.lang.String,java.lang.String,com.masshabit.squibble.free.activity.e.m,java.lang.Integer)void' target='java.lang.Thread: init()void'/>
+			<edge id='25' source='com.masshabit.squibble.free.activity.e.l: run()void' target='java.io.RandomAccessFile: init(java.lang.String,java.lang.String)void'/>
+			<edge id='26' source='com.masshabit.squibble.free.activity.e.l: a(java.lang.String)boolean' target='java.lang.String: substring(II)java.lang.String'/>
+			<edge id='27' source='com.masshabit.squibble.free.activity.e.l: a(java.lang.String)boolean' target='java.lang.String: indexOf(java.lang.Integer)java.lang.Integer'/>
+			<edge id='28' source='com.masshabit.squibble.free.activity.e.l: run()void' target='com.masshabit.squibble.free.activity.e.l: a(java.lang.String)boolean'/>
+			<edge id='29' source='com.masshabit.squibble.free.activity.e.l: a(java.lang.String)boolean' target='java.net.HttpURLConnection: getHeaderFieldKey(java.lang.Integer)java.lang.String'/>
+			<edge id='30' source='com.masshabit.squibble.free.activity.e.l: run()void' target='java.lang.StringBuilder: toString()java.lang.String'/>
+			<edge id='31' source='com.masshabit.squibble.free.activity.e.l: run()void' target='java.io.RandomAccessFile: write([BII)void'/>
+			<edge id='32' source='com.masshabit.squibble.free.activity.e.l: run()void' target='java.net.HttpURLConnection: getInputStream()java.io.InputStream'/>
+			<edge id='33' source='com.masshabit.squibble.free.activity.e.l: run()void' target='java.lang.Thread: sleep(J)void'/>
+			<edge id='34' source='com.masshabit.squibble.free.activity.e.l: run()void' target='java.net.URL: openConnection()java.net.URLConnection'/>
+			<edge id='35' source='com.masshabit.squibble.free.activity.e.l: a(java.lang.String)boolean' target='java.lang.String: length()java.lang.Integer'/>
+			<edge id='36' source='com.masshabit.squibble.free.activity.e.l: a(java.lang.String)boolean' target='java.net.URL: openConnection()java.net.URLConnection'/>
+		</edges>
+	</graph>
+</gexf>

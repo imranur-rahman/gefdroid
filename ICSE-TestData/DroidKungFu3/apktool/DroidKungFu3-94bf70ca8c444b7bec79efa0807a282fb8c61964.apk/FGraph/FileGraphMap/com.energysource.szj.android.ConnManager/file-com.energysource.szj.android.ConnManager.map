@@ -1,0 +1,6 @@
+2 ---> android.net.NetworkInfo: getType()java.lang.Integer
+3 ---> android.util.Log: w(java.lang.String,java.lang.String)java.lang.Integer
+8 ---> android.net.ConnectivityManager: getActiveNetworkInfo()android.net.NetworkInfo
+10 ---> android.net.NetworkInfo: getState()android.net.NetworkInfo$State
+13 ---> android.util.Log: i(java.lang.String,java.lang.String)java.lang.Integer
+17 ---> android.util.Log: v(java.lang.String,java.lang.String)java.lang.Integer

@@ -1,0 +1,5 @@
+6 ---> android.net.ConnectivityManager: getActiveNetworkInfo()android.net.NetworkInfo
+10 ---> android.net.NetworkInfo: getExtraInfo()java.lang.String
+30 ---> android.telephony.TelephonyManager: getDeviceId()java.lang.String
+36 ---> android.net.NetworkInfo: getTypeName()java.lang.String
+39 ---> android.telephony.TelephonyManager: getLine1Number()java.lang.String

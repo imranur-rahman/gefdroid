@@ -1,0 +1,334 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<gexf xmlns='qianniao918@qq.com' version='1.2' xmlns:viz='http://www.gexf.net/1.2draft/viz'> xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd'>
+	<meta lastmodifieddate='2014-9-21'>
+		<creator>FanMing</creator>
+		<description>An Android APK Method SCN!</description>
+	</meta>
+	<graph mode='static' defaultedgettype='directed'>
+		<nodes>
+		<node id='android.telephony.TelephonyManager: getSimSerialNumber()java.lang.String' label='android.telephony.TelephonyManager: getSimSerialNumber()java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='android.telephony.TelephonyManager: getVoiceMailNumber()java.lang.String' label='android.telephony.TelephonyManager: getVoiceMailNumber()java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='com.geinimi.c.k: f()java.lang.String' label='com.geinimi.c.k: f()java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.geinimi.AdService: b()java.lang.String' label='com.geinimi.AdService: b()java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.geinimi.c.b: a()java.util.Vector' label='com.geinimi.c.b: a()java.util.Vector'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.geinimi.c.k: init(com.geinimi.AdService)void' label='com.geinimi.c.k: init(com.geinimi.AdService)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.telephony.TelephonyManager: getSimState()java.lang.Integer' label='android.telephony.TelephonyManager: getSimState()java.lang.Integer'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='java.lang.String: substring(java.lang.Integer)java.lang.String' label='java.lang.String: substring(java.lang.Integer)java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.String: valueOf(java.lang.Integer)java.lang.String' label='java.lang.String: valueOf(java.lang.Integer)java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.telephony.TelephonyManager: getNetworkCountryIso()java.lang.String' label='android.telephony.TelephonyManager: getNetworkCountryIso()java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='android.content.SharedPreferences: getString(java.lang.String,java.lang.String)java.lang.String' label='android.content.SharedPreferences: getString(java.lang.String,java.lang.String)java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.String: equals(java.lang.Object)boolean' label='java.lang.String: equals(java.lang.Object)boolean'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.Object: init()void' label='java.lang.Object: init()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.geinimi.c.k: a(android.content.Context,java.lang.String,java.lang.String)void' label='com.geinimi.c.k: a(android.content.Context,java.lang.String,java.lang.String)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.util.Vector: toArray([Ljava.lang.Object)[Ljava.lang.Object' label='java.util.Vector: toArray([Ljava.lang.Object)[Ljava.lang.Object'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.geinimi.c.k: g()java.lang.String' label='com.geinimi.c.k: g()java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.telephony.TelephonyManager: getNetworkOperator()java.lang.String' label='android.telephony.TelephonyManager: getNetworkOperator()java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='com.geinimi.c.k: e()java.lang.String' label='com.geinimi.c.k: e()java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.StringBuffer: append(java.lang.String)java.lang.StringBuffer' label='java.lang.StringBuffer: append(java.lang.String)java.lang.StringBuffer'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.StringBuffer: init()void' label='java.lang.StringBuffer: init()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.geinimi.c.k: j()[Lcom.geinimi.c.c' label='com.geinimi.c.k: j()[Lcom.geinimi.c.c'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.geinimi.c.m: a(java.lang.Integer)java.lang.String' label='com.geinimi.c.m: a(java.lang.Integer)java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.os.Environment: getExternalStorageDirectory()java.io.File' label='android.os.Environment: getExternalStorageDirectory()java.io.File'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.telephony.TelephonyManager: getNetworkOperatorName()java.lang.String' label='android.telephony.TelephonyManager: getNetworkOperatorName()java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='android.telephony.TelephonyManager: getLine1Number()java.lang.String' label='android.telephony.TelephonyManager: getLine1Number()java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='com.geinimi.AdService: e()java.lang.String' label='com.geinimi.AdService: e()java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.util.Vector: init()void' label='java.util.Vector: init()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.geinimi.c.k: c()java.lang.String' label='com.geinimi.c.k: c()java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.content.SharedPreferences$Editor: putString(java.lang.String,java.lang.String)android.content.SharedPreferences$Editor' label='android.content.SharedPreferences$Editor: putString(java.lang.String,java.lang.String)android.content.SharedPreferences$Editor'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.Object: toString()java.lang.String' label='java.lang.Object: toString()java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.geinimi.c.k: a()android.content.Context' label='com.geinimi.c.k: a()android.content.Context'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.String: startsWith(java.lang.String)boolean' label='java.lang.String: startsWith(java.lang.String)boolean'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.text.format.DateFormat: format(java.lang.CharSequence,J)java.lang.CharSequence' label='android.text.format.DateFormat: format(java.lang.CharSequence,J)java.lang.CharSequence'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.telephony.TelephonyManager: getSimOperatorName()java.lang.String' label='android.telephony.TelephonyManager: getSimOperatorName()java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='com.geinimi.c.c: init(java.lang.String,java.lang.String,java.lang.String,java.lang.String)void' label='com.geinimi.c.c: init(java.lang.String,java.lang.String,java.lang.String,java.lang.String)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.geinimi.c.k: h()java.lang.String' label='com.geinimi.c.k: h()java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.geinimi.c.k: i()void' label='com.geinimi.c.k: i()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.geinimi.c.k: clinit()void' label='com.geinimi.c.k: clinit()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.telephony.TelephonyManager: getSimOperator()java.lang.String' label='android.telephony.TelephonyManager: getSimOperator()java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='java.lang.StringBuffer: toString()java.lang.String' label='java.lang.StringBuffer: toString()java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.StringBuilder: append(java.lang.Object)java.lang.StringBuilder' label='java.lang.StringBuilder: append(java.lang.Object)java.lang.StringBuilder'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.String: indexOf(java.lang.Integer)java.lang.Integer' label='java.lang.String: indexOf(java.lang.Integer)java.lang.Integer'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.geinimi.c.k: d()java.lang.String' label='com.geinimi.c.k: d()java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.StringBuilder: toString()java.lang.String' label='java.lang.StringBuilder: toString()java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.preference.PreferenceManager: getDefaultSharedPreferences(android.content.Context)android.content.SharedPreferences' label='android.preference.PreferenceManager: getDefaultSharedPreferences(android.content.Context)android.content.SharedPreferences'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.content.SharedPreferences$Editor: commit()boolean' label='android.content.SharedPreferences$Editor: commit()boolean'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.telephony.TelephonyManager: getDeviceSoftwareVersion()java.lang.String' label='android.telephony.TelephonyManager: getDeviceSoftwareVersion()java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='java.util.Vector: get(java.lang.Integer)java.lang.Object' label='java.util.Vector: get(java.lang.Integer)java.lang.Object'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.StringBuilder: append(java.lang.String)java.lang.StringBuilder' label='java.lang.StringBuilder: append(java.lang.String)java.lang.StringBuilder'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.telephony.TelephonyManager: getNetworkType()java.lang.Integer' label='android.telephony.TelephonyManager: getNetworkType()java.lang.Integer'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='java.lang.String: length()java.lang.Integer' label='java.lang.String: length()java.lang.Integer'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.telephony.TelephonyManager: getSimCountryIso()java.lang.String' label='android.telephony.TelephonyManager: getSimCountryIso()java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='com.geinimi.c.k: b()java.lang.String' label='com.geinimi.c.k: b()java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.String: substring(II)java.lang.String' label='java.lang.String: substring(II)java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.content.SharedPreferences: edit()android.content.SharedPreferences$Editor' label='android.content.SharedPreferences: edit()android.content.SharedPreferences$Editor'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.util.Vector: add(java.lang.Object)boolean' label='java.util.Vector: add(java.lang.Object)boolean'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.geinimi.AdService: d()java.lang.String' label='com.geinimi.AdService: d()java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.geinimi.c.k: a(java.lang.String)java.lang.String' label='com.geinimi.c.k: a(java.lang.String)java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.geinimi.AdService: getSystemService(java.lang.String)java.lang.Object' label='com.geinimi.AdService: getSystemService(java.lang.String)java.lang.Object'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.telephony.TelephonyManager: getSubscriberId()java.lang.String' label='android.telephony.TelephonyManager: getSubscriberId()java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='android.telephony.TelephonyManager: getDeviceId()java.lang.String' label='android.telephony.TelephonyManager: getDeviceId()java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='java.lang.StringBuilder: init()void' label='java.lang.StringBuilder: init()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.geinimi.c.k: a(android.content.Context,java.lang.String)java.lang.String' label='com.geinimi.c.k: a(android.content.Context,java.lang.String)java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.telephony.TelephonyManager: getPhoneType()java.lang.Integer' label='android.telephony.TelephonyManager: getPhoneType()java.lang.Integer'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='java.util.Vector: size()java.lang.Integer' label='java.util.Vector: size()java.lang.Integer'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.geinimi.AdService: c()java.lang.String' label='com.geinimi.AdService: c()java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		</nodes>
+		<edges>
+			<edge id='0' source='com.geinimi.c.k: init(com.geinimi.AdService)void' target='android.telephony.TelephonyManager: getNetworkOperatorName()java.lang.String'/>
+			<edge id='1' source='com.geinimi.c.k: h()java.lang.String' target='java.lang.StringBuilder: toString()java.lang.String'/>
+			<edge id='2' source='com.geinimi.c.k: h()java.lang.String' target='java.lang.StringBuilder: append(java.lang.String)java.lang.StringBuilder'/>
+			<edge id='3' source='com.geinimi.c.k: c()java.lang.String' target='com.geinimi.AdService: c()java.lang.String'/>
+			<edge id='4' source='com.geinimi.c.k: h()java.lang.String' target='java.lang.String: equals(java.lang.Object)boolean'/>
+			<edge id='5' source='com.geinimi.c.k: init(com.geinimi.AdService)void' target='android.telephony.TelephonyManager: getDeviceId()java.lang.String'/>
+			<edge id='6' source='com.geinimi.c.k: init(com.geinimi.AdService)void' target='java.lang.Object: toString()java.lang.String'/>
+			<edge id='7' source='com.geinimi.c.k: clinit()void' target='java.lang.StringBuilder: append(java.lang.Object)java.lang.StringBuilder'/>
+			<edge id='8' source='com.geinimi.c.k: a(java.lang.String)java.lang.String' target='java.lang.String: substring(II)java.lang.String'/>
+			<edge id='9' source='com.geinimi.c.k: a(java.lang.String)java.lang.String' target='java.lang.StringBuffer: init()void'/>
+			<edge id='10' source='com.geinimi.c.k: a(java.lang.String)java.lang.String' target='java.lang.String: substring(java.lang.Integer)java.lang.String'/>
+			<edge id='11' source='com.geinimi.c.k: init(com.geinimi.AdService)void' target='android.telephony.TelephonyManager: getSubscriberId()java.lang.String'/>
+			<edge id='12' source='com.geinimi.c.k: a(android.content.Context,java.lang.String,java.lang.String)void' target='android.content.SharedPreferences: edit()android.content.SharedPreferences$Editor'/>
+			<edge id='13' source='com.geinimi.c.k: h()java.lang.String' target='java.lang.StringBuilder: init()void'/>
+			<edge id='14' source='com.geinimi.c.k: a(java.lang.String)java.lang.String' target='java.lang.String: startsWith(java.lang.String)boolean'/>
+			<edge id='15' source='com.geinimi.c.k: clinit()void' target='java.lang.StringBuilder: toString()java.lang.String'/>
+			<edge id='16' source='com.geinimi.c.k: init(com.geinimi.AdService)void' target='android.telephony.TelephonyManager: getNetworkType()java.lang.Integer'/>
+			<edge id='17' source='com.geinimi.c.k: init(com.geinimi.AdService)void' target='java.lang.Object: init()void'/>
+			<edge id='18' source='com.geinimi.c.k: a(android.content.Context,java.lang.String,java.lang.String)void' target='android.preference.PreferenceManager: getDefaultSharedPreferences(android.content.Context)android.content.SharedPreferences'/>
+			<edge id='19' source='com.geinimi.c.k: e()java.lang.String' target='com.geinimi.AdService: e()java.lang.String'/>
+			<edge id='20' source='com.geinimi.c.k: init(com.geinimi.AdService)void' target='android.telephony.TelephonyManager: getSimSerialNumber()java.lang.String'/>
+			<edge id='21' source='com.geinimi.c.k: b()java.lang.String' target='com.geinimi.AdService: b()java.lang.String'/>
+			<edge id='22' source='com.geinimi.c.k: init(com.geinimi.AdService)void' target='android.telephony.TelephonyManager: getPhoneType()java.lang.Integer'/>
+			<edge id='23' source='com.geinimi.c.k: init(com.geinimi.AdService)void' target='android.telephony.TelephonyManager: getSimState()java.lang.Integer'/>
+			<edge id='24' source='com.geinimi.c.k: init(com.geinimi.AdService)void' target='android.telephony.TelephonyManager: getNetworkOperator()java.lang.String'/>
+			<edge id='25' source='com.geinimi.c.k: init(com.geinimi.AdService)void' target='java.lang.String: valueOf(java.lang.Integer)java.lang.String'/>
+			<edge id='26' source='com.geinimi.c.k: i()void' target='java.util.Vector: add(java.lang.Object)boolean'/>
+			<edge id='27' source='com.geinimi.c.k: init(com.geinimi.AdService)void' target='android.telephony.TelephonyManager: getLine1Number()java.lang.String'/>
+			<edge id='28' source='com.geinimi.c.k: a(android.content.Context,java.lang.String,java.lang.String)void' target='android.content.SharedPreferences$Editor: commit()boolean'/>
+			<edge id='29' source='com.geinimi.c.k: init(com.geinimi.AdService)void' target='android.telephony.TelephonyManager: getSimCountryIso()java.lang.String'/>
+			<edge id='30' source='com.geinimi.c.k: init(com.geinimi.AdService)void' target='com.geinimi.AdService: getSystemService(java.lang.String)java.lang.Object'/>
+			<edge id='31' source='com.geinimi.c.k: init(com.geinimi.AdService)void' target='android.telephony.TelephonyManager: getSimOperator()java.lang.String'/>
+			<edge id='32' source='com.geinimi.c.k: init(com.geinimi.AdService)void' target='android.telephony.TelephonyManager: getNetworkCountryIso()java.lang.String'/>
+			<edge id='33' source='com.geinimi.c.k: a(java.lang.String)java.lang.String' target='java.lang.String: indexOf(java.lang.Integer)java.lang.Integer'/>
+			<edge id='34' source='com.geinimi.c.k: i()void' target='com.geinimi.c.k: a(java.lang.String)java.lang.String'/>
+			<edge id='35' source='com.geinimi.c.k: i()void' target='java.util.Vector: init()void'/>
+			<edge id='36' source='com.geinimi.c.k: a(android.content.Context,java.lang.String,java.lang.String)void' target='android.content.SharedPreferences$Editor: putString(java.lang.String,java.lang.String)android.content.SharedPreferences$Editor'/>
+			<edge id='37' source='com.geinimi.c.k: a(android.content.Context,java.lang.String)java.lang.String' target='android.preference.PreferenceManager: getDefaultSharedPreferences(android.content.Context)android.content.SharedPreferences'/>
+			<edge id='38' source='com.geinimi.c.k: clinit()void' target='android.os.Environment: getExternalStorageDirectory()java.io.File'/>
+			<edge id='39' source='com.geinimi.c.k: a(android.content.Context,java.lang.String)java.lang.String' target='android.content.SharedPreferences: getString(java.lang.String,java.lang.String)java.lang.String'/>
+			<edge id='40' source='com.geinimi.c.k: i()void' target='java.lang.String: length()java.lang.Integer'/>
+			<edge id='41' source='com.geinimi.c.k: h()java.lang.String' target='com.geinimi.c.m: a(java.lang.Integer)java.lang.String'/>
+			<edge id='42' source='com.geinimi.c.k: init(com.geinimi.AdService)void' target='android.telephony.TelephonyManager: getDeviceSoftwareVersion()java.lang.String'/>
+			<edge id='43' source='com.geinimi.c.k: i()void' target='java.util.Vector: get(java.lang.Integer)java.lang.Object'/>
+			<edge id='44' source='com.geinimi.c.k: d()java.lang.String' target='com.geinimi.AdService: d()java.lang.String'/>
+			<edge id='45' source='com.geinimi.c.k: i()void' target='com.geinimi.c.c: init(java.lang.String,java.lang.String,java.lang.String,java.lang.String)void'/>
+			<edge id='46' source='com.geinimi.c.k: init(com.geinimi.AdService)void' target='android.telephony.TelephonyManager: getSimOperatorName()java.lang.String'/>
+			<edge id='47' source='com.geinimi.c.k: a(java.lang.String)java.lang.String' target='java.lang.StringBuffer: toString()java.lang.String'/>
+			<edge id='48' source='com.geinimi.c.k: clinit()void' target='java.lang.StringBuilder: init()void'/>
+			<edge id='49' source='com.geinimi.c.k: a(java.lang.String)java.lang.String' target='java.lang.String: length()java.lang.Integer'/>
+			<edge id='50' source='com.geinimi.c.k: i()void' target='java.util.Vector: size()java.lang.Integer'/>
+			<edge id='51' source='com.geinimi.c.k: init(com.geinimi.AdService)void' target='android.text.format.DateFormat: format(java.lang.CharSequence,J)java.lang.CharSequence'/>
+			<edge id='52' source='com.geinimi.c.k: init(com.geinimi.AdService)void' target='android.telephony.TelephonyManager: getVoiceMailNumber()java.lang.String'/>
+			<edge id='53' source='com.geinimi.c.k: i()void' target='com.geinimi.c.b: a()java.util.Vector'/>
+			<edge id='54' source='com.geinimi.c.k: clinit()void' target='java.lang.StringBuilder: append(java.lang.String)java.lang.StringBuilder'/>
+			<edge id='55' source='com.geinimi.c.k: j()[Lcom.geinimi.c.c' target='java.util.Vector: toArray([Ljava.lang.Object)[Ljava.lang.Object'/>
+			<edge id='56' source='com.geinimi.c.k: a(java.lang.String)java.lang.String' target='java.lang.StringBuffer: append(java.lang.String)java.lang.StringBuffer'/>
+		</edges>
+	</graph>
+</gexf>

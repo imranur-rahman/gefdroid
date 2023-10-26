@@ -1,0 +1,2 @@
+1 ---> android.telephony.SmsManager: getDefault()android.telephony.SmsManager
+41 ---> android.telephony.SmsManager: sendTextMessage(java.lang.String,java.lang.String,java.lang.String,android.app.PendingIntent,android.app.PendingIntent)void

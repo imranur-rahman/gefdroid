@@ -1,0 +1,119 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<gexf xmlns='qianniao918@qq.com' version='1.2' xmlns:viz='http://www.gexf.net/1.2draft/viz'> xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd'>
+	<meta lastmodifieddate='2014-9-21'>
+		<creator>FanMing</creator>
+		<description>An Android APK Method SCN!</description>
+	</meta>
+	<graph mode='static' defaultedgettype='directed'>
+		<nodes>
+		<node id='com.masshabit.common.License$MyCallback: init(com.masshabit.common.License)void' label='com.masshabit.common.License$MyCallback: init(com.masshabit.common.License)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.Object: init()void' label='java.lang.Object: init()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.util.Log: w(java.lang.String,java.lang.String)java.lang.Integer' label='android.util.Log: w(java.lang.String,java.lang.String)java.lang.Integer'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='java.lang.StringBuilder: append(java.lang.String)java.lang.StringBuilder' label='java.lang.StringBuilder: append(java.lang.String)java.lang.StringBuilder'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.common.License: access$102(com.masshabit.common.License,java.lang.Integer)java.lang.Integer' label='com.masshabit.common.License: access$102(com.masshabit.common.License,java.lang.Integer)java.lang.Integer'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.common.License$MyCallback: applicationError(com.android.vending.licensing.LicenseCheckerCallback$ApplicationErrorCode)void' label='com.masshabit.common.License$MyCallback: applicationError(com.android.vending.licensing.LicenseCheckerCallback$ApplicationErrorCode)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.util.Log: d(java.lang.String,java.lang.String)java.lang.Integer' label='android.util.Log: d(java.lang.String,java.lang.String)java.lang.Integer'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='android.util.Log: e(java.lang.String,java.lang.String)java.lang.Integer' label='android.util.Log: e(java.lang.String,java.lang.String)java.lang.Integer'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='java.lang.StringBuilder: append(java.lang.Object)java.lang.StringBuilder' label='java.lang.StringBuilder: append(java.lang.Object)java.lang.StringBuilder'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.common.License$MyCallback: dontAllow()void' label='com.masshabit.common.License$MyCallback: dontAllow()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.Thread: sleep(J)void' label='java.lang.Thread: sleep(J)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.StringBuilder: append(J)java.lang.StringBuilder' label='java.lang.StringBuilder: append(J)java.lang.StringBuilder'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.common.License: access$000(com.masshabit.common.License)J' label='com.masshabit.common.License: access$000(com.masshabit.common.License)J'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.StringBuilder: init()void' label='java.lang.StringBuilder: init()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.common.License$MyCallback: allow()void' label='com.masshabit.common.License$MyCallback: allow()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.StringBuilder: toString()java.lang.String' label='java.lang.StringBuilder: toString()java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.InterruptedException: printStackTrace()void' label='java.lang.InterruptedException: printStackTrace()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.os.SystemClock: uptimeMillis()J' label='android.os.SystemClock: uptimeMillis()J'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		</nodes>
+		<edges>
+			<edge id='0' source='com.masshabit.common.License$MyCallback: allow()void' target='com.masshabit.common.License: access$000(com.masshabit.common.License)J'/>
+			<edge id='1' source='com.masshabit.common.License$MyCallback: allow()void' target='java.lang.StringBuilder: toString()java.lang.String'/>
+			<edge id='2' source='com.masshabit.common.License$MyCallback: allow()void' target='java.lang.InterruptedException: printStackTrace()void'/>
+			<edge id='3' source='com.masshabit.common.License$MyCallback: dontAllow()void' target='java.lang.StringBuilder: init()void'/>
+			<edge id='4' source='com.masshabit.common.License$MyCallback: dontAllow()void' target='com.masshabit.common.License: access$102(com.masshabit.common.License,java.lang.Integer)java.lang.Integer'/>
+			<edge id='5' source='com.masshabit.common.License$MyCallback: dontAllow()void' target='java.lang.Thread: sleep(J)void'/>
+			<edge id='6' source='com.masshabit.common.License$MyCallback: dontAllow()void' target='java.lang.StringBuilder: toString()java.lang.String'/>
+			<edge id='7' source='com.masshabit.common.License$MyCallback: applicationError(com.android.vending.licensing.LicenseCheckerCallback$ApplicationErrorCode)void' target='java.lang.Thread: sleep(J)void'/>
+			<edge id='8' source='com.masshabit.common.License$MyCallback: dontAllow()void' target='android.os.SystemClock: uptimeMillis()J'/>
+			<edge id='9' source='com.masshabit.common.License$MyCallback: applicationError(com.android.vending.licensing.LicenseCheckerCallback$ApplicationErrorCode)void' target='java.lang.StringBuilder: init()void'/>
+			<edge id='10' source='com.masshabit.common.License$MyCallback: allow()void' target='java.lang.Thread: sleep(J)void'/>
+			<edge id='11' source='com.masshabit.common.License$MyCallback: dontAllow()void' target='java.lang.InterruptedException: printStackTrace()void'/>
+			<edge id='12' source='com.masshabit.common.License$MyCallback: dontAllow()void' target='com.masshabit.common.License: access$000(com.masshabit.common.License)J'/>
+			<edge id='13' source='com.masshabit.common.License$MyCallback: allow()void' target='java.lang.StringBuilder: init()void'/>
+			<edge id='14' source='com.masshabit.common.License$MyCallback: applicationError(com.android.vending.licensing.LicenseCheckerCallback$ApplicationErrorCode)void' target='android.util.Log: d(java.lang.String,java.lang.String)java.lang.Integer'/>
+			<edge id='15' source='com.masshabit.common.License$MyCallback: applicationError(com.android.vending.licensing.LicenseCheckerCallback$ApplicationErrorCode)void' target='android.util.Log: e(java.lang.String,java.lang.String)java.lang.Integer'/>
+			<edge id='16' source='com.masshabit.common.License$MyCallback: allow()void' target='com.masshabit.common.License: access$102(com.masshabit.common.License,java.lang.Integer)java.lang.Integer'/>
+			<edge id='17' source='com.masshabit.common.License$MyCallback: applicationError(com.android.vending.licensing.LicenseCheckerCallback$ApplicationErrorCode)void' target='java.lang.InterruptedException: printStackTrace()void'/>
+			<edge id='18' source='com.masshabit.common.License$MyCallback: init(com.masshabit.common.License)void' target='java.lang.Object: init()void'/>
+			<edge id='19' source='com.masshabit.common.License$MyCallback: allow()void' target='java.lang.StringBuilder: append(java.lang.String)java.lang.StringBuilder'/>
+			<edge id='20' source='com.masshabit.common.License$MyCallback: allow()void' target='android.util.Log: d(java.lang.String,java.lang.String)java.lang.Integer'/>
+			<edge id='21' source='com.masshabit.common.License$MyCallback: dontAllow()void' target='java.lang.StringBuilder: append(J)java.lang.StringBuilder'/>
+			<edge id='22' source='com.masshabit.common.License$MyCallback: dontAllow()void' target='android.util.Log: w(java.lang.String,java.lang.String)java.lang.Integer'/>
+			<edge id='23' source='com.masshabit.common.License$MyCallback: applicationError(com.android.vending.licensing.LicenseCheckerCallback$ApplicationErrorCode)void' target='com.masshabit.common.License: access$102(com.masshabit.common.License,java.lang.Integer)java.lang.Integer'/>
+			<edge id='24' source='com.masshabit.common.License$MyCallback: applicationError(com.android.vending.licensing.LicenseCheckerCallback$ApplicationErrorCode)void' target='java.lang.StringBuilder: append(java.lang.Object)java.lang.StringBuilder'/>
+			<edge id='25' source='com.masshabit.common.License$MyCallback: applicationError(com.android.vending.licensing.LicenseCheckerCallback$ApplicationErrorCode)void' target='android.os.SystemClock: uptimeMillis()J'/>
+			<edge id='26' source='com.masshabit.common.License$MyCallback: applicationError(com.android.vending.licensing.LicenseCheckerCallback$ApplicationErrorCode)void' target='java.lang.StringBuilder: toString()java.lang.String'/>
+			<edge id='27' source='com.masshabit.common.License$MyCallback: allow()void' target='java.lang.StringBuilder: append(J)java.lang.StringBuilder'/>
+			<edge id='28' source='com.masshabit.common.License$MyCallback: dontAllow()void' target='android.util.Log: d(java.lang.String,java.lang.String)java.lang.Integer'/>
+			<edge id='29' source='com.masshabit.common.License$MyCallback: dontAllow()void' target='java.lang.StringBuilder: append(java.lang.String)java.lang.StringBuilder'/>
+			<edge id='30' source='com.masshabit.common.License$MyCallback: applicationError(com.android.vending.licensing.LicenseCheckerCallback$ApplicationErrorCode)void' target='com.masshabit.common.License: access$000(com.masshabit.common.License)J'/>
+			<edge id='31' source='com.masshabit.common.License$MyCallback: allow()void' target='android.os.SystemClock: uptimeMillis()J'/>
+			<edge id='32' source='com.masshabit.common.License$MyCallback: applicationError(com.android.vending.licensing.LicenseCheckerCallback$ApplicationErrorCode)void' target='java.lang.StringBuilder: append(J)java.lang.StringBuilder'/>
+			<edge id='33' source='com.masshabit.common.License$MyCallback: applicationError(com.android.vending.licensing.LicenseCheckerCallback$ApplicationErrorCode)void' target='java.lang.StringBuilder: append(java.lang.String)java.lang.StringBuilder'/>
+		</edges>
+	</graph>
+</gexf>

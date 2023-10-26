@@ -1,0 +1,552 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<gexf xmlns='qianniao918@qq.com' version='1.2' xmlns:viz='http://www.gexf.net/1.2draft/viz'> xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd'>
+	<meta lastmodifieddate='2014-9-21'>
+		<creator>FanMing</creator>
+		<description>An Android APK Method SCN!</description>
+	</meta>
+	<graph mode='static' defaultedgettype='directed'>
+		<nodes>
+		<node id='com.masshabit.squibble.Game: init()void' label='com.masshabit.squibble.Game: init()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.common.Environment: create(com.masshabit.common.EnvironmentArgs)void' label='com.masshabit.common.Environment: create(com.masshabit.common.EnvironmentArgs)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.common.InputEvent: setEvent(android.view.MotionEvent)void' label='com.masshabit.common.InputEvent: setEvent(android.view.MotionEvent)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.StringBuilder: append(boolean)java.lang.StringBuilder' label='java.lang.StringBuilder: append(boolean)java.lang.StringBuilder'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.os.Bundle: putInt(java.lang.String,java.lang.Integer)void' label='android.os.Bundle: putInt(java.lang.String,java.lang.Integer)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.common.Environment: isMuted()boolean' label='com.masshabit.common.Environment: isMuted()boolean'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.common.Environment: run()void' label='com.masshabit.common.Environment: run()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.common.Environment: showDialog(java.lang.Integer)void' label='com.masshabit.common.Environment: showDialog(java.lang.Integer)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.common.Environment: quit()void' label='com.masshabit.common.Environment: quit()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.common.Environment: init(com.masshabit.common.EnvironmentArgs)void' label='com.masshabit.common.Environment: init(com.masshabit.common.EnvironmentArgs)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.common.Environment: surfaceDestroyed()void' label='com.masshabit.common.Environment: surfaceDestroyed()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.squibble.ProfileManager: instance()com.masshabit.common.ProfileManagerBase' label='com.masshabit.squibble.ProfileManager: instance()com.masshabit.common.ProfileManagerBase'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.common.Clock: init()void' label='com.masshabit.common.Clock: init()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.view.SurfaceHolder: lockCanvas(android.graphics.Rect)android.graphics.Canvas' label='android.view.SurfaceHolder: lockCanvas(android.graphics.Rect)android.graphics.Canvas'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.squibble.ProfileManager: destroy()void' label='com.masshabit.squibble.ProfileManager: destroy()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.common.Environment: surfaceReady(android.view.SurfaceHolder,FF)void' label='com.masshabit.common.Environment: surfaceReady(android.view.SurfaceHolder,FF)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.common.Environment: draw(android.graphics.Canvas)void' label='com.masshabit.common.Environment: draw(android.graphics.Canvas)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.util.ArrayList: clear()void' label='java.util.ArrayList: clear()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.common.Environment: setMuted(boolean)void' label='com.masshabit.common.Environment: setMuted(boolean)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.Object: init()void' label='java.lang.Object: init()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.common.Environment: init()void' label='com.masshabit.common.Environment: init()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.graphics.Canvas: drawText([CIIFFLandroid.graphics.Paint)void' label='android.graphics.Canvas: drawText([CIIFFLandroid.graphics.Paint)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.String: format(java.lang.String,[Ljava.lang.Object)java.lang.String' label='java.lang.String: format(java.lang.String,[Ljava.lang.Object)java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.common.physics.Physics: update(F)void' label='com.masshabit.common.physics.Physics: update(F)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.Math: min(II)java.lang.Integer' label='java.lang.Math: min(II)java.lang.Integer'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.common.Environment: setArtificiallyPaused(boolean)void' label='com.masshabit.common.Environment: setArtificiallyPaused(boolean)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.util.concurrent.Semaphore: init(IZ)void' label='java.util.concurrent.Semaphore: init(IZ)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.common.Environment: purgeEvents()void' label='com.masshabit.common.Environment: purgeEvents()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.os.Handler: sendMessage(android.os.Message)boolean' label='android.os.Handler: sendMessage(android.os.Message)boolean'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.common.Clock: fps()F' label='com.masshabit.common.Clock: fps()F'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.squibble.Game: onInputEvent(com.masshabit.common.InputEvent)void' label='com.masshabit.squibble.Game: onInputEvent(com.masshabit.common.InputEvent)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.squibble.Game: saveState(android.os.Bundle)void' label='com.masshabit.squibble.Game: saveState(android.os.Bundle)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.common.ProfileManagerBase: setCurrentProfile(java.lang.Integer)void' label='com.masshabit.common.ProfileManagerBase: setCurrentProfile(java.lang.Integer)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.common.Environment: startThread()void' label='com.masshabit.common.Environment: startThread()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.common.InputEventPool: init(java.lang.Integer)void' label='com.masshabit.common.InputEventPool: init(java.lang.Integer)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.common.InputEvent: setEvent(android.view.KeyEvent)void' label='com.masshabit.common.InputEvent: setEvent(android.view.KeyEvent)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.common.Environment: getArtificiallyPaused()boolean' label='com.masshabit.common.Environment: getArtificiallyPaused()boolean'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.graphics.Canvas: setMatrix(android.graphics.Matrix)void' label='android.graphics.Canvas: setMatrix(android.graphics.Matrix)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.common.InputEventPool: getAvailable()java.lang.Integer' label='com.masshabit.common.InputEventPool: getAvailable()java.lang.Integer'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.util.Log: d(java.lang.String,java.lang.String)java.lang.Integer' label='android.util.Log: d(java.lang.String,java.lang.String)java.lang.Integer'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='com.masshabit.common.ProfileManagerBase: getCurrentProfile()java.lang.Integer' label='com.masshabit.common.ProfileManagerBase: getCurrentProfile()java.lang.Integer'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.common.Environment: enqueueKeyEvent(android.view.KeyEvent)void' label='com.masshabit.common.Environment: enqueueKeyEvent(android.view.KeyEvent)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.common.Environment: onPrepareDialog(ILandroid.app.Dialog)void' label='com.masshabit.common.Environment: onPrepareDialog(ILandroid.app.Dialog)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.common.Environment: enqueueTouchEvent(android.view.MotionEvent)void' label='com.masshabit.common.Environment: enqueueTouchEvent(android.view.MotionEvent)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.Thread: init(java.lang.Runnable,java.lang.String)void' label='java.lang.Thread: init(java.lang.Runnable,java.lang.String)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.common.Camera: init()void' label='com.masshabit.common.Camera: init()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.common.Environment: onCreateDialog(java.lang.Integer)android.app.Dialog' label='com.masshabit.common.Environment: onCreateDialog(java.lang.Integer)android.app.Dialog'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.graphics.Paint: setColor(java.lang.Integer)void' label='android.graphics.Paint: setColor(java.lang.Integer)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.Thread: join()void' label='java.lang.Thread: join()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.common.physics.Physics: init()void' label='com.masshabit.common.physics.Physics: init()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.StringBuilder: append(F)java.lang.StringBuilder' label='java.lang.StringBuilder: append(F)java.lang.StringBuilder'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.Boolean: valueOf(boolean)java.lang.Boolean' label='java.lang.Boolean: valueOf(boolean)java.lang.Boolean'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.Thread: sleep(J)void' label='java.lang.Thread: sleep(J)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.StringBuilder: init()void' label='java.lang.StringBuilder: init()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.graphics.PaintFlagsDrawFilter: init(II)void' label='android.graphics.PaintFlagsDrawFilter: init(II)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.common.Camera: restoreState(android.os.Bundle)void' label='com.masshabit.common.Camera: restoreState(android.os.Bundle)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.common.Camera: saveState(android.os.Bundle)void' label='com.masshabit.common.Camera: saveState(android.os.Bundle)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.InterruptedException: printStackTrace()void' label='java.lang.InterruptedException: printStackTrace()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.common.Environment: stopThread()void' label='com.masshabit.common.Environment: stopThread()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.graphics.Paint: setFilterBitmap(boolean)void' label='android.graphics.Paint: setFilterBitmap(boolean)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.squibble.ProfileManager: create(android.content.Context)com.masshabit.squibble.ProfileManager' label='com.masshabit.squibble.ProfileManager: create(android.content.Context)com.masshabit.squibble.ProfileManager'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.util.concurrent.Semaphore: acquireUninterruptibly()void' label='java.util.concurrent.Semaphore: acquireUninterruptibly()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.common.Environment: lockAndUpdateThreadCondition()void' label='com.masshabit.common.Environment: lockAndUpdateThreadCondition()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.common.Environment: setFocused(boolean)void' label='com.masshabit.common.Environment: setFocused(boolean)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.common.Environment: destroy()void' label='com.masshabit.common.Environment: destroy()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.common.InputEventPool: allocate()java.lang.Object' label='com.masshabit.common.InputEventPool: allocate()java.lang.Object'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.squibble.Game: draw(android.graphics.Canvas)void' label='com.masshabit.squibble.Game: draw(android.graphics.Canvas)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.Float: valueOf(F)java.lang.Float' label='java.lang.Float: valueOf(F)java.lang.Float'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.Exception: printStackTrace()void' label='java.lang.Exception: printStackTrace()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.view.SurfaceHolder: unlockCanvasAndPost(android.graphics.Canvas)void' label='android.view.SurfaceHolder: unlockCanvasAndPost(android.graphics.Canvas)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.common.InputEvent: release()void' label='com.masshabit.common.InputEvent: release()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.app.Activity: finish()void' label='android.app.Activity: finish()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.util.ArrayList: init(java.lang.Integer)void' label='java.util.ArrayList: init(java.lang.Integer)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.util.ArrayList: get(java.lang.Integer)java.lang.Object' label='java.util.ArrayList: get(java.lang.Integer)java.lang.Object'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.common.Environment$IMutedChangedListener: mutedChanged(boolean)void' label='com.masshabit.common.Environment$IMutedChangedListener: mutedChanged(boolean)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.graphics.Paint: init()void' label='android.graphics.Paint: init()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.common.Environment: dispatchEvents()void' label='com.masshabit.common.Environment: dispatchEvents()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.common.physics.Vector2: set(FF)void' label='com.masshabit.common.physics.Vector2: set(FF)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.graphics.Paint: setAntiAlias(boolean)void' label='android.graphics.Paint: setAntiAlias(boolean)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.os.Handler: obtainMessage(III)android.os.Message' label='android.os.Handler: obtainMessage(III)android.os.Message'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.common.Environment: setMutedChangedListener(com.masshabit.common.Environment$IMutedChangedListener)void' label='com.masshabit.common.Environment: setMutedChangedListener(com.masshabit.common.Environment$IMutedChangedListener)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.util.concurrent.Semaphore: release()void' label='java.util.concurrent.Semaphore: release()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='junit.framework.Assert: assertTrue(java.lang.String,boolean)void' label='junit.framework.Assert: assertTrue(java.lang.String,boolean)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.graphics.Canvas: getSaveCount()java.lang.Integer' label='android.graphics.Canvas: getSaveCount()java.lang.Integer'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.StringBuilder: toString()java.lang.String' label='java.lang.StringBuilder: toString()java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.os.Bundle: getInt(java.lang.String)java.lang.Integer' label='android.os.Bundle: getInt(java.lang.String)java.lang.Integer'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.graphics.Canvas: save()java.lang.Integer' label='android.graphics.Canvas: save()java.lang.Integer'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.common.Clock: start()void' label='com.masshabit.common.Clock: start()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.graphics.Paint: setStyle(android.graphics.Paint$Style)void' label='android.graphics.Paint: setStyle(android.graphics.Paint$Style)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.util.ArrayList: size()java.lang.Integer' label='java.util.ArrayList: size()java.lang.Integer'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.squibble.Game: update(F)void' label='com.masshabit.squibble.Game: update(F)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.graphics.Canvas: restore()void' label='android.graphics.Canvas: restore()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.common.Clock: msSinceDt()J' label='com.masshabit.common.Clock: msSinceDt()J'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.StringBuilder: append(java.lang.String)java.lang.StringBuilder' label='java.lang.StringBuilder: append(java.lang.String)java.lang.StringBuilder'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.squibble.Game: onPrepareDialog(ILandroid.app.Dialog)void' label='com.masshabit.squibble.Game: onPrepareDialog(ILandroid.app.Dialog)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.common.Clock: dt()F' label='com.masshabit.common.Clock: dt()F'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.common.Environment: saveState(android.os.Bundle)void' label='com.masshabit.common.Environment: saveState(android.os.Bundle)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.common.Environment: updateThreadCondition()void' label='com.masshabit.common.Environment: updateThreadCondition()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.common.Clock: stop()void' label='com.masshabit.common.Clock: stop()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.util.ArrayList: add(java.lang.Object)boolean' label='java.util.ArrayList: add(java.lang.Object)boolean'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.Thread: start()void' label='java.lang.Thread: start()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.util.Log: e(java.lang.String,java.lang.String)java.lang.Integer' label='android.util.Log: e(java.lang.String,java.lang.String)java.lang.Integer'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='com.masshabit.squibble.Game: onCreateDialog(java.lang.Integer)android.app.Dialog' label='com.masshabit.squibble.Game: onCreateDialog(java.lang.Integer)android.app.Dialog'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		</nodes>
+		<edges>
+			<edge id='0' source='com.masshabit.common.Environment: lockAndUpdateThreadCondition()void' target='android.util.Log: d(java.lang.String,java.lang.String)java.lang.Integer'/>
+			<edge id='1' source='com.masshabit.common.Environment: init(com.masshabit.common.EnvironmentArgs)void' target='com.masshabit.common.Camera: init()void'/>
+			<edge id='2' source='com.masshabit.common.Environment: run()void' target='java.util.concurrent.Semaphore: release()void'/>
+			<edge id='3' source='com.masshabit.common.Environment: surfaceReady(android.view.SurfaceHolder,FF)void' target='java.lang.StringBuilder: toString()java.lang.String'/>
+			<edge id='4' source='com.masshabit.common.Environment: draw(android.graphics.Canvas)void' target='android.graphics.Canvas: restore()void'/>
+			<edge id='5' source='com.masshabit.common.Environment: setMuted(boolean)void' target='java.lang.StringBuilder: toString()java.lang.String'/>
+			<edge id='6' source='com.masshabit.common.Environment: updateThreadCondition()void' target='java.lang.String: format(java.lang.String,[Ljava.lang.Object)java.lang.String'/>
+			<edge id='7' source='com.masshabit.common.Environment: init()void' target='com.masshabit.common.physics.Vector2: set(FF)void'/>
+			<edge id='8' source='com.masshabit.common.Environment: startThread()void' target='java.lang.Thread: init(java.lang.Runnable,java.lang.String)void'/>
+			<edge id='9' source='com.masshabit.common.Environment: surfaceDestroyed()void' target='android.util.Log: d(java.lang.String,java.lang.String)java.lang.Integer'/>
+			<edge id='10' source='com.masshabit.common.Environment: startThread()void' target='java.lang.Thread: start()void'/>
+			<edge id='11' source='com.masshabit.common.Environment: surfaceReady(android.view.SurfaceHolder,FF)void' target='com.masshabit.common.Environment: updateThreadCondition()void'/>
+			<edge id='12' source='com.masshabit.common.Environment: setFocused(boolean)void' target='com.masshabit.common.Environment: lockAndUpdateThreadCondition()void'/>
+			<edge id='13' source='com.masshabit.common.Environment: surfaceReady(android.view.SurfaceHolder,FF)void' target='java.lang.StringBuilder: append(F)java.lang.StringBuilder'/>
+			<edge id='14' source='com.masshabit.common.Environment: onPrepareDialog(ILandroid.app.Dialog)void' target='com.masshabit.squibble.Game: onPrepareDialog(ILandroid.app.Dialog)void'/>
+			<edge id='15' source='com.masshabit.common.Environment: init()void' target='android.os.Bundle: getInt(java.lang.String)java.lang.Integer'/>
+			<edge id='16' source='com.masshabit.common.Environment: stopThread()void' target='android.util.Log: d(java.lang.String,java.lang.String)java.lang.Integer'/>
+			<edge id='17' source='com.masshabit.common.Environment: draw(android.graphics.Canvas)void' target='android.graphics.Paint: setColor(java.lang.Integer)void'/>
+			<edge id='18' source='com.masshabit.common.Environment: enqueueTouchEvent(android.view.MotionEvent)void' target='com.masshabit.common.InputEventPool: getAvailable()java.lang.Integer'/>
+			<edge id='19' source='com.masshabit.common.Environment: surfaceReady(android.view.SurfaceHolder,FF)void' target='java.util.concurrent.Semaphore: release()void'/>
+			<edge id='20' source='com.masshabit.common.Environment: setMuted(boolean)void' target='java.lang.StringBuilder: append(boolean)java.lang.StringBuilder'/>
+			<edge id='21' source='com.masshabit.common.Environment: init(com.masshabit.common.EnvironmentArgs)void' target='android.graphics.Paint: setStyle(android.graphics.Paint$Style)void'/>
+			<edge id='22' source='com.masshabit.common.Environment: setFocused(boolean)void' target='java.lang.StringBuilder: append(java.lang.String)java.lang.StringBuilder'/>
+			<edge id='23' source='com.masshabit.common.Environment: setFocused(boolean)void' target='java.lang.StringBuilder: init()void'/>
+			<edge id='24' source='com.masshabit.common.Environment: init(com.masshabit.common.EnvironmentArgs)void' target='android.graphics.Paint: setFilterBitmap(boolean)void'/>
+			<edge id='25' source='com.masshabit.common.Environment: run()void' target='java.util.concurrent.Semaphore: acquireUninterruptibly()void'/>
+			<edge id='26' source='com.masshabit.common.Environment: surfaceReady(android.view.SurfaceHolder,FF)void' target='java.lang.String: format(java.lang.String,[Ljava.lang.Object)java.lang.String'/>
+			<edge id='27' source='com.masshabit.common.Environment: draw(android.graphics.Canvas)void' target='android.graphics.Canvas: drawText([CIIFFLandroid.graphics.Paint)void'/>
+			<edge id='28' source='com.masshabit.common.Environment: lockAndUpdateThreadCondition()void' target='java.util.concurrent.Semaphore: acquireUninterruptibly()void'/>
+			<edge id='29' source='com.masshabit.common.Environment: run()void' target='com.masshabit.common.Environment: init()void'/>
+			<edge id='30' source='com.masshabit.common.Environment: surfaceReady(android.view.SurfaceHolder,FF)void' target='java.lang.StringBuilder: init()void'/>
+			<edge id='31' source='com.masshabit.common.Environment: init()void' target='com.masshabit.squibble.Game: init()void'/>
+			<edge id='32' source='com.masshabit.common.Environment: saveState(android.os.Bundle)void' target='com.masshabit.common.Camera: saveState(android.os.Bundle)void'/>
+			<edge id='33' source='com.masshabit.common.Environment: surfaceDestroyed()void' target='java.util.concurrent.Semaphore: acquireUninterruptibly()void'/>
+			<edge id='34' source='com.masshabit.common.Environment: surfaceDestroyed()void' target='com.masshabit.common.Environment: updateThreadCondition()void'/>
+			<edge id='35' source='com.masshabit.common.Environment: enqueueKeyEvent(android.view.KeyEvent)void' target='com.masshabit.common.InputEventPool: allocate()java.lang.Object'/>
+			<edge id='36' source='com.masshabit.common.Environment: run()void' target='android.util.Log: d(java.lang.String,java.lang.String)java.lang.Integer'/>
+			<edge id='37' source='com.masshabit.common.Environment: purgeEvents()void' target='java.util.ArrayList: size()java.lang.Integer'/>
+			<edge id='38' source='com.masshabit.common.Environment: saveState(android.os.Bundle)void' target='com.masshabit.squibble.Game: saveState(android.os.Bundle)void'/>
+			<edge id='39' source='com.masshabit.common.Environment: init()void' target='com.masshabit.common.Camera: restoreState(android.os.Bundle)void'/>
+			<edge id='40' source='com.masshabit.common.Environment: destroy()void' target='com.masshabit.squibble.ProfileManager: destroy()void'/>
+			<edge id='41' source='com.masshabit.common.Environment: dispatchEvents()void' target='android.util.Log: e(java.lang.String,java.lang.String)java.lang.Integer'/>
+			<edge id='42' source='com.masshabit.common.Environment: init(com.masshabit.common.EnvironmentArgs)void' target='com.masshabit.common.Clock: init()void'/>
+			<edge id='43' source='com.masshabit.common.Environment: run()void' target='java.lang.Thread: sleep(J)void'/>
+			<edge id='44' source='com.masshabit.common.Environment: draw(android.graphics.Canvas)void' target='android.graphics.Canvas: setMatrix(android.graphics.Matrix)void'/>
+			<edge id='45' source='com.masshabit.common.Environment: enqueueKeyEvent(android.view.KeyEvent)void' target='java.util.ArrayList: add(java.lang.Object)boolean'/>
+			<edge id='46' source='com.masshabit.common.Environment: init(com.masshabit.common.EnvironmentArgs)void' target='java.util.ArrayList: init(java.lang.Integer)void'/>
+			<edge id='47' source='com.masshabit.common.Environment: dispatchEvents()void' target='java.lang.Exception: printStackTrace()void'/>
+			<edge id='48' source='com.masshabit.common.Environment: surfaceDestroyed()void' target='java.util.concurrent.Semaphore: release()void'/>
+			<edge id='49' source='com.masshabit.common.Environment: surfaceReady(android.view.SurfaceHolder,FF)void' target='java.util.concurrent.Semaphore: acquireUninterruptibly()void'/>
+			<edge id='50' source='com.masshabit.common.Environment: run()void' target='com.masshabit.common.Clock: stop()void'/>
+			<edge id='51' source='com.masshabit.common.Environment: run()void' target='com.masshabit.common.Environment: dispatchEvents()void'/>
+			<edge id='52' source='com.masshabit.common.Environment: init(com.masshabit.common.EnvironmentArgs)void' target='android.graphics.Paint: init()void'/>
+			<edge id='53' source='com.masshabit.common.Environment: run()void' target='java.lang.InterruptedException: printStackTrace()void'/>
+			<edge id='54' source='com.masshabit.common.Environment: onCreateDialog(java.lang.Integer)android.app.Dialog' target='com.masshabit.squibble.Game: onCreateDialog(java.lang.Integer)android.app.Dialog'/>
+			<edge id='55' source='com.masshabit.common.Environment: updateThreadCondition()void' target='java.lang.Boolean: valueOf(boolean)java.lang.Boolean'/>
+			<edge id='56' source='com.masshabit.common.Environment: draw(android.graphics.Canvas)void' target='android.graphics.Canvas: save()java.lang.Integer'/>
+			<edge id='57' source='com.masshabit.common.Environment: enqueueKeyEvent(android.view.KeyEvent)void' target='com.masshabit.common.InputEventPool: getAvailable()java.lang.Integer'/>
+			<edge id='58' source='com.masshabit.common.Environment: setMuted(boolean)void' target='java.lang.StringBuilder: append(java.lang.String)java.lang.StringBuilder'/>
+			<edge id='59' source='com.masshabit.common.Environment: run()void' target='com.masshabit.common.Clock: msSinceDt()J'/>
+			<edge id='60' source='com.masshabit.common.Environment: init(com.masshabit.common.EnvironmentArgs)void' target='android.graphics.Paint: setAntiAlias(boolean)void'/>
+			<edge id='61' source='com.masshabit.common.Environment: destroy()void' target='com.masshabit.common.Environment: stopThread()void'/>
+			<edge id='62' source='com.masshabit.common.Environment: surfaceReady(android.view.SurfaceHolder,FF)void' target='junit.framework.Assert: assertTrue(java.lang.String,boolean)void'/>
+			<edge id='63' source='com.masshabit.common.Environment: stopThread()void' target='java.lang.Thread: join()void'/>
+			<edge id='64' source='com.masshabit.common.Environment: surfaceReady(android.view.SurfaceHolder,FF)void' target='android.util.Log: d(java.lang.String,java.lang.String)java.lang.Integer'/>
+			<edge id='65' source='com.masshabit.common.Environment: create(com.masshabit.common.EnvironmentArgs)void' target='java.lang.String: format(java.lang.String,[Ljava.lang.Object)java.lang.String'/>
+			<edge id='66' source='com.masshabit.common.Environment: run()void' target='android.view.SurfaceHolder: unlockCanvasAndPost(android.graphics.Canvas)void'/>
+			<edge id='67' source='com.masshabit.common.Environment: init(com.masshabit.common.EnvironmentArgs)void' target='java.util.concurrent.Semaphore: init(IZ)void'/>
+			<edge id='68' source='com.masshabit.common.Environment: purgeEvents()void' target='java.util.ArrayList: clear()void'/>
+			<edge id='69' source='com.masshabit.common.Environment: init(com.masshabit.common.EnvironmentArgs)void' target='com.masshabit.common.Environment: startThread()void'/>
+			<edge id='70' source='com.masshabit.common.Environment: draw(android.graphics.Canvas)void' target='com.masshabit.squibble.Game: draw(android.graphics.Canvas)void'/>
+			<edge id='71' source='com.masshabit.common.Environment: startThread()void' target='android.util.Log: d(java.lang.String,java.lang.String)java.lang.Integer'/>
+			<edge id='72' source='com.masshabit.common.Environment: setFocused(boolean)void' target='java.lang.StringBuilder: append(boolean)java.lang.StringBuilder'/>
+			<edge id='73' source='com.masshabit.common.Environment: run()void' target='com.masshabit.common.Clock: dt()F'/>
+			<edge id='74' source='com.masshabit.common.Environment: setMuted(boolean)void' target='android.util.Log: d(java.lang.String,java.lang.String)java.lang.Integer'/>
+			<edge id='75' source='com.masshabit.common.Environment: init(com.masshabit.common.EnvironmentArgs)void' target='android.graphics.PaintFlagsDrawFilter: init(II)void'/>
+			<edge id='76' source='com.masshabit.common.Environment: updateThreadCondition()void' target='android.util.Log: d(java.lang.String,java.lang.String)java.lang.Integer'/>
+			<edge id='77' source='com.masshabit.common.Environment: init()void' target='com.masshabit.common.ProfileManagerBase: setCurrentProfile(java.lang.Integer)void'/>
+			<edge id='78' source='com.masshabit.common.Environment: run()void' target='com.masshabit.common.Environment: draw(android.graphics.Canvas)void'/>
+			<edge id='79' source='com.masshabit.common.Environment: dispatchEvents()void' target='java.util.ArrayList: get(java.lang.Integer)java.lang.Object'/>
+			<edge id='80' source='com.masshabit.common.Environment: setFocused(boolean)void' target='android.util.Log: d(java.lang.String,java.lang.String)java.lang.Integer'/>
+			<edge id='81' source='com.masshabit.common.Environment: showDialog(java.lang.Integer)void' target='android.os.Handler: obtainMessage(III)android.os.Message'/>
+			<edge id='82' source='com.masshabit.common.Environment: setMuted(boolean)void' target='com.masshabit.common.Environment$IMutedChangedListener: mutedChanged(boolean)void'/>
+			<edge id='83' source='com.masshabit.common.Environment: dispatchEvents()void' target='java.util.ArrayList: clear()void'/>
+			<edge id='84' source='com.masshabit.common.Environment: init(com.masshabit.common.EnvironmentArgs)void' target='java.lang.Object: init()void'/>
+			<edge id='85' source='com.masshabit.common.Environment: lockAndUpdateThreadCondition()void' target='com.masshabit.common.Environment: updateThreadCondition()void'/>
+			<edge id='86' source='com.masshabit.common.Environment: enqueueTouchEvent(android.view.MotionEvent)void' target='java.util.ArrayList: add(java.lang.Object)boolean'/>
+			<edge id='87' source='com.masshabit.common.Environment: enqueueKeyEvent(android.view.KeyEvent)void' target='com.masshabit.common.InputEvent: setEvent(android.view.KeyEvent)void'/>
+			<edge id='88' source='com.masshabit.common.Environment: init(com.masshabit.common.EnvironmentArgs)void' target='com.masshabit.common.physics.Physics: init()void'/>
+			<edge id='89' source='com.masshabit.common.Environment: dispatchEvents()void' target='com.masshabit.common.InputEvent: release()void'/>
+			<edge id='90' source='com.masshabit.common.Environment: run()void' target='com.masshabit.common.Clock: start()void'/>
+			<edge id='91' source='com.masshabit.common.Environment: saveState(android.os.Bundle)void' target='com.masshabit.common.ProfileManagerBase: getCurrentProfile()java.lang.Integer'/>
+			<edge id='92' source='com.masshabit.common.Environment: run()void' target='com.masshabit.squibble.Game: update(F)void'/>
+			<edge id='93' source='com.masshabit.common.Environment: purgeEvents()void' target='java.util.ArrayList: get(java.lang.Integer)java.lang.Object'/>
+			<edge id='94' source='com.masshabit.common.Environment: saveState(android.os.Bundle)void' target='android.os.Bundle: putInt(java.lang.String,java.lang.Integer)void'/>
+			<edge id='95' source='com.masshabit.common.Environment: init(com.masshabit.common.EnvironmentArgs)void' target='com.masshabit.common.Environment: lockAndUpdateThreadCondition()void'/>
+			<edge id='96' source='com.masshabit.common.Environment: create(com.masshabit.common.EnvironmentArgs)void' target='java.lang.Boolean: valueOf(boolean)java.lang.Boolean'/>
+			<edge id='97' source='com.masshabit.common.Environment: enqueueTouchEvent(android.view.MotionEvent)void' target='com.masshabit.common.InputEventPool: allocate()java.lang.Object'/>
+			<edge id='98' source='com.masshabit.common.Environment: init()void' target='com.masshabit.squibble.ProfileManager: create(android.content.Context)com.masshabit.squibble.ProfileManager'/>
+			<edge id='99' source='com.masshabit.common.Environment: create(com.masshabit.common.EnvironmentArgs)void' target='com.masshabit.common.Environment: init(com.masshabit.common.EnvironmentArgs)void'/>
+			<edge id='100' source='com.masshabit.common.Environment: setArtificiallyPaused(boolean)void' target='com.masshabit.common.Environment: lockAndUpdateThreadCondition()void'/>
+			<edge id='101' source='com.masshabit.common.Environment: init(com.masshabit.common.EnvironmentArgs)void' target='com.masshabit.common.InputEventPool: init(java.lang.Integer)void'/>
+			<edge id='102' source='com.masshabit.common.Environment: saveState(android.os.Bundle)void' target='com.masshabit.squibble.ProfileManager: instance()com.masshabit.common.ProfileManagerBase'/>
+			<edge id='103' source='com.masshabit.common.Environment: run()void' target='com.masshabit.common.Environment: purgeEvents()void'/>
+			<edge id='104' source='com.masshabit.common.Environment: setMuted(boolean)void' target='java.lang.StringBuilder: init()void'/>
+			<edge id='105' source='com.masshabit.common.Environment: run()void' target='com.masshabit.common.physics.Physics: update(F)void'/>
+			<edge id='106' source='com.masshabit.common.Environment: run()void' target='android.view.SurfaceHolder: lockCanvas(android.graphics.Rect)android.graphics.Canvas'/>
+			<edge id='107' source='com.masshabit.common.Environment: dispatchEvents()void' target='com.masshabit.squibble.Game: onInputEvent(com.masshabit.common.InputEvent)void'/>
+			<edge id='108' source='com.masshabit.common.Environment: quit()void' target='android.app.Activity: finish()void'/>
+			<edge id='109' source='com.masshabit.common.Environment: draw(android.graphics.Canvas)void' target='java.lang.Math: min(II)java.lang.Integer'/>
+			<edge id='110' source='com.masshabit.common.Environment: dispatchEvents()void' target='java.util.ArrayList: size()java.lang.Integer'/>
+			<edge id='111' source='com.masshabit.common.Environment: purgeEvents()void' target='com.masshabit.common.InputEvent: release()void'/>
+			<edge id='112' source='com.masshabit.common.Environment: draw(android.graphics.Canvas)void' target='android.graphics.Paint: setStyle(android.graphics.Paint$Style)void'/>
+			<edge id='113' source='com.masshabit.common.Environment: draw(android.graphics.Canvas)void' target='com.masshabit.common.Clock: fps()F'/>
+			<edge id='114' source='com.masshabit.common.Environment: init()void' target='com.masshabit.squibble.ProfileManager: instance()com.masshabit.common.ProfileManagerBase'/>
+			<edge id='115' source='com.masshabit.common.Environment: create(com.masshabit.common.EnvironmentArgs)void' target='android.util.Log: d(java.lang.String,java.lang.String)java.lang.Integer'/>
+			<edge id='116' source='com.masshabit.common.Environment: setFocused(boolean)void' target='java.lang.StringBuilder: toString()java.lang.String'/>
+			<edge id='117' source='com.masshabit.common.Environment: showDialog(java.lang.Integer)void' target='android.os.Handler: sendMessage(android.os.Message)boolean'/>
+			<edge id='118' source='com.masshabit.common.Environment: draw(android.graphics.Canvas)void' target='junit.framework.Assert: assertTrue(java.lang.String,boolean)void'/>
+			<edge id='119' source='com.masshabit.common.Environment: surfaceReady(android.view.SurfaceHolder,FF)void' target='java.lang.Float: valueOf(F)java.lang.Float'/>
+			<edge id='120' source='com.masshabit.common.Environment: init(com.masshabit.common.EnvironmentArgs)void' target='android.graphics.Paint: setColor(java.lang.Integer)void'/>
+			<edge id='121' source='com.masshabit.common.Environment: surfaceReady(android.view.SurfaceHolder,FF)void' target='java.lang.StringBuilder: append(java.lang.String)java.lang.StringBuilder'/>
+			<edge id='122' source='com.masshabit.common.Environment: lockAndUpdateThreadCondition()void' target='java.util.concurrent.Semaphore: release()void'/>
+			<edge id='123' source='com.masshabit.common.Environment: enqueueTouchEvent(android.view.MotionEvent)void' target='com.masshabit.common.InputEvent: setEvent(android.view.MotionEvent)void'/>
+			<edge id='124' source='com.masshabit.common.Environment: draw(android.graphics.Canvas)void' target='android.graphics.Canvas: getSaveCount()java.lang.Integer'/>
+			<edge id='125' source='com.masshabit.common.Environment: init()void' target='android.util.Log: d(java.lang.String,java.lang.String)java.lang.Integer'/>
+			<edge id='126' source='com.masshabit.common.Environment: init()void' target='com.masshabit.common.Environment: lockAndUpdateThreadCondition()void'/>
+		</edges>
+	</graph>
+</gexf>

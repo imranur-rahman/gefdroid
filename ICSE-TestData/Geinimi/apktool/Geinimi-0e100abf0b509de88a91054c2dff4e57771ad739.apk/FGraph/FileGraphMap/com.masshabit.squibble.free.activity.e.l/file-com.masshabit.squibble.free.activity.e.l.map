@@ -1,0 +1,2 @@
+15 ---> java.net.URL: openConnection()java.net.URLConnection
+36 ---> java.io.RandomAccessFile: write([BII)void

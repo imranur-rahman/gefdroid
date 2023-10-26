@@ -1,0 +1,174 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<gexf xmlns='qianniao918@qq.com' version='1.2' xmlns:viz='http://www.gexf.net/1.2draft/viz'> xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd'>
+	<meta lastmodifieddate='2014-9-21'>
+		<creator>FanMing</creator>
+		<description>An Android APK Method SCN!</description>
+	</meta>
+	<graph mode='static' defaultedgettype='directed'>
+		<nodes>
+		<node id='android.content.Intent: putExtra(java.lang.String,java.lang.String)android.content.Intent' label='android.content.Intent: putExtra(java.lang.String,java.lang.String)android.content.Intent'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.distribution.EulaOrNewVersion: startForwardActivity(android.app.Activity,java.lang.Class)void' label='com.openintents.distribution.EulaOrNewVersion: startForwardActivity(android.app.Activity,java.lang.Class)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.content.SharedPreferences$Editor: putInt(java.lang.String,java.lang.Integer)android.content.SharedPreferences$Editor' label='android.content.SharedPreferences$Editor: putInt(java.lang.String,java.lang.Integer)android.content.SharedPreferences$Editor'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.distribution.EulaOrNewVersion: showNewVersion(android.app.Activity)boolean' label='com.openintents.distribution.EulaOrNewVersion: showNewVersion(android.app.Activity)boolean'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.content.Intent: init(android.content.Context,java.lang.Class)void' label='android.content.Intent: init(android.content.Context,java.lang.Class)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.content.SharedPreferences$Editor: putBoolean(java.lang.String,boolean)android.content.SharedPreferences$Editor' label='android.content.SharedPreferences$Editor: putBoolean(java.lang.String,boolean)android.content.SharedPreferences$Editor'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.util.Log: d(java.lang.String,java.lang.String)java.lang.Integer' label='android.util.Log: d(java.lang.String,java.lang.String)java.lang.Integer'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='com.openintents.distribution.EulaOrNewVersion: showEula(android.app.Activity)boolean' label='com.openintents.distribution.EulaOrNewVersion: showEula(android.app.Activity)boolean'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.app.Activity: getIntent()android.content.Intent' label='android.app.Activity: getIntent()android.content.Intent'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.app.Activity: getComponentName()android.content.ComponentName' label='android.app.Activity: getComponentName()android.content.ComponentName'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.StringBuilder: toString()java.lang.String' label='java.lang.StringBuilder: toString()java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.preference.PreferenceManager: getDefaultSharedPreferences(android.content.Context)android.content.SharedPreferences' label='android.preference.PreferenceManager: getDefaultSharedPreferences(android.content.Context)android.content.SharedPreferences'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.distribution.EulaOrNewVersion: storeEulaAccepted(android.content.Context)void' label='com.openintents.distribution.EulaOrNewVersion: storeEulaAccepted(android.content.Context)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.content.ComponentName: getPackageName()java.lang.String' label='android.content.ComponentName: getPackageName()java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.app.Activity: startActivity(android.content.Intent)void' label='android.app.Activity: startActivity(android.content.Intent)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.content.ComponentName: getClassName()java.lang.String' label='android.content.ComponentName: getClassName()java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.content.SharedPreferences$Editor: commit()boolean' label='android.content.SharedPreferences$Editor: commit()boolean'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.StringBuilder: init(java.lang.String)void' label='java.lang.StringBuilder: init(java.lang.String)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.Object: init()void' label='java.lang.Object: init()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.StringBuilder: append(java.lang.String)java.lang.StringBuilder' label='java.lang.StringBuilder: append(java.lang.String)java.lang.StringBuilder'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.content.Intent: addFlags(java.lang.Integer)android.content.Intent' label='android.content.Intent: addFlags(java.lang.Integer)android.content.Intent'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.distribution.EulaOrNewVersion: init()void' label='com.openintents.distribution.EulaOrNewVersion: init()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.content.SharedPreferences: edit()android.content.SharedPreferences$Editor' label='android.content.SharedPreferences: edit()android.content.SharedPreferences$Editor'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.util.VersionUtils: getVersionCode(android.content.Context)java.lang.Integer' label='com.openintents.util.VersionUtils: getVersionCode(android.content.Context)java.lang.Integer'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.content.Intent: putExtra(java.lang.String,android.os.Parcelable)android.content.Intent' label='android.content.Intent: putExtra(java.lang.String,android.os.Parcelable)android.content.Intent'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.util.Log: i(java.lang.String,java.lang.String)java.lang.Integer' label='android.util.Log: i(java.lang.String,java.lang.String)java.lang.Integer'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='android.content.SharedPreferences: getInt(java.lang.String,java.lang.Integer)java.lang.Integer' label='android.content.SharedPreferences: getInt(java.lang.String,java.lang.Integer)java.lang.Integer'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.distribution.EulaOrNewVersion: storeCurrentVersionCode(android.content.Context)void' label='com.openintents.distribution.EulaOrNewVersion: storeCurrentVersionCode(android.content.Context)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.StringBuilder: append(java.lang.Integer)java.lang.StringBuilder' label='java.lang.StringBuilder: append(java.lang.Integer)java.lang.StringBuilder'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.content.SharedPreferences: getBoolean(java.lang.String,boolean)boolean' label='android.content.SharedPreferences: getBoolean(java.lang.String,boolean)boolean'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.app.Activity: finish()void' label='android.app.Activity: finish()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		</nodes>
+		<edges>
+			<edge id='0' source='com.openintents.distribution.EulaOrNewVersion: startForwardActivity(android.app.Activity,java.lang.Class)void' target='android.content.ComponentName: getPackageName()java.lang.String'/>
+			<edge id='1' source='com.openintents.distribution.EulaOrNewVersion: showNewVersion(android.app.Activity)boolean' target='android.util.Log: i(java.lang.String,java.lang.String)java.lang.Integer'/>
+			<edge id='2' source='com.openintents.distribution.EulaOrNewVersion: showNewVersion(android.app.Activity)boolean' target='com.openintents.util.VersionUtils: getVersionCode(android.content.Context)java.lang.Integer'/>
+			<edge id='3' source='com.openintents.distribution.EulaOrNewVersion: storeCurrentVersionCode(android.content.Context)void' target='android.content.SharedPreferences: edit()android.content.SharedPreferences$Editor'/>
+			<edge id='4' source='com.openintents.distribution.EulaOrNewVersion: startForwardActivity(android.app.Activity,java.lang.Class)void' target='java.lang.StringBuilder: append(java.lang.String)java.lang.StringBuilder'/>
+			<edge id='5' source='com.openintents.distribution.EulaOrNewVersion: startForwardActivity(android.app.Activity,java.lang.Class)void' target='android.app.Activity: getIntent()android.content.Intent'/>
+			<edge id='6' source='com.openintents.distribution.EulaOrNewVersion: showNewVersion(android.app.Activity)boolean' target='java.lang.StringBuilder: toString()java.lang.String'/>
+			<edge id='7' source='com.openintents.distribution.EulaOrNewVersion: startForwardActivity(android.app.Activity,java.lang.Class)void' target='android.app.Activity: startActivity(android.content.Intent)void'/>
+			<edge id='8' source='com.openintents.distribution.EulaOrNewVersion: storeEulaAccepted(android.content.Context)void' target='android.content.SharedPreferences$Editor: putBoolean(java.lang.String,boolean)android.content.SharedPreferences$Editor'/>
+			<edge id='9' source='com.openintents.distribution.EulaOrNewVersion: showEula(android.app.Activity)boolean' target='android.preference.PreferenceManager: getDefaultSharedPreferences(android.content.Context)android.content.SharedPreferences'/>
+			<edge id='10' source='com.openintents.distribution.EulaOrNewVersion: showNewVersion(android.app.Activity)boolean' target='com.openintents.distribution.EulaOrNewVersion: startForwardActivity(android.app.Activity,java.lang.Class)void'/>
+			<edge id='11' source='com.openintents.distribution.EulaOrNewVersion: startForwardActivity(android.app.Activity,java.lang.Class)void' target='android.app.Activity: finish()void'/>
+			<edge id='12' source='com.openintents.distribution.EulaOrNewVersion: startForwardActivity(android.app.Activity,java.lang.Class)void' target='java.lang.StringBuilder: init(java.lang.String)void'/>
+			<edge id='13' source='com.openintents.distribution.EulaOrNewVersion: storeCurrentVersionCode(android.content.Context)void' target='android.content.SharedPreferences$Editor: putInt(java.lang.String,java.lang.Integer)android.content.SharedPreferences$Editor'/>
+			<edge id='14' source='com.openintents.distribution.EulaOrNewVersion: showEula(android.app.Activity)boolean' target='com.openintents.distribution.EulaOrNewVersion: startForwardActivity(android.app.Activity,java.lang.Class)void'/>
+			<edge id='15' source='com.openintents.distribution.EulaOrNewVersion: startForwardActivity(android.app.Activity,java.lang.Class)void' target='java.lang.StringBuilder: toString()java.lang.String'/>
+			<edge id='16' source='com.openintents.distribution.EulaOrNewVersion: startForwardActivity(android.app.Activity,java.lang.Class)void' target='android.app.Activity: getComponentName()android.content.ComponentName'/>
+			<edge id='17' source='com.openintents.distribution.EulaOrNewVersion: startForwardActivity(android.app.Activity,java.lang.Class)void' target='android.content.Intent: addFlags(java.lang.Integer)android.content.Intent'/>
+			<edge id='18' source='com.openintents.distribution.EulaOrNewVersion: storeCurrentVersionCode(android.content.Context)void' target='com.openintents.util.VersionUtils: getVersionCode(android.content.Context)java.lang.Integer'/>
+			<edge id='19' source='com.openintents.distribution.EulaOrNewVersion: startForwardActivity(android.app.Activity,java.lang.Class)void' target='android.content.ComponentName: getClassName()java.lang.String'/>
+			<edge id='20' source='com.openintents.distribution.EulaOrNewVersion: showNewVersion(android.app.Activity)boolean' target='java.lang.StringBuilder: init(java.lang.String)void'/>
+			<edge id='21' source='com.openintents.distribution.EulaOrNewVersion: showNewVersion(android.app.Activity)boolean' target='android.content.SharedPreferences: getInt(java.lang.String,java.lang.Integer)java.lang.Integer'/>
+			<edge id='22' source='com.openintents.distribution.EulaOrNewVersion: showNewVersion(android.app.Activity)boolean' target='android.preference.PreferenceManager: getDefaultSharedPreferences(android.content.Context)android.content.SharedPreferences'/>
+			<edge id='23' source='com.openintents.distribution.EulaOrNewVersion: showNewVersion(android.app.Activity)boolean' target='java.lang.StringBuilder: append(java.lang.String)java.lang.StringBuilder'/>
+			<edge id='24' source='com.openintents.distribution.EulaOrNewVersion: showEula(android.app.Activity)boolean' target='android.content.SharedPreferences: getBoolean(java.lang.String,boolean)boolean'/>
+			<edge id='25' source='com.openintents.distribution.EulaOrNewVersion: storeCurrentVersionCode(android.content.Context)void' target='android.preference.PreferenceManager: getDefaultSharedPreferences(android.content.Context)android.content.SharedPreferences'/>
+			<edge id='26' source='com.openintents.distribution.EulaOrNewVersion: storeCurrentVersionCode(android.content.Context)void' target='android.content.SharedPreferences$Editor: commit()boolean'/>
+			<edge id='27' source='com.openintents.distribution.EulaOrNewVersion: startForwardActivity(android.app.Activity,java.lang.Class)void' target='android.content.Intent: putExtra(java.lang.String,java.lang.String)android.content.Intent'/>
+			<edge id='28' source='com.openintents.distribution.EulaOrNewVersion: init()void' target='java.lang.Object: init()void'/>
+			<edge id='29' source='com.openintents.distribution.EulaOrNewVersion: storeEulaAccepted(android.content.Context)void' target='android.preference.PreferenceManager: getDefaultSharedPreferences(android.content.Context)android.content.SharedPreferences'/>
+			<edge id='30' source='com.openintents.distribution.EulaOrNewVersion: storeEulaAccepted(android.content.Context)void' target='android.content.SharedPreferences: edit()android.content.SharedPreferences$Editor'/>
+			<edge id='31' source='com.openintents.distribution.EulaOrNewVersion: storeEulaAccepted(android.content.Context)void' target='android.content.SharedPreferences$Editor: commit()boolean'/>
+			<edge id='32' source='com.openintents.distribution.EulaOrNewVersion: startForwardActivity(android.app.Activity,java.lang.Class)void' target='android.content.Intent: init(android.content.Context,java.lang.Class)void'/>
+			<edge id='33' source='com.openintents.distribution.EulaOrNewVersion: showEula(android.app.Activity)boolean' target='android.util.Log: i(java.lang.String,java.lang.String)java.lang.Integer'/>
+			<edge id='34' source='com.openintents.distribution.EulaOrNewVersion: showNewVersion(android.app.Activity)boolean' target='java.lang.StringBuilder: append(java.lang.Integer)java.lang.StringBuilder'/>
+			<edge id='35' source='com.openintents.distribution.EulaOrNewVersion: startForwardActivity(android.app.Activity,java.lang.Class)void' target='android.util.Log: d(java.lang.String,java.lang.String)java.lang.Integer'/>
+			<edge id='36' source='com.openintents.distribution.EulaOrNewVersion: startForwardActivity(android.app.Activity,java.lang.Class)void' target='android.content.Intent: putExtra(java.lang.String,android.os.Parcelable)android.content.Intent'/>
+		</edges>
+	</graph>
+</gexf>

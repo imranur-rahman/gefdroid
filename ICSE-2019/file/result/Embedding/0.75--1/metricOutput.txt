@@ -1,0 +1,7 @@
+IM----
+   normalized_mutual_info_score: 1.0
+   adjusted_rand_score: 1.0
+   fowlkes_mallows_score: 1.0
+   homogeneity_score: 1.0
+   completeness_score: 1.0
+   v_measure: 1.0

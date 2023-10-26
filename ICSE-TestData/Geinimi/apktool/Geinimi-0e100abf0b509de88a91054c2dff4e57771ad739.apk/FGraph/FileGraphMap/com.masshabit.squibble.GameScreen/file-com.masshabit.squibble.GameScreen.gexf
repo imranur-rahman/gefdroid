@@ -1,0 +1,383 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<gexf xmlns='qianniao918@qq.com' version='1.2' xmlns:viz='http://www.gexf.net/1.2draft/viz'> xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd'>
+	<meta lastmodifieddate='2014-9-21'>
+		<creator>FanMing</creator>
+		<description>An Android APK Method SCN!</description>
+	</meta>
+	<graph mode='static' defaultedgettype='directed'>
+		<nodes>
+		<node id='java.util.HashMap: containsKey(java.lang.Object)boolean' label='java.util.HashMap: containsKey(java.lang.Object)boolean'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.common.Layer: restoreState(android.os.Bundle)void' label='com.masshabit.common.Layer: restoreState(android.os.Bundle)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.common.Camera: update(F)void' label='com.masshabit.common.Camera: update(F)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.app.AlertDialog$Builder: setPositiveButton(ILandroid.content.DialogInterface$OnClickListener)android.app.AlertDialog$Builder' label='android.app.AlertDialog$Builder: setPositiveButton(ILandroid.content.DialogInterface$OnClickListener)android.app.AlertDialog$Builder'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.app.AlertDialog$Builder: create()android.app.AlertDialog' label='android.app.AlertDialog$Builder: create()android.app.AlertDialog'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.app.AlertDialog$Builder: setMessage(java.lang.Integer)android.app.AlertDialog$Builder' label='android.app.AlertDialog$Builder: setMessage(java.lang.Integer)android.app.AlertDialog$Builder'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.common.Environment: showDialog(java.lang.Integer)void' label='com.masshabit.common.Environment: showDialog(java.lang.Integer)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.app.AlertDialog$Builder: init(android.content.Context)void' label='android.app.AlertDialog$Builder: init(android.content.Context)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.squibble.GameScreen$1: init(com.masshabit.squibble.GameScreen,com.masshabit.common.Environment)void' label='com.masshabit.squibble.GameScreen$1: init(com.masshabit.squibble.GameScreen,com.masshabit.common.Environment)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.squibble.GameScreen: saveState(android.os.Bundle)void' label='com.masshabit.squibble.GameScreen: saveState(android.os.Bundle)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.squibble.ProfileManager: instance()com.masshabit.common.ProfileManagerBase' label='com.masshabit.squibble.ProfileManager: instance()com.masshabit.common.ProfileManagerBase'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.common.ProfileManagerBase: saveProfile()void' label='com.masshabit.common.ProfileManagerBase: saveProfile()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.common.LevelLoader: init(com.masshabit.common.Level,com.masshabit.common.entity.IEntityFactory)void' label='com.masshabit.common.LevelLoader: init(com.masshabit.common.Level,com.masshabit.common.entity.IEntityFactory)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.graphics.Paint: setTextSize(F)void' label='android.graphics.Paint: setTextSize(F)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.common.Layer: saveState(android.os.Bundle)void' label='com.masshabit.common.Layer: saveState(android.os.Bundle)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.flurry.android.FlurryAgent: onEvent(java.lang.String,java.util.Map)void' label='com.flurry.android.FlurryAgent: onEvent(java.lang.String,java.util.Map)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.common.Layer: draw(android.graphics.Canvas)void' label='com.masshabit.common.Layer: draw(android.graphics.Canvas)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.String: equals(java.lang.Object)boolean' label='java.lang.String: equals(java.lang.Object)boolean'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.squibble.GameScreen: onInputEvent(com.masshabit.common.InputEvent)void' label='com.masshabit.squibble.GameScreen: onInputEvent(com.masshabit.common.InputEvent)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.graphics.Canvas: translate(FF)void' label='android.graphics.Canvas: translate(FF)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.graphics.Canvas: drawText([CIIFFLandroid.graphics.Paint)void' label='android.graphics.Canvas: drawText([CIIFFLandroid.graphics.Paint)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.graphics.Canvas: drawBitmap(android.graphics.Bitmap,FFLandroid.graphics.Paint)void' label='android.graphics.Canvas: drawBitmap(android.graphics.Bitmap,FFLandroid.graphics.Paint)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.app.AlertDialog$Builder: setNegativeButton(ILandroid.content.DialogInterface$OnClickListener)android.app.AlertDialog$Builder' label='android.app.AlertDialog$Builder: setNegativeButton(ILandroid.content.DialogInterface$OnClickListener)android.app.AlertDialog$Builder'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.squibble.GameScreen: update(F)void' label='com.masshabit.squibble.GameScreen: update(F)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.common.Level: registerGeometry()void' label='com.masshabit.common.Level: registerGeometry()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.util.HashMap: get(java.lang.Object)java.lang.Object' label='java.util.HashMap: get(java.lang.Object)java.lang.Object'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.squibble.GameScreen: playerWon()void' label='com.masshabit.squibble.GameScreen: playerWon()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.common.Camera: setTarget(com.masshabit.common.physics.Vector2)void' label='com.masshabit.common.Camera: setTarget(com.masshabit.common.physics.Vector2)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.StringBuilder: append(java.lang.Integer)java.lang.StringBuilder' label='java.lang.StringBuilder: append(java.lang.Integer)java.lang.StringBuilder'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.graphics.Paint: setTypeface(android.graphics.Typeface)android.graphics.Typeface' label='android.graphics.Paint: setTypeface(android.graphics.Typeface)android.graphics.Typeface'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.graphics.Bitmap: getWidth()java.lang.Integer' label='android.graphics.Bitmap: getWidth()java.lang.Integer'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.squibble.Screen: destroy()void' label='com.masshabit.squibble.Screen: destroy()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.squibble.GameScreen: init()void' label='com.masshabit.squibble.GameScreen: init()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.graphics.Paint: setShadowLayer(FFFI)void' label='android.graphics.Paint: setShadowLayer(FFFI)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.squibble.Game: changeScreen(java.lang.Integer)void' label='com.masshabit.squibble.Game: changeScreen(java.lang.Integer)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.squibble.Player: onInputEvent(FFLcom.masshabit.common.InputEvent)boolean' label='com.masshabit.squibble.Player: onInputEvent(FFLcom.masshabit.common.InputEvent)boolean'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.common.Level: destroy()void' label='com.masshabit.common.Level: destroy()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.graphics.Paint: init()void' label='android.graphics.Paint: init()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.graphics.Canvas: setMatrix(android.graphics.Matrix)void' label='android.graphics.Canvas: setMatrix(android.graphics.Matrix)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.graphics.Paint: setAntiAlias(boolean)void' label='android.graphics.Paint: setAntiAlias(boolean)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.squibble.GameScreen: destroy()void' label='com.masshabit.squibble.GameScreen: destroy()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.squibble.Game: changeScreen(IF)void' label='com.masshabit.squibble.Game: changeScreen(IF)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.util.Log: d(java.lang.String,java.lang.String)java.lang.Integer' label='android.util.Log: d(java.lang.String,java.lang.String)java.lang.Integer'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='java.util.Map: put(java.lang.Object,java.lang.Object)java.lang.Object' label='java.util.Map: put(java.lang.Object,java.lang.Object)java.lang.Object'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.util.HashMap: init()void' label='java.util.HashMap: init()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.common.Camera: calculateMatrices()void' label='com.masshabit.common.Camera: calculateMatrices()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.graphics.Paint: setTextAlign(android.graphics.Paint$Align)void' label='android.graphics.Paint: setTextAlign(android.graphics.Paint$Align)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.common.Layer: update(F)void' label='com.masshabit.common.Layer: update(F)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='junit.framework.Assert: assertTrue(java.lang.String,boolean)void' label='junit.framework.Assert: assertTrue(java.lang.String,boolean)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.StringBuilder: toString()java.lang.String' label='java.lang.StringBuilder: toString()java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.common.Camera: move(com.masshabit.common.physics.Vector2)void' label='com.masshabit.common.Camera: move(com.masshabit.common.physics.Vector2)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.squibble.EntityFactory: init()void' label='com.masshabit.squibble.EntityFactory: init()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.graphics.Canvas: save()java.lang.Integer' label='android.graphics.Canvas: save()java.lang.Integer'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.graphics.Paint: setColor(java.lang.Integer)void' label='android.graphics.Paint: setColor(java.lang.Integer)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.squibble.Profile: setLevelComplete(java.lang.String,F)void' label='com.masshabit.squibble.Profile: setLevelComplete(java.lang.String,F)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.squibble.GameScreen: onCreateDialog(java.lang.Integer)android.app.Dialog' label='com.masshabit.squibble.GameScreen: onCreateDialog(java.lang.Integer)android.app.Dialog'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.graphics.Canvas: restore()void' label='android.graphics.Canvas: restore()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.StringBuilder: append(java.lang.String)java.lang.StringBuilder' label='java.lang.StringBuilder: append(java.lang.String)java.lang.StringBuilder'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.common.LevelLoader: load(java.lang.String)void' label='com.masshabit.common.LevelLoader: load(java.lang.String)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.squibble.GameScreen: draw(android.graphics.Canvas)void' label='com.masshabit.squibble.GameScreen: draw(android.graphics.Canvas)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.common.Level: init(java.lang.String)void' label='com.masshabit.common.Level: init(java.lang.String)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.squibble.GameScreen: loadSound(ILjava.lang.String)void' label='com.masshabit.squibble.GameScreen: loadSound(ILjava.lang.String)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.StringBuilder: append(F)java.lang.StringBuilder' label='java.lang.StringBuilder: append(F)java.lang.StringBuilder'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.common.resource.BitmapResourceMap: get(java.lang.Integer)java.lang.Object' label='com.masshabit.common.resource.BitmapResourceMap: get(java.lang.Integer)java.lang.Object'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.util.Log: e(java.lang.String,java.lang.String)java.lang.Integer' label='android.util.Log: e(java.lang.String,java.lang.String)java.lang.Integer'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='android.graphics.Matrix: mapPoints([F)void' label='android.graphics.Matrix: mapPoints([F)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.graphics.Paint: getTextSize()F' label='android.graphics.Paint: getTextSize()F'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.squibble.Screen: init()void' label='com.masshabit.squibble.Screen: init()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.StringBuilder: init()void' label='java.lang.StringBuilder: init()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.squibble.GameScreen: playerDead()void' label='com.masshabit.squibble.GameScreen: playerDead()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.common.Level: init()void' label='com.masshabit.common.Level: init()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.common.ProfileManagerBase: getProfile()com.masshabit.common.ProfileManagerBase$PlayerProfile' label='com.masshabit.common.ProfileManagerBase: getProfile()com.masshabit.common.ProfileManagerBase$PlayerProfile'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.common.resource.BitmapResourceMap: load(java.lang.String)java.lang.Integer' label='com.masshabit.common.resource.BitmapResourceMap: load(java.lang.String)java.lang.Integer'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		</nodes>
+		<edges>
+			<edge id='0' source='com.masshabit.squibble.GameScreen: playerWon()void' target='com.masshabit.squibble.ProfileManager: instance()com.masshabit.common.ProfileManagerBase'/>
+			<edge id='1' source='com.masshabit.squibble.GameScreen: onCreateDialog(java.lang.Integer)android.app.Dialog' target='android.app.AlertDialog$Builder: create()android.app.AlertDialog'/>
+			<edge id='2' source='com.masshabit.squibble.GameScreen: init()void' target='android.util.Log: e(java.lang.String,java.lang.String)java.lang.Integer'/>
+			<edge id='3' source='com.masshabit.squibble.GameScreen: onCreateDialog(java.lang.Integer)android.app.Dialog' target='android.app.AlertDialog$Builder: setPositiveButton(ILandroid.content.DialogInterface$OnClickListener)android.app.AlertDialog$Builder'/>
+			<edge id='4' source='com.masshabit.squibble.GameScreen: draw(android.graphics.Canvas)void' target='android.graphics.Bitmap: getWidth()java.lang.Integer'/>
+			<edge id='5' source='com.masshabit.squibble.GameScreen: draw(android.graphics.Canvas)void' target='android.graphics.Canvas: translate(FF)void'/>
+			<edge id='6' source='com.masshabit.squibble.GameScreen: init()void' target='java.lang.StringBuilder: append(java.lang.String)java.lang.StringBuilder'/>
+			<edge id='7' source='com.masshabit.squibble.GameScreen: onCreateDialog(java.lang.Integer)android.app.Dialog' target='android.app.AlertDialog$Builder: setMessage(java.lang.Integer)android.app.AlertDialog$Builder'/>
+			<edge id='8' source='com.masshabit.squibble.GameScreen: playerDead()void' target='com.masshabit.squibble.Game: changeScreen(IF)void'/>
+			<edge id='9' source='com.masshabit.squibble.GameScreen: draw(android.graphics.Canvas)void' target='android.graphics.Canvas: restore()void'/>
+			<edge id='10' source='com.masshabit.squibble.GameScreen: playerWon()void' target='java.lang.StringBuilder: append(java.lang.Integer)java.lang.StringBuilder'/>
+			<edge id='11' source='com.masshabit.squibble.GameScreen: playerWon()void' target='java.lang.StringBuilder: init()void'/>
+			<edge id='12' source='com.masshabit.squibble.GameScreen: playerDead()void' target='com.flurry.android.FlurryAgent: onEvent(java.lang.String,java.util.Map)void'/>
+			<edge id='13' source='com.masshabit.squibble.GameScreen: init()void' target='com.masshabit.common.LevelLoader: load(java.lang.String)void'/>
+			<edge id='14' source='com.masshabit.squibble.GameScreen: init()void' target='com.masshabit.common.Level: registerGeometry()void'/>
+			<edge id='15' source='com.masshabit.squibble.GameScreen: playerWon()void' target='java.lang.StringBuilder: append(F)java.lang.StringBuilder'/>
+			<edge id='16' source='com.masshabit.squibble.GameScreen: draw(android.graphics.Canvas)void' target='android.graphics.Canvas: drawBitmap(android.graphics.Bitmap,FFLandroid.graphics.Paint)void'/>
+			<edge id='17' source='com.masshabit.squibble.GameScreen: init()void' target='android.graphics.Paint: setTextAlign(android.graphics.Paint$Align)void'/>
+			<edge id='18' source='com.masshabit.squibble.GameScreen: init()void' target='com.masshabit.common.Level: init()void'/>
+			<edge id='19' source='com.masshabit.squibble.GameScreen: playerWon()void' target='java.util.Map: put(java.lang.Object,java.lang.Object)java.lang.Object'/>
+			<edge id='20' source='com.masshabit.squibble.GameScreen: init()void' target='com.masshabit.common.resource.BitmapResourceMap: load(java.lang.String)java.lang.Integer'/>
+			<edge id='21' source='com.masshabit.squibble.GameScreen: playerWon()void' target='java.lang.String: equals(java.lang.Object)boolean'/>
+			<edge id='22' source='com.masshabit.squibble.GameScreen: playerWon()void' target='java.util.HashMap: containsKey(java.lang.Object)boolean'/>
+			<edge id='23' source='com.masshabit.squibble.GameScreen: init()void' target='android.graphics.Paint: setAntiAlias(boolean)void'/>
+			<edge id='24' source='com.masshabit.squibble.GameScreen: init()void' target='android.graphics.Paint: init()void'/>
+			<edge id='25' source='com.masshabit.squibble.GameScreen: init()void' target='com.masshabit.common.Camera: move(com.masshabit.common.physics.Vector2)void'/>
+			<edge id='26' source='com.masshabit.squibble.GameScreen: init()void' target='com.masshabit.squibble.GameScreen: loadSound(ILjava.lang.String)void'/>
+			<edge id='27' source='com.masshabit.squibble.GameScreen: playerWon()void' target='com.masshabit.common.ProfileManagerBase: getProfile()com.masshabit.common.ProfileManagerBase$PlayerProfile'/>
+			<edge id='28' source='com.masshabit.squibble.GameScreen: draw(android.graphics.Canvas)void' target='android.graphics.Canvas: save()java.lang.Integer'/>
+			<edge id='29' source='com.masshabit.squibble.GameScreen: playerWon()void' target='java.lang.StringBuilder: toString()java.lang.String'/>
+			<edge id='30' source='com.masshabit.squibble.GameScreen: playerDead()void' target='java.lang.StringBuilder: append(java.lang.String)java.lang.StringBuilder'/>
+			<edge id='31' source='com.masshabit.squibble.GameScreen: onInputEvent(com.masshabit.common.InputEvent)void' target='android.graphics.Matrix: mapPoints([F)void'/>
+			<edge id='32' source='com.masshabit.squibble.GameScreen: init()void' target='com.masshabit.common.Camera: calculateMatrices()void'/>
+			<edge id='33' source='com.masshabit.squibble.GameScreen: destroy()void' target='com.masshabit.common.Level: destroy()void'/>
+			<edge id='34' source='com.masshabit.squibble.GameScreen: playerWon()void' target='java.util.HashMap: init()void'/>
+			<edge id='35' source='com.masshabit.squibble.GameScreen: init()void' target='android.graphics.Paint: setShadowLayer(FFFI)void'/>
+			<edge id='36' source='com.masshabit.squibble.GameScreen: onInputEvent(com.masshabit.common.InputEvent)void' target='com.masshabit.common.Environment: showDialog(java.lang.Integer)void'/>
+			<edge id='37' source='com.masshabit.squibble.GameScreen: init()void' target='java.util.HashMap: get(java.lang.Object)java.lang.Object'/>
+			<edge id='38' source='com.masshabit.squibble.GameScreen: playerWon()void' target='com.masshabit.squibble.Profile: setLevelComplete(java.lang.String,F)void'/>
+			<edge id='39' source='com.masshabit.squibble.GameScreen: playerDead()void' target='java.lang.StringBuilder: init()void'/>
+			<edge id='40' source='com.masshabit.squibble.GameScreen: onInputEvent(com.masshabit.common.InputEvent)void' target='com.masshabit.squibble.Player: onInputEvent(FFLcom.masshabit.common.InputEvent)boolean'/>
+			<edge id='41' source='com.masshabit.squibble.GameScreen: onCreateDialog(java.lang.Integer)android.app.Dialog' target='com.masshabit.squibble.GameScreen$1: init(com.masshabit.squibble.GameScreen,com.masshabit.common.Environment)void'/>
+			<edge id='42' source='com.masshabit.squibble.GameScreen: destroy()void' target='com.masshabit.squibble.Screen: destroy()void'/>
+			<edge id='43' source='com.masshabit.squibble.GameScreen: playerDead()void' target='java.util.HashMap: init()void'/>
+			<edge id='44' source='com.masshabit.squibble.GameScreen: init()void' target='java.lang.StringBuilder: init()void'/>
+			<edge id='45' source='com.masshabit.squibble.GameScreen: draw(android.graphics.Canvas)void' target='android.graphics.Canvas: drawText([CIIFFLandroid.graphics.Paint)void'/>
+			<edge id='46' source='com.masshabit.squibble.GameScreen: init()void' target='com.masshabit.common.Layer: restoreState(android.os.Bundle)void'/>
+			<edge id='47' source='com.masshabit.squibble.GameScreen: draw(android.graphics.Canvas)void' target='com.masshabit.common.Layer: draw(android.graphics.Canvas)void'/>
+			<edge id='48' source='com.masshabit.squibble.GameScreen: update(F)void' target='com.masshabit.common.Layer: update(F)void'/>
+			<edge id='49' source='com.masshabit.squibble.GameScreen: init()void' target='com.masshabit.common.LevelLoader: init(com.masshabit.common.Level,com.masshabit.common.entity.IEntityFactory)void'/>
+			<edge id='50' source='com.masshabit.squibble.GameScreen: update(F)void' target='com.masshabit.common.Camera: update(F)void'/>
+			<edge id='51' source='com.masshabit.squibble.GameScreen: init()void' target='java.lang.StringBuilder: toString()java.lang.String'/>
+			<edge id='52' source='com.masshabit.squibble.GameScreen: init()void' target='com.masshabit.squibble.EntityFactory: init()void'/>
+			<edge id='53' source='com.masshabit.squibble.GameScreen: playerDead()void' target='java.lang.StringBuilder: append(java.lang.Integer)java.lang.StringBuilder'/>
+			<edge id='54' source='com.masshabit.squibble.GameScreen: init()void' target='android.graphics.Paint: setTypeface(android.graphics.Typeface)android.graphics.Typeface'/>
+			<edge id='55' source='com.masshabit.squibble.GameScreen: playerDead()void' target='java.lang.StringBuilder: toString()java.lang.String'/>
+			<edge id='56' source='com.masshabit.squibble.GameScreen: init()void' target='com.masshabit.common.Level: init(java.lang.String)void'/>
+			<edge id='57' source='com.masshabit.squibble.GameScreen: onCreateDialog(java.lang.Integer)android.app.Dialog' target='android.util.Log: d(java.lang.String,java.lang.String)java.lang.Integer'/>
+			<edge id='58' source='com.masshabit.squibble.GameScreen: onCreateDialog(java.lang.Integer)android.app.Dialog' target='android.app.AlertDialog$Builder: init(android.content.Context)void'/>
+			<edge id='59' source='com.masshabit.squibble.GameScreen: init()void' target='android.util.Log: d(java.lang.String,java.lang.String)java.lang.Integer'/>
+			<edge id='60' source='com.masshabit.squibble.GameScreen: playerDead()void' target='java.lang.StringBuilder: append(F)java.lang.StringBuilder'/>
+			<edge id='61' source='com.masshabit.squibble.GameScreen: playerWon()void' target='com.masshabit.squibble.Game: changeScreen(java.lang.Integer)void'/>
+			<edge id='62' source='com.masshabit.squibble.GameScreen: onCreateDialog(java.lang.Integer)android.app.Dialog' target='android.app.AlertDialog$Builder: setNegativeButton(ILandroid.content.DialogInterface$OnClickListener)android.app.AlertDialog$Builder'/>
+			<edge id='63' source='com.masshabit.squibble.GameScreen: draw(android.graphics.Canvas)void' target='android.graphics.Paint: getTextSize()F'/>
+			<edge id='64' source='com.masshabit.squibble.GameScreen: init()void' target='android.graphics.Paint: setTextSize(F)void'/>
+			<edge id='65' source='com.masshabit.squibble.GameScreen: playerWon()void' target='com.flurry.android.FlurryAgent: onEvent(java.lang.String,java.util.Map)void'/>
+			<edge id='66' source='com.masshabit.squibble.GameScreen: saveState(android.os.Bundle)void' target='com.masshabit.common.Layer: saveState(android.os.Bundle)void'/>
+			<edge id='67' source='com.masshabit.squibble.GameScreen: playerWon()void' target='com.masshabit.common.ProfileManagerBase: saveProfile()void'/>
+			<edge id='68' source='com.masshabit.squibble.GameScreen: playerWon()void' target='java.lang.StringBuilder: append(java.lang.String)java.lang.StringBuilder'/>
+			<edge id='69' source='com.masshabit.squibble.GameScreen: draw(android.graphics.Canvas)void' target='android.graphics.Canvas: setMatrix(android.graphics.Matrix)void'/>
+			<edge id='70' source='com.masshabit.squibble.GameScreen: init()void' target='com.masshabit.common.resource.BitmapResourceMap: get(java.lang.Integer)java.lang.Object'/>
+			<edge id='71' source='com.masshabit.squibble.GameScreen: playerWon()void' target='java.util.HashMap: get(java.lang.Object)java.lang.Object'/>
+			<edge id='72' source='com.masshabit.squibble.GameScreen: playerDead()void' target='java.util.Map: put(java.lang.Object,java.lang.Object)java.lang.Object'/>
+			<edge id='73' source='com.masshabit.squibble.GameScreen: init()void' target='junit.framework.Assert: assertTrue(java.lang.String,boolean)void'/>
+			<edge id='74' source='com.masshabit.squibble.GameScreen: init()void' target='android.graphics.Paint: setColor(java.lang.Integer)void'/>
+			<edge id='75' source='com.masshabit.squibble.GameScreen: init()void' target='com.masshabit.squibble.Screen: init()void'/>
+			<edge id='76' source='com.masshabit.squibble.GameScreen: init()void' target='com.masshabit.common.Camera: setTarget(com.masshabit.common.physics.Vector2)void'/>
+			<edge id='77' source='com.masshabit.squibble.GameScreen: update(F)void' target='com.masshabit.common.Camera: setTarget(com.masshabit.common.physics.Vector2)void'/>
+		</edges>
+	</graph>
+</gexf>

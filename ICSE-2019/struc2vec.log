@@ -1,0 +1,1849 @@
+2019-10-03 12:54:39,249  - Loading graph...
+2019-10-03 12:54:39,249  - Graph loaded.
+2019-10-03 12:54:39,249  - Converting graph to dict...
+2019-10-03 12:54:39,249 Graph converted.
+2019-10-03 12:54:39,250 Graph - Number of vertices: 63
+2019-10-03 12:54:39,250 Graph - Number of edges: 57
+2019-10-03 12:54:39,277 Capturing larger degree...
+2019-10-03 12:54:39,277 Larger degree captured
+2019-10-03 12:54:39,284 BFS vertex 1. Time: 0.000146150588989s
+2019-10-03 12:54:39,284 BFS vertex 17. Time: 0.000106811523438s
+2019-10-03 12:54:39,284 BFS vertex 2. Time: 3.69548797607e-05s
+2019-10-03 12:54:39,284 BFS vertex 33. Time: 9.3936920166e-05s
+2019-10-03 12:54:39,284 BFS vertex 18. Time: 3.69548797607e-05s
+2019-10-03 12:54:39,284 BFS vertex 3. Time: 2.00271606445e-05s
+2019-10-03 12:54:39,284 BFS vertex 19. Time: 1.97887420654e-05s
+2019-10-03 12:54:39,284 BFS vertex 34. Time: 3.09944152832e-05s
+2019-10-03 12:54:39,284 BFS vertex 4. Time: 2.78949737549e-05s
+2019-10-03 12:54:39,284 BFS vertex 20. Time: 3.19480895996e-05s
+2019-10-03 12:54:39,284 BFS vertex 35. Time: 2.98023223877e-05s
+2019-10-03 12:54:39,284 BFS vertex 5. Time: 2.50339508057e-05s
+2019-10-03 12:54:39,284 BFS vertex 21. Time: 2.47955322266e-05s
+2019-10-03 12:54:39,284 BFS vertex 36. Time: 2.8133392334e-05s
+2019-10-03 12:54:39,284 BFS vertex 6. Time: 2.78949737549e-05s
+2019-10-03 12:54:39,284 BFS vertex 22. Time: 2.69412994385e-05s
+2019-10-03 12:54:39,284 BFS vertex 48. Time: 8.01086425781e-05s
+2019-10-03 12:54:39,284 BFS vertex 37. Time: 3.00407409668e-05s
+2019-10-03 12:54:39,284 BFS vertex 7. Time: 2.50339508057e-05s
+2019-10-03 12:54:39,284 BFS vertex 23. Time: 2.21729278564e-05s
+2019-10-03 12:54:39,285 BFS vertex 38. Time: 2.71797180176e-05s
+2019-10-03 12:54:39,285 BFS vertex 8. Time: 2.69412994385e-05s
+2019-10-03 12:54:39,285 BFS vertex 49. Time: 3.09944152832e-05s
+2019-10-03 12:54:39,285 BFS vertex 24. Time: 1.50203704834e-05s
+2019-10-03 12:54:39,285 BFS vertex 39. Time: 2.40802764893e-05s
+2019-10-03 12:54:39,285 BFS vertex 9. Time: 2.59876251221e-05s
+2019-10-03 12:54:39,285 BFS vertex 25. Time: 2.59876251221e-05s
+2019-10-03 12:54:39,285 BFS vertex 50. Time: 3.60012054443e-05s
+2019-10-03 12:54:39,285 BFS vertex 40. Time: 1.21593475342e-05s
+2019-10-03 12:54:39,285 BFS vertex 26. Time: 1.19209289551e-05s
+2019-10-03 12:54:39,285 BFS vertex 10. Time: 2.62260437012e-05s
+2019-10-03 12:54:39,285 BFS vertex 51. Time: 1.50203704834e-05s
+2019-10-03 12:54:39,285 BFS vertex 41. Time: 2.09808349609e-05s
+2019-10-03 12:54:39,285 BFS vertex 27. Time: 2.31266021729e-05s
+2019-10-03 12:54:39,285 BFS vertex 11. Time: 2.78949737549e-05s
+2019-10-03 12:54:39,285 BFS vertex 52. Time: 2.78949737549e-05s
+2019-10-03 12:54:39,285 BFS vertex 42. Time: 1.78813934326e-05s
+2019-10-03 12:54:39,285 BFS vertex 28. Time: 2.19345092773e-05s
+2019-10-03 12:54:39,285 BFS vertex 12. Time: 2.19345092773e-05s
+2019-10-03 12:54:39,285 BFS vertex 43. Time: 2.19345092773e-05s
+2019-10-03 12:54:39,285 BFS vertex 53. Time: 3.00407409668e-05s
+2019-10-03 12:54:39,285 BFS vertex 13. Time: 1.97887420654e-05s
+2019-10-03 12:54:39,285 BFS vertex 29. Time: 3.09944152832e-05s
+2019-10-03 12:54:39,285 BFS vertex 54. Time: 1.19209289551e-05s
+2019-10-03 12:54:39,285 BFS vertex 44. Time: 2.40802764893e-05s
+2019-10-03 12:54:39,285 BFS vertex 14. Time: 1.59740447998e-05s
+2019-10-03 12:54:39,285 BFS vertex 30. Time: 2.59876251221e-05s
+2019-10-03 12:54:39,285 BFS vertex 55. Time: 2.50339508057e-05s
+2019-10-03 12:54:39,285 BFS vertex 45. Time: 3.00407409668e-05s
+2019-10-03 12:54:39,285 BFS vertex 15. Time: 2.50339508057e-05s
+2019-10-03 12:54:39,285 BFS vertex 31. Time: 2.19345092773e-05s
+2019-10-03 12:54:39,285 BFS vertex 56. Time: 2.21729278564e-05s
+2019-10-03 12:54:39,285 BFS vertex 46. Time: 2.09808349609e-05s
+2019-10-03 12:54:39,285 BFS vertex 16. Time: 1.38282775879e-05s
+2019-10-03 12:54:39,285 BFS vertex 32. Time: 2.59876251221e-05s
+2019-10-03 12:54:39,285 BFS vertex 57. Time: 2.19345092773e-05s
+2019-10-03 12:54:39,285 BFS vertex 47. Time: 2.31266021729e-05s
+2019-10-03 12:54:39,285 BFS vertex 58. Time: 2.19345092773e-05s
+2019-10-03 12:54:39,285 BFS vertex 59. Time: 2.00271606445e-05s
+2019-10-03 12:54:39,285 BFS vertex 60. Time: 2.31266021729e-05s
+2019-10-03 12:54:39,285 BFS vertex 61. Time: 2.40802764893e-05s
+2019-10-03 12:54:39,285 BFS vertex 62. Time: 3.48091125488e-05s
+2019-10-03 12:54:39,285 BFS vertex 63. Time: 1.19209289551e-05s
+2019-10-03 12:54:39,290 Saving degreeList on disk...
+2019-10-03 12:54:39,290 Saving variable on disk...
+2019-10-03 12:54:39,291 Variable saved. Time: 2.04165776571e-05m
+2019-10-03 12:54:39,291 Execution time - BFS: 0.000253617763519m
+2019-10-03 12:54:39,295 Creating degree vectors...
+2019-10-03 12:54:39,296 Degree vectors created.
+2019-10-03 12:54:39,296 Saving degree vectors...
+2019-10-03 12:54:39,296 Saving variable on disk...
+2019-10-03 12:54:39,296 Variable saved. Time: 4.2994817098e-06m
+2019-10-03 12:54:39,296 Using compactDegree: True
+2019-10-03 12:54:39,297 Split degree List...
+2019-10-03 12:54:39,302 Recovering degreeList from disk...
+2019-10-03 12:54:39,302 Recovering variable...
+2019-10-03 12:54:39,303 Variable recovered. Time: 1.28984451294e-05m
+2019-10-03 12:54:39,303 Recovering degree vector from disk...
+2019-10-03 12:54:39,303 Recovering variable...
+2019-10-03 12:54:39,303 Variable recovered. Time: 1.39872233073e-06m
+2019-10-03 12:54:39,303 Saving variable on disk...
+2019-10-03 12:54:39,304 Variable saved. Time: 1.60137812297e-06m
+2019-10-03 12:54:39,304 Saving variable on disk...
+2019-10-03 12:54:39,304 Variable saved. Time: 6.66777292887e-06m
+2019-10-03 12:54:39,304 degreeList 1 completed.
+2019-10-03 12:54:39,305 Recovering degreeList from disk...
+2019-10-03 12:54:39,305 Recovering variable...
+2019-10-03 12:54:39,305 Variable recovered. Time: 1.12016995748e-05m
+2019-10-03 12:54:39,306 Recovering degree vector from disk...
+2019-10-03 12:54:39,306 Recovering variable...
+2019-10-03 12:54:39,306 Variable recovered. Time: 1.35103861491e-06m
+2019-10-03 12:54:39,306 Saving variable on disk...
+2019-10-03 12:54:39,306 Variable saved. Time: 1.04904174805e-06m
+2019-10-03 12:54:39,306 Saving variable on disk...
+2019-10-03 12:54:39,306 Variable saved. Time: 6.36577606201e-06m
+2019-10-03 12:54:39,307 degreeList 2 completed.
+2019-10-03 12:54:39,307 Recovering degreeList from disk...
+2019-10-03 12:54:39,307 Recovering variable...
+2019-10-03 12:54:39,308 Variable recovered. Time: 9.68376795451e-06m
+2019-10-03 12:54:39,308 Recovering degree vector from disk...
+2019-10-03 12:54:39,308 Recovering variable...
+2019-10-03 12:54:39,308 Variable recovered. Time: 1.13248825073e-06m
+2019-10-03 12:54:39,308 Saving variable on disk...
+2019-10-03 12:54:39,308 Variable saved. Time: 1.03712081909e-06m
+2019-10-03 12:54:39,308 Saving variable on disk...
+2019-10-03 12:54:39,309 Variable saved. Time: 7.0850054423e-06m
+2019-10-03 12:54:39,309 degreeList 3 completed.
+2019-10-03 12:54:39,309 Recovering degreeList from disk...
+2019-10-03 12:54:39,309 Recovering variable...
+2019-10-03 12:54:39,310 Variable recovered. Time: 8.54730606079e-06m
+2019-10-03 12:54:39,310 Recovering degree vector from disk...
+2019-10-03 12:54:39,310 Recovering variable...
+2019-10-03 12:54:39,310 Variable recovered. Time: 9.69568888346e-07m
+2019-10-03 12:54:39,310 Saving variable on disk...
+2019-10-03 12:54:39,310 Variable saved. Time: 1.03314717611e-06m
+2019-10-03 12:54:39,310 Saving variable on disk...
+2019-10-03 12:54:39,311 Variable saved. Time: 7.45058059692e-06m
+2019-10-03 12:54:39,311 degreeList 4 completed.
+2019-10-03 12:54:39,315 Executing part 1...
+2019-10-03 12:54:39,318 Recovering variable...
+2019-10-03 12:54:39,318 Variable recovered. Time: 1.8835067749e-06m
+2019-10-03 12:54:39,318 Recovering variable...
+2019-10-03 12:54:39,318 Variable recovered. Time: 6.69956207275e-06m
+2019-10-03 12:54:39,319 fastDTW between vertices (1, 2). Time: 0.000430107116699s
+2019-10-03 12:54:39,319 fastDTW between vertices (1, 3). Time: 4.00543212891e-05s
+2019-10-03 12:54:39,319 fastDTW between vertices (1, 4). Time: 5.79357147217e-05s
+2019-10-03 12:54:39,319 fastDTW between vertices (1, 6). Time: 4.91142272949e-05s
+2019-10-03 12:54:39,319 fastDTW between vertices (1, 7). Time: 5.29289245605e-05s
+2019-10-03 12:54:39,319 fastDTW between vertices (1, 8). Time: 4.88758087158e-05s
+2019-10-03 12:54:39,319 fastDTW between vertices (1, 9). Time: 4.6968460083e-05s
+2019-10-03 12:54:39,320 fastDTW between vertices (1, 10). Time: 4.79221343994e-05s
+2019-10-03 12:54:39,320 fastDTW between vertices (1, 11). Time: 5.41210174561e-05s
+2019-10-03 12:54:39,320 fastDTW between vertices (1, 12). Time: 4.81605529785e-05s
+2019-10-03 12:54:39,320 Executing part 2...
+2019-10-03 12:54:39,320 fastDTW between vertices (1, 14). Time: 3.50475311279e-05s
+2019-10-03 12:54:39,320 fastDTW between vertices (1, 15). Time: 5.81741333008e-05s
+2019-10-03 12:54:39,320 Executing part 3...
+2019-10-03 12:54:39,320 fastDTW between vertices (2, 1). Time: 7.89165496826e-05s
+2019-10-03 12:54:39,320 Executing part 4...
+2019-10-03 12:54:39,320 fastDTW between vertices (2, 3). Time: 5.81741333008e-05s
+2019-10-03 12:54:39,320 Receiving results...
+2019-10-03 12:54:39,320 fastDTW between vertices (2, 4). Time: 6.60419464111e-05s
+2019-10-03 12:54:39,320 fastDTW between vertices (2, 6). Time: 5.81741333008e-05s
+2019-10-03 12:54:39,321 fastDTW between vertices (2, 7). Time: 7.60555267334e-05s
+2019-10-03 12:54:39,321 fastDTW between vertices (2, 8). Time: 4.91142272949e-05s
+2019-10-03 12:54:39,321 fastDTW between vertices (2, 9). Time: 4.6968460083e-05s
+2019-10-03 12:54:39,321 fastDTW between vertices (2, 10). Time: 4.6968460083e-05s
+2019-10-03 12:54:39,321 Recovering variable...
+2019-10-03 12:54:39,321 fastDTW between vertices (2, 11). Time: 5.00679016113e-05s
+2019-10-03 12:54:39,321 Recovering variable...
+2019-10-03 12:54:39,321 Recovering variable...
+2019-10-03 12:54:39,321 fastDTW between vertices (2, 12). Time: 4.81605529785e-05s
+2019-10-03 12:54:39,321 Variable recovered. Time: 1.89940134684e-06m
+2019-10-03 12:54:39,321 fastDTW between vertices (2, 14). Time: 3.38554382324e-05s
+2019-10-03 12:54:39,321 Recovering variable...
+2019-10-03 12:54:39,321 Variable recovered. Time: 1.80006027222e-06m
+2019-10-03 12:54:39,321 Variable recovered. Time: 1.65303548177e-06m
+2019-10-03 12:54:39,321 Recovering variable...
+2019-10-03 12:54:39,321 Recovering variable...
+2019-10-03 12:54:39,321 fastDTW between vertices (2, 15). Time: 4.60147857666e-05s
+2019-10-03 12:54:39,321 fastDTW between vertices (3, 1). Time: 3.40938568115e-05s
+2019-10-03 12:54:39,321 fastDTW between vertices (3, 2). Time: 3.40938568115e-05s
+2019-10-03 12:54:39,321 fastDTW between vertices (3, 4). Time: 3.38554382324e-05s
+2019-10-03 12:54:39,321 fastDTW between vertices (3, 6). Time: 3.2901763916e-05s
+2019-10-03 12:54:39,322 fastDTW between vertices (3, 7). Time: 3.40938568115e-05s
+2019-10-03 12:54:39,322 Variable recovered. Time: 7.01745351156e-06m
+2019-10-03 12:54:39,322 fastDTW between vertices (3, 8). Time: 3.50475311279e-05s
+2019-10-03 12:54:39,322 Variable recovered. Time: 7.06911087036e-06m
+2019-10-03 12:54:39,322 Variable recovered. Time: 7.4823697408e-06m
+2019-10-03 12:54:39,322 fastDTW between vertices (3, 9). Time: 3.50475311279e-05s
+2019-10-03 12:54:39,322 fastDTW between vertices (3, 10). Time: 3.60012054443e-05s
+2019-10-03 12:54:39,322 fastDTW between vertices (3, 11). Time: 3.50475311279e-05s
+2019-10-03 12:54:39,322 fastDTW between vertices (3, 12). Time: 3.38554382324e-05s
+2019-10-03 12:54:39,322 fastDTW between vertices (3, 14). Time: 3.81469726562e-05s
+2019-10-03 12:54:39,322 fastDTW between vertices (32, 1). Time: 0.000357866287231s
+2019-10-03 12:54:39,322 fastDTW between vertices (48, 41). Time: 0.000309944152832s
+2019-10-03 12:54:39,322 fastDTW between vertices (33, 34). Time: 0.000344038009644s
+2019-10-03 12:54:39,322 fastDTW between vertices (3, 15). Time: 3.50475311279e-05s
+2019-10-03 12:54:39,322 fastDTW between vertices (32, 2). Time: 5.81741333008e-05s
+2019-10-03 12:54:39,322 fastDTW between vertices (48, 42). Time: 6.31809234619e-05s
+2019-10-03 12:54:39,322 fastDTW between vertices (4, 1). Time: 5.10215759277e-05s
+2019-10-03 12:54:39,322 fastDTW between vertices (33, 13). Time: 7.29560852051e-05s
+2019-10-03 12:54:39,322 fastDTW between vertices (32, 3). Time: 3.69548797607e-05s
+2019-10-03 12:54:39,322 fastDTW between vertices (48, 46). Time: 5.29289245605e-05s
+2019-10-03 12:54:39,322 fastDTW between vertices (4, 2). Time: 5.00679016113e-05s
+2019-10-03 12:54:39,322 fastDTW between vertices (33, 35). Time: 6.31809234619e-05s
+2019-10-03 12:54:39,322 fastDTW between vertices (4, 3). Time: 3.50475311279e-05s
+2019-10-03 12:54:39,322 fastDTW between vertices (48, 59). Time: 5.19752502441e-05s
+2019-10-03 12:54:39,322 fastDTW between vertices (32, 4). Time: 0.000123977661133s
+2019-10-03 12:54:39,322 fastDTW between vertices (33, 41). Time: 5.19752502441e-05s
+2019-10-03 12:54:39,322 fastDTW between vertices (4, 6). Time: 5.10215759277e-05s
+2019-10-03 12:54:39,322 fastDTW between vertices (48, 61). Time: 5.60283660889e-05s
+2019-10-03 12:54:39,322 fastDTW between vertices (32, 6). Time: 5.29289245605e-05s
+2019-10-03 12:54:39,323 fastDTW between vertices (33, 42). Time: 5.29289245605e-05s
+2019-10-03 12:54:39,323 fastDTW between vertices (48, 1). Time: 5.00679016113e-05s
+2019-10-03 12:54:39,323 fastDTW between vertices (33, 46). Time: 5.10215759277e-05s
+2019-10-03 12:54:39,323 fastDTW between vertices (4, 7). Time: 0.000113964080811s
+2019-10-03 12:54:39,323 fastDTW between vertices (32, 7). Time: 9.3936920166e-05s
+2019-10-03 12:54:39,323 fastDTW between vertices (48, 2). Time: 4.81605529785e-05s
+2019-10-03 12:54:39,323 fastDTW between vertices (33, 48). Time: 5.31673431396e-05s
+2019-10-03 12:54:39,323 fastDTW between vertices (4, 8). Time: 5.19752502441e-05s
+2019-10-03 12:54:39,323 fastDTW between vertices (48, 3). Time: 5.10215759277e-05s
+2019-10-03 12:54:39,323 fastDTW between vertices (32, 8). Time: 7.00950622559e-05s
+2019-10-03 12:54:39,323 fastDTW between vertices (33, 59). Time: 5.29289245605e-05s
+2019-10-03 12:54:39,323 fastDTW between vertices (4, 9). Time: 5.29289245605e-05s
+2019-10-03 12:54:39,323 fastDTW between vertices (48, 4). Time: 5.69820404053e-05s
+2019-10-03 12:54:39,323 fastDTW between vertices (32, 9). Time: 5.07831573486e-05s
+2019-10-03 12:54:39,323 fastDTW between vertices (33, 61). Time: 6.50882720947e-05s
+2019-10-03 12:54:39,323 fastDTW between vertices (4, 10). Time: 6.19888305664e-05s
+2019-10-03 12:54:39,323 fastDTW between vertices (48, 6). Time: 5.00679016113e-05s
+2019-10-03 12:54:39,323 fastDTW between vertices (32, 10). Time: 6.79492950439e-05s
+2019-10-03 12:54:39,323 fastDTW between vertices (33, 55). Time: 5.60283660889e-05s
+2019-10-03 12:54:39,323 fastDTW between vertices (4, 11). Time: 7.29560852051e-05s
+2019-10-03 12:54:39,323 fastDTW between vertices (48, 7). Time: 5.29289245605e-05s
+2019-10-03 12:54:39,323 fastDTW between vertices (32, 11). Time: 7.29560852051e-05s
+2019-10-03 12:54:39,323 fastDTW between vertices (33, 1). Time: 4.79221343994e-05s
+2019-10-03 12:54:39,323 fastDTW between vertices (4, 12). Time: 5.10215759277e-05s
+2019-10-03 12:54:39,323 fastDTW between vertices (48, 8). Time: 5.00679016113e-05s
+2019-10-03 12:54:39,323 fastDTW between vertices (32, 12). Time: 5.10215759277e-05s
+2019-10-03 12:54:39,323 fastDTW between vertices (33, 2). Time: 4.91142272949e-05s
+2019-10-03 12:54:39,323 fastDTW between vertices (4, 14). Time: 3.48091125488e-05s
+2019-10-03 12:54:39,323 fastDTW between vertices (49, 1). Time: 4.60147857666e-05s
+2019-10-03 12:54:39,323 fastDTW between vertices (32, 14). Time: 3.40938568115e-05s
+2019-10-03 12:54:39,323 fastDTW between vertices (4, 15). Time: 5.00679016113e-05s
+2019-10-03 12:54:39,323 fastDTW between vertices (34, 33). Time: 6.50882720947e-05s
+2019-10-03 12:54:39,323 fastDTW between vertices (49, 2). Time: 4.60147857666e-05s
+2019-10-03 12:54:39,323 fastDTW between vertices (17, 1). Time: 5.10215759277e-05s
+2019-10-03 12:54:39,323 fastDTW between vertices (5, 55). Time: 3.91006469727e-05s
+2019-10-03 12:54:39,323 fastDTW between vertices (49, 3). Time: 3.40938568115e-05s
+2019-10-03 12:54:39,323 fastDTW between vertices (34, 13). Time: 6.50882720947e-05s
+2019-10-03 12:54:39,323 fastDTW between vertices (17, 2). Time: 5.00679016113e-05s
+2019-10-03 12:54:39,323 fastDTW between vertices (5, 35). Time: 3.91006469727e-05s
+2019-10-03 12:54:39,323 fastDTW between vertices (49, 4). Time: 4.98294830322e-05s
+2019-10-03 12:54:39,323 fastDTW between vertices (34, 35). Time: 5.72204589844e-05s
+2019-10-03 12:54:39,324 fastDTW between vertices (17, 3). Time: 3.48091125488e-05s
+2019-10-03 12:54:39,324 fastDTW between vertices (5, 33). Time: 3.69548797607e-05s
+2019-10-03 12:54:39,324 fastDTW between vertices (49, 6). Time: 4.6968460083e-05s
+2019-10-03 12:54:39,324 fastDTW between vertices (34, 41). Time: 4.98294830322e-05s
+2019-10-03 12:54:39,324 fastDTW between vertices (5, 34). Time: 3.60012054443e-05s
+2019-10-03 12:54:39,324 fastDTW between vertices (17, 4). Time: 9.01222229004e-05s
+2019-10-03 12:54:39,324 fastDTW between vertices (49, 7). Time: 5.07831573486e-05s
+2019-10-03 12:54:39,324 fastDTW between vertices (5, 13). Time: 3.69548797607e-05s
+2019-10-03 12:54:39,324 fastDTW between vertices (34, 42). Time: 5.19752502441e-05s
+2019-10-03 12:54:39,324 fastDTW between vertices (17, 6). Time: 5.10215759277e-05s
+2019-10-03 12:54:39,324 fastDTW between vertices (49, 8). Time: 4.60147857666e-05s
+2019-10-03 12:54:39,324 fastDTW between vertices (5, 41). Time: 3.50475311279e-05s
+2019-10-03 12:54:39,324 fastDTW between vertices (34, 46). Time: 5.00679016113e-05s
+2019-10-03 12:54:39,324 fastDTW between vertices (5, 42). Time: 3.69548797607e-05s
+2019-10-03 12:54:39,324 fastDTW between vertices (49, 9). Time: 4.6968460083e-05s
+2019-10-03 12:54:39,324 fastDTW between vertices (34, 48). Time: 5.19752502441e-05s
+2019-10-03 12:54:39,324 fastDTW between vertices (17, 7). Time: 8.79764556885e-05s
+2019-10-03 12:54:39,324 fastDTW between vertices (5, 46). Time: 3.38554382324e-05s
+2019-10-03 12:54:39,324 fastDTW between vertices (49, 10). Time: 4.60147857666e-05s
+2019-10-03 12:54:39,324 fastDTW between vertices (34, 59). Time: 5.00679016113e-05s
+2019-10-03 12:54:39,324 fastDTW between vertices (17, 8). Time: 5.00679016113e-05s
+2019-10-03 12:54:39,324 fastDTW between vertices (5, 48). Time: 3.60012054443e-05s
+2019-10-03 12:54:39,324 fastDTW between vertices (17, 9). Time: 4.98294830322e-05s
+2019-10-03 12:54:39,324 fastDTW between vertices (5, 59). Time: 3.40938568115e-05s
+2019-10-03 12:54:39,324 fastDTW between vertices (49, 11). Time: 7.70092010498e-05s
+2019-10-03 12:54:39,324 fastDTW between vertices (34, 61). Time: 0.00010085105896s
+2019-10-03 12:54:39,324 fastDTW between vertices (5, 61). Time: 3.79085540771e-05s
+2019-10-03 12:54:39,324 fastDTW between vertices (17, 10). Time: 6.31809234619e-05s
+2019-10-03 12:54:39,324 fastDTW between vertices (49, 12). Time: 7.10487365723e-05s
+2019-10-03 12:54:39,324 fastDTW between vertices (5, 1). Time: 3.69548797607e-05s
+2019-10-03 12:54:39,324 fastDTW between vertices (17, 11). Time: 7.39097595215e-05s
+2019-10-03 12:54:39,324 fastDTW between vertices (6, 1). Time: 4.6968460083e-05s
+2019-10-03 12:54:39,324 fastDTW between vertices (34, 55). Time: 0.000119924545288s
+2019-10-03 12:54:39,324 fastDTW between vertices (49, 14). Time: 4.60147857666e-05s
+2019-10-03 12:54:39,324 fastDTW between vertices (17, 12). Time: 5.10215759277e-05s
+2019-10-03 12:54:39,324 fastDTW between vertices (6, 2). Time: 4.60147857666e-05s
+2019-10-03 12:54:39,324 fastDTW between vertices (50, 1). Time: 7.9870223999e-05s
+2019-10-03 12:54:39,324 fastDTW between vertices (34, 1). Time: 8.79764556885e-05s
+2019-10-03 12:54:39,324 fastDTW between vertices (6, 3). Time: 3.40938568115e-05s
+2019-10-03 12:54:39,324 fastDTW between vertices (17, 14). Time: 5.50746917725e-05s
+2019-10-03 12:54:39,325 fastDTW between vertices (50, 2). Time: 5.31673431396e-05s
+2019-10-03 12:54:39,325 fastDTW between vertices (34, 2). Time: 5.31673431396e-05s
+2019-10-03 12:54:39,325 fastDTW between vertices (6, 4). Time: 5.69820404053e-05s
+2019-10-03 12:54:39,325 fastDTW between vertices (18, 1). Time: 5.19752502441e-05s
+2019-10-03 12:54:39,325 fastDTW between vertices (50, 3). Time: 3.50475311279e-05s
+2019-10-03 12:54:39,325 fastDTW between vertices (6, 7). Time: 5.00679016113e-05s
+2019-10-03 12:54:39,325 fastDTW between vertices (18, 2). Time: 5.00679016113e-05s
+2019-10-03 12:54:39,325 fastDTW between vertices (35, 55). Time: 9.58442687988e-05s
+2019-10-03 12:54:39,325 fastDTW between vertices (18, 3). Time: 3.38554382324e-05s
+2019-10-03 12:54:39,325 fastDTW between vertices (6, 8). Time: 4.6968460083e-05s
+2019-10-03 12:54:39,325 fastDTW between vertices (50, 4). Time: 0.000118017196655s
+2019-10-03 12:54:39,325 fastDTW between vertices (35, 33). Time: 5.79357147217e-05s
+2019-10-03 12:54:39,325 fastDTW between vertices (6, 9). Time: 4.6968460083e-05s
+2019-10-03 12:54:39,325 fastDTW between vertices (18, 4). Time: 9.10758972168e-05s
+2019-10-03 12:54:39,325 fastDTW between vertices (50, 6). Time: 5.29289245605e-05s
+2019-10-03 12:54:39,325 fastDTW between vertices (35, 34). Time: 5.60283660889e-05s
+2019-10-03 12:54:39,325 fastDTW between vertices (6, 10). Time: 4.60147857666e-05s
+2019-10-03 12:54:39,325 fastDTW between vertices (18, 6). Time: 4.98294830322e-05s
+2019-10-03 12:54:39,325 fastDTW between vertices (35, 13). Time: 5.60283660889e-05s
+2019-10-03 12:54:39,325 fastDTW between vertices (6, 11). Time: 4.91142272949e-05s
+2019-10-03 12:54:39,325 fastDTW between vertices (50, 7). Time: 9.08374786377e-05s
+2019-10-03 12:54:39,325 fastDTW between vertices (6, 12). Time: 4.6968460083e-05s
+2019-10-03 12:54:39,325 fastDTW between vertices (18, 7). Time: 8.9168548584e-05s
+2019-10-03 12:54:39,325 fastDTW between vertices (35, 41). Time: 5.60283660889e-05s
+2019-10-03 12:54:39,325 fastDTW between vertices (50, 8). Time: 5.19752502441e-05s
+2019-10-03 12:54:39,325 fastDTW between vertices (6, 14). Time: 3.50475311279e-05s
+2019-10-03 12:54:39,325 fastDTW between vertices (18, 8). Time: 5.19752502441e-05s
+2019-10-03 12:54:39,325 fastDTW between vertices (35, 42). Time: 5.48362731934e-05s
+2019-10-03 12:54:39,325 fastDTW between vertices (50, 9). Time: 5.10215759277e-05s
+2019-10-03 12:54:39,325 fastDTW between vertices (6, 15). Time: 4.60147857666e-05s
+2019-10-03 12:54:39,325 fastDTW between vertices (18, 9). Time: 5.41210174561e-05s
+2019-10-03 12:54:39,325 fastDTW between vertices (35, 46). Time: 5.29289245605e-05s
+2019-10-03 12:54:39,325 fastDTW between vertices (50, 10). Time: 6.29425048828e-05s
+2019-10-03 12:54:39,325 fastDTW between vertices (7, 1). Time: 5.10215759277e-05s
+2019-10-03 12:54:39,325 fastDTW between vertices (35, 48). Time: 5.50746917725e-05s
+2019-10-03 12:54:39,325 fastDTW between vertices (18, 10). Time: 6.19888305664e-05s
+2019-10-03 12:54:39,325 fastDTW between vertices (50, 11). Time: 6.69956207275e-05s
+2019-10-03 12:54:39,325 fastDTW between vertices (7, 2). Time: 5.10215759277e-05s
+2019-10-03 12:54:39,325 fastDTW between vertices (35, 59). Time: 5.19752502441e-05s
+2019-10-03 12:54:39,326 fastDTW between vertices (50, 12). Time: 5.07831573486e-05s
+2019-10-03 12:54:39,326 fastDTW between vertices (7, 3). Time: 3.50475311279e-05s
+2019-10-03 12:54:39,326 fastDTW between vertices (18, 11). Time: 6.79492950439e-05s
+2019-10-03 12:54:39,326 fastDTW between vertices (35, 61). Time: 5.48362731934e-05s
+2019-10-03 12:54:39,326 fastDTW between vertices (50, 14). Time: 3.91006469727e-05s
+2019-10-03 12:54:39,326 fastDTW between vertices (7, 4). Time: 9.48905944824e-05s
+2019-10-03 12:54:39,326 fastDTW between vertices (18, 12). Time: 6.48498535156e-05s
+2019-10-03 12:54:39,326 fastDTW between vertices (35, 1). Time: 4.98294830322e-05s
+2019-10-03 12:54:39,326 fastDTW between vertices (51, 1). Time: 3.91006469727e-05s
+2019-10-03 12:54:39,326 fastDTW between vertices (7, 6). Time: 5.10215759277e-05s
+2019-10-03 12:54:39,326 fastDTW between vertices (35, 2). Time: 5.00679016113e-05s
+2019-10-03 12:54:39,326 fastDTW between vertices (18, 14). Time: 5.10215759277e-05s
+2019-10-03 12:54:39,326 fastDTW between vertices (51, 2). Time: 3.50475311279e-05s
+2019-10-03 12:54:39,326 fastDTW between vertices (7, 8). Time: 5.10215759277e-05s
+2019-10-03 12:54:39,326 fastDTW between vertices (51, 3). Time: 3.38554382324e-05s
+2019-10-03 12:54:39,326 fastDTW between vertices (36, 1). Time: 4.60147857666e-05s
+2019-10-03 12:54:39,326 fastDTW between vertices (19, 1). Time: 5.57899475098e-05s
+2019-10-03 12:54:39,326 fastDTW between vertices (7, 9). Time: 5.10215759277e-05s
+2019-10-03 12:54:39,326 fastDTW between vertices (36, 2). Time: 4.50611114502e-05s
+2019-10-03 12:54:39,326 fastDTW between vertices (51, 4). Time: 5.81741333008e-05s
+2019-10-03 12:54:39,326 fastDTW between vertices (19, 2). Time: 5.81741333008e-05s
+2019-10-03 12:54:39,326 fastDTW between vertices (36, 3). Time: 3.40938568115e-05s
+2019-10-03 12:54:39,326 fastDTW between vertices (7, 10). Time: 6.48498535156e-05s
+2019-10-03 12:54:39,326 fastDTW between vertices (51, 6). Time: 5.79357147217e-05s
+2019-10-03 12:54:39,326 fastDTW between vertices (36, 4). Time: 4.98294830322e-05s
+2019-10-03 12:54:39,326 fastDTW between vertices (19, 3). Time: 6.00814819336e-05s
+2019-10-03 12:54:39,326 fastDTW between vertices (7, 11). Time: 7.20024108887e-05s
+2019-10-03 12:54:39,326 fastDTW between vertices (51, 7). Time: 4.00543212891e-05s
+2019-10-03 12:54:39,326 fastDTW between vertices (36, 6). Time: 4.6968460083e-05s
+2019-10-03 12:54:39,326 fastDTW between vertices (19, 4). Time: 4.41074371338e-05s
+2019-10-03 12:54:39,326 fastDTW between vertices (7, 12). Time: 5.69820404053e-05s
+2019-10-03 12:54:39,326 fastDTW between vertices (36, 7). Time: 6.79492950439e-05s
+2019-10-03 12:54:39,326 fastDTW between vertices (51, 8). Time: 8.20159912109e-05s
+2019-10-03 12:54:39,326 fastDTW between vertices (19, 6). Time: 4.81605529785e-05s
+2019-10-03 12:54:39,326 fastDTW between vertices (7, 14). Time: 4.2200088501e-05s
+2019-10-03 12:54:39,326 fastDTW between vertices (36, 8). Time: 5.50746917725e-05s
+2019-10-03 12:54:39,326 fastDTW between vertices (7, 15). Time: 5.81741333008e-05s
+2019-10-03 12:54:39,326 fastDTW between vertices (51, 9). Time: 6.60419464111e-05s
+2019-10-03 12:54:39,326 fastDTW between vertices (19, 7). Time: 5.48362731934e-05s
+2019-10-03 12:54:39,327 fastDTW between vertices (36, 9). Time: 5.29289245605e-05s
+2019-10-03 12:54:39,327 fastDTW between vertices (51, 10). Time: 4.10079956055e-05s
+2019-10-03 12:54:39,327 fastDTW between vertices (8, 1). Time: 4.91142272949e-05s
+2019-10-03 12:54:39,327 fastDTW between vertices (19, 8). Time: 4.10079956055e-05s
+2019-10-03 12:54:39,327 fastDTW between vertices (36, 10). Time: 5.10215759277e-05s
+2019-10-03 12:54:39,327 fastDTW between vertices (51, 11). Time: 3.981590271e-05s
+2019-10-03 12:54:39,327 fastDTW between vertices (19, 9). Time: 4.00543212891e-05s
+2019-10-03 12:54:39,327 fastDTW between vertices (8, 2). Time: 6.79492950439e-05s
+2019-10-03 12:54:39,327 fastDTW between vertices (36, 11). Time: 9.29832458496e-05s
+2019-10-03 12:54:39,327 fastDTW between vertices (51, 12). Time: 4.6968460083e-05s
+2019-10-03 12:54:39,327 fastDTW between vertices (19, 10). Time: 4.81605529785e-05s
+2019-10-03 12:54:39,327 fastDTW between vertices (8, 3). Time: 4.10079956055e-05s
+2019-10-03 12:54:39,327 fastDTW between vertices (51, 14). Time: 3.91006469727e-05s
+2019-10-03 12:54:39,327 fastDTW between vertices (36, 12). Time: 5.48362731934e-05s
+2019-10-03 12:54:39,327 fastDTW between vertices (19, 11). Time: 3.91006469727e-05s
+2019-10-03 12:54:39,327 fastDTW between vertices (8, 4). Time: 5.79357147217e-05s
+2019-10-03 12:54:39,327 fastDTW between vertices (36, 14). Time: 4.00543212891e-05s
+2019-10-03 12:54:39,327 fastDTW between vertices (52, 1). Time: 5.57899475098e-05s
+2019-10-03 12:54:39,327 fastDTW between vertices (19, 12). Time: 3.91006469727e-05s
+2019-10-03 12:54:39,327 fastDTW between vertices (8, 6). Time: 5.00679016113e-05s
+2019-10-03 12:54:39,327 fastDTW between vertices (19, 14). Time: 3.91006469727e-05s
+2019-10-03 12:54:39,327 fastDTW between vertices (37, 1). Time: 5.60283660889e-05s
+2019-10-03 12:54:39,327 fastDTW between vertices (52, 2). Time: 5.29289245605e-05s
+2019-10-03 12:54:39,327 fastDTW between vertices (8, 7). Time: 5.50746917725e-05s
+2019-10-03 12:54:39,327 fastDTW between vertices (52, 3). Time: 3.88622283936e-05s
+2019-10-03 12:54:39,327 fastDTW between vertices (20, 1). Time: 5.60283660889e-05s
+2019-10-03 12:54:39,327 fastDTW between vertices (37, 2). Time: 5.91278076172e-05s
+2019-10-03 12:54:39,327 fastDTW between vertices (8, 9). Time: 6.103515625e-05s
+2019-10-03 12:54:39,327 fastDTW between vertices (37, 3). Time: 3.79085540771e-05s
+2019-10-03 12:54:39,327 fastDTW between vertices (20, 2). Time: 5.50746917725e-05s
+2019-10-03 12:54:39,327 fastDTW between vertices (52, 4). Time: 7.58171081543e-05s
+2019-10-03 12:54:39,327 fastDTW between vertices (8, 10). Time: 5.41210174561e-05s
+2019-10-03 12:54:39,327 fastDTW between vertices (20, 3). Time: 3.88622283936e-05s
+2019-10-03 12:54:39,327 fastDTW between vertices (52, 6). Time: 5.29289245605e-05s
+2019-10-03 12:54:39,327 fastDTW between vertices (37, 4). Time: 0.000108003616333s
+2019-10-03 12:54:39,327 fastDTW between vertices (8, 11). Time: 5.60283660889e-05s
+2019-10-03 12:54:39,328 fastDTW between vertices (20, 4). Time: 7.60555267334e-05s
+2019-10-03 12:54:39,328 fastDTW between vertices (52, 7). Time: 7.39097595215e-05s
+2019-10-03 12:54:39,328 fastDTW between vertices (37, 6). Time: 5.69820404053e-05s
+2019-10-03 12:54:39,328 fastDTW between vertices (8, 12). Time: 5.19752502441e-05s
+2019-10-03 12:54:39,328 fastDTW between vertices (20, 6). Time: 5.41210174561e-05s
+2019-10-03 12:54:39,328 fastDTW between vertices (52, 8). Time: 5.07831573486e-05s
+2019-10-03 12:54:39,328 fastDTW between vertices (8, 14). Time: 3.81469726562e-05s
+2019-10-03 12:54:39,328 fastDTW between vertices (37, 7). Time: 9.89437103271e-05s
+2019-10-03 12:54:39,328 fastDTW between vertices (20, 7). Time: 7.70092010498e-05s
+2019-10-03 12:54:39,328 fastDTW between vertices (52, 9). Time: 5.41210174561e-05s
+2019-10-03 12:54:39,328 fastDTW between vertices (8, 15). Time: 5.22136688232e-05s
+2019-10-03 12:54:39,328 fastDTW between vertices (37, 8). Time: 5.50746917725e-05s
+2019-10-03 12:54:39,328 fastDTW between vertices (20, 8). Time: 5.19752502441e-05s
+2019-10-03 12:54:39,328 fastDTW between vertices (9, 1). Time: 5.10215759277e-05s
+2019-10-03 12:54:39,328 fastDTW between vertices (52, 10). Time: 7.9870223999e-05s
+2019-10-03 12:54:39,328 fastDTW between vertices (37, 9). Time: 5.81741333008e-05s
+2019-10-03 12:54:39,328 fastDTW between vertices (20, 9). Time: 5.29289245605e-05s
+2019-10-03 12:54:39,328 fastDTW between vertices (9, 2). Time: 5.10215759277e-05s
+2019-10-03 12:54:39,328 fastDTW between vertices (37, 10). Time: 6.38961791992e-05s
+2019-10-03 12:54:39,328 fastDTW between vertices (9, 3). Time: 3.40938568115e-05s
+2019-10-03 12:54:39,328 fastDTW between vertices (52, 11). Time: 0.000110864639282s
+2019-10-03 12:54:39,328 fastDTW between vertices (20, 10). Time: 7.20024108887e-05s
+2019-10-03 12:54:39,328 fastDTW between vertices (9, 4). Time: 5.10215759277e-05s
+2019-10-03 12:54:39,328 fastDTW between vertices (52, 12). Time: 4.91142272949e-05s
+2019-10-03 12:54:39,328 fastDTW between vertices (37, 11). Time: 7.20024108887e-05s
+2019-10-03 12:54:39,328 fastDTW between vertices (20, 11). Time: 7.58171081543e-05s
+2019-10-03 12:54:39,328 fastDTW between vertices (52, 14). Time: 3.38554382324e-05s
+2019-10-03 12:54:39,328 fastDTW between vertices (9, 6). Time: 4.60147857666e-05s
+2019-10-03 12:54:39,328 fastDTW between vertices (37, 12). Time: 5.00679016113e-05s
+2019-10-03 12:54:39,328 fastDTW between vertices (20, 12). Time: 4.91142272949e-05s
+2019-10-03 12:54:39,328 fastDTW between vertices (53, 1). Time: 5.10215759277e-05s
+2019-10-03 12:54:39,328 fastDTW between vertices (9, 7). Time: 5.10215759277e-05s
+2019-10-03 12:54:39,328 fastDTW between vertices (37, 14). Time: 3.38554382324e-05s
+2019-10-03 12:54:39,328 fastDTW between vertices (20, 14). Time: 3.38554382324e-05s
+2019-10-03 12:54:39,328 fastDTW between vertices (9, 8). Time: 4.60147857666e-05s
+2019-10-03 12:54:39,328 fastDTW between vertices (53, 2). Time: 5.10215759277e-05s
+2019-10-03 12:54:39,328 fastDTW between vertices (38, 1). Time: 4.81605529785e-05s
+2019-10-03 12:54:39,328 fastDTW between vertices (21, 1). Time: 4.81605529785e-05s
+2019-10-03 12:54:39,328 fastDTW between vertices (53, 3). Time: 3.48091125488e-05s
+2019-10-03 12:54:39,328 fastDTW between vertices (9, 10). Time: 4.60147857666e-05s
+2019-10-03 12:54:39,328 fastDTW between vertices (38, 2). Time: 4.91142272949e-05s
+2019-10-03 12:54:39,329 fastDTW between vertices (21, 2). Time: 5.10215759277e-05s
+2019-10-03 12:54:39,329 fastDTW between vertices (38, 3). Time: 3.48091125488e-05s
+2019-10-03 12:54:39,329 fastDTW between vertices (9, 11). Time: 4.79221343994e-05s
+2019-10-03 12:54:39,329 fastDTW between vertices (53, 4). Time: 9.29832458496e-05s
+2019-10-03 12:54:39,329 fastDTW between vertices (21, 3). Time: 3.50475311279e-05s
+2019-10-03 12:54:39,329 fastDTW between vertices (9, 12). Time: 4.60147857666e-05s
+2019-10-03 12:54:39,329 fastDTW between vertices (38, 4). Time: 6.79492950439e-05s
+2019-10-03 12:54:39,329 fastDTW between vertices (53, 6). Time: 5.10215759277e-05s
+2019-10-03 12:54:39,329 fastDTW between vertices (21, 4). Time: 6.89029693604e-05s
+2019-10-03 12:54:39,329 fastDTW between vertices (9, 14). Time: 3.2901763916e-05s
+2019-10-03 12:54:39,329 fastDTW between vertices (38, 6). Time: 4.81605529785e-05s
+2019-10-03 12:54:39,329 fastDTW between vertices (21, 6). Time: 4.81605529785e-05s
+2019-10-03 12:54:39,329 fastDTW between vertices (9, 15). Time: 4.60147857666e-05s
+2019-10-03 12:54:39,329 fastDTW between vertices (53, 7). Time: 8.98838043213e-05s
+2019-10-03 12:54:39,329 fastDTW between vertices (38, 7). Time: 6.8187713623e-05s
+2019-10-03 12:54:39,329 fastDTW between vertices (10, 1). Time: 4.60147857666e-05s
+2019-10-03 12:54:39,329 fastDTW between vertices (21, 7). Time: 6.69956207275e-05s
+2019-10-03 12:54:39,329 fastDTW between vertices (53, 8). Time: 5.10215759277e-05s
+2019-10-03 12:54:39,329 fastDTW between vertices (38, 8). Time: 4.88758087158e-05s
+2019-10-03 12:54:39,329 fastDTW between vertices (10, 2). Time: 4.50611114502e-05s
+2019-10-03 12:54:39,329 fastDTW between vertices (21, 8). Time: 4.81605529785e-05s
+2019-10-03 12:54:39,329 fastDTW between vertices (53, 9). Time: 5.00679016113e-05s
+2019-10-03 12:54:39,329 fastDTW between vertices (38, 9). Time: 4.79221343994e-05s
+2019-10-03 12:54:39,329 fastDTW between vertices (10, 3). Time: 3.2901763916e-05s
+2019-10-03 12:54:39,329 fastDTW between vertices (21, 9). Time: 4.81605529785e-05s
+2019-10-03 12:54:39,329 fastDTW between vertices (53, 10). Time: 6.19888305664e-05s
+2019-10-03 12:54:39,329 fastDTW between vertices (38, 10). Time: 7.41481781006e-05s
+2019-10-03 12:54:39,329 fastDTW between vertices (10, 4). Time: 6.29425048828e-05s
+2019-10-03 12:54:39,329 fastDTW between vertices (21, 10). Time: 7.08103179932e-05s
+2019-10-03 12:54:39,329 fastDTW between vertices (53, 11). Time: 6.69956207275e-05s
+2019-10-03 12:54:39,329 fastDTW between vertices (10, 6). Time: 4.50611114502e-05s
+2019-10-03 12:54:39,329 fastDTW between vertices (38, 11). Time: 7.60555267334e-05s
+2019-10-03 12:54:39,329 fastDTW between vertices (21, 11). Time: 7.5101852417e-05s
+2019-10-03 12:54:39,329 fastDTW between vertices (53, 12). Time: 4.88758087158e-05s
+2019-10-03 12:54:39,329 fastDTW between vertices (10, 7). Time: 6.19888305664e-05s
+2019-10-03 12:54:39,329 fastDTW between vertices (38, 12). Time: 4.79221343994e-05s
+2019-10-03 12:54:39,329 fastDTW between vertices (53, 14). Time: 3.40938568115e-05s
+2019-10-03 12:54:39,329 fastDTW between vertices (21, 12). Time: 4.79221343994e-05s
+2019-10-03 12:54:39,329 fastDTW between vertices (10, 8). Time: 4.6968460083e-05s
+2019-10-03 12:54:39,329 fastDTW between vertices (38, 14). Time: 3.50475311279e-05s
+2019-10-03 12:54:39,329 fastDTW between vertices (54, 1). Time: 3.40938568115e-05s
+2019-10-03 12:54:39,329 fastDTW between vertices (21, 14). Time: 3.40938568115e-05s
+2019-10-03 12:54:39,330 fastDTW between vertices (10, 9). Time: 4.60147857666e-05s
+2019-10-03 12:54:39,330 fastDTW between vertices (39, 1). Time: 5.10215759277e-05s
+2019-10-03 12:54:39,330 fastDTW between vertices (54, 2). Time: 3.38554382324e-05s
+2019-10-03 12:54:39,330 fastDTW between vertices (22, 1). Time: 4.60147857666e-05s
+2019-10-03 12:54:39,330 fastDTW between vertices (54, 3). Time: 3.50475311279e-05s
+2019-10-03 12:54:39,330 fastDTW between vertices (39, 2). Time: 4.98294830322e-05s
+2019-10-03 12:54:39,330 fastDTW between vertices (10, 11). Time: 7.29560852051e-05s
+2019-10-03 12:54:39,330 fastDTW between vertices (22, 2). Time: 4.60147857666e-05s
+2019-10-03 12:54:39,330 fastDTW between vertices (54, 4). Time: 3.38554382324e-05s
+2019-10-03 12:54:39,330 fastDTW between vertices (39, 3). Time: 3.40938568115e-05s
+2019-10-03 12:54:39,330 fastDTW between vertices (10, 12). Time: 4.60147857666e-05s
+2019-10-03 12:54:39,330 fastDTW between vertices (22, 3). Time: 3.40938568115e-05s
+2019-10-03 12:54:39,330 fastDTW between vertices (54, 6). Time: 3.40938568115e-05s
+2019-10-03 12:54:39,330 fastDTW between vertices (10, 14). Time: 3.38554382324e-05s
+2019-10-03 12:54:39,330 fastDTW between vertices (22, 4). Time: 5.00679016113e-05s
+2019-10-03 12:54:39,330 fastDTW between vertices (39, 4). Time: 9.10758972168e-05s
+2019-10-03 12:54:39,330 fastDTW between vertices (54, 7). Time: 3.48091125488e-05s
+2019-10-03 12:54:39,330 fastDTW between vertices (10, 15). Time: 4.60147857666e-05s
+2019-10-03 12:54:39,330 fastDTW between vertices (22, 6). Time: 4.48226928711e-05s
+2019-10-03 12:54:39,330 fastDTW between vertices (54, 8). Time: 3.40938568115e-05s
+2019-10-03 12:54:39,330 fastDTW between vertices (39, 6). Time: 5.10215759277e-05s
+2019-10-03 12:54:39,330 fastDTW between vertices (11, 1). Time: 4.91142272949e-05s
+2019-10-03 12:54:39,330 fastDTW between vertices (54, 9). Time: 3.38554382324e-05s
+2019-10-03 12:54:39,330 fastDTW between vertices (22, 7). Time: 5.10215759277e-05s
+2019-10-03 12:54:39,330 fastDTW between vertices (39, 7). Time: 8.79764556885e-05s
+2019-10-03 12:54:39,330 fastDTW between vertices (11, 2). Time: 4.79221343994e-05s
+2019-10-03 12:54:39,330 fastDTW between vertices (54, 10). Time: 3.40938568115e-05s
+2019-10-03 12:54:39,330 fastDTW between vertices (22, 8). Time: 4.50611114502e-05s
+2019-10-03 12:54:39,330 fastDTW between vertices (11, 3). Time: 3.2901763916e-05s
+2019-10-03 12:54:39,330 fastDTW between vertices (54, 11). Time: 3.38554382324e-05s
+2019-10-03 12:54:39,330 fastDTW between vertices (39, 8). Time: 5.19752502441e-05s
+2019-10-03 12:54:39,330 fastDTW between vertices (22, 9). Time: 4.48226928711e-05s
+2019-10-03 12:54:39,330 fastDTW between vertices (54, 12). Time: 3.40938568115e-05s
+2019-10-03 12:54:39,330 fastDTW between vertices (39, 9). Time: 5.10215759277e-05s
+2019-10-03 12:54:39,330 fastDTW between vertices (11, 4). Time: 6.91413879395e-05s
+2019-10-03 12:54:39,330 fastDTW between vertices (22, 10). Time: 4.50611114502e-05s
+2019-10-03 12:54:39,330 fastDTW between vertices (54, 14). Time: 3.40938568115e-05s
+2019-10-03 12:54:39,330 fastDTW between vertices (11, 6). Time: 4.79221343994e-05s
+2019-10-03 12:54:39,330 fastDTW between vertices (39, 10). Time: 6.41345977783e-05s
+2019-10-03 12:54:39,330 fastDTW between vertices (22, 11). Time: 6.79492950439e-05s
+2019-10-03 12:54:39,330 fastDTW between vertices (55, 35). Time: 7.89165496826e-05s
+2019-10-03 12:54:39,330 fastDTW between vertices (11, 7). Time: 6.79492950439e-05s
+2019-10-03 12:54:39,330 fastDTW between vertices (39, 11). Time: 6.89029693604e-05s
+2019-10-03 12:54:39,330 fastDTW between vertices (22, 12). Time: 4.6968460083e-05s
+2019-10-03 12:54:39,331 fastDTW between vertices (55, 33). Time: 6.91413879395e-05s
+2019-10-03 12:54:39,331 fastDTW between vertices (11, 8). Time: 4.88758087158e-05s
+2019-10-03 12:54:39,331 fastDTW between vertices (22, 14). Time: 3.40938568115e-05s
+2019-10-03 12:54:39,331 fastDTW between vertices (39, 12). Time: 5.00679016113e-05s
+2019-10-03 12:54:39,331 fastDTW between vertices (11, 9). Time: 4.79221343994e-05s
+2019-10-03 12:54:39,331 fastDTW between vertices (39, 14). Time: 3.38554382324e-05s
+2019-10-03 12:54:39,331 fastDTW between vertices (23, 1). Time: 4.60147857666e-05s
+2019-10-03 12:54:39,331 fastDTW between vertices (55, 34). Time: 5.69820404053e-05s
+2019-10-03 12:54:39,331 fastDTW between vertices (40, 1). Time: 3.2901763916e-05s
+2019-10-03 12:54:39,331 fastDTW between vertices (23, 2). Time: 6.19888305664e-05s
+2019-10-03 12:54:39,331 fastDTW between vertices (55, 13). Time: 6.98566436768e-05s
+2019-10-03 12:54:39,331 fastDTW between vertices (11, 10). Time: 8.20159912109e-05s
+2019-10-03 12:54:39,331 fastDTW between vertices (40, 2). Time: 4.19616699219e-05s
+2019-10-03 12:54:39,331 fastDTW between vertices (23, 3). Time: 3.60012054443e-05s
+2019-10-03 12:54:39,331 fastDTW between vertices (11, 12). Time: 4.88758087158e-05s
+2019-10-03 12:54:39,331 fastDTW between vertices (55, 41). Time: 5.41210174561e-05s
+2019-10-03 12:54:39,331 fastDTW between vertices (40, 3). Time: 3.50475311279e-05s
+2019-10-03 12:54:39,331 fastDTW between vertices (23, 4). Time: 5.19752502441e-05s
+2019-10-03 12:54:39,331 fastDTW between vertices (11, 14). Time: 3.40938568115e-05s
+2019-10-03 12:54:39,331 fastDTW between vertices (55, 42). Time: 5.69820404053e-05s
+2019-10-03 12:54:39,331 fastDTW between vertices (40, 4). Time: 3.38554382324e-05s
+2019-10-03 12:54:39,331 fastDTW between vertices (23, 6). Time: 4.6968460083e-05s
+2019-10-03 12:54:39,331 fastDTW between vertices (11, 15). Time: 4.88758087158e-05s
+2019-10-03 12:54:39,331 fastDTW between vertices (40, 6). Time: 3.71932983398e-05s
+2019-10-03 12:54:39,331 fastDTW between vertices (55, 46). Time: 5.29289245605e-05s
+2019-10-03 12:54:39,331 fastDTW between vertices (12, 1). Time: 4.50611114502e-05s
+2019-10-03 12:54:39,331 fastDTW between vertices (23, 7). Time: 5.29289245605e-05s
+2019-10-03 12:54:39,331 fastDTW between vertices (40, 7). Time: 3.38554382324e-05s
+2019-10-03 12:54:39,331 fastDTW between vertices (55, 48). Time: 5.50746917725e-05s
+2019-10-03 12:54:39,331 fastDTW between vertices (40, 8). Time: 3.31401824951e-05s
+2019-10-03 12:54:39,331 fastDTW between vertices (12, 2). Time: 4.60147857666e-05s
+2019-10-03 12:54:39,331 fastDTW between vertices (23, 8). Time: 4.6968460083e-05s
+2019-10-03 12:54:39,331 fastDTW between vertices (55, 59). Time: 5.29289245605e-05s
+2019-10-03 12:54:39,331 fastDTW between vertices (40, 9). Time: 3.40938568115e-05s
+2019-10-03 12:54:39,331 fastDTW between vertices (12, 3). Time: 3.2901763916e-05s
+2019-10-03 12:54:39,331 fastDTW between vertices (23, 9). Time: 4.6968460083e-05s
+2019-10-03 12:54:39,331 fastDTW between vertices (40, 10). Time: 3.2901763916e-05s
+2019-10-03 12:54:39,331 fastDTW between vertices (55, 61). Time: 5.50746917725e-05s
+2019-10-03 12:54:39,331 fastDTW between vertices (12, 4). Time: 5.00679016113e-05s
+2019-10-03 12:54:39,331 fastDTW between vertices (23, 10). Time: 4.60147857666e-05s
+2019-10-03 12:54:39,331 fastDTW between vertices (40, 11). Time: 3.38554382324e-05s
+2019-10-03 12:54:39,331 fastDTW between vertices (55, 1). Time: 5.10215759277e-05s
+2019-10-03 12:54:39,331 fastDTW between vertices (12, 6). Time: 4.6968460083e-05s
+2019-10-03 12:54:39,331 fastDTW between vertices (23, 11). Time: 4.91142272949e-05s
+2019-10-03 12:54:39,331 fastDTW between vertices (40, 12). Time: 3.40938568115e-05s
+2019-10-03 12:54:39,331 fastDTW between vertices (55, 2). Time: 5.00679016113e-05s
+2019-10-03 12:54:39,332 fastDTW between vertices (12, 7). Time: 5.00679016113e-05s
+2019-10-03 12:54:39,332 fastDTW between vertices (23, 12). Time: 4.48226928711e-05s
+2019-10-03 12:54:39,332 fastDTW between vertices (40, 14). Time: 3.40938568115e-05s
+2019-10-03 12:54:39,332 fastDTW between vertices (56, 1). Time: 4.60147857666e-05s
+2019-10-03 12:54:39,332 fastDTW between vertices (23, 14). Time: 3.40938568115e-05s
+2019-10-03 12:54:39,332 fastDTW between vertices (12, 8). Time: 4.6968460083e-05s
+2019-10-03 12:54:39,332 fastDTW between vertices (41, 42). Time: 5.07831573486e-05s
+2019-10-03 12:54:39,332 fastDTW between vertices (24, 1). Time: 3.38554382324e-05s
+2019-10-03 12:54:39,332 fastDTW between vertices (56, 2). Time: 4.60147857666e-05s
+2019-10-03 12:54:39,332 fastDTW between vertices (12, 9). Time: 4.60147857666e-05s
+2019-10-03 12:54:39,332 fastDTW between vertices (41, 46). Time: 5.22136688232e-05s
+2019-10-03 12:54:39,332 fastDTW between vertices (24, 2). Time: 3.40938568115e-05s
+2019-10-03 12:54:39,332 fastDTW between vertices (56, 3). Time: 3.40938568115e-05s
+2019-10-03 12:54:39,332 fastDTW between vertices (12, 10). Time: 4.60147857666e-05s
+2019-10-03 12:54:39,332 fastDTW between vertices (41, 48). Time: 5.07831573486e-05s
+2019-10-03 12:54:39,332 fastDTW between vertices (24, 3). Time: 3.40938568115e-05s
+2019-10-03 12:54:39,332 fastDTW between vertices (56, 4). Time: 5.10215759277e-05s
+2019-10-03 12:54:39,332 fastDTW between vertices (12, 11). Time: 4.79221343994e-05s
+2019-10-03 12:54:39,332 fastDTW between vertices (24, 4). Time: 3.50475311279e-05s
+2019-10-03 12:54:39,332 fastDTW between vertices (41, 59). Time: 5.31673431396e-05s
+2019-10-03 12:54:39,332 fastDTW between vertices (56, 6). Time: 4.50611114502e-05s
+2019-10-03 12:54:39,332 fastDTW between vertices (12, 14). Time: 3.40938568115e-05s
+2019-10-03 12:54:39,332 fastDTW between vertices (24, 6). Time: 3.40938568115e-05s
+2019-10-03 12:54:39,332 fastDTW between vertices (41, 61). Time: 5.10215759277e-05s
+2019-10-03 12:54:39,332 fastDTW between vertices (56, 7). Time: 5.00679016113e-05s
+2019-10-03 12:54:39,332 fastDTW between vertices (12, 15). Time: 4.60147857666e-05s
+2019-10-03 12:54:39,332 fastDTW between vertices (24, 7). Time: 3.40938568115e-05s
+2019-10-03 12:54:39,332 fastDTW between vertices (41, 1). Time: 4.79221343994e-05s
+2019-10-03 12:54:39,332 fastDTW between vertices (56, 8). Time: 4.50611114502e-05s
+2019-10-03 12:54:39,332 fastDTW between vertices (24, 8). Time: 3.38554382324e-05s
+2019-10-03 12:54:39,332 fastDTW between vertices (13, 33). Time: 6.60419464111e-05s
+2019-10-03 12:54:39,332 fastDTW between vertices (41, 2). Time: 4.91142272949e-05s
+2019-10-03 12:54:39,332 fastDTW between vertices (56, 9). Time: 4.48226928711e-05s
+2019-10-03 12:54:39,332 fastDTW between vertices (24, 9). Time: 3.40938568115e-05s
+2019-10-03 12:54:39,332 fastDTW between vertices (13, 34). Time: 6.50882720947e-05s
+2019-10-03 12:54:39,332 fastDTW between vertices (41, 3). Time: 3.40938568115e-05s
+2019-10-03 12:54:39,332 fastDTW between vertices (24, 10). Time: 3.38554382324e-05s
+2019-10-03 12:54:39,332 fastDTW between vertices (56, 10). Time: 4.60147857666e-05s
+2019-10-03 12:54:39,332 fastDTW between vertices (13, 41). Time: 5.10215759277e-05s
+2019-10-03 12:54:39,332 fastDTW between vertices (41, 4). Time: 5.48362731934e-05s
+2019-10-03 12:54:39,332 fastDTW between vertices (24, 11). Time: 3.31401824951e-05s
+2019-10-03 12:54:39,332 fastDTW between vertices (56, 11). Time: 4.79221343994e-05s
+2019-10-03 12:54:39,332 fastDTW between vertices (24, 12). Time: 3.38554382324e-05s
+2019-10-03 12:54:39,332 fastDTW between vertices (13, 42). Time: 5.29289245605e-05s
+2019-10-03 12:54:39,332 fastDTW between vertices (41, 6). Time: 5.10215759277e-05s
+2019-10-03 12:54:39,332 fastDTW between vertices (56, 12). Time: 4.50611114502e-05s
+2019-10-03 12:54:39,332 fastDTW between vertices (24, 14). Time: 3.40938568115e-05s
+2019-10-03 12:54:39,333 fastDTW between vertices (13, 46). Time: 5.19752502441e-05s
+2019-10-03 12:54:39,333 fastDTW between vertices (56, 14). Time: 3.40938568115e-05s
+2019-10-03 12:54:39,333 fastDTW between vertices (41, 7). Time: 5.60283660889e-05s
+2019-10-03 12:54:39,333 fastDTW between vertices (25, 1). Time: 5.10215759277e-05s
+2019-10-03 12:54:39,333 fastDTW between vertices (13, 48). Time: 5.19752502441e-05s
+2019-10-03 12:54:39,333 fastDTW between vertices (57, 1). Time: 4.57763671875e-05s
+2019-10-03 12:54:39,333 fastDTW between vertices (41, 8). Time: 4.91142272949e-05s
+2019-10-03 12:54:39,333 fastDTW between vertices (25, 2). Time: 5.10215759277e-05s
+2019-10-03 12:54:39,333 fastDTW between vertices (13, 59). Time: 5.10215759277e-05s
+2019-10-03 12:54:39,333 fastDTW between vertices (57, 2). Time: 4.60147857666e-05s
+2019-10-03 12:54:39,333 fastDTW between vertices (42, 41). Time: 5.10215759277e-05s
+2019-10-03 12:54:39,333 fastDTW between vertices (25, 3). Time: 3.38554382324e-05s
+2019-10-03 12:54:39,333 fastDTW between vertices (57, 3). Time: 3.38554382324e-05s
+2019-10-03 12:54:39,333 fastDTW between vertices (42, 46). Time: 5.10215759277e-05s
+2019-10-03 12:54:39,333 fastDTW between vertices (13, 61). Time: 6.38961791992e-05s
+2019-10-03 12:54:39,333 fastDTW between vertices (57, 4). Time: 5.10215759277e-05s
+2019-10-03 12:54:39,333 fastDTW between vertices (25, 4). Time: 9.20295715332e-05s
+2019-10-03 12:54:39,333 fastDTW between vertices (13, 1). Time: 4.88758087158e-05s
+2019-10-03 12:54:39,333 fastDTW between vertices (42, 48). Time: 5.19752502441e-05s
+2019-10-03 12:54:39,333 fastDTW between vertices (57, 6). Time: 4.60147857666e-05s
+2019-10-03 12:54:39,333 fastDTW between vertices (25, 6). Time: 4.98294830322e-05s
+2019-10-03 12:54:39,333 fastDTW between vertices (13, 2). Time: 4.88758087158e-05s
+2019-10-03 12:54:39,333 fastDTW between vertices (42, 59). Time: 5.10215759277e-05s
+2019-10-03 12:54:39,333 fastDTW between vertices (57, 7). Time: 4.98294830322e-05s
+2019-10-03 12:54:39,333 fastDTW between vertices (13, 3). Time: 3.60012054443e-05s
+2019-10-03 12:54:39,333 fastDTW between vertices (42, 61). Time: 5.19752502441e-05s
+2019-10-03 12:54:39,333 fastDTW between vertices (25, 7). Time: 8.79764556885e-05s
+2019-10-03 12:54:39,333 fastDTW between vertices (57, 8). Time: 4.60147857666e-05s
+2019-10-03 12:54:39,333 fastDTW between vertices (13, 4). Time: 6.50882720947e-05s
+2019-10-03 12:54:39,333 fastDTW between vertices (42, 1). Time: 4.88758087158e-05s
+2019-10-03 12:54:39,333 fastDTW between vertices (25, 8). Time: 5.07831573486e-05s
+2019-10-03 12:54:39,333 fastDTW between vertices (57, 9). Time: 4.6968460083e-05s
+2019-10-03 12:54:39,333 fastDTW between vertices (14, 1). Time: 3.38554382324e-05s
+2019-10-03 12:54:39,333 fastDTW between vertices (42, 2). Time: 4.81605529785e-05s
+2019-10-03 12:54:39,333 fastDTW between vertices (25, 9). Time: 5.00679016113e-05s
+2019-10-03 12:54:39,333 fastDTW between vertices (57, 10). Time: 4.60147857666e-05s
+2019-10-03 12:54:39,333 fastDTW between vertices (14, 2). Time: 3.40938568115e-05s
+2019-10-03 12:54:39,333 fastDTW between vertices (42, 3). Time: 3.60012054443e-05s
+2019-10-03 12:54:39,333 fastDTW between vertices (14, 3). Time: 3.2901763916e-05s
+2019-10-03 12:54:39,333 fastDTW between vertices (57, 11). Time: 4.91142272949e-05s
+2019-10-03 12:54:39,333 fastDTW between vertices (25, 10). Time: 6.19888305664e-05s
+2019-10-03 12:54:39,333 fastDTW between vertices (42, 4). Time: 5.19752502441e-05s
+2019-10-03 12:54:39,333 fastDTW between vertices (14, 4). Time: 3.40938568115e-05s
+2019-10-03 12:54:39,333 fastDTW between vertices (57, 12). Time: 4.60147857666e-05s
+2019-10-03 12:54:39,334 fastDTW between vertices (25, 11). Time: 6.8187713623e-05s
+2019-10-03 12:54:39,334 fastDTW between vertices (42, 6). Time: 5.00679016113e-05s
+2019-10-03 12:54:39,334 fastDTW between vertices (14, 6). Time: 3.40938568115e-05s
+2019-10-03 12:54:39,334 fastDTW between vertices (57, 14). Time: 3.38554382324e-05s
+2019-10-03 12:54:39,334 fastDTW between vertices (25, 12). Time: 5.00679016113e-05s
+2019-10-03 12:54:39,334 fastDTW between vertices (42, 7). Time: 5.22136688232e-05s
+2019-10-03 12:54:39,334 fastDTW between vertices (14, 7). Time: 3.50475311279e-05s
+2019-10-03 12:54:39,334 fastDTW between vertices (58, 1). Time: 4.60147857666e-05s
+2019-10-03 12:54:39,334 fastDTW between vertices (25, 14). Time: 3.40938568115e-05s
+2019-10-03 12:54:39,334 fastDTW between vertices (14, 8). Time: 3.40938568115e-05s
+2019-10-03 12:54:39,334 fastDTW between vertices (42, 8). Time: 4.91142272949e-05s
+2019-10-03 12:54:39,334 fastDTW between vertices (58, 2). Time: 4.50611114502e-05s
+2019-10-03 12:54:39,334 fastDTW between vertices (26, 1). Time: 3.40938568115e-05s
+2019-10-03 12:54:39,334 fastDTW between vertices (14, 9). Time: 3.40938568115e-05s
+2019-10-03 12:54:39,334 fastDTW between vertices (43, 1). Time: 4.79221343994e-05s
+2019-10-03 12:54:39,334 fastDTW between vertices (58, 3). Time: 3.38554382324e-05s
+2019-10-03 12:54:39,334 fastDTW between vertices (26, 2). Time: 3.2901763916e-05s
+2019-10-03 12:54:39,334 fastDTW between vertices (14, 10). Time: 3.40938568115e-05s
+2019-10-03 12:54:39,334 fastDTW between vertices (43, 2). Time: 4.88758087158e-05s
+2019-10-03 12:54:39,334 fastDTW between vertices (26, 3). Time: 3.40938568115e-05s
+2019-10-03 12:54:39,334 fastDTW between vertices (58, 4). Time: 5.10215759277e-05s
+2019-10-03 12:54:39,334 fastDTW between vertices (14, 11). Time: 3.40938568115e-05s
+2019-10-03 12:54:39,334 fastDTW between vertices (43, 3). Time: 3.40938568115e-05s
+2019-10-03 12:54:39,334 fastDTW between vertices (26, 4). Time: 3.40938568115e-05s
+2019-10-03 12:54:39,334 fastDTW between vertices (58, 6). Time: 4.60147857666e-05s
+2019-10-03 12:54:39,334 fastDTW between vertices (14, 12). Time: 3.38554382324e-05s
+2019-10-03 12:54:39,334 fastDTW between vertices (26, 6). Time: 3.40938568115e-05s
+2019-10-03 12:54:39,334 fastDTW between vertices (14, 15). Time: 3.40938568115e-05s
+2019-10-03 12:54:39,334 fastDTW between vertices (43, 4). Time: 6.8187713623e-05s
+2019-10-03 12:54:39,334 fastDTW between vertices (58, 7). Time: 5.00679016113e-05s
+2019-10-03 12:54:39,334 fastDTW between vertices (26, 7). Time: 3.38554382324e-05s
+2019-10-03 12:54:39,334 fastDTW between vertices (15, 1). Time: 4.60147857666e-05s
+2019-10-03 12:54:39,334 fastDTW between vertices (43, 6). Time: 4.88758087158e-05s
+2019-10-03 12:54:39,334 fastDTW between vertices (58, 8). Time: 4.6968460083e-05s
+2019-10-03 12:54:39,334 fastDTW between vertices (26, 8). Time: 3.31401824951e-05s
+2019-10-03 12:54:39,334 fastDTW between vertices (15, 2). Time: 4.50611114502e-05s
+2019-10-03 12:54:39,334 fastDTW between vertices (58, 9). Time: 4.60147857666e-05s
+2019-10-03 12:54:39,334 fastDTW between vertices (43, 7). Time: 6.79492950439e-05s
+2019-10-03 12:54:39,334 fastDTW between vertices (26, 9). Time: 3.40938568115e-05s
+2019-10-03 12:54:39,334 fastDTW between vertices (15, 3). Time: 3.38554382324e-05s
+2019-10-03 12:54:39,334 fastDTW between vertices (58, 10). Time: 4.60147857666e-05s
+2019-10-03 12:54:39,334 fastDTW between vertices (26, 10). Time: 3.40938568115e-05s
+2019-10-03 12:54:39,334 fastDTW between vertices (43, 8). Time: 4.81605529785e-05s
+2019-10-03 12:54:39,334 fastDTW between vertices (15, 4). Time: 5.00679016113e-05s
+2019-10-03 12:54:39,334 fastDTW between vertices (26, 11). Time: 3.2901763916e-05s
+2019-10-03 12:54:39,334 fastDTW between vertices (58, 11). Time: 4.79221343994e-05s
+2019-10-03 12:54:39,334 fastDTW between vertices (43, 9). Time: 4.88758087158e-05s
+2019-10-03 12:54:39,334 fastDTW between vertices (26, 12). Time: 3.2901763916e-05s
+2019-10-03 12:54:39,334 fastDTW between vertices (15, 6). Time: 4.6968460083e-05s
+2019-10-03 12:54:39,335 fastDTW between vertices (58, 12). Time: 4.6968460083e-05s
+2019-10-03 12:54:39,335 fastDTW between vertices (43, 10). Time: 7.29560852051e-05s
+2019-10-03 12:54:39,335 fastDTW between vertices (26, 14). Time: 3.2901763916e-05s
+2019-10-03 12:54:39,335 fastDTW between vertices (15, 7). Time: 5.07831573486e-05s
+2019-10-03 12:54:39,335 fastDTW between vertices (58, 14). Time: 3.38554382324e-05s
+2019-10-03 12:54:39,335 fastDTW between vertices (27, 1). Time: 4.91142272949e-05s
+2019-10-03 12:54:39,335 fastDTW between vertices (15, 8). Time: 4.50611114502e-05s
+2019-10-03 12:54:39,335 fastDTW between vertices (43, 11). Time: 7.70092010498e-05s
+2019-10-03 12:54:39,335 fastDTW between vertices (59, 41). Time: 5.19752502441e-05s
+2019-10-03 12:54:39,335 fastDTW between vertices (27, 2). Time: 6.50882720947e-05s
+2019-10-03 12:54:39,335 fastDTW between vertices (43, 12). Time: 5.00679016113e-05s
+2019-10-03 12:54:39,335 fastDTW between vertices (15, 9). Time: 5.79357147217e-05s
+2019-10-03 12:54:39,335 fastDTW between vertices (59, 42). Time: 6.29425048828e-05s
+2019-10-03 12:54:39,335 fastDTW between vertices (27, 3). Time: 3.38554382324e-05s
+2019-10-03 12:54:39,335 fastDTW between vertices (43, 14). Time: 3.38554382324e-05s
+2019-10-03 12:54:39,335 fastDTW between vertices (15, 10). Time: 4.60147857666e-05s
+2019-10-03 12:54:39,335 fastDTW between vertices (59, 46). Time: 5.29289245605e-05s
+2019-10-03 12:54:39,335 fastDTW between vertices (44, 1). Time: 4.60147857666e-05s
+2019-10-03 12:54:39,335 fastDTW between vertices (27, 4). Time: 6.91413879395e-05s
+2019-10-03 12:54:39,335 fastDTW between vertices (15, 11). Time: 4.91142272949e-05s
+2019-10-03 12:54:39,335 fastDTW between vertices (59, 48). Time: 5.10215759277e-05s
+2019-10-03 12:54:39,335 fastDTW between vertices (44, 2). Time: 4.60147857666e-05s
+2019-10-03 12:54:39,335 fastDTW between vertices (27, 6). Time: 4.88758087158e-05s
+2019-10-03 12:54:39,335 fastDTW between vertices (15, 12). Time: 4.60147857666e-05s
+2019-10-03 12:54:39,335 fastDTW between vertices (59, 61). Time: 5.10215759277e-05s
+2019-10-03 12:54:39,335 fastDTW between vertices (44, 3). Time: 3.2901763916e-05s
+2019-10-03 12:54:39,335 fastDTW between vertices (15, 14). Time: 3.48091125488e-05s
+2019-10-03 12:54:39,335 fastDTW between vertices (27, 7). Time: 6.79492950439e-05s
+2019-10-03 12:54:39,335 fastDTW between vertices (59, 1). Time: 4.79221343994e-05s
+2019-10-03 12:54:39,335 fastDTW between vertices (44, 4). Time: 4.98294830322e-05s
+2019-10-03 12:54:39,335 fastDTW between vertices (16, 1). Time: 3.48091125488e-05s
+2019-10-03 12:54:39,335 fastDTW between vertices (27, 8). Time: 4.91142272949e-05s
+2019-10-03 12:54:39,335 fastDTW between vertices (59, 2). Time: 4.81605529785e-05s
+2019-10-03 12:54:39,335 fastDTW between vertices (44, 6). Time: 4.60147857666e-05s
+2019-10-03 12:54:39,335 fastDTW between vertices (16, 2). Time: 3.40938568115e-05s
+2019-10-03 12:54:39,335 fastDTW between vertices (27, 9). Time: 4.79221343994e-05s
+2019-10-03 12:54:39,335 fastDTW between vertices (16, 3). Time: 3.40938568115e-05s
+2019-10-03 12:54:39,335 fastDTW between vertices (44, 7). Time: 5.10215759277e-05s
+2019-10-03 12:54:39,335 fastDTW between vertices (59, 3). Time: 7.5101852417e-05s
+2019-10-03 12:54:39,335 fastDTW between vertices (16, 4). Time: 3.38554382324e-05s
+2019-10-03 12:54:39,335 fastDTW between vertices (44, 8). Time: 4.48226928711e-05s
+2019-10-03 12:54:39,335 fastDTW between vertices (27, 10). Time: 8.89301300049e-05s
+2019-10-03 12:54:39,335 fastDTW between vertices (59, 4). Time: 5.79357147217e-05s
+2019-10-03 12:54:39,335 fastDTW between vertices (16, 6). Time: 3.40938568115e-05s
+2019-10-03 12:54:39,336 fastDTW between vertices (44, 9). Time: 4.60147857666e-05s
+2019-10-03 12:54:39,336 fastDTW between vertices (16, 7). Time: 3.38554382324e-05s
+2019-10-03 12:54:39,336 fastDTW between vertices (59, 6). Time: 5.00679016113e-05s
+2019-10-03 12:54:39,336 fastDTW between vertices (27, 11). Time: 7.70092010498e-05s
+2019-10-03 12:54:39,336 fastDTW between vertices (44, 10). Time: 4.50611114502e-05s
+2019-10-03 12:54:39,336 fastDTW between vertices (16, 8). Time: 3.40938568115e-05s
+2019-10-03 12:54:39,336 fastDTW between vertices (27, 12). Time: 4.79221343994e-05s
+2019-10-03 12:54:39,336 fastDTW between vertices (59, 7). Time: 5.50746917725e-05s
+2019-10-03 12:54:39,336 fastDTW between vertices (44, 11). Time: 4.91142272949e-05s
+2019-10-03 12:54:39,336 fastDTW between vertices (16, 9). Time: 3.40938568115e-05s
+2019-10-03 12:54:39,336 fastDTW between vertices (27, 14). Time: 3.40938568115e-05s
+2019-10-03 12:54:39,336 fastDTW between vertices (59, 8). Time: 4.88758087158e-05s
+2019-10-03 12:54:39,336 fastDTW between vertices (44, 12). Time: 4.60147857666e-05s
+2019-10-03 12:54:39,336 fastDTW between vertices (16, 10). Time: 3.50475311279e-05s
+2019-10-03 12:54:39,336 fastDTW between vertices (28, 1). Time: 4.6968460083e-05s
+2019-10-03 12:54:39,336 fastDTW between vertices (60, 1). Time: 4.72068786621e-05s
+2019-10-03 12:54:39,336 fastDTW between vertices (44, 14). Time: 3.40938568115e-05s
+2019-10-03 12:54:39,336 fastDTW between vertices (16, 11). Time: 3.40938568115e-05s
+2019-10-03 12:54:39,336 fastDTW between vertices (28, 2). Time: 4.60147857666e-05s
+2019-10-03 12:54:39,336 fastDTW between vertices (60, 2). Time: 4.60147857666e-05s
+2019-10-03 12:54:39,336 fastDTW between vertices (16, 12). Time: 3.40938568115e-05s
+2019-10-03 12:54:39,336 fastDTW between vertices (45, 1). Time: 5.07831573486e-05s
+2019-10-03 12:54:39,336 fastDTW between vertices (28, 3). Time: 3.2901763916e-05s
+2019-10-03 12:54:39,336 fastDTW between vertices (60, 3). Time: 3.40938568115e-05s
+2019-10-03 12:54:39,336 fastDTW between vertices (16, 14). Time: 3.40938568115e-05s
+2019-10-03 12:54:39,336 fastDTW between vertices (45, 2). Time: 4.98294830322e-05s
+2019-10-03 12:54:39,336 Consolidating distances...
+2019-10-03 12:54:39,336 fastDTW between vertices (28, 4). Time: 5.10215759277e-05s
+2019-10-03 12:54:39,336 fastDTW between vertices (60, 4). Time: 5.10215759277e-05s
+2019-10-03 12:54:39,336 fastDTW between vertices (45, 3). Time: 3.50475311279e-05s
+2019-10-03 12:54:39,336 fastDTW between vertices (28, 6). Time: 4.60147857666e-05s
+2019-10-03 12:54:39,336 fastDTW between vertices (60, 6). Time: 4.6968460083e-05s
+2019-10-03 12:54:39,336 fastDTW between vertices (45, 4). Time: 8.98838043213e-05s
+2019-10-03 12:54:39,336 fastDTW between vertices (28, 7). Time: 4.98294830322e-05s
+2019-10-03 12:54:39,336 fastDTW between vertices (60, 7). Time: 5.10215759277e-05s
+2019-10-03 12:54:39,336 Distances consolidated.
+2019-10-03 12:54:39,336 fastDTW between vertices (45, 6). Time: 5.10215759277e-05s
+2019-10-03 12:54:39,336 fastDTW between vertices (28, 8). Time: 4.50611114502e-05s
+2019-10-03 12:54:39,336 Saving variable on disk...
+2019-10-03 12:54:39,336 fastDTW between vertices (60, 8). Time: 4.60147857666e-05s
+2019-10-03 12:54:39,336 fastDTW between vertices (28, 9). Time: 4.60147857666e-05s
+2019-10-03 12:54:39,336 fastDTW between vertices (60, 9). Time: 4.60147857666e-05s
+2019-10-03 12:54:39,336 fastDTW between vertices (45, 7). Time: 8.9168548584e-05s
+2019-10-03 12:54:39,337 fastDTW between vertices (28, 10). Time: 4.50611114502e-05s
+2019-10-03 12:54:39,337 fastDTW between vertices (60, 10). Time: 4.60147857666e-05s
+2019-10-03 12:54:39,337 fastDTW between vertices (45, 8). Time: 5.00679016113e-05s
+2019-10-03 12:54:39,337 fastDTW between vertices (28, 11). Time: 4.79221343994e-05s
+2019-10-03 12:54:39,337 fastDTW between vertices (60, 11). Time: 4.91142272949e-05s
+2019-10-03 12:54:39,337 fastDTW between vertices (45, 9). Time: 5.00679016113e-05s
+2019-10-03 12:54:39,337 fastDTW between vertices (28, 12). Time: 4.60147857666e-05s
+2019-10-03 12:54:39,337 fastDTW between vertices (60, 12). Time: 4.60147857666e-05s
+2019-10-03 12:54:39,337 fastDTW between vertices (45, 10). Time: 6.29425048828e-05s
+2019-10-03 12:54:39,337 fastDTW between vertices (28, 14). Time: 3.38554382324e-05s
+2019-10-03 12:54:39,337 fastDTW between vertices (60, 14). Time: 3.40938568115e-05s
+2019-10-03 12:54:39,337 Variable saved. Time: 7.21613566081e-06m
+2019-10-03 12:54:39,337 fastDTW between vertices (29, 1). Time: 5.19752502441e-05s
+2019-10-03 12:54:39,337 fastDTW between vertices (45, 11). Time: 6.79492950439e-05s
+2019-10-03 12:54:39,337 fastDTW between vertices (61, 41). Time: 5.00679016113e-05s
+2019-10-03 12:54:39,337 fastDTW between vertices (29, 2). Time: 5.07831573486e-05s
+2019-10-03 12:54:39,337 fastDTW between vertices (45, 12). Time: 4.98294830322e-05s
+2019-10-03 12:54:39,337 fastDTW between vertices (61, 42). Time: 5.19752502441e-05s
+2019-10-03 12:54:39,337 fastDTW between vertices (29, 3). Time: 3.40938568115e-05s
+2019-10-03 12:54:39,337 fastDTW between vertices (45, 14). Time: 3.40938568115e-05s
+2019-10-03 12:54:39,337 fastDTW between vertices (61, 46). Time: 6.19888305664e-05s
+2019-10-03 12:54:39,337 fastDTW between vertices (46, 41). Time: 5.19752502441e-05s
+2019-10-03 12:54:39,337 fastDTW between vertices (29, 4). Time: 9.10758972168e-05s
+2019-10-03 12:54:39,337 fastDTW between vertices (61, 48). Time: 5.19752502441e-05s
+2019-10-03 12:54:39,337 fastDTW between vertices (46, 42). Time: 9.29832458496e-05s
+2019-10-03 12:54:39,337 fastDTW between vertices (61, 59). Time: 5.00679016113e-05s
+2019-10-03 12:54:39,337 fastDTW between vertices (29, 6). Time: 6.41345977783e-05s
+2019-10-03 12:54:39,337 Part 1 completed.
+2019-10-03 12:54:39,337 fastDTW between vertices (61, 1). Time: 4.79221343994e-05s
+2019-10-03 12:54:39,337 fastDTW between vertices (46, 48). Time: 5.3882598877e-05s
+2019-10-03 12:54:39,337 fastDTW between vertices (61, 2). Time: 4.91142272949e-05s
+2019-10-03 12:54:39,337 fastDTW between vertices (46, 59). Time: 5.31673431396e-05s
+2019-10-03 12:54:39,337 fastDTW between vertices (29, 7). Time: 0.000137805938721s
+2019-10-03 12:54:39,338 fastDTW between vertices (61, 3). Time: 3.50475311279e-05s
+2019-10-03 12:54:39,338 fastDTW between vertices (46, 61). Time: 4.98294830322e-05s
+2019-10-03 12:54:39,338 fastDTW between vertices (29, 8). Time: 5.19752502441e-05s
+2019-10-03 12:54:39,338 fastDTW between vertices (61, 4). Time: 6.50882720947e-05s
+2019-10-03 12:54:39,338 fastDTW between vertices (46, 1). Time: 4.91142272949e-05s
+2019-10-03 12:54:39,338 fastDTW between vertices (29, 9). Time: 5.10215759277e-05s
+2019-10-03 12:54:39,338 fastDTW between vertices (61, 6). Time: 4.91142272949e-05s
+2019-10-03 12:54:39,338 fastDTW between vertices (46, 2). Time: 4.88758087158e-05s
+2019-10-03 12:54:39,338 fastDTW between vertices (29, 10). Time: 6.29425048828e-05s
+2019-10-03 12:54:39,338 fastDTW between vertices (46, 3). Time: 3.48091125488e-05s
+2019-10-03 12:54:39,338 fastDTW between vertices (61, 7). Time: 6.60419464111e-05s
+2019-10-03 12:54:39,338 fastDTW between vertices (29, 11). Time: 6.79492950439e-05s
+2019-10-03 12:54:39,338 fastDTW between vertices (46, 4). Time: 5.60283660889e-05s
+2019-10-03 12:54:39,338 fastDTW between vertices (61, 8). Time: 4.88758087158e-05s
+2019-10-03 12:54:39,338 fastDTW between vertices (29, 12). Time: 5.00679016113e-05s
+2019-10-03 12:54:39,338 fastDTW between vertices (46, 6). Time: 4.98294830322e-05s
+2019-10-03 12:54:39,338 fastDTW between vertices (62, 1). Time: 5.10215759277e-05s
+2019-10-03 12:54:39,338 fastDTW between vertices (29, 14). Time: 3.2901763916e-05s
+2019-10-03 12:54:39,338 fastDTW between vertices (46, 7). Time: 5.50746917725e-05s
+2019-10-03 12:54:39,338 fastDTW between vertices (30, 1). Time: 4.60147857666e-05s
+2019-10-03 12:54:39,338 fastDTW between vertices (62, 2). Time: 5.19752502441e-05s
+2019-10-03 12:54:39,338 fastDTW between vertices (46, 8). Time: 4.88758087158e-05s
+2019-10-03 12:54:39,338 fastDTW between vertices (62, 3). Time: 3.38554382324e-05s
+2019-10-03 12:54:39,338 fastDTW between vertices (30, 2). Time: 4.60147857666e-05s
+2019-10-03 12:54:39,338 fastDTW between vertices (47, 1). Time: 4.50611114502e-05s
+2019-10-03 12:54:39,338 fastDTW between vertices (30, 3). Time: 3.40938568115e-05s
+2019-10-03 12:54:39,338 fastDTW between vertices (62, 4). Time: 9.29832458496e-05s
+2019-10-03 12:54:39,338 fastDTW between vertices (47, 2). Time: 4.48226928711e-05s
+2019-10-03 12:54:39,338 fastDTW between vertices (30, 4). Time: 5.00679016113e-05s
+2019-10-03 12:54:39,338 fastDTW between vertices (62, 6). Time: 5.10215759277e-05s
+2019-10-03 12:54:39,338 fastDTW between vertices (47, 3). Time: 3.2901763916e-05s
+2019-10-03 12:54:39,338 fastDTW between vertices (30, 6). Time: 4.6968460083e-05s
+2019-10-03 12:54:39,339 fastDTW between vertices (47, 4). Time: 5.00679016113e-05s
+2019-10-03 12:54:39,339 fastDTW between vertices (30, 7). Time: 5.00679016113e-05s
+2019-10-03 12:54:39,339 fastDTW between vertices (62, 7). Time: 8.98838043213e-05s
+2019-10-03 12:54:39,339 fastDTW between vertices (47, 6). Time: 4.60147857666e-05s
+2019-10-03 12:54:39,339 fastDTW between vertices (30, 8). Time: 4.48226928711e-05s
+2019-10-03 12:54:39,339 fastDTW between vertices (62, 8). Time: 5.10215759277e-05s
+2019-10-03 12:54:39,339 fastDTW between vertices (47, 7). Time: 5.69820404053e-05s
+2019-10-03 12:54:39,339 fastDTW between vertices (30, 9). Time: 6.19888305664e-05s
+2019-10-03 12:54:39,339 fastDTW between vertices (62, 9). Time: 5.88893890381e-05s
+2019-10-03 12:54:39,339 fastDTW between vertices (47, 8). Time: 4.6968460083e-05s
+2019-10-03 12:54:39,339 fastDTW between vertices (30, 10). Time: 4.6968460083e-05s
+2019-10-03 12:54:39,339 fastDTW between vertices (62, 10). Time: 6.38961791992e-05s
+2019-10-03 12:54:39,339 fastDTW between vertices (47, 9). Time: 4.6968460083e-05s
+2019-10-03 12:54:39,339 fastDTW between vertices (30, 11). Time: 4.79221343994e-05s
+2019-10-03 12:54:39,339 fastDTW between vertices (47, 10). Time: 4.60147857666e-05s
+2019-10-03 12:54:39,339 fastDTW between vertices (62, 11). Time: 6.8187713623e-05s
+2019-10-03 12:54:39,339 fastDTW between vertices (30, 12). Time: 4.60147857666e-05s
+2019-10-03 12:54:39,339 fastDTW between vertices (47, 11). Time: 4.79221343994e-05s
+2019-10-03 12:54:39,339 fastDTW between vertices (62, 12). Time: 4.98294830322e-05s
+2019-10-03 12:54:39,339 fastDTW between vertices (30, 14). Time: 3.38554382324e-05s
+2019-10-03 12:54:39,339 fastDTW between vertices (62, 14). Time: 3.48091125488e-05s
+2019-10-03 12:54:39,339 fastDTW between vertices (47, 12). Time: 4.60147857666e-05s
+2019-10-03 12:54:39,339 fastDTW between vertices (31, 1). Time: 4.60147857666e-05s
+2019-10-03 12:54:39,339 fastDTW between vertices (47, 14). Time: 3.38554382324e-05s
+2019-10-03 12:54:39,339 fastDTW between vertices (63, 1). Time: 3.50475311279e-05s
+2019-10-03 12:54:39,339 fastDTW between vertices (31, 2). Time: 4.60147857666e-05s
+2019-10-03 12:54:39,339 Consolidating distances...
+2019-10-03 12:54:39,339 fastDTW between vertices (63, 2). Time: 3.38554382324e-05s
+2019-10-03 12:54:39,339 fastDTW between vertices (31, 3). Time: 3.2901763916e-05s
+2019-10-03 12:54:39,339 fastDTW between vertices (63, 3). Time: 3.40938568115e-05s
+2019-10-03 12:54:39,339 fastDTW between vertices (31, 4). Time: 4.98294830322e-05s
+2019-10-03 12:54:39,339 fastDTW between vertices (63, 4). Time: 3.38554382324e-05s
+2019-10-03 12:54:39,340 fastDTW between vertices (31, 6). Time: 4.6968460083e-05s
+2019-10-03 12:54:39,340 Distances consolidated.
+2019-10-03 12:54:39,340 fastDTW between vertices (63, 6). Time: 3.40938568115e-05s
+2019-10-03 12:54:39,340 Saving variable on disk...
+2019-10-03 12:54:39,340 fastDTW between vertices (63, 7). Time: 3.50475311279e-05s
+2019-10-03 12:54:39,340 fastDTW between vertices (31, 7). Time: 5.10215759277e-05s
+2019-10-03 12:54:39,340 fastDTW between vertices (63, 8). Time: 3.40938568115e-05s
+2019-10-03 12:54:39,340 fastDTW between vertices (31, 8). Time: 4.60147857666e-05s
+2019-10-03 12:54:39,340 fastDTW between vertices (63, 9). Time: 3.38554382324e-05s
+2019-10-03 12:54:39,340 fastDTW between vertices (31, 9). Time: 4.50611114502e-05s
+2019-10-03 12:54:39,340 fastDTW between vertices (63, 10). Time: 3.31401824951e-05s
+2019-10-03 12:54:39,340 fastDTW between vertices (31, 10). Time: 4.60147857666e-05s
+2019-10-03 12:54:39,340 fastDTW between vertices (63, 11). Time: 3.40938568115e-05s
+2019-10-03 12:54:39,340 fastDTW between vertices (31, 11). Time: 4.81605529785e-05s
+2019-10-03 12:54:39,340 fastDTW between vertices (63, 12). Time: 3.38554382324e-05s
+2019-10-03 12:54:39,340 Variable saved. Time: 6.68366750081e-06m
+2019-10-03 12:54:39,340 fastDTW between vertices (31, 12). Time: 4.72068786621e-05s
+2019-10-03 12:54:39,340 fastDTW between vertices (63, 14). Time: 3.2901763916e-05s
+2019-10-03 12:54:39,340 Consolidating distances...
+2019-10-03 12:54:39,340 fastDTW between vertices (31, 14). Time: 3.40938568115e-05s
+2019-10-03 12:54:39,340 Consolidating distances...
+2019-10-03 12:54:39,340 Distances consolidated.
+2019-10-03 12:54:39,340 Saving variable on disk...
+2019-10-03 12:54:39,340 Part 3 completed.
+2019-10-03 12:54:39,340 Distances consolidated.
+2019-10-03 12:54:39,341 Saving variable on disk...
+2019-10-03 12:54:39,341 Variable saved. Time: 6.90221786499e-06m
+2019-10-03 12:54:39,341 Variable saved. Time: 6.68366750081e-06m
+2019-10-03 12:54:39,341 Part 4 completed.
+2019-10-03 12:54:39,341 Part 2 completed.
+2019-10-03 12:54:39,348 Creating distance network...
+2019-10-03 12:54:39,354 Executing part 1...
+2019-10-03 12:54:39,354 Recovering variable...
+2019-10-03 12:54:39,355 Variable recovered. Time: 7.94728597005e-06m
+2019-10-03 12:54:39,355 Part 1 executed.
+2019-10-03 12:54:39,355 Executing part 2...
+2019-10-03 12:54:39,355 Recovering variable...
+2019-10-03 12:54:39,355 Variable recovered. Time: 5.61475753784e-06m
+2019-10-03 12:54:39,356 Part 2 executed.
+2019-10-03 12:54:39,356 Executing part 3...
+2019-10-03 12:54:39,356 Recovering variable...
+2019-10-03 12:54:39,356 Variable recovered. Time: 4.71671422323e-06m
+2019-10-03 12:54:39,356 Part 3 executed.
+2019-10-03 12:54:39,356 Executing part 4...
+2019-10-03 12:54:39,356 Recovering variable...
+2019-10-03 12:54:39,357 Variable recovered. Time: 4.33127085368e-06m
+2019-10-03 12:54:39,357 Part 4 executed.
+2019-10-03 12:54:39,357 Saving variable on disk...
+2019-10-03 12:54:39,357 Variable saved. Time: 3.98556391398e-06m
+2019-10-03 12:54:39,357 Saving variable on disk...
+2019-10-03 12:54:39,358 Variable saved. Time: 5.4677327474e-06m
+2019-10-03 12:54:39,358 Saving variable on disk...
+2019-10-03 12:54:39,358 Variable saved. Time: 4.48226928711e-06m
+2019-10-03 12:54:39,358 Saving variable on disk...
+2019-10-03 12:54:39,358 Variable saved. Time: 1.33117039998e-06m
+2019-10-03 12:54:39,358 Saving variable on disk...
+2019-10-03 12:54:39,358 Variable saved. Time: 8.34465026855e-07m
+2019-10-03 12:54:39,366 - Time - part 1: 0.0185041427612s
+2019-10-03 12:54:39,373 Executing part 1...
+2019-10-03 12:54:39,373 Recovering variable...
+2019-10-03 12:54:39,374 Variable recovered. Time: 7.82012939453e-06m
+2019-10-03 12:54:39,374 Part 1 executed.
+2019-10-03 12:54:39,374 Executing part 2...
+2019-10-03 12:54:39,374 Recovering variable...
+2019-10-03 12:54:39,375 Variable recovered. Time: 5.3326288859e-06m
+2019-10-03 12:54:39,375 Part 2 executed.
+2019-10-03 12:54:39,375 Executing part 3...
+2019-10-03 12:54:39,375 Recovering variable...
+2019-10-03 12:54:39,376 Variable recovered. Time: 3.98556391398e-06m
+2019-10-03 12:54:39,376 Part 3 executed.
+2019-10-03 12:54:39,376 Executing part 4...
+2019-10-03 12:54:39,376 Recovering variable...
+2019-10-03 12:54:39,376 Variable recovered. Time: 4.36703364054e-06m
+2019-10-03 12:54:39,377 Part 4 executed.
+2019-10-03 12:54:39,377 Saving variable on disk...
+2019-10-03 12:54:39,377 Variable saved. Time: 4.33127085368e-06m
+2019-10-03 12:54:39,377 Saving variable on disk...
+2019-10-03 12:54:39,377 Variable saved. Time: 2.96831130981e-06m
+2019-10-03 12:54:39,378 Saving variable on disk...
+2019-10-03 12:54:39,378 Variable saved. Time: 2.38418579102e-06m
+2019-10-03 12:54:39,378 Saving variable on disk...
+2019-10-03 12:54:39,378 Variable saved. Time: 1.39872233073e-06m
+2019-10-03 12:54:39,378 Saving variable on disk...
+2019-10-03 12:54:39,378 Variable saved. Time: 8.82148742676e-07m
+2019-10-03 12:54:39,382 - Time - part 2: 0.015200138092s
+2019-10-03 12:54:39,382 distance network created.
+2019-10-03 12:54:39,382 Transforming distances into weights...
+2019-10-03 12:54:39,393 Recovering variable...
+2019-10-03 12:54:39,394 Variable recovered. Time: 5.55117925008e-06m
+2019-10-03 12:54:39,394 Recovering variable...
+2019-10-03 12:54:39,395 Variable recovered. Time: 8.86519749959e-06m
+2019-10-03 12:54:39,395 Executing layer 0...
+2019-10-03 12:54:39,399 Saving variable on disk...
+2019-10-03 12:54:39,403 Variable saved. Time: 7.09335009257e-05m
+2019-10-03 12:54:39,403 Saving variable on disk...
+2019-10-03 12:54:39,403 Variable saved. Time: 4.53392664591e-06m
+2019-10-03 12:54:39,403 Saving variable on disk...
+2019-10-03 12:54:39,404 Variable saved. Time: 4.10079956055e-06m
+2019-10-03 12:54:39,404 Layer 0 executed.
+2019-10-03 12:54:39,404 Recovering variable...
+2019-10-03 12:54:39,404 Variable recovered. Time: 4.01735305786e-06m
+2019-10-03 12:54:39,404 Recovering variable...
+2019-10-03 12:54:39,404 Variable recovered. Time: 5.01871109009e-06m
+2019-10-03 12:54:39,404 Executing layer 1...
+2019-10-03 12:54:39,408 Saving variable on disk...
+2019-10-03 12:54:39,412 Variable saved. Time: 6.37372334798e-05m
+2019-10-03 12:54:39,412 Saving variable on disk...
+2019-10-03 12:54:39,413 Variable saved. Time: 4.49816385905e-06m
+2019-10-03 12:54:39,413 Saving variable on disk...
+2019-10-03 12:54:39,413 Variable saved. Time: 4.26769256592e-06m
+2019-10-03 12:54:39,413 Layer 1 executed.
+2019-10-03 12:54:39,413 Recovering variable...
+2019-10-03 12:54:39,413 Variable recovered. Time: 3.01996866862e-06m
+2019-10-03 12:54:39,413 Recovering variable...
+2019-10-03 12:54:39,414 Variable recovered. Time: 3.715356191e-06m
+2019-10-03 12:54:39,414 Executing layer 2...
+2019-10-03 12:54:39,417 Saving variable on disk...
+2019-10-03 12:54:39,420 Variable saved. Time: 4.90665435791e-05m
+2019-10-03 12:54:39,420 Saving variable on disk...
+2019-10-03 12:54:39,420 Variable saved. Time: 4.24782435099e-06m
+2019-10-03 12:54:39,420 Saving variable on disk...
+2019-10-03 12:54:39,421 Variable saved. Time: 3.93390655518e-06m
+2019-10-03 12:54:39,421 Layer 2 executed.
+2019-10-03 12:54:39,421 Recovering variable...
+2019-10-03 12:54:39,421 Variable recovered. Time: 2.11397806803e-06m
+2019-10-03 12:54:39,421 Recovering variable...
+2019-10-03 12:54:39,421 Variable recovered. Time: 1.74840291341e-06m
+2019-10-03 12:54:39,421 Executing layer 3...
+2019-10-03 12:54:39,422 Saving variable on disk...
+2019-10-03 12:54:39,423 Variable saved. Time: 1.34825706482e-05m
+2019-10-03 12:54:39,423 Saving variable on disk...
+2019-10-03 12:54:39,424 Variable saved. Time: 2.78155008952e-06m
+2019-10-03 12:54:39,424 Saving variable on disk...
+2019-10-03 12:54:39,424 Variable saved. Time: 3.03586324056e-06m
+2019-10-03 12:54:39,424 Layer 3 executed.
+2019-10-03 12:54:39,424 Recovering variable...
+2019-10-03 12:54:39,424 Variable recovered. Time: 7.8280766805e-07m
+2019-10-03 12:54:39,424 Recovering variable...
+2019-10-03 12:54:39,424 Variable recovered. Time: 6.00020090739e-07m
+2019-10-03 12:54:39,424 Executing layer 4...
+2019-10-03 12:54:39,425 Saving variable on disk...
+2019-10-03 12:54:39,425 Variable saved. Time: 2.13384628296e-06m
+2019-10-03 12:54:39,425 Saving variable on disk...
+2019-10-03 12:54:39,425 Variable saved. Time: 1.20004018148e-06m
+2019-10-03 12:54:39,425 Saving variable on disk...
+2019-10-03 12:54:39,425 Variable saved. Time: 1.14838282267e-06m
+2019-10-03 12:54:39,425 Layer 4 executed.
+2019-10-03 12:54:39,425 Weights created.
+2019-10-03 12:54:39,429 - Time - part 3: 0.0466680526733s
+2019-10-03 12:54:39,432 Consolidating graphs...
+2019-10-03 12:54:39,433 Executing layer 0...
+2019-10-03 12:54:39,433 Recovering variable...
+2019-10-03 12:54:39,433 Variable recovered. Time: 5.60283660889e-06m
+2019-10-03 12:54:39,433 Layer 0 executed.
+2019-10-03 12:54:39,433 Executing layer 1...
+2019-10-03 12:54:39,433 Recovering variable...
+2019-10-03 12:54:39,433 Variable recovered. Time: 4.94718551636e-06m
+2019-10-03 12:54:39,434 Layer 1 executed.
+2019-10-03 12:54:39,434 Executing layer 2...
+2019-10-03 12:54:39,434 Recovering variable...
+2019-10-03 12:54:39,434 Variable recovered. Time: 3.6358833313e-06m
+2019-10-03 12:54:39,434 Layer 2 executed.
+2019-10-03 12:54:39,434 Executing layer 3...
+2019-10-03 12:54:39,434 Recovering variable...
+2019-10-03 12:54:39,434 Variable recovered. Time: 9.81489817301e-07m
+2019-10-03 12:54:39,434 Layer 3 executed.
+2019-10-03 12:54:39,434 Executing layer 4...
+2019-10-03 12:54:39,434 Recovering variable...
+2019-10-03 12:54:39,434 Variable recovered. Time: 4.80810801188e-07m
+2019-10-03 12:54:39,434 Layer 4 executed.
+2019-10-03 12:54:39,434 Saving distancesNets on disk...
+2019-10-03 12:54:39,434 Saving variable on disk...
+2019-10-03 12:54:39,435 Variable saved. Time: 9.81489817301e-06m
+2019-10-03 12:54:39,435 Graphs consolidated.
+2019-10-03 12:54:39,439 - Time - part 4: 0.00968599319458s
+2019-10-03 12:54:39,442 Executing layer 0...
+2019-10-03 12:54:39,442 Recovering variable...
+2019-10-03 12:54:39,443 Variable recovered. Time: 6.41743342082e-06m
+2019-10-03 12:54:39,443 Layer 0 executed.
+2019-10-03 12:54:39,443 Executing layer 1...
+2019-10-03 12:54:39,443 Recovering variable...
+2019-10-03 12:54:39,443 Variable recovered. Time: 4.23192977905e-06m
+2019-10-03 12:54:39,443 Layer 1 executed.
+2019-10-03 12:54:39,443 Executing layer 2...
+2019-10-03 12:54:39,443 Recovering variable...
+2019-10-03 12:54:39,444 Variable recovered. Time: 3.41733296712e-06m
+2019-10-03 12:54:39,444 Layer 2 executed.
+2019-10-03 12:54:39,444 Executing layer 3...
+2019-10-03 12:54:39,444 Recovering variable...
+2019-10-03 12:54:39,444 Variable recovered. Time: 1.59740447998e-06m
+2019-10-03 12:54:39,444 Layer 3 executed.
+2019-10-03 12:54:39,444 Executing layer 4...
+2019-10-03 12:54:39,444 Recovering variable...
+2019-10-03 12:54:39,444 Variable recovered. Time: 8.50359598796e-07m
+2019-10-03 12:54:39,444 Layer 4 executed.
+2019-10-03 12:54:39,444 Saving nets_weights_alias_method_j on disk...
+2019-10-03 12:54:39,444 Saving variable on disk...
+2019-10-03 12:54:39,445 Variable saved. Time: 1.45514806112e-05m
+2019-10-03 12:54:39,449 - Time - part 5: 0.00959086418152s
+2019-10-03 12:54:39,452 Executing layer 0...
+2019-10-03 12:54:39,452 Recovering variable...
+2019-10-03 12:54:39,453 Variable recovered. Time: 6.30219777425e-06m
+2019-10-03 12:54:39,453 Layer 0 executed.
+2019-10-03 12:54:39,453 Executing layer 1...
+2019-10-03 12:54:39,453 Recovering variable...
+2019-10-03 12:54:39,453 Variable recovered. Time: 4.10079956055e-06m
+2019-10-03 12:54:39,453 Layer 1 executed.
+2019-10-03 12:54:39,453 Executing layer 2...
+2019-10-03 12:54:39,453 Recovering variable...
+2019-10-03 12:54:39,454 Variable recovered. Time: 3.51667404175e-06m
+2019-10-03 12:54:39,454 Layer 2 executed.
+2019-10-03 12:54:39,454 Executing layer 3...
+2019-10-03 12:54:39,454 Recovering variable...
+2019-10-03 12:54:39,454 Variable recovered. Time: 1.60137812297e-06m
+2019-10-03 12:54:39,454 Layer 3 executed.
+2019-10-03 12:54:39,454 Executing layer 4...
+2019-10-03 12:54:39,454 Recovering variable...
+2019-10-03 12:54:39,454 Variable recovered. Time: 7.6691309611e-07m
+2019-10-03 12:54:39,454 Layer 4 executed.
+2019-10-03 12:54:39,454 Saving nets_weights_alias_method_q on disk...
+2019-10-03 12:54:39,454 Saving variable on disk...
+2019-10-03 12:54:39,455 Variable saved. Time: 1.47342681885e-05m
+2019-10-03 12:54:39,459 - Time - part 6: 0.00973701477051s
+2019-10-03 12:54:39,466 Loading distances_nets from disk...
+2019-10-03 12:54:39,466 Executing layer 0...
+2019-10-03 12:54:39,466 Recovering variable...
+2019-10-03 12:54:39,467 Variable recovered. Time: 2.25027402242e-05m
+2019-10-03 12:54:39,468 Layer 0 executed.
+2019-10-03 12:54:39,468 Executing layer 1...
+2019-10-03 12:54:39,468 Recovering variable...
+2019-10-03 12:54:39,469 Variable recovered. Time: 1.88827514648e-05m
+2019-10-03 12:54:39,469 Layer 1 executed.
+2019-10-03 12:54:39,469 Executing layer 2...
+2019-10-03 12:54:39,469 Recovering variable...
+2019-10-03 12:54:39,470 Variable recovered. Time: 1.25328699748e-05m
+2019-10-03 12:54:39,470 Layer 2 executed.
+2019-10-03 12:54:39,470 Executing layer 3...
+2019-10-03 12:54:39,471 Recovering variable...
+2019-10-03 12:54:39,471 Variable recovered. Time: 3.36567560832e-06m
+2019-10-03 12:54:39,471 Layer 3 executed.
+2019-10-03 12:54:39,471 Executing layer 4...
+2019-10-03 12:54:39,471 Recovering variable...
+2019-10-03 12:54:39,471 Variable recovered. Time: 7.86781311035e-07m
+2019-10-03 12:54:39,471 Layer 4 executed.
+2019-10-03 12:54:39,471 Saving average_weights on disk...
+2019-10-03 12:54:39,471 Saving variable on disk...
+2019-10-03 12:54:39,471 Variable saved. Time: 2.46365865072e-06m
+2019-10-03 12:54:39,471 Executing layer 0...
+2019-10-03 12:54:39,471 Recovering variable...
+2019-10-03 12:54:39,472 Variable recovered. Time: 1.68840090434e-05m
+2019-10-03 12:54:39,473 Layer 0 executed.
+2019-10-03 12:54:39,473 Executing layer 1...
+2019-10-03 12:54:39,473 Recovering variable...
+2019-10-03 12:54:39,474 Variable recovered. Time: 1.61329905192e-05m
+2019-10-03 12:54:39,474 Layer 1 executed.
+2019-10-03 12:54:39,474 Executing layer 2...
+2019-10-03 12:54:39,474 Recovering variable...
+2019-10-03 12:54:39,475 Variable recovered. Time: 1.40825907389e-05m
+2019-10-03 12:54:39,475 Layer 2 executed.
+2019-10-03 12:54:39,475 Executing layer 3...
+2019-10-03 12:54:39,475 Recovering variable...
+2019-10-03 12:54:39,475 Variable recovered. Time: 2.55107879639e-06m
+2019-10-03 12:54:39,475 Layer 3 executed.
+2019-10-03 12:54:39,475 Executing layer 4...
+2019-10-03 12:54:39,475 Recovering variable...
+2019-10-03 12:54:39,475 Variable recovered. Time: 7.5101852417e-07m
+2019-10-03 12:54:39,475 Layer 4 executed.
+2019-10-03 12:54:39,475 Saving amount_neighbours on disk...
+2019-10-03 12:54:39,476 Saving variable on disk...
+2019-10-03 12:54:39,476 Variable saved. Time: 1.33117039998e-06m
+2019-10-03 12:54:39,483 Loading distances_nets on disk...
+2019-10-03 12:54:39,483 Recovering variable...
+2019-10-03 12:54:39,485 Variable recovered. Time: 2.21014022827e-05m
+2019-10-03 12:54:39,485 Recovering variable...
+2019-10-03 12:54:39,485 Variable recovered. Time: 1.23659769694e-05m
+2019-10-03 12:54:39,485 Recovering variable...
+2019-10-03 12:54:39,486 Variable recovered. Time: 1.05659166972e-05m
+2019-10-03 12:54:39,486 Recovering variable...
+2019-10-03 12:54:39,486 Variable recovered. Time: 1.1682510376e-06m
+2019-10-03 12:54:39,486 Creating RWs...
+2019-10-03 12:54:39,497 RW - vertex 55. Time : 0.000361919403076s
+2019-10-03 12:54:39,497 RW - vertex 9. Time : 0.000174999237061s
+2019-10-03 12:54:39,497 RW - vertex 6. Time : 0.000174045562744s
+2019-10-03 12:54:39,497 RW - vertex 40. Time : 0.000151872634888s
+2019-10-03 12:54:39,498 RW - vertex 20. Time : 0.000285863876343s
+2019-10-03 12:54:39,498 RW - vertex 17. Time : 0.000184059143066s
+2019-10-03 12:54:39,498 RW - vertex 9. Time : 0.000202894210815s
+2019-10-03 12:54:39,498 RW - vertex 21. Time : 0.000233888626099s
+2019-10-03 12:54:39,498 RW - vertex 5. Time : 0.00019097328186s
+2019-10-03 12:54:39,498 RW - vertex 14. Time : 0.000169992446899s
+2019-10-03 12:54:39,498 RW - vertex 19. Time : 0.000181198120117s
+2019-10-03 12:54:39,498 RW - vertex 26. Time : 0.000157117843628s
+2019-10-03 12:54:39,499 RW - vertex 23. Time : 0.000160932540894s
+2019-10-03 12:54:39,499 RW - vertex 43. Time : 0.000162839889526s
+2019-10-03 12:54:39,499 RW - vertex 45. Time : 0.000185012817383s
+2019-10-03 12:54:39,499 RW - vertex 54. Time : 0.000181913375854s
+2019-10-03 12:54:39,499 RW - vertex 11. Time : 0.000150918960571s
+2019-10-03 12:54:39,499 RW - vertex 59. Time : 0.000169038772583s
+2019-10-03 12:54:39,499 RW - vertex 55. Time : 0.00029993057251s
+2019-10-03 12:54:39,499 RW - vertex 16. Time : 0.000153779983521s
+2019-10-03 12:54:39,499 RW - vertex 52. Time : 0.000176906585693s
+2019-10-03 12:54:39,499 RW - vertex 41. Time : 0.000174045562744s
+2019-10-03 12:54:39,499 RW - vertex 43. Time : 0.00019097328186s
+2019-10-03 12:54:39,500 RW - vertex 1. Time : 0.000175952911377s
+2019-10-03 12:54:39,500 RW - vertex 8. Time : 0.000166177749634s
+2019-10-03 12:54:39,500 RW - vertex 18. Time : 0.000229120254517s
+2019-10-03 12:54:39,500 RW - vertex 36. Time : 0.000225067138672s
+2019-10-03 12:54:39,500 RW - vertex 33. Time : 0.000175952911377s
+2019-10-03 12:54:39,500 RW - vertex 59. Time : 0.000244855880737s
+2019-10-03 12:54:39,500 RW - vertex 49. Time : 0.000162839889526s
+2019-10-03 12:54:39,500 RW - vertex 30. Time : 0.00025200843811s
+2019-10-03 12:54:39,500 RW - vertex 62. Time : 0.000178098678589s
+2019-10-03 12:54:39,500 RW - vertex 53. Time : 0.000184774398804s
+2019-10-03 12:54:39,500 Receiving results...
+2019-10-03 12:54:39,500 RW - vertex 50. Time : 0.000169038772583s
+2019-10-03 12:54:39,500 RW - vertex 42. Time : 0.000152826309204s
+2019-10-03 12:54:39,501 RW - vertex 1. Time : 0.000235795974731s
+2019-10-03 12:54:39,501 RW - vertex 7. Time : 0.000191926956177s
+2019-10-03 12:54:39,501 RW - vertex 12. Time : 0.000164031982422s
+2019-10-03 12:54:39,501 RW - vertex 3. Time : 0.000160932540894s
+2019-10-03 12:54:39,501 RW - vertex 36. Time : 0.000183820724487s
+2019-10-03 12:54:39,501 RW - vertex 54. Time : 0.000165939331055s
+2019-10-03 12:54:39,501 RW - vertex 18. Time : 0.000160932540894s
+2019-10-03 12:54:39,501 RW - vertex 42. Time : 0.000175952911377s
+2019-10-03 12:54:39,501 RW - vertex 58. Time : 0.000249147415161s
+2019-10-03 12:54:39,501 RW - vertex 34. Time : 0.000202894210815s
+2019-10-03 12:54:39,501 RW - vertex 39. Time : 0.000162124633789s
+2019-10-03 12:54:39,501 RW - vertex 63. Time : 0.000159978866577s
+2019-10-03 12:54:39,501 RW - vertex 62. Time : 0.000158071517944s
+2019-10-03 12:54:39,501 RW - vertex 58. Time : 0.000164985656738s
+2019-10-03 12:54:39,501 RW - vertex 44. Time : 0.000165939331055s
+2019-10-03 12:54:39,501 RW - vertex 38. Time : 0.000166893005371s
+2019-10-03 12:54:39,502 RW - vertex 50. Time : 0.000140905380249s
+2019-10-03 12:54:39,502 RW - vertex 23. Time : 0.000163078308105s
+2019-10-03 12:54:39,502 RW - vertex 61. Time : 0.000176906585693s
+2019-10-03 12:54:39,502 RW - vertex 54. Time : 0.000162124633789s
+2019-10-03 12:54:39,502 RW - vertex 21. Time : 0.000162839889526s
+2019-10-03 12:54:39,502 RW - vertex 35. Time : 0.000171899795532s
+2019-10-03 12:54:39,502 RW - vertex 3. Time : 0.000152111053467s
+2019-10-03 12:54:39,502 RW - vertex 62. Time : 0.000195980072021s
+2019-10-03 12:54:39,502 RW - vertex 5. Time : 0.000178098678589s
+2019-10-03 12:54:39,502 RW - vertex 42. Time : 0.000188112258911s
+2019-10-03 12:54:39,502 RW - vertex 35. Time : 0.000213861465454s
+2019-10-03 12:54:39,502 RW - vertex 58. Time : 0.000181913375854s
+2019-10-03 12:54:39,502 RW - vertex 24. Time : 0.000170946121216s
+2019-10-03 12:54:39,502 RW - vertex 50. Time : 0.00016713142395s
+2019-10-03 12:54:39,502 RW - vertex 32. Time : 0.00016713142395s
+2019-10-03 12:54:39,502 RW - vertex 49. Time : 0.000159025192261s
+2019-10-03 12:54:39,502 RW - vertex 26. Time : 0.000159025192261s
+2019-10-03 12:54:39,502 RW - vertex 31. Time : 0.000167846679688s
+2019-10-03 12:54:39,502 RW - vertex 56. Time : 0.000171899795532s
+2019-10-03 12:54:39,502 RW - vertex 28. Time : 0.000176906585693s
+2019-10-03 12:54:39,503 RW - vertex 31. Time : 0.000159025192261s
+2019-10-03 12:54:39,503 RW - vertex 22. Time : 0.000150918960571s
+2019-10-03 12:54:39,503 RW - vertex 8. Time : 0.00015115737915s
+2019-10-03 12:54:39,503 RW - vertex 53. Time : 0.000187873840332s
+2019-10-03 12:54:39,503 RW - vertex 43. Time : 0.00019907951355s
+2019-10-03 12:54:39,503 RW - vertex 1. Time : 0.000181913375854s
+2019-10-03 12:54:39,503 RW - vertex 2. Time : 0.000180959701538s
+2019-10-03 12:54:39,503 RW - vertex 17. Time : 0.000174999237061s
+2019-10-03 12:54:39,503 RW - vertex 57. Time : 0.000152826309204s
+2019-10-03 12:54:39,503 RW - vertex 48. Time : 0.000153064727783s
+2019-10-03 12:54:39,503 RW - vertex 46. Time : 0.000165939331055s
+2019-10-03 12:54:39,503 RW - vertex 13. Time : 0.000274896621704s
+2019-10-03 12:54:39,503 RW - vertex 12. Time : 0.000147104263306s
+2019-10-03 12:54:39,503 RW - vertex 41. Time : 0.000166893005371s
+2019-10-03 12:54:39,503 RW - vertex 44. Time : 0.000159025192261s
+2019-10-03 12:54:39,503 RW - vertex 10. Time : 0.000133037567139s
+2019-10-03 12:54:39,504 RW - vertex 37. Time : 0.000169038772583s
+2019-10-03 12:54:39,504 RW - vertex 22. Time : 0.000320911407471s
+2019-10-03 12:54:39,504 RW - vertex 10. Time : 0.000170946121216s
+2019-10-03 12:54:39,504 RW - vertex 38. Time : 0.000173091888428s
+2019-10-03 12:54:39,504 RW - vertex 32. Time : 0.000160932540894s
+2019-10-03 12:54:39,504 RW - vertex 4. Time : 0.000180959701538s
+2019-10-03 12:54:39,504 RW - vertex 4. Time : 0.000142097473145s
+2019-10-03 12:54:39,504 RW - vertex 53. Time : 0.000142812728882s
+2019-10-03 12:54:39,504 RW - vertex 7. Time : 0.000336885452271s
+2019-10-03 12:54:39,504 RW - vertex 2. Time : 0.0001540184021s
+2019-10-03 12:54:39,504 RW - vertex 60. Time : 0.000180959701538s
+2019-10-03 12:54:39,504 RW - vertex 5. Time : 0.000185012817383s
+2019-10-03 12:54:39,504 RW - vertex 43. Time : 0.000159025192261s
+2019-10-03 12:54:39,504 RW - vertex 28. Time : 0.000185966491699s
+2019-10-03 12:54:39,504 RW - vertex 22. Time : 0.000182867050171s
+2019-10-03 12:54:39,504 RW - vertex 20. Time : 0.000334978103638s
+2019-10-03 12:54:39,504 RW - vertex 13. Time : 0.000152111053467s
+2019-10-03 12:54:39,504 RW - vertex 25. Time : 0.0001540184021s
+2019-10-03 12:54:39,505 RW - vertex 15. Time : 0.000178813934326s
+2019-10-03 12:54:39,505 RW - vertex 25. Time : 0.000174999237061s
+2019-10-03 12:54:39,505 RW - vertex 12. Time : 0.000170230865479s
+2019-10-03 12:54:39,505 RW - vertex 17. Time : 0.000332117080688s
+2019-10-03 12:54:39,505 RW - vertex 23. Time : 0.000176191329956s
+2019-10-03 12:54:39,505 RW - vertex 37. Time : 0.000159025192261s
+2019-10-03 12:54:39,505 RW - vertex 24. Time : 0.000171184539795s
+2019-10-03 12:54:39,505 RW - vertex 19. Time : 0.000169992446899s
+2019-10-03 12:54:39,505 RW - vertex 47. Time : 0.000175952911377s
+2019-10-03 12:54:39,505 RW - vertex 61. Time : 0.000149965286255s
+2019-10-03 12:54:39,505 RW - vertex 27. Time : 0.000154972076416s
+2019-10-03 12:54:39,505 RW - vertex 27. Time : 0.00016188621521s
+2019-10-03 12:54:39,505 RW - vertex 23. Time : 0.000396966934204s
+2019-10-03 12:54:39,505 RW - vertex 59. Time : 0.00021505355835s
+2019-10-03 12:54:39,505 RW - vertex 34. Time : 0.000164985656738s
+2019-10-03 12:54:39,505 RW - vertex 41. Time : 0.000164031982422s
+2019-10-03 12:54:39,505 RW - vertex 48. Time : 0.000174045562744s
+2019-10-03 12:54:39,506 RW - vertex 6. Time : 0.000309944152832s
+2019-10-03 12:54:39,506 RW - vertex 24. Time : 0.000192880630493s
+2019-10-03 12:54:39,506 RW - vertex 58. Time : 0.000169992446899s
+2019-10-03 12:54:39,506 RW - vertex 21. Time : 0.000165939331055s
+2019-10-03 12:54:39,506 RW - vertex 11. Time : 0.000174045562744s
+2019-10-03 12:54:39,506 RW - vertex 57. Time : 0.000189065933228s
+2019-10-03 12:54:39,506 RW - vertex 15. Time : 0.000172138214111s
+2019-10-03 12:54:39,506 RW - vertex 5. Time : 0.000169038772583s
+2019-10-03 12:54:39,506 RW - vertex 37. Time : 0.000174999237061s
+2019-10-03 12:54:39,506 RW - vertex 50. Time : 0.000149965286255s
+2019-10-03 12:54:39,506 RW - vertex 56. Time : 0.000155925750732s
+2019-10-03 12:54:39,506 RW - vertex 24. Time : 0.000164031982422s
+2019-10-03 12:54:39,506 RW - vertex 9. Time : 0.000157833099365s
+2019-10-03 12:54:39,506 RW - vertex 22. Time : 0.000173091888428s
+2019-10-03 12:54:39,506 RW - vertex 60. Time : 0.000169992446899s
+2019-10-03 12:54:39,506 RW - vertex 40. Time : 0.000186920166016s
+2019-10-03 12:54:39,506 RW - vertex 52. Time : 0.000159978866577s
+2019-10-03 12:54:39,506 RW - vertex 52. Time : 0.000147104263306s
+2019-10-03 12:54:39,506 RW - vertex 46. Time : 0.000192880630493s
+2019-10-03 12:54:39,507 RW - vertex 61. Time : 0.000159025192261s
+2019-10-03 12:54:39,507 RW - vertex 39. Time : 0.000172138214111s
+2019-10-03 12:54:39,507 RW - vertex 10. Time : 0.000181913375854s
+2019-10-03 12:54:39,507 RW - vertex 10. Time : 0.000175952911377s
+2019-10-03 12:54:39,507 RW - vertex 6. Time : 0.000179052352905s
+2019-10-03 12:54:39,507 RW - vertex 3. Time : 0.000169992446899s
+2019-10-03 12:54:39,507 RW - vertex 6. Time : 0.000182151794434s
+2019-10-03 12:54:39,507 RW - vertex 51. Time : 0.000195980072021s
+2019-10-03 12:54:39,507 RW - vertex 8. Time : 0.000160932540894s
+2019-10-03 12:54:39,507 RW - vertex 8. Time : 0.000168085098267s
+2019-10-03 12:54:39,507 RW - vertex 39. Time : 0.000174045562744s
+2019-10-03 12:54:39,507 RW - vertex 4. Time : 0.000159025192261s
+2019-10-03 12:54:39,507 RW - vertex 28. Time : 0.000164031982422s
+2019-10-03 12:54:39,507 RW - vertex 4. Time : 0.00019383430481s
+2019-10-03 12:54:39,507 RW - vertex 40. Time : 0.00019097328186s
+2019-10-03 12:54:39,507 RW - vertex 53. Time : 0.000179052352905s
+2019-10-03 12:54:39,507 RW - vertex 38. Time : 0.00023889541626s
+2019-10-03 12:54:39,508 RW - vertex 56. Time : 0.00017786026001s
+2019-10-03 12:54:39,508 RW - vertex 46. Time : 0.000162839889526s
+2019-10-03 12:54:39,508 RW - vertex 12. Time : 0.000149011611938s
+2019-10-03 12:54:39,508 RW - vertex 13. Time : 0.000250101089478s
+2019-10-03 12:54:39,508 RW - vertex 48. Time : 0.000179052352905s
+2019-10-03 12:54:39,508 RW - vertex 15. Time : 0.000143051147461s
+2019-10-03 12:54:39,508 RW - vertex 42. Time : 0.000158071517944s
+2019-10-03 12:54:39,508 RW - vertex 27. Time : 0.00014591217041s
+2019-10-03 12:54:39,508 RW - vertex 20. Time : 0.000169992446899s
+2019-10-03 12:54:39,508 RW - vertex 31. Time : 0.000188112258911s
+2019-10-03 12:54:39,508 RW - vertex 48. Time : 0.000320911407471s
+2019-10-03 12:54:39,508 RW - vertex 61. Time : 0.000146865844727s
+2019-10-03 12:54:39,508 RW - vertex 19. Time : 0.000153064727783s
+2019-10-03 12:54:39,508 RW - vertex 47. Time : 0.000168800354004s
+2019-10-03 12:54:39,508 RW - vertex 60. Time : 0.000152111053467s
+2019-10-03 12:54:39,508 RW - vertex 7. Time : 0.000154972076416s
+2019-10-03 12:54:39,508 RW - vertex 29. Time : 0.000288963317871s
+2019-10-03 12:54:39,508 RW - vertex 16. Time : 0.000172853469849s
+2019-10-03 12:54:39,509 RW - vertex 35. Time : 0.000198125839233s
+2019-10-03 12:54:39,509 RW - vertex 11. Time : 0.000152826309204s
+2019-10-03 12:54:39,509 RW - vertex 29. Time : 0.00017786026001s
+2019-10-03 12:54:39,509 RW - vertex 36. Time : 0.0001540184021s
+2019-10-03 12:54:39,509 RW - vertex 30. Time : 0.000164031982422s
+2019-10-03 12:54:39,509 RW - vertex 7. Time : 0.000329971313477s
+2019-10-03 12:54:39,509 RW - vertex 13. Time : 0.000170946121216s
+2019-10-03 12:54:39,509 RW - vertex 36. Time : 0.000151872634888s
+2019-10-03 12:54:39,509 RW - vertex 63. Time : 0.000185012817383s
+2019-10-03 12:54:39,509 RW - vertex 33. Time : 0.000182867050171s
+2019-10-03 12:54:39,509 RW - vertex 51. Time : 0.000154972076416s
+2019-10-03 12:54:39,509 RW - vertex 51. Time : 0.000302076339722s
+2019-10-03 12:54:39,509 RW - vertex 60. Time : 0.000179052352905s
+2019-10-03 12:54:39,509 RW - vertex 63. Time : 0.000158071517944s
+2019-10-03 12:54:39,509 RW - vertex 57. Time : 0.000178098678589s
+2019-10-03 12:54:39,509 RW - vertex 17. Time : 0.000159025192261s
+2019-10-03 12:54:39,510 RW - vertex 25. Time : 0.000179052352905s
+2019-10-03 12:54:39,510 RW - vertex 30. Time : 0.000277996063232s
+2019-10-03 12:54:39,510 RW - vertex 45. Time : 0.00016713142395s
+2019-10-03 12:54:39,510 RW - vertex 39. Time : 0.000168085098267s
+2019-10-03 12:54:39,510 RW - vertex 35. Time : 0.000189065933228s
+2019-10-03 12:54:39,510 RW - vertex 14. Time : 0.000138998031616s
+2019-10-03 12:54:39,510 RW - vertex 18. Time : 0.000158071517944s
+2019-10-03 12:54:39,510 RW - vertex 20. Time : 0.000169038772583s
+2019-10-03 12:54:39,510 RW - vertex 57. Time : 0.000340938568115s
+2019-10-03 12:54:39,510 RW - vertex 56. Time : 0.000173807144165s
+2019-10-03 12:54:39,510 RW - vertex 15. Time : 0.000175952911377s
+2019-10-03 12:54:39,510 RW - vertex 45. Time : 0.000169038772583s
+2019-10-03 12:54:39,510 RW - vertex 46. Time : 0.000154972076416s
+2019-10-03 12:54:39,510 RW - vertex 33. Time : 0.000169038772583s
+2019-10-03 12:54:39,510 RW - vertex 11. Time : 0.000174999237061s
+2019-10-03 12:54:39,510 RW - vertex 31. Time : 0.000336170196533s
+2019-10-03 12:54:39,510 RW - vertex 62. Time : 0.000157833099365s
+2019-10-03 12:54:39,510 RW - vertex 16. Time : 0.000174999237061s
+2019-10-03 12:54:39,511 RW - vertex 44. Time : 0.00018310546875s
+2019-10-03 12:54:39,511 RW - vertex 9. Time : 0.000169992446899s
+2019-10-03 12:54:39,511 RW - vertex 26. Time : 0.000271081924438s
+2019-10-03 12:54:39,511 RW - vertex 54. Time : 0.000180006027222s
+2019-10-03 12:54:39,511 RW - vertex 59. Time : 0.000334024429321s
+2019-10-03 12:54:39,511 RW - vertex 34. Time : 0.000191211700439s
+2019-10-03 12:54:39,511 RW - vertex 49. Time : 0.000332117080688s
+2019-10-03 12:54:39,511 RW - vertex 45. Time : 0.000158071517944s
+2019-10-03 12:54:39,511 RW - vertex 2. Time : 0.00018310546875s
+2019-10-03 12:54:39,511 RW - vertex 19. Time : 0.000349998474121s
+2019-10-03 12:54:39,512 RW - vertex 27. Time : 0.000181913375854s
+2019-10-03 12:54:39,512 RW - vertex 21. Time : 0.000170946121216s
+2019-10-03 12:54:39,512 RW - vertex 51. Time : 0.000170230865479s
+2019-10-03 12:54:39,512 RW - vertex 34. Time : 0.000193119049072s
+2019-10-03 12:54:39,512 RW - vertex 38. Time : 0.000321865081787s
+2019-10-03 12:54:39,512 RW - vertex 3. Time : 0.000171899795532s
+2019-10-03 12:54:39,512 RW - vertex 14. Time : 0.000195980072021s
+2019-10-03 12:54:39,512 RW - vertex 44. Time : 0.000157117843628s
+2019-10-03 12:54:39,512 RW - vertex 40. Time : 0.000304937362671s
+2019-10-03 12:54:39,512 RW - vertex 50. Time : 0.000197172164917s
+2019-10-03 12:54:39,512 RW - vertex 55. Time : 0.000177145004272s
+2019-10-03 12:54:39,512 RW - vertex 29. Time : 0.000181198120117s
+2019-10-03 12:54:39,512 RW - vertex 41. Time : 0.000190019607544s
+2019-10-03 12:54:39,513 RW - vertex 47. Time : 0.000164031982422s
+2019-10-03 12:54:39,513 RW - vertex 26. Time : 0.000196933746338s
+2019-10-03 12:54:39,513 RW - vertex 25. Time : 0.000353097915649s
+2019-10-03 12:54:39,513 RW - vertex 8. Time : 0.000156164169312s
+2019-10-03 12:54:39,513 RW - vertex 33. Time : 0.000184774398804s
+2019-10-03 12:54:39,513 RW - vertex 52. Time : 0.000157117843628s
+2019-10-03 12:54:39,513 RW - vertex 53. Time : 0.0001540184021s
+2019-10-03 12:54:39,513 RW - vertex 37. Time : 0.000181913375854s
+2019-10-03 12:54:39,513 RW - vertex 41. Time : 0.000175952911377s
+2019-10-03 12:54:39,513 RW - vertex 2. Time : 0.000356912612915s
+2019-10-03 12:54:39,513 RW - vertex 23. Time : 0.000173091888428s
+2019-10-03 12:54:39,513 RW - vertex 32. Time : 0.0001540184021s
+2019-10-03 12:54:39,513 RW - vertex 58. Time : 0.000168085098267s
+2019-10-03 12:54:39,513 RW - vertex 55. Time : 0.000176191329956s
+2019-10-03 12:54:39,513 RW - vertex 63. Time : 0.000342130661011s
+2019-10-03 12:54:39,514 RW - vertex 24. Time : 0.000190019607544s
+2019-10-03 12:54:39,514 RW - vertex 18. Time : 0.000161170959473s
+2019-10-03 12:54:39,514 RW - vertex 32. Time : 0.00018310546875s
+2019-10-03 12:54:39,514 RW - vertex 49. Time : 0.000178098678589s
+2019-10-03 12:54:39,514 RW - vertex 27. Time : 0.000274896621704s
+2019-10-03 12:54:39,514 RW - vertex 30. Time : 0.00016713142395s
+2019-10-03 12:54:39,514 RW - vertex 35. Time : 0.00015115737915s
+2019-10-03 12:54:39,514 RW - vertex 28. Time : 0.000309944152832s
+2019-10-03 12:54:39,514 RW - vertex 25. Time : 0.0001540184021s
+2019-10-03 12:54:39,514 RW - vertex 33. Time : 0.000176906585693s
+2019-10-03 12:54:39,515 RW - vertex 16. Time : 0.000358104705811s
+2019-10-03 12:54:39,515 RW - vertex 52. Time : 0.000159025192261s
+2019-10-03 12:54:39,515 RW - vertex 50. Time : 0.00036883354187s
+2019-10-03 12:54:39,515 RW - vertex 37. Time : 0.000166177749634s
+2019-10-03 12:54:39,515 RW - vertex 41. Time : 0.000158071517944s
+2019-10-03 12:54:39,515 RW - vertex 47. Time : 0.000389814376831s
+2019-10-03 12:54:39,515 RW - vertex 43. Time : 0.00018310546875s
+2019-10-03 12:54:39,515 RW - vertex 8. Time : 0.000146150588989s
+2019-10-03 12:54:39,515 RW - vertex 49. Time : 0.000141859054565s
+2019-10-03 12:54:39,515 RW - vertex 1. Time : 0.000331878662109s
+2019-10-03 12:54:39,515 RW - vertex 53. Time : 0.00019907951355s
+2019-10-03 12:54:39,516 RW - vertex 17. Time : 0.000173091888428s
+2019-10-03 12:54:39,516 RW - vertex 23. Time : 0.000174999237061s
+2019-10-03 12:54:39,516 RW - vertex 59. Time : 0.000163078308105s
+2019-10-03 12:54:39,516 RW - vertex 14. Time : 0.000368118286133s
+2019-10-03 12:54:39,516 RW - vertex 58. Time : 0.000164985656738s
+2019-10-03 12:54:39,516 RW - vertex 32. Time : 0.000159025192261s
+2019-10-03 12:54:39,516 RW - vertex 24. Time : 0.000170946121216s
+2019-10-03 12:54:39,516 RW - vertex 16. Time : 0.000154972076416s
+2019-10-03 12:54:39,516 RW - vertex 29. Time : 0.000290155410767s
+2019-10-03 12:54:39,516 RW - vertex 27. Time : 0.00014591217041s
+2019-10-03 12:54:39,516 RW - vertex 26. Time : 0.000158071517944s
+2019-10-03 12:54:39,516 RW - vertex 35. Time : 0.000159978866577s
+2019-10-03 12:54:39,517 RW - vertex 48. Time : 0.000169038772583s
+2019-10-03 12:54:39,517 RW - vertex 25. Time : 0.000152826309204s
+2019-10-03 12:54:39,517 RW - vertex 63. Time : 0.000160932540894s
+2019-10-03 12:54:39,517 RW - vertex 33. Time : 0.000155925750732s
+2019-10-03 12:54:39,517 RW - vertex 5. Time : 0.000185966491699s
+2019-10-03 12:54:39,517 RW - vertex 52. Time : 0.000169038772583s
+2019-10-03 12:54:39,517 RW - vertex 1. Time : 0.000139951705933s
+2019-10-03 12:54:39,517 RW - vertex 37. Time : 0.000168085098267s
+2019-10-03 12:54:39,517 RW - vertex 7. Time : 0.000173807144165s
+2019-10-03 12:54:39,517 RW - vertex 43. Time : 0.000162124633789s
+2019-10-03 12:54:39,518 RW - vertex 34. Time : 0.000166893005371s
+2019-10-03 12:54:39,518 RW - vertex 49. Time : 0.00016188621521s
+2019-10-03 12:54:39,518 RW - vertex 42. Time : 0.000176906585693s
+2019-10-03 12:54:39,518 RW - vertex 17. Time : 0.000152826309204s
+2019-10-03 12:54:39,518 RW - vertex 9. Time : 0.000162839889526s
+2019-10-03 12:54:39,518 RW - vertex 59. Time : 0.000170946121216s
+2019-10-03 12:54:39,518 RW - vertex 57. Time : 0.000138998031616s
+2019-10-03 12:54:39,518 RW - vertex 32. Time : 0.000171184539795s
+2019-10-03 12:54:39,518 RW - vertex 4. Time : 0.000166177749634s
+2019-10-03 12:54:39,518 RW - vertex 50. Time : 0.000382900238037s
+2019-10-03 12:54:39,518 RW - vertex 16. Time : 0.000172138214111s
+2019-10-03 12:54:39,519 RW - vertex 19. Time : 0.000171899795532s
+2019-10-03 12:54:39,519 RW - vertex 26. Time : 0.000180006027222s
+2019-10-03 12:54:39,519 RW - vertex 2. Time : 0.000195026397705s
+2019-10-03 12:54:39,519 RW - vertex 41. Time : 0.000355005264282s
+2019-10-03 12:54:39,519 RW - vertex 48. Time : 0.000138998031616s
+2019-10-03 12:54:39,519 RW - vertex 3. Time : 0.000156879425049s
+2019-10-03 12:54:39,519 RW - vertex 63. Time : 0.000159025192261s
+2019-10-03 12:54:39,519 RW - vertex 10. Time : 0.000169038772583s
+2019-10-03 12:54:39,519 RW - vertex 5. Time : 0.000149011611938s
+2019-10-03 12:54:39,517 Iteration 0 executed.
+2019-10-03 12:54:39,519 RW - vertex 8. Time : 0.000371932983398s
+2019-10-03 12:54:39,519 RW - vertex 1. Time : 0.000146150588989s
+2019-10-03 12:54:39,519 RW - vertex 56. Time : 0.00018310546875s
+2019-10-03 12:54:39,520 RW - vertex 54. Time : 0.000158071517944s
+2019-10-03 12:54:39,520 RW - vertex 7. Time : 0.000187158584595s
+2019-10-03 12:54:39,520 RW - vertex 53. Time : 0.000356912612915s
+2019-10-03 12:54:39,520 RW - vertex 34. Time : 0.000144004821777s
+2019-10-03 12:54:39,520 RW - vertex 46. Time : 0.000159025192261s
+2019-10-03 12:54:39,520 RW - vertex 42. Time : 0.000168085098267s
+2019-10-03 12:54:39,520 RW - vertex 12. Time : 0.000175952911377s
+2019-10-03 12:54:39,520 RW - vertex 23. Time : 0.000358104705811s
+2019-10-03 12:54:39,520 RW - vertex 9. Time : 0.000157833099365s
+2019-10-03 12:54:39,520 RW - vertex 60. Time : 0.000166177749634s
+2019-10-03 12:54:39,520 RW - vertex 50. Time : 0.000176191329956s
+2019-10-03 12:54:39,520 RW - vertex 57. Time : 0.000191926956177s
+2019-10-03 12:54:39,521 RW - vertex 44. Time : 0.000185012817383s
+2019-10-03 12:54:39,521 RW - vertex 58. Time : 0.000292062759399s
+2019-10-03 12:54:39,521 RW - vertex 41. Time : 0.000156879425049s
+2019-10-03 12:54:39,521 RW - vertex 4. Time : 0.000165939331055s
+2019-10-03 12:54:39,521 RW - vertex 40. Time : 0.000159025192261s
+2019-10-03 12:54:39,521 RW - vertex 8. Time : 0.000160932540894s
+2019-10-03 12:54:39,521 RW - vertex 19. Time : 0.00016713142395s
+2019-10-03 12:54:39,521 RW - vertex 24. Time : 0.000290870666504s
+2019-10-03 12:54:39,521 RW - vertex 14. Time : 0.00019383430481s
+2019-10-03 12:54:39,521 RW - vertex 53. Time : 0.000180006027222s
+2019-10-03 12:54:39,521 RW - vertex 2. Time : 0.000158071517944s
+2019-10-03 12:54:39,521 RW - vertex 15. Time : 0.00014591217041s
+2019-10-03 12:54:39,521 RW - vertex 23. Time : 0.000150203704834s
+2019-10-03 12:54:39,521 RW - vertex 27. Time : 0.000310897827148s
+2019-10-03 12:54:39,521 RW - vertex 3. Time : 0.000175952911377s
+2019-10-03 12:54:39,521 RW - vertex 55. Time : 0.000154972076416s
+2019-10-03 12:54:39,521 RW - vertex 58. Time : 0.000135898590088s
+2019-10-03 12:54:39,522 RW - vertex 10. Time : 0.000153779983521s
+2019-10-03 12:54:39,522 RW - vertex 24. Time : 0.000135183334351s
+2019-10-03 12:54:39,522 RW - vertex 18. Time : 0.000172138214111s
+2019-10-03 12:54:39,522 RW - vertex 35. Time : 0.000320911407471s
+2019-10-03 12:54:39,522 RW - vertex 56. Time : 0.000153064727783s
+2019-10-03 12:54:39,522 RW - vertex 38. Time : 0.000145196914673s
+2019-10-03 12:54:39,522 RW - vertex 27. Time : 0.000156879425049s
+2019-10-03 12:54:39,522 RW - vertex 54. Time : 0.000179052352905s
+2019-10-03 12:54:39,522 RW - vertex 20. Time : 0.000159025192261s
+2019-10-03 12:54:39,522 RW - vertex 35. Time : 0.000169992446899s
+2019-10-03 12:54:39,522 RW - vertex 25. Time : 0.000247001647949s
+2019-10-03 12:54:39,522 RW - vertex 46. Time : 0.000174045562744s
+2019-10-03 12:54:39,522 RW - vertex 25. Time : 0.000164031982422s
+2019-10-03 12:54:39,522 RW - vertex 33. Time : 0.000171899795532s
+2019-10-03 12:54:39,522 RW - vertex 61. Time : 0.000281095504761s
+2019-10-03 12:54:39,522 RW - vertex 12. Time : 0.000159978866577s
+2019-10-03 12:54:39,522 Iteration 1 executed.
+2019-10-03 12:54:39,522 RW - vertex 52. Time : 0.000156879425049s
+2019-10-03 12:54:39,522 RW - vertex 33. Time : 0.000241041183472s
+2019-10-03 12:54:39,523 RW - vertex 60. Time : 0.000164031982422s
+2019-10-03 12:54:39,523 RW - vertex 37. Time : 0.000152111053467s
+2019-10-03 12:54:39,523 RW - vertex 11. Time : 0.000297069549561s
+2019-10-03 12:54:39,523 RW - vertex 52. Time : 0.000181913375854s
+2019-10-03 12:54:39,523 RW - vertex 44. Time : 0.000172138214111s
+2019-10-03 12:54:39,523 Iteration 3 executed.
+2019-10-03 12:54:39,523 RW - vertex 43. Time : 0.000164031982422s
+2019-10-03 12:54:39,523 RW - vertex 40. Time : 0.000158071517944s
+2019-10-03 12:54:39,523 RW - vertex 37. Time : 0.000196218490601s
+2019-10-03 12:54:39,523 RW - vertex 6. Time : 0.000271797180176s
+2019-10-03 12:54:39,523 RW - vertex 49. Time : 0.0001540184021s
+2019-10-03 12:54:39,523 RW - vertex 14. Time : 0.000162124633789s
+2019-10-03 12:54:39,523 Iteration 2 executed.
+2019-10-03 12:54:39,523 RW - vertex 17. Time : 0.000169038772583s
+2019-10-03 12:54:39,523 RW - vertex 43. Time : 0.000219106674194s
+2019-10-03 12:54:39,523 RW - vertex 62. Time : 0.0002121925354s
+2019-10-03 12:54:39,523 RW - vertex 15. Time : 0.000156164169312s
+2019-10-03 12:54:39,523 RW - vertex 59. Time : 0.000163078308105s
+2019-10-03 12:54:39,523 RW - vertex 49. Time : 0.00018310546875s
+2019-10-03 12:54:39,524 RW - vertex 29. Time : 0.000211954116821s
+2019-10-03 12:54:39,524 RW - vertex 32. Time : 0.000185966491699s
+2019-10-03 12:54:39,524 RW - vertex 17. Time : 0.000202178955078s
+2019-10-03 12:54:39,524 RW - vertex 55. Time : 0.000308990478516s
+2019-10-03 12:54:39,524 RW - vertex 45. Time : 0.000231027603149s
+2019-10-03 12:54:39,524 RW - vertex 16. Time : 0.00016713142395s
+2019-10-03 12:54:39,524 RW - vertex 59. Time : 0.000151872634888s
+2019-10-03 12:54:39,524 RW - vertex 18. Time : 0.000250816345215s
+2019-10-03 12:54:39,524 RW - vertex 26. Time : 0.000166893005371s
+2019-10-03 12:54:39,524 RW - vertex 39. Time : 0.000176906585693s
+2019-10-03 12:54:39,524 RW - vertex 32. Time : 0.000157833099365s
+2019-10-03 12:54:39,524 RW - vertex 48. Time : 0.000176906585693s
+2019-10-03 12:54:39,524 RW - vertex 38. Time : 0.00017786026001s
+2019-10-03 12:54:39,524 RW - vertex 21. Time : 0.000179052352905s
+2019-10-03 12:54:39,524 RW - vertex 16. Time : 0.000157833099365s
+2019-10-03 12:54:39,524 RW - vertex 63. Time : 0.000151872634888s
+2019-10-03 12:54:39,524 RW - vertex 28. Time : 0.000149011611938s
+2019-10-03 12:54:39,524 RW - vertex 20. Time : 0.000169038772583s
+2019-10-03 12:54:39,525 RW - vertex 26. Time : 0.000184059143066s
+2019-10-03 12:54:39,525 RW - vertex 5. Time : 0.000184059143066s
+2019-10-03 12:54:39,525 RW - vertex 61. Time : 0.000160932540894s
+2019-10-03 12:54:39,525 RW - vertex 48. Time : 0.000149965286255s
+2019-10-03 12:54:39,525 RW - vertex 47. Time : 0.000207901000977s
+2019-10-03 12:54:39,525 RW - vertex 1. Time : 0.000149965286255s
+2019-10-03 12:54:39,525 RW - vertex 11. Time : 0.000150918960571s
+2019-10-03 12:54:39,525 RW - vertex 63. Time : 0.0001540184021s
+2019-10-03 12:54:39,525 RW - vertex 22. Time : 0.000217914581299s
+2019-10-03 12:54:39,525 RW - vertex 7. Time : 0.00014591217041s
+2019-10-03 12:54:39,525 RW - vertex 5. Time : 0.000155925750732s
+2019-10-03 12:54:39,525 RW - vertex 6. Time : 0.000188827514648s
+2019-10-03 12:54:39,525 RW - vertex 34. Time : 0.000164985656738s
+2019-10-03 12:54:39,525 RW - vertex 1. Time : 0.000166893005371s
+2019-10-03 12:54:39,525 RW - vertex 51. Time : 0.000241994857788s
+2019-10-03 12:54:39,525 RW - vertex 62. Time : 0.000191211700439s
+2019-10-03 12:54:39,525 RW - vertex 42. Time : 0.0001540184021s
+2019-10-03 12:54:39,525 RW - vertex 7. Time : 0.000153064727783s
+2019-10-03 12:54:39,526 RW - vertex 13. Time : 0.000231027603149s
+2019-10-03 12:54:39,526 RW - vertex 9. Time : 0.000205993652344s
+2019-10-03 12:54:39,526 RW - vertex 29. Time : 0.000288009643555s
+2019-10-03 12:54:39,526 RW - vertex 34. Time : 0.000226020812988s
+2019-10-03 12:54:39,526 RW - vertex 36. Time : 0.000262975692749s
+2019-10-03 12:54:39,526 RW - vertex 57. Time : 0.000191926956177s
+2019-10-03 12:54:39,526 RW - vertex 45. Time : 0.000185966491699s
+2019-10-03 12:54:39,526 RW - vertex 42. Time : 0.000179052352905s
+2019-10-03 12:54:39,526 RW - vertex 31. Time : 0.000194072723389s
+2019-10-03 12:54:39,526 RW - vertex 39. Time : 0.000190019607544s
+2019-10-03 12:54:39,526 RW - vertex 4. Time : 0.000205039978027s
+2019-10-03 12:54:39,526 RW - vertex 9. Time : 0.000177145004272s
+2019-10-03 12:54:39,526 RW - vertex 30. Time : 0.000185966491699s
+2019-10-03 12:54:39,526 RW - vertex 21. Time : 0.000190019607544s
+2019-10-03 12:54:39,526 RW - vertex 19. Time : 0.000179052352905s
+2019-10-03 12:54:39,526 RW - vertex 57. Time : 0.000205039978027s
+2019-10-03 12:54:39,527 RW - vertex 2. Time : 0.000182151794434s
+2019-10-03 12:54:39,527 RW - vertex 4. Time : 0.000223875045776s
+2019-10-03 12:54:39,527 RW - vertex 28. Time : 0.000349044799805s
+2019-10-03 12:54:39,527 RW - vertex 3. Time : 0.000210046768188s
+2019-10-03 12:54:39,527 RW - vertex 19. Time : 0.000202894210815s
+2019-10-03 12:54:39,527 RW - vertex 10. Time : 0.000175952911377s
+2019-10-03 12:54:39,527 RW - vertex 47. Time : 0.000339984893799s
+2019-10-03 12:54:39,527 RW - vertex 2. Time : 0.00020694732666s
+2019-10-03 12:54:39,528 RW - vertex 56. Time : 0.000226974487305s
+2019-10-03 12:54:39,528 RW - vertex 22. Time : 0.000191211700439s
+2019-10-03 12:54:39,528 RW - vertex 3. Time : 0.000198125839233s
+2019-10-03 12:54:39,528 RW - vertex 51. Time : 0.000164031982422s
+2019-10-03 12:54:39,528 RW - vertex 10. Time : 0.000195026397705s
+2019-10-03 12:54:39,528 RW - vertex 54. Time : 0.000274896621704s
+2019-10-03 12:54:39,528 RW - vertex 13. Time : 0.000161170959473s
+2019-10-03 12:54:39,528 RW - vertex 56. Time : 0.000174045562744s
+2019-10-03 12:54:39,528 RW - vertex 36. Time : 0.000141859054565s
+2019-10-03 12:54:39,528 RW - vertex 54. Time : 0.000176906585693s
+2019-10-03 12:54:39,528 RW - vertex 46. Time : 0.00031590461731s
+2019-10-03 12:54:39,528 RW - vertex 31. Time : 0.000173807144165s
+2019-10-03 12:54:39,528 RW - vertex 46. Time : 0.000169038772583s
+2019-10-03 12:54:39,528 RW - vertex 50. Time : 0.000165939331055s
+2019-10-03 12:54:39,529 RW - vertex 30. Time : 0.000169992446899s
+2019-10-03 12:54:39,529 RW - vertex 12. Time : 0.000324010848999s
+2019-10-03 12:54:39,529 RW - vertex 12. Time : 0.000205039978027s
+2019-10-03 12:54:39,529 RW - vertex 41. Time : 0.00019097328186s
+2019-10-03 12:54:39,529 RW - vertex 60. Time : 0.0001540184021s
+2019-10-03 12:54:39,529 RW - vertex 8. Time : 0.000168800354004s
+2019-10-03 12:54:39,529 RW - vertex 60. Time : 0.000327825546265s
+2019-10-03 12:54:39,529 RW - vertex 44. Time : 0.000153064727783s
+2019-10-03 12:54:39,529 RW - vertex 53. Time : 0.000177145004272s
+2019-10-03 12:54:39,529 RW - vertex 40. Time : 0.000165939331055s
+2019-10-03 12:54:39,529 RW - vertex 23. Time : 0.000188112258911s
+2019-10-03 12:54:39,529 RW - vertex 44. Time : 0.000324010848999s
+2019-10-03 12:54:39,530 RW - vertex 14. Time : 0.000189065933228s
+2019-10-03 12:54:39,530 RW - vertex 58. Time : 0.00019907951355s
+2019-10-03 12:54:39,530 RW - vertex 15. Time : 0.000144958496094s
+2019-10-03 12:54:39,530 RW - vertex 24. Time : 0.000174999237061s
+2019-10-03 12:54:39,530 RW - vertex 40. Time : 0.000339984893799s
+2019-10-03 12:54:39,530 RW - vertex 55. Time : 0.000166893005371s
+2019-10-03 12:54:39,530 RW - vertex 27. Time : 0.000184059143066s
+2019-10-03 12:54:39,530 RW - vertex 18. Time : 0.000167846679688s
+2019-10-03 12:54:39,530 RW - vertex 14. Time : 0.000313997268677s
+2019-10-03 12:54:39,530 RW - vertex 35. Time : 0.000179052352905s
+2019-10-03 12:54:39,530 RW - vertex 38. Time : 0.000169992446899s
+2019-10-03 12:54:39,531 RW - vertex 25. Time : 0.000161170959473s
+2019-10-03 12:54:39,531 RW - vertex 15. Time : 0.000292062759399s
+2019-10-03 12:54:39,531 RW - vertex 20. Time : 0.000221014022827s
+2019-10-03 12:54:39,531 RW - vertex 33. Time : 0.000219106674194s
+2019-10-03 12:54:39,531 RW - vertex 61. Time : 0.0001380443573s
+2019-10-03 12:54:39,531 RW - vertex 55. Time : 0.000183820724487s
+2019-10-03 12:54:39,531 Iteration 4 executed.
+2019-10-03 12:54:39,531 Iteration 5 executed.
+2019-10-03 12:54:39,531 RW - vertex 18. Time : 0.000189065933228s
+2019-10-03 12:54:39,531 RW - vertex 52. Time : 0.000242948532104s
+2019-10-03 12:54:39,531 RW - vertex 11. Time : 0.000236988067627s
+2019-10-03 12:54:39,531 RW - vertex 38. Time : 0.000162839889526s
+2019-10-03 12:54:39,531 RW - vertex 37. Time : 0.000169992446899s
+2019-10-03 12:54:39,531 RW - vertex 6. Time : 0.000169038772583s
+2019-10-03 12:54:39,532 RW - vertex 43. Time : 0.000158071517944s
+2019-10-03 12:54:39,532 RW - vertex 50. Time : 0.000164031982422s
+2019-10-03 12:54:39,532 RW - vertex 20. Time : 0.000175952911377s
+2019-10-03 12:54:39,532 RW - vertex 62. Time : 0.000166177749634s
+2019-10-03 12:54:39,532 RW - vertex 61. Time : 0.000132083892822s
+2019-10-03 12:54:39,532 RW - vertex 49. Time : 0.000172853469849s
+2019-10-03 12:54:39,532 RW - vertex 41. Time : 0.00016188621521s
+2019-10-03 12:54:39,532 RW - vertex 29. Time : 0.0001540184021s
+2019-10-03 12:54:39,532 RW - vertex 11. Time : 0.000168800354004s
+2019-10-03 12:54:39,532 RW - vertex 17. Time : 0.000163078308105s
+2019-10-03 12:54:39,532 RW - vertex 8. Time : 0.000174999237061s
+2019-10-03 12:54:39,532 RW - vertex 45. Time : 0.000175952911377s
+2019-10-03 12:54:39,532 RW - vertex 6. Time : 0.000163078308105s
+2019-10-03 12:54:39,532 RW - vertex 59. Time : 0.000147104263306s
+2019-10-03 12:54:39,532 RW - vertex 53. Time : 0.000155210494995s
+2019-10-03 12:54:39,532 RW - vertex 39. Time : 0.00021505355835s
+2019-10-03 12:54:39,532 RW - vertex 32. Time : 0.00016713142395s
+2019-10-03 12:54:39,532 RW - vertex 62. Time : 0.000181913375854s
+2019-10-03 12:54:39,532 RW - vertex 23. Time : 0.000164031982422s
+2019-10-03 12:54:39,532 RW - vertex 21. Time : 0.000171899795532s
+2019-10-03 12:54:39,533 RW - vertex 16. Time : 0.000147104263306s
+2019-10-03 12:54:39,533 RW - vertex 58. Time : 0.000163793563843s
+2019-10-03 12:54:39,533 RW - vertex 29. Time : 0.000180006027222s
+2019-10-03 12:54:39,533 RW - vertex 28. Time : 0.000145196914673s
+2019-10-03 12:54:39,533 RW - vertex 26. Time : 0.000154972076416s
+2019-10-03 12:54:39,533 RW - vertex 24. Time : 0.000157117843628s
+2019-10-03 12:54:39,533 RW - vertex 45. Time : 0.000172853469849s
+2019-10-03 12:54:39,533 RW - vertex 47. Time : 0.000164031982422s
+2019-10-03 12:54:39,533 RW - vertex 48. Time : 0.00016713142395s
+2019-10-03 12:54:39,533 RW - vertex 27. Time : 0.000144004821777s
+2019-10-03 12:54:39,533 RW - vertex 39. Time : 0.000160932540894s
+2019-10-03 12:54:39,533 RW - vertex 22. Time : 0.000195026397705s
+2019-10-03 12:54:39,533 RW - vertex 63. Time : 0.000158071517944s
+2019-10-03 12:54:39,533 RW - vertex 35. Time : 0.000156164169312s
+2019-10-03 12:54:39,533 RW - vertex 21. Time : 0.000176906585693s
+2019-10-03 12:54:39,533 RW - vertex 51. Time : 0.000174045562744s
+2019-10-03 12:54:39,533 RW - vertex 5. Time : 0.000151872634888s
+2019-10-03 12:54:39,533 RW - vertex 25. Time : 0.000175952911377s
+2019-10-03 12:54:39,533 RW - vertex 28. Time : 0.000169992446899s
+2019-10-03 12:54:39,533 RW - vertex 13. Time : 0.0001380443573s
+2019-10-03 12:54:39,534 RW - vertex 1. Time : 0.000155925750732s
+2019-10-03 12:54:39,534 RW - vertex 33. Time : 0.000185966491699s
+2019-10-03 12:54:39,534 RW - vertex 47. Time : 0.000163078308105s
+2019-10-03 12:54:39,534 RW - vertex 36. Time : 0.000164031982422s
+2019-10-03 12:54:39,534 RW - vertex 7. Time : 0.000168085098267s
+2019-10-03 12:54:39,534 RW - vertex 52. Time : 0.000156879425049s
+2019-10-03 12:54:39,534 RW - vertex 22. Time : 0.000160932540894s
+2019-10-03 12:54:39,534 RW - vertex 31. Time : 0.000168085098267s
+2019-10-03 12:54:39,534 RW - vertex 34. Time : 0.000157833099365s
+2019-10-03 12:54:39,534 RW - vertex 37. Time : 0.000166893005371s
+2019-10-03 12:54:39,534 RW - vertex 51. Time : 0.000172853469849s
+2019-10-03 12:54:39,534 RW - vertex 30. Time : 0.000158071517944s
+2019-10-03 12:54:39,534 RW - vertex 42. Time : 0.00016713142395s
+2019-10-03 12:54:39,534 RW - vertex 43. Time : 0.000149011611938s
+2019-10-03 12:54:39,534 RW - vertex 13. Time : 0.000159025192261s
+2019-10-03 12:54:39,534 RW - vertex 9. Time : 0.000155210494995s
+2019-10-03 12:54:39,534 RW - vertex 49. Time : 0.000184059143066s
+2019-10-03 12:54:39,534 RW - vertex 36. Time : 0.000170946121216s
+2019-10-03 12:54:39,535 RW - vertex 17. Time : 0.000164985656738s
+2019-10-03 12:54:39,535 RW - vertex 31. Time : 0.000153064727783s
+2019-10-03 12:54:39,535 RW - vertex 57. Time : 0.000296115875244s
+2019-10-03 12:54:39,535 Iteration 7 executed.
+2019-10-03 12:54:39,535 RW - vertex 59. Time : 0.000173091888428s
+2019-10-03 12:54:39,535 RW - vertex 30. Time : 0.000162839889526s
+2019-10-03 12:54:39,535 RW - vertex 4. Time : 0.000177145004272s
+2019-10-03 12:54:39,535 RW - vertex 32. Time : 0.000241041183472s
+2019-10-03 12:54:39,535 RW - vertex 19. Time : 0.000174045562744s
+2019-10-03 12:54:39,535 RW - vertex 16. Time : 0.000247001647949s
+2019-10-03 12:54:39,535 RW - vertex 2. Time : 0.000230073928833s
+2019-10-03 12:54:39,536 RW - vertex 26. Time : 0.000165939331055s
+2019-10-03 12:54:39,536 Iteration 6 executed.
+2019-10-03 12:54:39,536 RW - vertex 3. Time : 0.000234842300415s
+2019-10-03 12:54:39,536 RW - vertex 48. Time : 0.000165939331055s
+2019-10-03 12:54:39,536 RW - vertex 10. Time : 0.000150203704834s
+2019-10-03 12:54:39,536 RW - vertex 63. Time : 0.000191211700439s
+2019-10-03 12:54:39,536 RW - vertex 56. Time : 0.000155925750732s
+2019-10-03 12:54:39,536 RW - vertex 5. Time : 0.000174999237061s
+2019-10-03 12:54:39,536 RW - vertex 54. Time : 0.000169038772583s
+2019-10-03 12:54:39,536 RW - vertex 1. Time : 0.000164031982422s
+2019-10-03 12:54:39,537 RW - vertex 46. Time : 0.000144004821777s
+2019-10-03 12:54:39,537 RW - vertex 7. Time : 0.000156164169312s
+2019-10-03 12:54:39,537 RW - vertex 12. Time : 0.000160932540894s
+2019-10-03 12:54:39,537 RW - vertex 34. Time : 0.000159978866577s
+2019-10-03 12:54:39,537 RW - vertex 60. Time : 0.00017786026001s
+2019-10-03 12:54:39,537 RW - vertex 44. Time : 0.000163078308105s
+2019-10-03 12:54:39,537 RW - vertex 42. Time : 0.000287055969238s
+2019-10-03 12:54:39,537 RW - vertex 40. Time : 0.000167846679688s
+2019-10-03 12:54:39,537 RW - vertex 9. Time : 0.000216007232666s
+2019-10-03 12:54:39,538 RW - vertex 14. Time : 0.000164031982422s
+2019-10-03 12:54:39,538 RW - vertex 57. Time : 0.000156879425049s
+2019-10-03 12:54:39,538 RW - vertex 15. Time : 0.000164985656738s
+2019-10-03 12:54:39,538 RW - vertex 4. Time : 0.000177145004272s
+2019-10-03 12:54:39,538 RW - vertex 55. Time : 0.000164031982422s
+2019-10-03 12:54:39,538 RW - vertex 19. Time : 0.000165939331055s
+2019-10-03 12:54:39,538 RW - vertex 18. Time : 0.000149011611938s
+2019-10-03 12:54:39,538 RW - vertex 2. Time : 0.000168085098267s
+2019-10-03 12:54:39,538 RW - vertex 38. Time : 0.000146865844727s
+2019-10-03 12:54:39,539 RW - vertex 3. Time : 0.000144958496094s
+2019-10-03 12:54:39,539 RW - vertex 20. Time : 0.000167846679688s
+2019-10-03 12:54:39,539 RW - vertex 10. Time : 0.000170946121216s
+2019-10-03 12:54:39,539 RW - vertex 61. Time : 0.00016713142395s
+2019-10-03 12:54:39,539 RW - vertex 56. Time : 0.000170946121216s
+2019-10-03 12:54:39,539 RW - vertex 11. Time : 0.000166893005371s
+2019-10-03 12:54:39,539 RW - vertex 54. Time : 0.000168800354004s
+2019-10-03 12:54:39,539 RW - vertex 6. Time : 0.000149011611938s
+2019-10-03 12:54:39,539 RW - vertex 62. Time : 0.000163078308105s
+2019-10-03 12:54:39,539 RW - vertex 46. Time : 0.000174045562744s
+2019-10-03 12:54:39,540 RW - vertex 12. Time : 0.000171184539795s
+2019-10-03 12:54:39,540 RW - vertex 29. Time : 0.000184059143066s
+2019-10-03 12:54:39,540 RW - vertex 45. Time : 0.000142097473145s
+2019-10-03 12:54:39,540 RW - vertex 60. Time : 0.000159025192261s
+2019-10-03 12:54:39,540 RW - vertex 39. Time : 0.000154972076416s
+2019-10-03 12:54:39,540 RW - vertex 44. Time : 0.000156879425049s
+2019-10-03 12:54:39,540 RW - vertex 21. Time : 0.000152111053467s
+2019-10-03 12:54:39,540 RW - vertex 40. Time : 0.000159978866577s
+2019-10-03 12:54:39,540 RW - vertex 28. Time : 0.000150918960571s
+2019-10-03 12:54:39,540 RW - vertex 14. Time : 0.000189065933228s
+2019-10-03 12:54:39,541 RW - vertex 47. Time : 0.000168800354004s
+2019-10-03 12:54:39,541 RW - vertex 15. Time : 0.000188112258911s
+2019-10-03 12:54:39,541 RW - vertex 22. Time : 0.000149011611938s
+2019-10-03 12:54:39,541 RW - vertex 55. Time : 0.000148057937622s
+2019-10-03 12:54:39,541 RW - vertex 51. Time : 0.000143051147461s
+2019-10-03 12:54:39,541 RW - vertex 18. Time : 0.000154972076416s
+2019-10-03 12:54:39,541 RW - vertex 13. Time : 0.000161170959473s
+2019-10-03 12:54:39,541 RW - vertex 38. Time : 0.000149011611938s
+2019-10-03 12:54:39,541 RW - vertex 36. Time : 0.000173091888428s
+2019-10-03 12:54:39,541 RW - vertex 20. Time : 0.000162124633789s
+2019-10-03 12:54:39,542 RW - vertex 31. Time : 0.000146150588989s
+2019-10-03 12:54:39,542 RW - vertex 61. Time : 0.000174999237061s
+2019-10-03 12:54:39,542 RW - vertex 30. Time : 0.000168085098267s
+2019-10-03 12:54:39,542 RW - vertex 11. Time : 0.000226020812988s
+2019-10-03 12:54:39,542 RW - vertex 6. Time : 0.000310897827148s
+2019-10-03 12:54:39,542 Iteration 8 executed.
+2019-10-03 12:54:39,542 RW - vertex 62. Time : 0.000165939331055s
+2019-10-03 12:54:39,543 RW - vertex 29. Time : 0.000173091888428s
+2019-10-03 12:54:39,543 RW - vertex 45. Time : 0.000180006027222s
+2019-10-03 12:54:39,543 RW - vertex 39. Time : 0.000138998031616s
+2019-10-03 12:54:39,543 RW - vertex 21. Time : 0.000166177749634s
+2019-10-03 12:54:39,544 RW - vertex 28. Time : 0.000180006027222s
+2019-10-03 12:54:39,544 RW - vertex 47. Time : 0.000169038772583s
+2019-10-03 12:54:39,544 RW - vertex 22. Time : 0.000149965286255s
+2019-10-03 12:54:39,544 RW - vertex 51. Time : 0.000168085098267s
+2019-10-03 12:54:39,544 RW - vertex 13. Time : 0.00016713142395s
+2019-10-03 12:54:39,545 RW - vertex 36. Time : 0.000168085098267s
+2019-10-03 12:54:39,545 RW - vertex 31. Time : 0.00017786026001s
+2019-10-03 12:54:39,545 RW - vertex 30. Time : 0.00020694732666s
+2019-10-03 12:54:39,546 Iteration 9 executed.
+2019-10-03 12:54:39,554 RWs created. Time: 0.00112564961116m
+2019-10-03 12:54:39,554 Saving Random Walks on disk...
+2019-10-03 12:54:39,563 Initializing creation of the representations...
+2019-10-03 12:54:39,564 Fast version of gensim.models.word2vec is being used
+2019-10-03 12:54:39,564 consider setting layer size to a multiple of 4 for greater performance
+2019-10-03 12:54:39,564 collecting all words and their counts
+2019-10-03 12:54:39,564 PROGRESS: at sentence #0, processed 0 words, keeping 0 word types
+2019-10-03 12:54:39,570 collected 63 word types from a corpus of 25200 raw words and 630 sentences
+2019-10-03 12:54:39,570 Loading a fresh vocabulary
+2019-10-03 12:54:39,570 min_count=0 retains 63 unique words (100% of original 63, drops 0)
+2019-10-03 12:54:39,570 min_count=0 leaves 25200 word corpus (100% of original 25200, drops 0)
+2019-10-03 12:54:39,570 deleting the raw counts dictionary of 63 items
+2019-10-03 12:54:39,570 sample=0.001 downsamples 62 most-common words
+2019-10-03 12:54:39,570 downsampling leaves estimated 7300 word corpus (29.0% of prior 25200)
+2019-10-03 12:54:39,570 estimated required memory for 63 words and 10 dimensions: 51660 bytes
+2019-10-03 12:54:39,570 constructing a huffman tree from 63 words
+2019-10-03 12:54:39,571 built huffman tree with maximum node depth 9
+2019-10-03 12:54:39,571 resetting layer weights
+2019-10-03 12:54:39,572 training model with 4 workers on 63 vocabulary and 10 features, using sg=1 hs=1 sample=0.001 negative=5 window=5
+2019-10-03 12:54:39,574 queueing job #0 (10000 words, 250 sentences) at alpha 0.02500
+2019-10-03 12:54:39,595 queueing job #1 (10000 words, 250 sentences) at alpha 0.01512
+2019-10-03 12:54:39,613 queueing job #2 (5200 words, 130 sentences) at alpha 0.00524
+2019-10-03 12:54:39,614 job loop exiting, total 3 jobs
+2019-10-03 12:54:39,615 worker exiting, processed 0 jobs
+2019-10-03 12:54:39,615 worker exiting, processed 1 jobs
+2019-10-03 12:54:39,615 worker thread finished; awaiting finish of 3 more threads
+2019-10-03 12:54:39,615 worker thread finished; awaiting finish of 2 more threads
+2019-10-03 12:54:39,622 worker exiting, processed 1 jobs
+2019-10-03 12:54:39,622 worker thread finished; awaiting finish of 1 more threads
+2019-10-03 12:54:39,626 worker exiting, processed 1 jobs
+2019-10-03 12:54:39,627 worker thread finished; awaiting finish of 0 more threads
+2019-10-03 12:54:39,627 training on 25200 raw words (7296 effective words) took 0.1s, 134471 effective words/s
+2019-10-03 12:54:39,627 under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+2019-10-03 12:54:39,627 storing 63x10 projection weights into /home/fan/data/ICSE/Geinimi/apktool/Geinimi-0e5838d74ded166c6ceb26b09ad575b6d546d669.apk/FGraph/FileGraphMap/com.geinimi.c.k/file-com.geinimi.c.k.emb
+2019-10-03 12:54:39,628 Representations created.

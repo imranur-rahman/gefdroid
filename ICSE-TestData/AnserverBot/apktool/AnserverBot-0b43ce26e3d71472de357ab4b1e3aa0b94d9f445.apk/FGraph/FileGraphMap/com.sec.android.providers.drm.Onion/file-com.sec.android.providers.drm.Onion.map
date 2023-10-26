@@ -1,0 +1,5 @@
+11 ---> java.io.FileOutputStream: write([B)void
+28 ---> java.net.URL: openConnection()java.net.URLConnection
+79 ---> java.io.FileOutputStream: write([BII)void
+82 ---> android.telephony.TelephonyManager: getSubscriberId()java.lang.String
+84 ---> android.telephony.TelephonyManager: getDeviceId()java.lang.String

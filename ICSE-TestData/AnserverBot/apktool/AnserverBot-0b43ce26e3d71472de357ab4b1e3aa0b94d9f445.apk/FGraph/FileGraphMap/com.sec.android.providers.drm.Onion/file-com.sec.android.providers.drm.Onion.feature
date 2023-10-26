@@ -1,0 +1,10 @@
+java.io.FileOutputStream: write([BII)void---java.net.URL: openConnection()java.net.URLConnection : 0.9849673203369448
+android.telephony.TelephonyManager: getDeviceId()java.lang.String---java.net.URL: openConnection()java.net.URLConnection : 0.6745144294647499
+java.io.FileOutputStream: write([BII)void---android.telephony.TelephonyManager: getDeviceId()java.lang.String : 0.575749446473128
+android.telephony.TelephonyManager: getDeviceId()java.lang.String---java.io.FileOutputStream: write([B)void : 0.5655781032634328
+java.io.FileOutputStream: write([B)void---java.net.URL: openConnection()java.net.URLConnection : 0.5045666004516154
+java.io.FileOutputStream: write([BII)void---java.io.FileOutputStream: write([B)void : 0.5028464684568895
+android.telephony.TelephonyManager: getSubscriberId()java.lang.String---java.io.FileOutputStream: write([B)void : 0.16339946752541393
+android.telephony.TelephonyManager: getSubscriberId()java.lang.String---java.io.FileOutputStream: write([BII)void : 0.14028090966305662
+android.telephony.TelephonyManager: getSubscriberId()java.lang.String---java.net.URL: openConnection()java.net.URLConnection : 0.10996585234725727
+android.telephony.TelephonyManager: getSubscriberId()java.lang.String---android.telephony.TelephonyManager: getDeviceId()java.lang.String : 0.0

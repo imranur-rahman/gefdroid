@@ -1,0 +1,10 @@
+Geinimi-0e100abf0b509de88a91054c2dff4e57771ad739.apk,7,2
+Geinimi-0e5838d74ded166c6ceb26b09ad575b6d546d669.apk,9,2
+DroidKungFu3-94bf70ca8c444b7bec79efa0807a282fb8c61964.apk,0,0
+DroidKungFu3-c6530612bdaac63c02cfbbfb4f9c7dedc83ab1e4.apk,1,0
+Geinimi-0d33dc4fe85e88cb70e9e1870497b4fc26c272c1.apk,6,2
+AnserverBot-0b43ce26e3d71472de357ab4b1e3aa0b94d9f445.apk,3,1
+AnserverBot-00c419169ce1099f508de8b7b97634b49379a531.apk,5,1
+DroidKungFu3-4c9f885680124dbcb8d590704d0f8dff4602f909.apk,2,0
+Geinimi-2e998614b17adbafeb55b5fb9820f63aec5ce8b4.apk,8,2
+AnserverBot-001fa1574a73e9a8481e26df2aa6104eb2406b57.apk,4,1

@@ -1,0 +1,3 @@
+4 ---> android.location.Location: getLatitude()D
+6 ---> android.location.LocationManager: getLastKnownLocation(java.lang.String)android.location.Location
+34 ---> android.location.Location: getLongitude()D

@@ -1,0 +1,231 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<gexf xmlns='qianniao918@qq.com' version='1.2' xmlns:viz='http://www.gexf.net/1.2draft/viz'> xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd'>
+	<meta lastmodifieddate='2014-9-21'>
+		<creator>FanMing</creator>
+		<description>An Android APK Method SCN!</description>
+	</meta>
+	<graph mode='static' defaultedgettype='directed'>
+		<nodes>
+		<node id='java.util.ArrayList: init()void' label='java.util.ArrayList: init()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.util.List: iterator()java.util.Iterator' label='java.util.List: iterator()java.util.Iterator'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.net.ConnectivityManager: getActiveNetworkInfo()android.net.NetworkInfo' label='android.net.ConnectivityManager: getActiveNetworkInfo()android.net.NetworkInfo'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='java.util.Iterator: hasNext()boolean' label='java.util.Iterator: hasNext()boolean'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.net.NetworkInfo: getExtraInfo()java.lang.String' label='android.net.NetworkInfo: getExtraInfo()java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='android.app.ActivityManager: getMemoryInfo(android.app.ActivityManager$MemoryInfo)void' label='android.app.ActivityManager: getMemoryInfo(android.app.ActivityManager$MemoryInfo)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.os.StatFs: getBlockSize()java.lang.Integer' label='android.os.StatFs: getBlockSize()java.lang.Integer'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.google.update.Utils$PhoneState: getModel()java.lang.String' label='com.google.update.Utils$PhoneState: getModel()java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.util.List: add(java.lang.Object)boolean' label='java.util.List: add(java.lang.Object)boolean'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.google.update.Utils$PhoneState: getTelManager(android.content.Context)android.telephony.TelephonyManager' label='com.google.update.Utils$PhoneState: getTelManager(android.content.Context)android.telephony.TelephonyManager'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.StringBuilder: toString()java.lang.String' label='java.lang.StringBuilder: toString()java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.text.format.Formatter: formatFileSize(android.content.Context,J)java.lang.String' label='android.text.format.Formatter: formatFileSize(android.content.Context,J)java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.google.update.Utils$PhoneState: getSDCardState(android.content.Context)java.lang.String' label='com.google.update.Utils$PhoneState: getSDCardState(android.content.Context)java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.String: valueOf(java.lang.Object)java.lang.String' label='java.lang.String: valueOf(java.lang.Object)java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.StringBuilder: init(java.lang.String)void' label='java.lang.StringBuilder: init(java.lang.String)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.String: equals(java.lang.Object)boolean' label='java.lang.String: equals(java.lang.Object)boolean'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.google.update.Utils$PhoneState: getConnectType(android.content.Context)java.lang.String' label='com.google.update.Utils$PhoneState: getConnectType(android.content.Context)java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.google.update.Utils$PhoneState: getSDAliaMemory(android.content.Context)java.lang.String' label='com.google.update.Utils$PhoneState: getSDAliaMemory(android.content.Context)java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.Object: init()void' label='java.lang.Object: init()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.google.update.Utils$PhoneState: getMobile(android.content.Context)java.lang.String' label='com.google.update.Utils$PhoneState: getMobile(android.content.Context)java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.util.Iterator: next()java.lang.Object' label='java.util.Iterator: next()java.lang.Object'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.app.ActivityManager$MemoryInfo: init()void' label='android.app.ActivityManager$MemoryInfo: init()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.app.ActivityManager: getRunningServices(java.lang.Integer)java.util.List' label='android.app.ActivityManager: getRunningServices(java.lang.Integer)java.util.List'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.os.Environment: getExternalStorageState()java.lang.String' label='android.os.Environment: getExternalStorageState()java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.StringBuilder: append(java.lang.String)java.lang.StringBuilder' label='java.lang.StringBuilder: append(java.lang.String)java.lang.StringBuilder'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.google.update.Utils$PhoneState: getSDKVersion()[Ljava.lang.String' label='com.google.update.Utils$PhoneState: getSDKVersion()[Ljava.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.google.update.Utils$PhoneState: getBlockSize()java.lang.Integer' label='com.google.update.Utils$PhoneState: getBlockSize()java.lang.Integer'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.google.update.Utils$PhoneState: getStatFs()android.os.StatFs' label='com.google.update.Utils$PhoneState: getStatFs()android.os.StatFs'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.google.update.Utils$PhoneState: getRuningServices(android.content.Context)java.util.List' label='com.google.update.Utils$PhoneState: getRuningServices(android.content.Context)java.util.List'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.os.StatFs: getAvailableBlocks()java.lang.Integer' label='android.os.StatFs: getAvailableBlocks()java.lang.Integer'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.io.File: getPath()java.lang.String' label='java.io.File: getPath()java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.google.update.Utils$PhoneState: getNetOperater(android.content.Context)java.lang.String' label='com.google.update.Utils$PhoneState: getNetOperater(android.content.Context)java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.os.StatFs: init(java.lang.String)void' label='android.os.StatFs: init(java.lang.String)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.telephony.TelephonyManager: getDeviceId()java.lang.String' label='android.telephony.TelephonyManager: getDeviceId()java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='android.content.Context: getSystemService(java.lang.String)java.lang.Object' label='android.content.Context: getSystemService(java.lang.String)java.lang.Object'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.Long: valueOf(J)java.lang.Long' label='java.lang.Long: valueOf(J)java.lang.Long'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.Long: longValue()J' label='java.lang.Long: longValue()J'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.google.update.Utils$PhoneState: getImei(android.content.Context)java.lang.String' label='com.google.update.Utils$PhoneState: getImei(android.content.Context)java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.net.NetworkInfo: getTypeName()java.lang.String' label='android.net.NetworkInfo: getTypeName()java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='android.os.Environment: getExternalStorageDirectory()java.io.File' label='android.os.Environment: getExternalStorageDirectory()java.io.File'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.google.update.Utils$PhoneState: getAliaMemorySize(android.content.Context)java.lang.String' label='com.google.update.Utils$PhoneState: getAliaMemorySize(android.content.Context)java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.google.update.Utils$PhoneState: init()void' label='com.google.update.Utils$PhoneState: init()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.telephony.TelephonyManager: getLine1Number()java.lang.String' label='android.telephony.TelephonyManager: getLine1Number()java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='android.content.ComponentName: getShortClassName()java.lang.String' label='android.content.ComponentName: getShortClassName()java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		</nodes>
+		<edges>
+			<edge id='0' source='com.google.update.Utils$PhoneState: getStatFs()android.os.StatFs' target='android.os.StatFs: init(java.lang.String)void'/>
+			<edge id='1' source='com.google.update.Utils$PhoneState: getNetOperater(android.content.Context)java.lang.String' target='android.net.NetworkInfo: getExtraInfo()java.lang.String'/>
+			<edge id='2' source='com.google.update.Utils$PhoneState: getAliaMemorySize(android.content.Context)java.lang.String' target='android.text.format.Formatter: formatFileSize(android.content.Context,J)java.lang.String'/>
+			<edge id='3' source='com.google.update.Utils$PhoneState: getRuningServices(android.content.Context)java.util.List' target='java.util.List: add(java.lang.Object)boolean'/>
+			<edge id='4' source='com.google.update.Utils$PhoneState: getConnectType(android.content.Context)java.lang.String' target='android.content.Context: getSystemService(java.lang.String)java.lang.Object'/>
+			<edge id='5' source='com.google.update.Utils$PhoneState: getBlockSize()java.lang.Integer' target='android.os.StatFs: getBlockSize()java.lang.Integer'/>
+			<edge id='6' source='com.google.update.Utils$PhoneState: getRuningServices(android.content.Context)java.util.List' target='java.util.Iterator: hasNext()boolean'/>
+			<edge id='7' source='com.google.update.Utils$PhoneState: getSDAliaMemory(android.content.Context)java.lang.String' target='com.google.update.Utils$PhoneState: getBlockSize()java.lang.Integer'/>
+			<edge id='8' source='com.google.update.Utils$PhoneState: getSDCardState(android.content.Context)java.lang.String' target='java.lang.String: equals(java.lang.Object)boolean'/>
+			<edge id='9' source='com.google.update.Utils$PhoneState: getNetOperater(android.content.Context)java.lang.String' target='android.content.Context: getSystemService(java.lang.String)java.lang.Object'/>
+			<edge id='10' source='com.google.update.Utils$PhoneState: getModel()java.lang.String' target='java.lang.String: valueOf(java.lang.Object)java.lang.String'/>
+			<edge id='11' source='com.google.update.Utils$PhoneState: getSDAliaMemory(android.content.Context)java.lang.String' target='android.os.StatFs: getAvailableBlocks()java.lang.Integer'/>
+			<edge id='12' source='com.google.update.Utils$PhoneState: getConnectType(android.content.Context)java.lang.String' target='android.net.NetworkInfo: getTypeName()java.lang.String'/>
+			<edge id='13' source='com.google.update.Utils$PhoneState: getModel()java.lang.String' target='java.lang.StringBuilder: append(java.lang.String)java.lang.StringBuilder'/>
+			<edge id='14' source='com.google.update.Utils$PhoneState: getModel()java.lang.String' target='java.lang.StringBuilder: init(java.lang.String)void'/>
+			<edge id='15' source='com.google.update.Utils$PhoneState: getRuningServices(android.content.Context)java.util.List' target='android.app.ActivityManager: getRunningServices(java.lang.Integer)java.util.List'/>
+			<edge id='16' source='com.google.update.Utils$PhoneState: getRuningServices(android.content.Context)java.util.List' target='android.content.Context: getSystemService(java.lang.String)java.lang.Object'/>
+			<edge id='17' source='com.google.update.Utils$PhoneState: getMobile(android.content.Context)java.lang.String' target='android.telephony.TelephonyManager: getLine1Number()java.lang.String'/>
+			<edge id='18' source='com.google.update.Utils$PhoneState: getConnectType(android.content.Context)java.lang.String' target='android.net.ConnectivityManager: getActiveNetworkInfo()android.net.NetworkInfo'/>
+			<edge id='19' source='com.google.update.Utils$PhoneState: getRuningServices(android.content.Context)java.util.List' target='java.util.Iterator: next()java.lang.Object'/>
+			<edge id='20' source='com.google.update.Utils$PhoneState: getBlockSize()java.lang.Integer' target='com.google.update.Utils$PhoneState: getStatFs()android.os.StatFs'/>
+			<edge id='21' source='com.google.update.Utils$PhoneState: getSDCardState(android.content.Context)java.lang.String' target='com.google.update.Utils$PhoneState: getSDAliaMemory(android.content.Context)java.lang.String'/>
+			<edge id='22' source='com.google.update.Utils$PhoneState: getTelManager(android.content.Context)android.telephony.TelephonyManager' target='android.content.Context: getSystemService(java.lang.String)java.lang.Object'/>
+			<edge id='23' source='com.google.update.Utils$PhoneState: getSDAliaMemory(android.content.Context)java.lang.String' target='android.text.format.Formatter: formatFileSize(android.content.Context,J)java.lang.String'/>
+			<edge id='24' source='com.google.update.Utils$PhoneState: getRuningServices(android.content.Context)java.util.List' target='android.content.ComponentName: getShortClassName()java.lang.String'/>
+			<edge id='25' source='com.google.update.Utils$PhoneState: init()void' target='java.lang.Object: init()void'/>
+			<edge id='26' source='com.google.update.Utils$PhoneState: getSDCardState(android.content.Context)java.lang.String' target='android.os.Environment: getExternalStorageState()java.lang.String'/>
+			<edge id='27' source='com.google.update.Utils$PhoneState: getAliaMemorySize(android.content.Context)java.lang.String' target='android.app.ActivityManager: getMemoryInfo(android.app.ActivityManager$MemoryInfo)void'/>
+			<edge id='28' source='com.google.update.Utils$PhoneState: getModel()java.lang.String' target='java.lang.StringBuilder: toString()java.lang.String'/>
+			<edge id='29' source='com.google.update.Utils$PhoneState: getAliaMemorySize(android.content.Context)java.lang.String' target='android.app.ActivityManager$MemoryInfo: init()void'/>
+			<edge id='30' source='com.google.update.Utils$PhoneState: getMobile(android.content.Context)java.lang.String' target='com.google.update.Utils$PhoneState: getTelManager(android.content.Context)android.telephony.TelephonyManager'/>
+			<edge id='31' source='com.google.update.Utils$PhoneState: getStatFs()android.os.StatFs' target='java.io.File: getPath()java.lang.String'/>
+			<edge id='32' source='com.google.update.Utils$PhoneState: getSDAliaMemory(android.content.Context)java.lang.String' target='com.google.update.Utils$PhoneState: getStatFs()android.os.StatFs'/>
+			<edge id='33' source='com.google.update.Utils$PhoneState: getImei(android.content.Context)java.lang.String' target='android.telephony.TelephonyManager: getDeviceId()java.lang.String'/>
+			<edge id='34' source='com.google.update.Utils$PhoneState: getSDAliaMemory(android.content.Context)java.lang.String' target='java.lang.Long: valueOf(J)java.lang.Long'/>
+			<edge id='35' source='com.google.update.Utils$PhoneState: getAliaMemorySize(android.content.Context)java.lang.String' target='android.content.Context: getSystemService(java.lang.String)java.lang.Object'/>
+			<edge id='36' source='com.google.update.Utils$PhoneState: getRuningServices(android.content.Context)java.util.List' target='java.util.ArrayList: init()void'/>
+			<edge id='37' source='com.google.update.Utils$PhoneState: getImei(android.content.Context)java.lang.String' target='com.google.update.Utils$PhoneState: getTelManager(android.content.Context)android.telephony.TelephonyManager'/>
+			<edge id='38' source='com.google.update.Utils$PhoneState: getSDAliaMemory(android.content.Context)java.lang.String' target='java.lang.Long: longValue()J'/>
+			<edge id='39' source='com.google.update.Utils$PhoneState: getNetOperater(android.content.Context)java.lang.String' target='android.net.ConnectivityManager: getActiveNetworkInfo()android.net.NetworkInfo'/>
+			<edge id='40' source='com.google.update.Utils$PhoneState: getRuningServices(android.content.Context)java.util.List' target='java.util.List: iterator()java.util.Iterator'/>
+			<edge id='41' source='com.google.update.Utils$PhoneState: getStatFs()android.os.StatFs' target='android.os.Environment: getExternalStorageDirectory()java.io.File'/>
+		</edges>
+	</graph>
+</gexf>

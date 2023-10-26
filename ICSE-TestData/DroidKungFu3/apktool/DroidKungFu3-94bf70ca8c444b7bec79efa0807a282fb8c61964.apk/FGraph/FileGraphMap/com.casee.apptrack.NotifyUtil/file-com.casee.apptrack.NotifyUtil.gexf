@@ -1,0 +1,317 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<gexf xmlns='qianniao918@qq.com' version='1.2' xmlns:viz='http://www.gexf.net/1.2draft/viz'> xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd'>
+	<meta lastmodifieddate='2014-9-21'>
+		<creator>FanMing</creator>
+		<description>An Android APK Method SCN!</description>
+	</meta>
+	<graph mode='static' defaultedgettype='directed'>
+		<nodes>
+		<node id='java.net.HttpURLConnection: setConnectTimeout(java.lang.Integer)void' label='java.net.HttpURLConnection: setConnectTimeout(java.lang.Integer)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.util.Properties: save(java.io.OutputStream,java.lang.String)void' label='java.util.Properties: save(java.io.OutputStream,java.lang.String)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.io.InputStream: close()void' label='java.io.InputStream: close()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.util.Properties: load(java.io.InputStream)void' label='java.util.Properties: load(java.io.InputStream)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.util.zip.Checksum: getValue()J' label='java.util.zip.Checksum: getValue()J'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.casee.apptrack.NotifyUtil: getConnection(java.lang.String,java.lang.String)java.net.HttpURLConnection' label='com.casee.apptrack.NotifyUtil: getConnection(java.lang.String,java.lang.String)java.net.HttpURLConnection'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.Exception: getMessage()java.lang.String' label='java.lang.Exception: getMessage()java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.content.Context: getAssets()android.content.res.AssetManager' label='android.content.Context: getAssets()android.content.res.AssetManager'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.casee.apptrack.NotifyUtil: sendNotify(java.lang.String,java.util.Map)boolean' label='com.casee.apptrack.NotifyUtil: sendNotify(java.lang.String,java.util.Map)boolean'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.Object: init()void' label='java.lang.Object: init()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.util.zip.CheckedInputStream: init(java.io.InputStream,java.util.zip.Checksum)void' label='java.util.zip.CheckedInputStream: init(java.io.InputStream,java.util.zip.Checksum)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.net.URL: openConnection()java.net.URLConnection' label='java.net.URL: openConnection()java.net.URLConnection'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='java.net.URL: init(java.lang.String)void' label='java.net.URL: init(java.lang.String)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.String: getBytes(java.lang.String)[B' label='java.lang.String: getBytes(java.lang.String)[B'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.casee.apptrack.NotifyUtil: getPropertiesFromAsset(java.lang.String)java.util.Properties' label='com.casee.apptrack.NotifyUtil: getPropertiesFromAsset(java.lang.String)java.util.Properties'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.casee.apptrack.NotifyUtil: getCaseeProperties(java.lang.String)java.util.Properties' label='com.casee.apptrack.NotifyUtil: getCaseeProperties(java.lang.String)java.util.Properties'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.io.OutputStreamWriter: init(java.io.OutputStream)void' label='java.io.OutputStreamWriter: init(java.io.OutputStream)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.net.HttpURLConnection: setRequestProperty(java.lang.String,java.lang.String)void' label='java.net.HttpURLConnection: setRequestProperty(java.lang.String,java.lang.String)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.StringBuffer: append(java.lang.String)java.lang.StringBuffer' label='java.lang.StringBuffer: append(java.lang.String)java.lang.StringBuffer'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.StringBuffer: init()void' label='java.lang.StringBuffer: init()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.io.File: exists()boolean' label='java.io.File: exists()boolean'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.io.FileInputStream: close()void' label='java.io.FileInputStream: close()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.util.Properties: init()void' label='java.util.Properties: init()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.StringBuilder: append(J)java.lang.StringBuilder' label='java.lang.StringBuilder: append(J)java.lang.StringBuilder'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.casee.apptrack.NotifyUtil: getCaseeFile(java.lang.String)java.io.File' label='com.casee.apptrack.NotifyUtil: getCaseeFile(java.lang.String)java.io.File'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.net.HttpURLConnection: disconnect()void' label='java.net.HttpURLConnection: disconnect()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.io.Writer: write(java.lang.String)void' label='java.io.Writer: write(java.lang.String)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.io.FileOutputStream: init(java.io.File)void' label='java.io.FileOutputStream: init(java.io.File)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.io.FileOutputStream: close()void' label='java.io.FileOutputStream: close()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.io.ByteArrayInputStream: init([B)void' label='java.io.ByteArrayInputStream: init([B)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.util.Map: keySet()java.util.Set' label='java.util.Map: keySet()java.util.Set'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.util.zip.Adler32: init()void' label='java.util.zip.Adler32: init()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.io.FileInputStream: init(java.io.File)void' label='java.io.FileInputStream: init(java.io.File)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.net.HttpURLConnection: getOutputStream()java.io.OutputStream' label='java.net.HttpURLConnection: getOutputStream()java.io.OutputStream'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.casee.apptrack.NotifyUtil: createPostString(java.util.Map)java.lang.String' label='com.casee.apptrack.NotifyUtil: createPostString(java.util.Map)java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.casee.apptrack.NotifyUtil: genChecksum(java.lang.String)J' label='com.casee.apptrack.NotifyUtil: genChecksum(java.lang.String)J'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.util.Log: e(java.lang.String,java.lang.String,java.lang.Throwable)java.lang.Integer' label='android.util.Log: e(java.lang.String,java.lang.String,java.lang.Throwable)java.lang.Integer'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='java.util.Iterator: hasNext()boolean' label='java.util.Iterator: hasNext()boolean'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.net.HttpURLConnection: setDoOutput(boolean)void' label='java.net.HttpURLConnection: setDoOutput(boolean)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.util.Map: get(java.lang.Object)java.lang.Object' label='java.util.Map: get(java.lang.Object)java.lang.Object'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.StringBuffer: toString()java.lang.String' label='java.lang.StringBuffer: toString()java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.util.zip.CheckedInputStream: getChecksum()java.util.zip.Checksum' label='java.util.zip.CheckedInputStream: getChecksum()java.util.zip.Checksum'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.StringBuilder: toString()java.lang.String' label='java.lang.StringBuilder: toString()java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.util.Set: iterator()java.util.Iterator' label='java.util.Set: iterator()java.util.Iterator'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.content.Context: getDir(java.lang.String,java.lang.Integer)java.io.File' label='android.content.Context: getDir(java.lang.String,java.lang.Integer)java.io.File'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.io.Writer: close()void' label='java.io.Writer: close()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.util.Iterator: next()java.lang.Object' label='java.util.Iterator: next()java.lang.Object'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.casee.apptrack.NotifyUtil: saveCaseeProperties(java.lang.String,java.util.Properties)void' label='com.casee.apptrack.NotifyUtil: saveCaseeProperties(java.lang.String,java.util.Properties)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.io.File: init(java.io.File,java.lang.String)void' label='java.io.File: init(java.io.File,java.lang.String)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.StringBuilder: append(java.lang.String)java.lang.StringBuilder' label='java.lang.StringBuilder: append(java.lang.String)java.lang.StringBuilder'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.net.HttpURLConnection: getResponseCode()java.lang.Integer' label='java.net.HttpURLConnection: getResponseCode()java.lang.Integer'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.Throwable: getMessage()java.lang.String' label='java.lang.Throwable: getMessage()java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.net.URLEncoder: encode(java.lang.String)java.lang.String' label='java.net.URLEncoder: encode(java.lang.String)java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.util.zip.CheckedInputStream: read([B)java.lang.Integer' label='java.util.zip.CheckedInputStream: read([B)java.lang.Integer'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.casee.apptrack.NotifyUtil: init(android.content.Context)void' label='com.casee.apptrack.NotifyUtil: init(android.content.Context)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.io.BufferedWriter: init(java.io.Writer)void' label='java.io.BufferedWriter: init(java.io.Writer)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.util.Log: e(java.lang.String,java.lang.String)java.lang.Integer' label='android.util.Log: e(java.lang.String,java.lang.String)java.lang.Integer'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='java.net.HttpURLConnection: setRequestMethod(java.lang.String)void' label='java.net.HttpURLConnection: setRequestMethod(java.lang.String)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.content.res.AssetManager: open(java.lang.String)java.io.InputStream' label='android.content.res.AssetManager: open(java.lang.String)java.io.InputStream'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.StringBuilder: init()void' label='java.lang.StringBuilder: init()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.net.HttpURLConnection: setReadTimeout(java.lang.Integer)void' label='java.net.HttpURLConnection: setReadTimeout(java.lang.Integer)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		</nodes>
+		<edges>
+			<edge id='0' source='com.casee.apptrack.NotifyUtil: createPostString(java.util.Map)java.lang.String' target='java.util.Map: get(java.lang.Object)java.lang.Object'/>
+			<edge id='1' source='com.casee.apptrack.NotifyUtil: sendNotify(java.lang.String,java.util.Map)boolean' target='java.lang.StringBuilder: append(J)java.lang.StringBuilder'/>
+			<edge id='2' source='com.casee.apptrack.NotifyUtil: getConnection(java.lang.String,java.lang.String)java.net.HttpURLConnection' target='java.io.Writer: close()void'/>
+			<edge id='3' source='com.casee.apptrack.NotifyUtil: genChecksum(java.lang.String)J' target='java.util.zip.Checksum: getValue()J'/>
+			<edge id='4' source='com.casee.apptrack.NotifyUtil: getCaseeProperties(java.lang.String)java.util.Properties' target='java.util.Properties: load(java.io.InputStream)void'/>
+			<edge id='5' source='com.casee.apptrack.NotifyUtil: genChecksum(java.lang.String)J' target='java.io.ByteArrayInputStream: init([B)void'/>
+			<edge id='6' source='com.casee.apptrack.NotifyUtil: createPostString(java.util.Map)java.lang.String' target='java.util.Set: iterator()java.util.Iterator'/>
+			<edge id='7' source='com.casee.apptrack.NotifyUtil: getConnection(java.lang.String,java.lang.String)java.net.HttpURLConnection' target='java.io.BufferedWriter: init(java.io.Writer)void'/>
+			<edge id='8' source='com.casee.apptrack.NotifyUtil: createPostString(java.util.Map)java.lang.String' target='java.util.Map: keySet()java.util.Set'/>
+			<edge id='9' source='com.casee.apptrack.NotifyUtil: sendNotify(java.lang.String,java.util.Map)boolean' target='android.util.Log: e(java.lang.String,java.lang.String,java.lang.Throwable)java.lang.Integer'/>
+			<edge id='10' source='com.casee.apptrack.NotifyUtil: createPostString(java.util.Map)java.lang.String' target='java.lang.StringBuffer: toString()java.lang.String'/>
+			<edge id='11' source='com.casee.apptrack.NotifyUtil: getPropertiesFromAsset(java.lang.String)java.util.Properties' target='android.content.Context: getAssets()android.content.res.AssetManager'/>
+			<edge id='12' source='com.casee.apptrack.NotifyUtil: getConnection(java.lang.String,java.lang.String)java.net.HttpURLConnection' target='java.net.URL: openConnection()java.net.URLConnection'/>
+			<edge id='13' source='com.casee.apptrack.NotifyUtil: saveCaseeProperties(java.lang.String,java.util.Properties)void' target='java.io.FileOutputStream: init(java.io.File)void'/>
+			<edge id='14' source='com.casee.apptrack.NotifyUtil: getConnection(java.lang.String,java.lang.String)java.net.HttpURLConnection' target='java.net.URL: init(java.lang.String)void'/>
+			<edge id='15' source='com.casee.apptrack.NotifyUtil: getConnection(java.lang.String,java.lang.String)java.net.HttpURLConnection' target='java.net.HttpURLConnection: getOutputStream()java.io.OutputStream'/>
+			<edge id='16' source='com.casee.apptrack.NotifyUtil: getCaseeProperties(java.lang.String)java.util.Properties' target='java.util.Properties: init()void'/>
+			<edge id='17' source='com.casee.apptrack.NotifyUtil: genChecksum(java.lang.String)J' target='java.lang.String: getBytes(java.lang.String)[B'/>
+			<edge id='18' source='com.casee.apptrack.NotifyUtil: genChecksum(java.lang.String)J' target='java.util.zip.CheckedInputStream: init(java.io.InputStream,java.util.zip.Checksum)void'/>
+			<edge id='19' source='com.casee.apptrack.NotifyUtil: getCaseeFile(java.lang.String)java.io.File' target='java.io.File: init(java.io.File,java.lang.String)void'/>
+			<edge id='20' source='com.casee.apptrack.NotifyUtil: createPostString(java.util.Map)java.lang.String' target='java.lang.StringBuffer: append(java.lang.String)java.lang.StringBuffer'/>
+			<edge id='21' source='com.casee.apptrack.NotifyUtil: getPropertiesFromAsset(java.lang.String)java.util.Properties' target='android.content.res.AssetManager: open(java.lang.String)java.io.InputStream'/>
+			<edge id='22' source='com.casee.apptrack.NotifyUtil: getCaseeProperties(java.lang.String)java.util.Properties' target='java.io.File: exists()boolean'/>
+			<edge id='23' source='com.casee.apptrack.NotifyUtil: createPostString(java.util.Map)java.lang.String' target='java.net.URLEncoder: encode(java.lang.String)java.lang.String'/>
+			<edge id='24' source='com.casee.apptrack.NotifyUtil: genChecksum(java.lang.String)J' target='android.util.Log: e(java.lang.String,java.lang.String)java.lang.Integer'/>
+			<edge id='25' source='com.casee.apptrack.NotifyUtil: genChecksum(java.lang.String)J' target='java.util.zip.CheckedInputStream: read([B)java.lang.Integer'/>
+			<edge id='26' source='com.casee.apptrack.NotifyUtil: createPostString(java.util.Map)java.lang.String' target='java.lang.StringBuffer: init()void'/>
+			<edge id='27' source='com.casee.apptrack.NotifyUtil: saveCaseeProperties(java.lang.String,java.util.Properties)void' target='java.util.Properties: save(java.io.OutputStream,java.lang.String)void'/>
+			<edge id='28' source='com.casee.apptrack.NotifyUtil: getPropertiesFromAsset(java.lang.String)java.util.Properties' target='java.util.Properties: load(java.io.InputStream)void'/>
+			<edge id='29' source='com.casee.apptrack.NotifyUtil: sendNotify(java.lang.String,java.util.Map)boolean' target='com.casee.apptrack.NotifyUtil: genChecksum(java.lang.String)J'/>
+			<edge id='30' source='com.casee.apptrack.NotifyUtil: getConnection(java.lang.String,java.lang.String)java.net.HttpURLConnection' target='java.net.HttpURLConnection: setRequestMethod(java.lang.String)void'/>
+			<edge id='31' source='com.casee.apptrack.NotifyUtil: sendNotify(java.lang.String,java.util.Map)boolean' target='java.net.HttpURLConnection: getResponseCode()java.lang.Integer'/>
+			<edge id='32' source='com.casee.apptrack.NotifyUtil: saveCaseeProperties(java.lang.String,java.util.Properties)void' target='java.io.FileOutputStream: close()void'/>
+			<edge id='33' source='com.casee.apptrack.NotifyUtil: getConnection(java.lang.String,java.lang.String)java.net.HttpURLConnection' target='java.net.HttpURLConnection: setReadTimeout(java.lang.Integer)void'/>
+			<edge id='34' source='com.casee.apptrack.NotifyUtil: getCaseeFile(java.lang.String)java.io.File' target='android.content.Context: getDir(java.lang.String,java.lang.Integer)java.io.File'/>
+			<edge id='35' source='com.casee.apptrack.NotifyUtil: genChecksum(java.lang.String)J' target='java.util.zip.CheckedInputStream: getChecksum()java.util.zip.Checksum'/>
+			<edge id='36' source='com.casee.apptrack.NotifyUtil: getCaseeProperties(java.lang.String)java.util.Properties' target='com.casee.apptrack.NotifyUtil: getCaseeFile(java.lang.String)java.io.File'/>
+			<edge id='37' source='com.casee.apptrack.NotifyUtil: sendNotify(java.lang.String,java.util.Map)boolean' target='com.casee.apptrack.NotifyUtil: getConnection(java.lang.String,java.lang.String)java.net.HttpURLConnection'/>
+			<edge id='38' source='com.casee.apptrack.NotifyUtil: sendNotify(java.lang.String,java.util.Map)boolean' target='java.lang.StringBuilder: init()void'/>
+			<edge id='39' source='com.casee.apptrack.NotifyUtil: saveCaseeProperties(java.lang.String,java.util.Properties)void' target='com.casee.apptrack.NotifyUtil: getCaseeFile(java.lang.String)java.io.File'/>
+			<edge id='40' source='com.casee.apptrack.NotifyUtil: getPropertiesFromAsset(java.lang.String)java.util.Properties' target='java.io.InputStream: close()void'/>
+			<edge id='41' source='com.casee.apptrack.NotifyUtil: init(android.content.Context)void' target='java.lang.Object: init()void'/>
+			<edge id='42' source='com.casee.apptrack.NotifyUtil: createPostString(java.util.Map)java.lang.String' target='java.util.Iterator: hasNext()boolean'/>
+			<edge id='43' source='com.casee.apptrack.NotifyUtil: getConnection(java.lang.String,java.lang.String)java.net.HttpURLConnection' target='java.io.OutputStreamWriter: init(java.io.OutputStream)void'/>
+			<edge id='44' source='com.casee.apptrack.NotifyUtil: createPostString(java.util.Map)java.lang.String' target='java.util.Iterator: next()java.lang.Object'/>
+			<edge id='45' source='com.casee.apptrack.NotifyUtil: getPropertiesFromAsset(java.lang.String)java.util.Properties' target='java.util.Properties: init()void'/>
+			<edge id='46' source='com.casee.apptrack.NotifyUtil: genChecksum(java.lang.String)J' target='java.lang.Exception: getMessage()java.lang.String'/>
+			<edge id='47' source='com.casee.apptrack.NotifyUtil: genChecksum(java.lang.String)J' target='java.util.zip.Adler32: init()void'/>
+			<edge id='48' source='com.casee.apptrack.NotifyUtil: getConnection(java.lang.String,java.lang.String)java.net.HttpURLConnection' target='java.io.Writer: write(java.lang.String)void'/>
+			<edge id='49' source='com.casee.apptrack.NotifyUtil: sendNotify(java.lang.String,java.util.Map)boolean' target='com.casee.apptrack.NotifyUtil: createPostString(java.util.Map)java.lang.String'/>
+			<edge id='50' source='com.casee.apptrack.NotifyUtil: getCaseeProperties(java.lang.String)java.util.Properties' target='java.io.FileInputStream: init(java.io.File)void'/>
+			<edge id='51' source='com.casee.apptrack.NotifyUtil: getConnection(java.lang.String,java.lang.String)java.net.HttpURLConnection' target='java.net.HttpURLConnection: setConnectTimeout(java.lang.Integer)void'/>
+			<edge id='52' source='com.casee.apptrack.NotifyUtil: getConnection(java.lang.String,java.lang.String)java.net.HttpURLConnection' target='java.net.HttpURLConnection: setDoOutput(boolean)void'/>
+			<edge id='53' source='com.casee.apptrack.NotifyUtil: sendNotify(java.lang.String,java.util.Map)boolean' target='java.net.HttpURLConnection: disconnect()void'/>
+			<edge id='54' source='com.casee.apptrack.NotifyUtil: sendNotify(java.lang.String,java.util.Map)boolean' target='java.lang.StringBuilder: append(java.lang.String)java.lang.StringBuilder'/>
+			<edge id='55' source='com.casee.apptrack.NotifyUtil: getCaseeProperties(java.lang.String)java.util.Properties' target='java.io.FileInputStream: close()void'/>
+			<edge id='56' source='com.casee.apptrack.NotifyUtil: sendNotify(java.lang.String,java.util.Map)boolean' target='java.lang.Throwable: getMessage()java.lang.String'/>
+			<edge id='57' source='com.casee.apptrack.NotifyUtil: getConnection(java.lang.String,java.lang.String)java.net.HttpURLConnection' target='java.net.HttpURLConnection: setRequestProperty(java.lang.String,java.lang.String)void'/>
+			<edge id='58' source='com.casee.apptrack.NotifyUtil: init(android.content.Context)void' target='android.content.Context: getAssets()android.content.res.AssetManager'/>
+			<edge id='59' source='com.casee.apptrack.NotifyUtil: sendNotify(java.lang.String,java.util.Map)boolean' target='java.lang.StringBuilder: toString()java.lang.String'/>
+		</edges>
+	</graph>
+</gexf>

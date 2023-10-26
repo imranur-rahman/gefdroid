@@ -1,0 +1,2 @@
+8 ---> java.net.URL: openConnection()java.net.URLConnection
+10 ---> android.net.ConnectivityManager: getNetworkInfo(java.lang.Integer)android.net.NetworkInfo

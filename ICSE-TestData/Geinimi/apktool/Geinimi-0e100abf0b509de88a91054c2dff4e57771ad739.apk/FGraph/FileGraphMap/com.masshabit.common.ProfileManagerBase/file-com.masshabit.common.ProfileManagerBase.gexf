@@ -1,0 +1,195 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<gexf xmlns='qianniao918@qq.com' version='1.2' xmlns:viz='http://www.gexf.net/1.2draft/viz'> xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd'>
+	<meta lastmodifieddate='2014-9-21'>
+		<creator>FanMing</creator>
+		<description>An Android APK Method SCN!</description>
+	</meta>
+	<graph mode='static' defaultedgettype='directed'>
+		<nodes>
+		<node id='java.lang.StringBuffer: append([CII)java.lang.StringBuffer' label='java.lang.StringBuffer: append([CII)java.lang.StringBuffer'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.common.ProfileManagerBase: instance()com.masshabit.common.ProfileManagerBase' label='com.masshabit.common.ProfileManagerBase: instance()com.masshabit.common.ProfileManagerBase'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.io.InputStreamReader: init(java.io.InputStream)void' label='java.io.InputStreamReader: init(java.io.InputStream)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.io.BufferedReader: read([C)java.lang.Integer' label='java.io.BufferedReader: read([C)java.lang.Integer'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.io.BufferedReader: init(java.io.Reader,java.lang.Integer)void' label='java.io.BufferedReader: init(java.io.Reader,java.lang.Integer)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='org.json.JSONObject: init()void' label='org.json.JSONObject: init()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='org.json.JSONObject: toString()java.lang.String' label='org.json.JSONObject: toString()java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.common.ProfileManagerBase: getCurrentProfile()java.lang.Integer' label='com.masshabit.common.ProfileManagerBase: getCurrentProfile()java.lang.Integer'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.util.Log: d(java.lang.String,java.lang.String)java.lang.Integer' label='android.util.Log: d(java.lang.String,java.lang.String)java.lang.Integer'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='java.io.FileOutputStream: write([B)void' label='java.io.FileOutputStream: write([B)void'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='android.content.Context: openFileOutput(java.lang.String,java.lang.Integer)java.io.FileOutputStream' label='android.content.Context: openFileOutput(java.lang.String,java.lang.Integer)java.io.FileOutputStream'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.StringBuffer: toString()java.lang.String' label='java.lang.StringBuffer: toString()java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='org.json.JSONObject: init(java.lang.String)void' label='org.json.JSONObject: init(java.lang.String)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.common.ProfileManagerBase$PlayerProfile: save(org.json.JSONObject)void' label='com.masshabit.common.ProfileManagerBase$PlayerProfile: save(org.json.JSONObject)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='junit.framework.Assert: assertTrue(java.lang.String,boolean)void' label='junit.framework.Assert: assertTrue(java.lang.String,boolean)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='org.json.JSONException: printStackTrace()void' label='org.json.JSONException: printStackTrace()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.common.ProfileManagerBase: saveProfile()void' label='com.masshabit.common.ProfileManagerBase: saveProfile()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.common.ProfileManagerBase: create(android.content.Context)com.masshabit.common.ProfileManagerBase' label='com.masshabit.common.ProfileManagerBase: create(android.content.Context)com.masshabit.common.ProfileManagerBase'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.StringBuilder: toString()java.lang.String' label='java.lang.StringBuilder: toString()java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='junit.framework.Assert: assertTrue(boolean)void' label='junit.framework.Assert: assertTrue(boolean)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.common.ProfileManagerBase: allocatePlayerProfile()com.masshabit.common.ProfileManagerBase$PlayerProfile' label='com.masshabit.common.ProfileManagerBase: allocatePlayerProfile()com.masshabit.common.ProfileManagerBase$PlayerProfile'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.io.FileNotFoundException: printStackTrace()void' label='java.io.FileNotFoundException: printStackTrace()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.common.ProfileManagerBase$PlayerProfile: load(org.json.JSONObject)void' label='com.masshabit.common.ProfileManagerBase$PlayerProfile: load(org.json.JSONObject)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.Object: init()void' label='java.lang.Object: init()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.common.ProfileManagerBase: init(android.content.Context)void' label='com.masshabit.common.ProfileManagerBase: init(android.content.Context)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.StringBuilder: append(java.lang.String)java.lang.StringBuilder' label='java.lang.StringBuilder: append(java.lang.String)java.lang.StringBuilder'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.io.IOException: printStackTrace()void' label='java.io.IOException: printStackTrace()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.io.FileInputStream: close()void' label='java.io.FileInputStream: close()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.String: getBytes()[B' label='java.lang.String: getBytes()[B'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.StringBuilder: init()void' label='java.lang.StringBuilder: init()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.content.Context: openFileInput(java.lang.String)java.io.FileInputStream' label='android.content.Context: openFileInput(java.lang.String)java.io.FileInputStream'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.common.ProfileManagerBase: getProfile()com.masshabit.common.ProfileManagerBase$PlayerProfile' label='com.masshabit.common.ProfileManagerBase: getProfile()com.masshabit.common.ProfileManagerBase$PlayerProfile'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.StringBuilder: append(java.lang.Integer)java.lang.StringBuilder' label='java.lang.StringBuilder: append(java.lang.Integer)java.lang.StringBuilder'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.StringBuffer: init(java.lang.Integer)void' label='java.lang.StringBuffer: init(java.lang.Integer)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.io.FileOutputStream: close()void' label='java.io.FileOutputStream: close()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.common.ProfileManagerBase: setCurrentProfile(java.lang.Integer)void' label='com.masshabit.common.ProfileManagerBase: setCurrentProfile(java.lang.Integer)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		</nodes>
+		<edges>
+			<edge id='0' source='com.masshabit.common.ProfileManagerBase: create(android.content.Context)com.masshabit.common.ProfileManagerBase' target='junit.framework.Assert: assertTrue(java.lang.String,boolean)void'/>
+			<edge id='1' source='com.masshabit.common.ProfileManagerBase: saveProfile()void' target='java.io.FileNotFoundException: printStackTrace()void'/>
+			<edge id='2' source='com.masshabit.common.ProfileManagerBase: init(android.content.Context)void' target='org.json.JSONException: printStackTrace()void'/>
+			<edge id='3' source='com.masshabit.common.ProfileManagerBase: init(android.content.Context)void' target='org.json.JSONObject: init(java.lang.String)void'/>
+			<edge id='4' source='com.masshabit.common.ProfileManagerBase: init(android.content.Context)void' target='java.lang.StringBuilder: append(java.lang.Integer)java.lang.StringBuilder'/>
+			<edge id='5' source='com.masshabit.common.ProfileManagerBase: getProfile()com.masshabit.common.ProfileManagerBase$PlayerProfile' target='junit.framework.Assert: assertTrue(boolean)void'/>
+			<edge id='6' source='com.masshabit.common.ProfileManagerBase: instance()com.masshabit.common.ProfileManagerBase' target='junit.framework.Assert: assertTrue(boolean)void'/>
+			<edge id='7' source='com.masshabit.common.ProfileManagerBase: saveProfile()void' target='java.lang.String: getBytes()[B'/>
+			<edge id='8' source='com.masshabit.common.ProfileManagerBase: init(android.content.Context)void' target='java.io.BufferedReader: init(java.io.Reader,java.lang.Integer)void'/>
+			<edge id='9' source='com.masshabit.common.ProfileManagerBase: saveProfile()void' target='org.json.JSONObject: init()void'/>
+			<edge id='10' source='com.masshabit.common.ProfileManagerBase: saveProfile()void' target='java.lang.StringBuilder: append(java.lang.Integer)java.lang.StringBuilder'/>
+			<edge id='11' source='com.masshabit.common.ProfileManagerBase: saveProfile()void' target='junit.framework.Assert: assertTrue(boolean)void'/>
+			<edge id='12' source='com.masshabit.common.ProfileManagerBase: saveProfile()void' target='com.masshabit.common.ProfileManagerBase$PlayerProfile: save(org.json.JSONObject)void'/>
+			<edge id='13' source='com.masshabit.common.ProfileManagerBase: allocatePlayerProfile()com.masshabit.common.ProfileManagerBase$PlayerProfile' target='junit.framework.Assert: assertTrue(java.lang.String,boolean)void'/>
+			<edge id='14' source='com.masshabit.common.ProfileManagerBase: saveProfile()void' target='java.lang.StringBuilder: init()void'/>
+			<edge id='15' source='com.masshabit.common.ProfileManagerBase: init(android.content.Context)void' target='java.lang.Object: init()void'/>
+			<edge id='16' source='com.masshabit.common.ProfileManagerBase: init(android.content.Context)void' target='java.io.FileInputStream: close()void'/>
+			<edge id='17' source='com.masshabit.common.ProfileManagerBase: setCurrentProfile(java.lang.Integer)void' target='junit.framework.Assert: assertTrue(boolean)void'/>
+			<edge id='18' source='com.masshabit.common.ProfileManagerBase: init(android.content.Context)void' target='com.masshabit.common.ProfileManagerBase: allocatePlayerProfile()com.masshabit.common.ProfileManagerBase$PlayerProfile'/>
+			<edge id='19' source='com.masshabit.common.ProfileManagerBase: init(android.content.Context)void' target='java.lang.StringBuilder: init()void'/>
+			<edge id='20' source='com.masshabit.common.ProfileManagerBase: init(android.content.Context)void' target='java.lang.StringBuilder: append(java.lang.String)java.lang.StringBuilder'/>
+			<edge id='21' source='com.masshabit.common.ProfileManagerBase: saveProfile()void' target='org.json.JSONObject: toString()java.lang.String'/>
+			<edge id='22' source='com.masshabit.common.ProfileManagerBase: init(android.content.Context)void' target='android.content.Context: openFileInput(java.lang.String)java.io.FileInputStream'/>
+			<edge id='23' source='com.masshabit.common.ProfileManagerBase: init(android.content.Context)void' target='com.masshabit.common.ProfileManagerBase$PlayerProfile: load(org.json.JSONObject)void'/>
+			<edge id='24' source='com.masshabit.common.ProfileManagerBase: saveProfile()void' target='java.io.FileOutputStream: write([B)void'/>
+			<edge id='25' source='com.masshabit.common.ProfileManagerBase: init(android.content.Context)void' target='java.lang.StringBuffer: init(java.lang.Integer)void'/>
+			<edge id='26' source='com.masshabit.common.ProfileManagerBase: saveProfile()void' target='java.lang.StringBuilder: toString()java.lang.String'/>
+			<edge id='27' source='com.masshabit.common.ProfileManagerBase: init(android.content.Context)void' target='android.util.Log: d(java.lang.String,java.lang.String)java.lang.Integer'/>
+			<edge id='28' source='com.masshabit.common.ProfileManagerBase: saveProfile()void' target='java.io.IOException: printStackTrace()void'/>
+			<edge id='29' source='com.masshabit.common.ProfileManagerBase: init(android.content.Context)void' target='java.lang.StringBuffer: append([CII)java.lang.StringBuffer'/>
+			<edge id='30' source='com.masshabit.common.ProfileManagerBase: init(android.content.Context)void' target='java.io.IOException: printStackTrace()void'/>
+			<edge id='31' source='com.masshabit.common.ProfileManagerBase: saveProfile()void' target='java.io.FileOutputStream: close()void'/>
+			<edge id='32' source='com.masshabit.common.ProfileManagerBase: saveProfile()void' target='java.lang.StringBuilder: append(java.lang.String)java.lang.StringBuilder'/>
+			<edge id='33' source='com.masshabit.common.ProfileManagerBase: saveProfile()void' target='android.content.Context: openFileOutput(java.lang.String,java.lang.Integer)java.io.FileOutputStream'/>
+			<edge id='34' source='com.masshabit.common.ProfileManagerBase: init(android.content.Context)void' target='java.lang.StringBuilder: toString()java.lang.String'/>
+			<edge id='35' source='com.masshabit.common.ProfileManagerBase: init(android.content.Context)void' target='java.lang.StringBuffer: toString()java.lang.String'/>
+			<edge id='36' source='com.masshabit.common.ProfileManagerBase: init(android.content.Context)void' target='java.io.InputStreamReader: init(java.io.InputStream)void'/>
+			<edge id='37' source='com.masshabit.common.ProfileManagerBase: init(android.content.Context)void' target='java.io.BufferedReader: read([C)java.lang.Integer'/>
+		</edges>
+	</graph>
+</gexf>

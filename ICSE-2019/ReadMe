@@ -1,0 +1,27 @@
+Step 1: Disassemble the apks with apktool and construct the graph model. 
+      you can use the project named AndroidGraph, Run the RunTool.DirAnalysis java file. 
+     After this step, each apk file will contain a directory named SICG, in which there are several generated files. The SourceGraph.gexf
+     is the graph model.
+    
+Step 2: Divide the graph into a set of subgraphs and  generate the SRA feature for each subgraph.
+    Run the project named ICSE-2019, Run.Preprocess.GeterateMulFGraphModel.java 
+    Each app will contains a directory named FGraph, which contains all the SRA features.
+
+Step 3: Construct the MLN and apply community detection algorithm on it
+    Run the prohect named ICSE-2019, Run.Preprocess.ConstructAppGraph.java 
+    The results are stored in ./file/result/
+
+Note:  there are two important parameters, 
+    public static int minEdgeWeight=1;   public static double graphSimThreshold=0.75D;
+   You can change them in the file named ConstantVar.ConstantValue.java
+
+There is a test dataset called  ICSE-TestData, which contains 10 apps in three families. 
+  The result is 
+IM----
+   normalized_mutual_info_score: 1.0
+   adjusted_rand_score: 1.0
+   fowlkes_mallows_score: 1.0
+   homogeneity_score: 1.0
+   completeness_score: 1.0
+   v_measure: 1.0
+

@@ -1,0 +1,230 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<gexf xmlns='qianniao918@qq.com' version='1.2' xmlns:viz='http://www.gexf.net/1.2draft/viz'> xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd'>
+	<meta lastmodifieddate='2014-9-21'>
+		<creator>FanMing</creator>
+		<description>An Android APK Method SCN!</description>
+	</meta>
+	<graph mode='static' defaultedgettype='directed'>
+		<nodes>
+		<node id='com.corner23.android.universalandroot.UniversalAndroot: access$11(com.corner23.android.universalandroot.UniversalAndroot,java.io.InputStream)void' label='com.corner23.android.universalandroot.UniversalAndroot: access$11(com.corner23.android.universalandroot.UniversalAndroot,java.io.InputStream)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.os.AsyncTask: init()void' label='android.os.AsyncTask: init()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.corner23.android.universalandroot.UniversalAndroot: getFilesDir()java.io.File' label='com.corner23.android.universalandroot.UniversalAndroot: getFilesDir()java.io.File'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.String: split(java.lang.String)[Ljava.lang.String' label='java.lang.String: split(java.lang.String)[Ljava.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.net.wifi.WifiManager: getWifiState()java.lang.Integer' label='android.net.wifi.WifiManager: getWifiState()java.lang.Integer'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='com.corner23.android.universalandroot.UniversalAndroot: access$13(com.corner23.android.universalandroot.UniversalAndroot,boolean)void' label='com.corner23.android.universalandroot.UniversalAndroot: access$13(com.corner23.android.universalandroot.UniversalAndroot,boolean)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.corner23.android.universalandroot.UniversalAndroot: access$10(com.corner23.android.universalandroot.UniversalAndroot,java.io.InputStream)java.lang.String' label='com.corner23.android.universalandroot.UniversalAndroot: access$10(com.corner23.android.universalandroot.UniversalAndroot,java.io.InputStream)java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.Boolean: booleanValue()boolean' label='java.lang.Boolean: booleanValue()boolean'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.Runtime: getRuntime()java.lang.Runtime' label='java.lang.Runtime: getRuntime()java.lang.Runtime'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.corner23.android.universalandroot.UniversalAndroot$rootTask: onPostExecute(java.lang.Boolean)void' label='com.corner23.android.universalandroot.UniversalAndroot$rootTask: onPostExecute(java.lang.Boolean)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.StringBuilder: toString()java.lang.String' label='java.lang.StringBuilder: toString()java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.Process: getInputStream()java.io.InputStream' label='java.lang.Process: getInputStream()java.io.InputStream'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.StringBuilder: init(java.lang.String)void' label='java.lang.StringBuilder: init(java.lang.String)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.String: valueOf(java.lang.Object)java.lang.String' label='java.lang.String: valueOf(java.lang.Object)java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.corner23.android.universalandroot.UniversalAndroot$rootTask: doInBackground([Ljava.lang.Object)java.lang.Object' label='com.corner23.android.universalandroot.UniversalAndroot$rootTask: doInBackground([Ljava.lang.Object)java.lang.Object'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.Runtime: exec(java.lang.String)java.lang.Process' label='java.lang.Runtime: exec(java.lang.String)java.lang.Process'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.corner23.android.universalandroot.UniversalAndroot$rootTask: doInBackground([Ljava.lang.Boolean)java.lang.Boolean' label='com.corner23.android.universalandroot.UniversalAndroot$rootTask: doInBackground([Ljava.lang.Boolean)java.lang.Boolean'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.net.wifi.WifiManager: setWifiEnabled(boolean)boolean' label='android.net.wifi.WifiManager: setWifiEnabled(boolean)boolean'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='java.io.OutputStreamWriter: write(java.lang.String)void' label='java.io.OutputStreamWriter: write(java.lang.String)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.corner23.android.universalandroot.UniversalAndroot: access$12(com.corner23.android.universalandroot.UniversalAndroot)android.net.wifi.WifiManager' label='com.corner23.android.universalandroot.UniversalAndroot: access$12(com.corner23.android.universalandroot.UniversalAndroot)android.net.wifi.WifiManager'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.widget.TextView: setText(java.lang.Integer)void' label='android.widget.TextView: setText(java.lang.Integer)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.io.File: getAbsolutePath()java.lang.String' label='java.io.File: getAbsolutePath()java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.corner23.android.universalandroot.UniversalAndroot: access$9(com.corner23.android.universalandroot.UniversalAndroot,java.io.InputStream)java.lang.String' label='com.corner23.android.universalandroot.UniversalAndroot: access$9(com.corner23.android.universalandroot.UniversalAndroot,java.io.InputStream)java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.corner23.android.universalandroot.UniversalAndroot$rootTask: init(com.corner23.android.universalandroot.UniversalAndroot)void' label='com.corner23.android.universalandroot.UniversalAndroot$rootTask: init(com.corner23.android.universalandroot.UniversalAndroot)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.corner23.android.universalandroot.UniversalAndroot$installToolKitTask: execute([Ljava.lang.Object)android.os.AsyncTask' label='com.corner23.android.universalandroot.UniversalAndroot$installToolKitTask: execute([Ljava.lang.Object)android.os.AsyncTask'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.StringBuilder: append(java.lang.String)java.lang.StringBuilder' label='java.lang.StringBuilder: append(java.lang.String)java.lang.StringBuilder'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.io.File: init(java.io.File,java.lang.String)void' label='java.io.File: init(java.io.File,java.lang.String)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.Process: getErrorStream()java.io.InputStream' label='java.lang.Process: getErrorStream()java.io.InputStream'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.io.OutputStreamWriter: init(java.io.OutputStream)void' label='java.io.OutputStreamWriter: init(java.io.OutputStream)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.corner23.android.universalandroot.UniversalAndroot: openFileOutput(java.lang.String,java.lang.Integer)java.io.FileOutputStream' label='com.corner23.android.universalandroot.UniversalAndroot: openFileOutput(java.lang.String,java.lang.Integer)java.io.FileOutputStream'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.corner23.android.universalandroot.UniversalAndroot: access$14(com.corner23.android.universalandroot.UniversalAndroot)android.widget.TextView' label='com.corner23.android.universalandroot.UniversalAndroot: access$14(com.corner23.android.universalandroot.UniversalAndroot)android.widget.TextView'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.io.IOException: printStackTrace()void' label='java.io.IOException: printStackTrace()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.io.File: exists()boolean' label='java.io.File: exists()boolean'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.corner23.android.universalandroot.UniversalAndroot$installToolKitTask: init(com.corner23.android.universalandroot.UniversalAndroot,com.corner23.android.universalandroot.UniversalAndroot$installToolKitTask)void' label='com.corner23.android.universalandroot.UniversalAndroot$installToolKitTask: init(com.corner23.android.universalandroot.UniversalAndroot,com.corner23.android.universalandroot.UniversalAndroot$installToolKitTask)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.corner23.android.universalandroot.UniversalAndroot$rootTask: init(com.corner23.android.universalandroot.UniversalAndroot,com.corner23.android.universalandroot.UniversalAndroot$rootTask)void' label='com.corner23.android.universalandroot.UniversalAndroot$rootTask: init(com.corner23.android.universalandroot.UniversalAndroot,com.corner23.android.universalandroot.UniversalAndroot$rootTask)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.Boolean: valueOf(boolean)java.lang.Boolean' label='java.lang.Boolean: valueOf(boolean)java.lang.Boolean'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.corner23.android.universalandroot.UniversalAndroot$uninstallToolKitTask: execute([Ljava.lang.Object)android.os.AsyncTask' label='com.corner23.android.universalandroot.UniversalAndroot$uninstallToolKitTask: execute([Ljava.lang.Object)android.os.AsyncTask'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.Thread: sleep(J)void' label='java.lang.Thread: sleep(J)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.corner23.android.universalandroot.UniversalAndroot$rootTask: onPostExecute(java.lang.Object)void' label='com.corner23.android.universalandroot.UniversalAndroot$rootTask: onPostExecute(java.lang.Object)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.corner23.android.universalandroot.UniversalAndroot$uninstallToolKitTask: init(com.corner23.android.universalandroot.UniversalAndroot,com.corner23.android.universalandroot.UniversalAndroot$uninstallToolKitTask)void' label='com.corner23.android.universalandroot.UniversalAndroot$uninstallToolKitTask: init(com.corner23.android.universalandroot.UniversalAndroot,com.corner23.android.universalandroot.UniversalAndroot$uninstallToolKitTask)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.io.OutputStreamWriter: close()void' label='java.io.OutputStreamWriter: close()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.io.OutputStreamWriter: flush()void' label='java.io.OutputStreamWriter: flush()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.corner23.android.universalandroot.UniversalAndroot$rootTask: execute([Ljava.lang.Object)android.os.AsyncTask' label='com.corner23.android.universalandroot.UniversalAndroot$rootTask: execute([Ljava.lang.Object)android.os.AsyncTask'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.InterruptedException: printStackTrace()void' label='java.lang.InterruptedException: printStackTrace()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		</nodes>
+		<edges>
+			<edge id='0' source='com.corner23.android.universalandroot.UniversalAndroot$rootTask: onPostExecute(java.lang.Boolean)void' target='com.corner23.android.universalandroot.UniversalAndroot$uninstallToolKitTask: init(com.corner23.android.universalandroot.UniversalAndroot,com.corner23.android.universalandroot.UniversalAndroot$uninstallToolKitTask)void'/>
+			<edge id='1' source='com.corner23.android.universalandroot.UniversalAndroot$rootTask: onPostExecute(java.lang.Boolean)void' target='com.corner23.android.universalandroot.UniversalAndroot: access$13(com.corner23.android.universalandroot.UniversalAndroot,boolean)void'/>
+			<edge id='2' source='com.corner23.android.universalandroot.UniversalAndroot$rootTask: onPostExecute(java.lang.Boolean)void' target='android.widget.TextView: setText(java.lang.Integer)void'/>
+			<edge id='3' source='com.corner23.android.universalandroot.UniversalAndroot$rootTask: doInBackground([Ljava.lang.Boolean)java.lang.Boolean' target='java.io.OutputStreamWriter: flush()void'/>
+			<edge id='4' source='com.corner23.android.universalandroot.UniversalAndroot$rootTask: doInBackground([Ljava.lang.Boolean)java.lang.Boolean' target='java.lang.StringBuilder: init(java.lang.String)void'/>
+			<edge id='5' source='com.corner23.android.universalandroot.UniversalAndroot$rootTask: onPostExecute(java.lang.Boolean)void' target='java.lang.Boolean: booleanValue()boolean'/>
+			<edge id='6' source='com.corner23.android.universalandroot.UniversalAndroot$rootTask: onPostExecute(java.lang.Boolean)void' target='android.net.wifi.WifiManager: setWifiEnabled(boolean)boolean'/>
+			<edge id='7' source='com.corner23.android.universalandroot.UniversalAndroot$rootTask: doInBackground([Ljava.lang.Boolean)java.lang.Boolean' target='java.io.File: exists()boolean'/>
+			<edge id='8' source='com.corner23.android.universalandroot.UniversalAndroot$rootTask: doInBackground([Ljava.lang.Boolean)java.lang.Boolean' target='com.corner23.android.universalandroot.UniversalAndroot: getFilesDir()java.io.File'/>
+			<edge id='9' source='com.corner23.android.universalandroot.UniversalAndroot$rootTask: doInBackground([Ljava.lang.Boolean)java.lang.Boolean' target='java.lang.String: split(java.lang.String)[Ljava.lang.String'/>
+			<edge id='10' source='com.corner23.android.universalandroot.UniversalAndroot$rootTask: doInBackground([Ljava.lang.Boolean)java.lang.Boolean' target='com.corner23.android.universalandroot.UniversalAndroot: access$10(com.corner23.android.universalandroot.UniversalAndroot,java.io.InputStream)java.lang.String'/>
+			<edge id='11' source='com.corner23.android.universalandroot.UniversalAndroot$rootTask: doInBackground([Ljava.lang.Boolean)java.lang.Boolean' target='java.lang.Boolean: valueOf(boolean)java.lang.Boolean'/>
+			<edge id='12' source='com.corner23.android.universalandroot.UniversalAndroot$rootTask: init(com.corner23.android.universalandroot.UniversalAndroot)void' target='android.os.AsyncTask: init()void'/>
+			<edge id='13' source='com.corner23.android.universalandroot.UniversalAndroot$rootTask: doInBackground([Ljava.lang.Boolean)java.lang.Boolean' target='java.io.File: getAbsolutePath()java.lang.String'/>
+			<edge id='14' source='com.corner23.android.universalandroot.UniversalAndroot$rootTask: onPostExecute(java.lang.Boolean)void' target='com.corner23.android.universalandroot.UniversalAndroot$uninstallToolKitTask: execute([Ljava.lang.Object)android.os.AsyncTask'/>
+			<edge id='15' source='com.corner23.android.universalandroot.UniversalAndroot$rootTask: doInBackground([Ljava.lang.Boolean)java.lang.Boolean' target='com.corner23.android.universalandroot.UniversalAndroot: openFileOutput(java.lang.String,java.lang.Integer)java.io.FileOutputStream'/>
+			<edge id='16' source='com.corner23.android.universalandroot.UniversalAndroot$rootTask: doInBackground([Ljava.lang.Boolean)java.lang.Boolean' target='java.lang.Thread: sleep(J)void'/>
+			<edge id='17' source='com.corner23.android.universalandroot.UniversalAndroot$rootTask: doInBackground([Ljava.lang.Boolean)java.lang.Boolean' target='java.lang.InterruptedException: printStackTrace()void'/>
+			<edge id='18' source='com.corner23.android.universalandroot.UniversalAndroot$rootTask: onPostExecute(java.lang.Boolean)void' target='com.corner23.android.universalandroot.UniversalAndroot$installToolKitTask: execute([Ljava.lang.Object)android.os.AsyncTask'/>
+			<edge id='19' source='com.corner23.android.universalandroot.UniversalAndroot$rootTask: doInBackground([Ljava.lang.Boolean)java.lang.Boolean' target='java.lang.Boolean: booleanValue()boolean'/>
+			<edge id='20' source='com.corner23.android.universalandroot.UniversalAndroot$rootTask: doInBackground([Ljava.lang.Boolean)java.lang.Boolean' target='java.lang.Runtime: getRuntime()java.lang.Runtime'/>
+			<edge id='21' source='com.corner23.android.universalandroot.UniversalAndroot$rootTask: onPostExecute(java.lang.Boolean)void' target='com.corner23.android.universalandroot.UniversalAndroot$installToolKitTask: init(com.corner23.android.universalandroot.UniversalAndroot,com.corner23.android.universalandroot.UniversalAndroot$installToolKitTask)void'/>
+			<edge id='22' source='com.corner23.android.universalandroot.UniversalAndroot$rootTask: doInBackground([Ljava.lang.Boolean)java.lang.Boolean' target='java.lang.StringBuilder: append(java.lang.String)java.lang.StringBuilder'/>
+			<edge id='23' source='com.corner23.android.universalandroot.UniversalAndroot$rootTask: doInBackground([Ljava.lang.Boolean)java.lang.Boolean' target='java.lang.Process: getInputStream()java.io.InputStream'/>
+			<edge id='24' source='com.corner23.android.universalandroot.UniversalAndroot$rootTask: doInBackground([Ljava.lang.Boolean)java.lang.Boolean' target='java.lang.Process: getErrorStream()java.io.InputStream'/>
+			<edge id='25' source='com.corner23.android.universalandroot.UniversalAndroot$rootTask: doInBackground([Ljava.lang.Boolean)java.lang.Boolean' target='java.io.OutputStreamWriter: write(java.lang.String)void'/>
+			<edge id='26' source='com.corner23.android.universalandroot.UniversalAndroot$rootTask: doInBackground([Ljava.lang.Boolean)java.lang.Boolean' target='java.io.OutputStreamWriter: init(java.io.OutputStream)void'/>
+			<edge id='27' source='com.corner23.android.universalandroot.UniversalAndroot$rootTask: onPostExecute(java.lang.Boolean)void' target='android.net.wifi.WifiManager: getWifiState()java.lang.Integer'/>
+			<edge id='28' source='com.corner23.android.universalandroot.UniversalAndroot$rootTask: onPostExecute(java.lang.Object)void' target='com.corner23.android.universalandroot.UniversalAndroot$rootTask: onPostExecute(java.lang.Boolean)void'/>
+			<edge id='29' source='com.corner23.android.universalandroot.UniversalAndroot$rootTask: doInBackground([Ljava.lang.Boolean)java.lang.Boolean' target='com.corner23.android.universalandroot.UniversalAndroot: access$9(com.corner23.android.universalandroot.UniversalAndroot,java.io.InputStream)java.lang.String'/>
+			<edge id='30' source='com.corner23.android.universalandroot.UniversalAndroot$rootTask: doInBackground([Ljava.lang.Boolean)java.lang.Boolean' target='java.lang.Runtime: exec(java.lang.String)java.lang.Process'/>
+			<edge id='31' source='com.corner23.android.universalandroot.UniversalAndroot$rootTask: doInBackground([Ljava.lang.Boolean)java.lang.Boolean' target='java.io.OutputStreamWriter: close()void'/>
+			<edge id='32' source='com.corner23.android.universalandroot.UniversalAndroot$rootTask: onPostExecute(java.lang.Boolean)void' target='com.corner23.android.universalandroot.UniversalAndroot: access$14(com.corner23.android.universalandroot.UniversalAndroot)android.widget.TextView'/>
+			<edge id='33' source='com.corner23.android.universalandroot.UniversalAndroot$rootTask: doInBackground([Ljava.lang.Object)java.lang.Object' target='com.corner23.android.universalandroot.UniversalAndroot$rootTask: doInBackground([Ljava.lang.Boolean)java.lang.Boolean'/>
+			<edge id='34' source='com.corner23.android.universalandroot.UniversalAndroot$rootTask: onPostExecute(java.lang.Boolean)void' target='com.corner23.android.universalandroot.UniversalAndroot: access$12(com.corner23.android.universalandroot.UniversalAndroot)android.net.wifi.WifiManager'/>
+			<edge id='35' source='com.corner23.android.universalandroot.UniversalAndroot$rootTask: doInBackground([Ljava.lang.Boolean)java.lang.Boolean' target='java.lang.String: valueOf(java.lang.Object)java.lang.String'/>
+			<edge id='36' source='com.corner23.android.universalandroot.UniversalAndroot$rootTask: doInBackground([Ljava.lang.Boolean)java.lang.Boolean' target='java.io.IOException: printStackTrace()void'/>
+			<edge id='37' source='com.corner23.android.universalandroot.UniversalAndroot$rootTask: doInBackground([Ljava.lang.Boolean)java.lang.Boolean' target='java.io.File: init(java.io.File,java.lang.String)void'/>
+			<edge id='38' source='com.corner23.android.universalandroot.UniversalAndroot$rootTask: doInBackground([Ljava.lang.Boolean)java.lang.Boolean' target='java.lang.StringBuilder: toString()java.lang.String'/>
+			<edge id='39' source='com.corner23.android.universalandroot.UniversalAndroot$rootTask: doInBackground([Ljava.lang.Boolean)java.lang.Boolean' target='com.corner23.android.universalandroot.UniversalAndroot: access$11(com.corner23.android.universalandroot.UniversalAndroot,java.io.InputStream)void'/>
+			<edge id='40' source='com.corner23.android.universalandroot.UniversalAndroot$rootTask: init(com.corner23.android.universalandroot.UniversalAndroot,com.corner23.android.universalandroot.UniversalAndroot$rootTask)void' target='com.corner23.android.universalandroot.UniversalAndroot$rootTask: init(com.corner23.android.universalandroot.UniversalAndroot)void'/>
+		</edges>
+	</graph>
+</gexf>

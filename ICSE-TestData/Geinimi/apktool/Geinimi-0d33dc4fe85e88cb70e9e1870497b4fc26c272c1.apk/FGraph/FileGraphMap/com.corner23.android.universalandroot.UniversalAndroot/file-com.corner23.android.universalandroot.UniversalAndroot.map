@@ -1,0 +1,2 @@
+53 ---> android.util.Log: d(java.lang.String,java.lang.String)java.lang.Integer
+74 ---> java.io.FileOutputStream: write([BII)void

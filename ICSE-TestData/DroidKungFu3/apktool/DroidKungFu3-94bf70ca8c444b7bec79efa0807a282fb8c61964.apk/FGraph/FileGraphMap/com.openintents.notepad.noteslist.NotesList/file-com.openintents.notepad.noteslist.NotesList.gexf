@@ -1,0 +1,1207 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<gexf xmlns='qianniao918@qq.com' version='1.2' xmlns:viz='http://www.gexf.net/1.2draft/viz'> xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd'>
+	<meta lastmodifieddate='2014-9-21'>
+		<creator>FanMing</creator>
+		<description>An Android APK Method SCN!</description>
+	</meta>
+	<graph mode='static' defaultedgettype='directed'>
+		<nodes>
+		<node id='android.app.AlertDialog$Builder: setPositiveButton(java.lang.CharSequence,android.content.DialogInterface$OnClickListener)android.app.AlertDialog$Builder' label='android.app.AlertDialog$Builder: setPositiveButton(java.lang.CharSequence,android.content.DialogInterface$OnClickListener)android.app.AlertDialog$Builder'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.util.ArrayList: toArray([Ljava.lang.Object)[Ljava.lang.Object' label='java.util.ArrayList: toArray([Ljava.lang.Object)[Ljava.lang.Object'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.database.Cursor: moveToNext()boolean' label='android.database.Cursor: moveToNext()boolean'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.content.Intent: init(android.content.Context,java.lang.Class)void' label='android.content.Intent: init(android.content.Context,java.lang.Class)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.os.Bundle: putInt(java.lang.String,java.lang.Integer)void' label='android.os.Bundle: putInt(java.lang.String,java.lang.Integer)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.app.AlertDialog$Builder: init(android.content.Context)void' label='android.app.AlertDialog$Builder: init(android.content.Context)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.noteslist.NotesList: onDestroy()void' label='com.openintents.notepad.noteslist.NotesList: onDestroy()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.noteslist.NotesList: finish()void' label='com.openintents.notepad.noteslist.NotesList: finish()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.noteslist.NotesList$2: init(com.openintents.notepad.noteslist.NotesList)void' label='com.openintents.notepad.noteslist.NotesList$2: init(com.openintents.notepad.noteslist.NotesList)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.noteslist.NotesList: getListView()android.widget.ListView' label='com.openintents.notepad.noteslist.NotesList: getListView()android.widget.ListView'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.noteslist.NotesList: onCreate(android.os.Bundle)void' label='com.openintents.notepad.noteslist.NotesList: onCreate(android.os.Bundle)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.database.Cursor: registerDataSetObserver(android.database.DataSetObserver)void' label='android.database.Cursor: registerDataSetObserver(android.database.DataSetObserver)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.String: endsWith(java.lang.String)boolean' label='java.lang.String: endsWith(java.lang.String)boolean'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.view.MenuItem: setIcon(java.lang.Integer)android.view.MenuItem' label='android.view.MenuItem: setIcon(java.lang.Integer)android.view.MenuItem'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.view.MenuItem: getItemId()java.lang.Integer' label='android.view.MenuItem: getItemId()java.lang.Integer'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.content.Intent: putExtra(java.lang.String,boolean)android.content.Intent' label='android.content.Intent: putExtra(java.lang.String,boolean)android.content.Intent'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.noteslist.TagsDialog: setTagList([Ljava.lang.String)void' label='com.openintents.notepad.noteslist.TagsDialog: setTagList([Ljava.lang.String)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.distribution.DownloadOIAppDialog: init(android.content.Context,java.lang.Integer)void' label='com.openintents.distribution.DownloadOIAppDialog: init(android.content.Context,java.lang.Integer)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.distribution.DistributionLibraryListActivity: onCreateDialog(java.lang.Integer)android.app.Dialog' label='com.openintents.distribution.DistributionLibraryListActivity: onCreateDialog(java.lang.Integer)android.app.Dialog'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.view.Menu: add(IIII)android.view.MenuItem' label='android.view.Menu: add(IIII)android.view.MenuItem'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.content.Intent: getAction()java.lang.String' label='android.content.Intent: getAction()java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.widget.ListAdapter: getItem(java.lang.Integer)java.lang.Object' label='android.widget.ListAdapter: getItem(java.lang.Integer)java.lang.Object'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.noteslist.NotesList: onCreateDialog(java.lang.Integer)android.app.Dialog' label='com.openintents.notepad.noteslist.NotesList: onCreateDialog(java.lang.Integer)android.app.Dialog'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.database.Cursor: moveToFirst()boolean' label='android.database.Cursor: moveToFirst()boolean'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.noteslist.NotesList: setResult(ILandroid.content.Intent)void' label='com.openintents.notepad.noteslist.NotesList: setResult(ILandroid.content.Intent)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.widget.Toast: makeText(android.content.Context,II)android.widget.Toast' label='android.widget.Toast: makeText(android.content.Context,II)android.widget.Toast'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.noteslist.NotesList: decryptDelayed(java.lang.String,J)void' label='com.openintents.notepad.noteslist.NotesList: decryptDelayed(java.lang.String,J)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.app.AlertDialog$Builder: setMessage(java.lang.CharSequence)android.app.AlertDialog$Builder' label='android.app.AlertDialog$Builder: setMessage(java.lang.CharSequence)android.app.AlertDialog$Builder'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.distribution.DistributionLibraryListActivity: init()void' label='com.openintents.distribution.DistributionLibraryListActivity: init()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.io.BufferedWriter: close()void' label='java.io.BufferedWriter: close()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.noteslist.NotesList: getTaglist(android.database.Cursor)[Ljava.lang.String' label='com.openintents.notepad.noteslist.NotesList: getTaglist(android.database.Cursor)[Ljava.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.noteslist.NotesList: setProgressBarIndeterminateVisibility(boolean)void' label='com.openintents.notepad.noteslist.NotesList: setProgressBarIndeterminateVisibility(boolean)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.PreferenceActivity: getSortOrderFromPrefs(android.content.Context)java.lang.String' label='com.openintents.notepad.PreferenceActivity: getSortOrderFromPrefs(android.content.Context)java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.noteslist.NotesList: onScrollStateChanged(android.widget.AbsListView,java.lang.Integer)void' label='com.openintents.notepad.noteslist.NotesList: onScrollStateChanged(android.widget.AbsListView,java.lang.Integer)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.content.Intent: putExtra(java.lang.String,java.lang.Integer)android.content.Intent' label='android.content.Intent: putExtra(java.lang.String,java.lang.Integer)android.content.Intent'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.noteslist.NotesList: onResume()void' label='com.openintents.notepad.noteslist.NotesList: onResume()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.util.List: size()java.lang.Integer' label='java.util.List: size()java.lang.Integer'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.util.MenuIntentOptionsWithIcons: addIntentOptions(IIILandroid.content.ComponentName,[Landroid.content.Intent,android.content.Intent,I[Landroid.view.MenuItem)java.lang.Integer' label='com.openintents.util.MenuIntentOptionsWithIcons: addIntentOptions(IIILandroid.content.ComponentName,[Landroid.content.Intent,android.content.Intent,I[Landroid.view.MenuItem)java.lang.Integer'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.util.List: remove(java.lang.Integer)java.lang.Object' label='java.util.List: remove(java.lang.Integer)java.lang.Object'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.database.Cursor: getString(java.lang.Integer)java.lang.String' label='android.database.Cursor: getString(java.lang.Integer)java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.content.Intent$ShortcutIconResource: fromContext(android.content.Context,java.lang.Integer)android.content.Intent$ShortcutIconResource' label='android.content.Intent$ShortcutIconResource: fromContext(android.content.Context,java.lang.Integer)android.content.Intent$ShortcutIconResource'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.distribution.DistributionLibraryListActivity: onCreateOptionsMenu(android.view.Menu)boolean' label='com.openintents.distribution.DistributionLibraryListActivity: onCreateOptionsMenu(android.view.Menu)boolean'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.widget.LinearLayout: init(android.content.Context)void' label='android.widget.LinearLayout: init(android.content.Context)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.noteslist.NotesList: showNotesListSettings()void' label='com.openintents.notepad.noteslist.NotesList: showNotesListSettings()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.net.Uri: toString()java.lang.String' label='android.net.Uri: toString()java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.noteslist.NotesListCursor: query(java.lang.CharSequence,java.lang.String)android.database.Cursor' label='com.openintents.notepad.noteslist.NotesListCursor: query(java.lang.CharSequence,java.lang.String)android.database.Cursor'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.util.ArrayList: init()void' label='java.util.ArrayList: init()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.noteslist.NotesList: updateQuery()void' label='com.openintents.notepad.noteslist.NotesList: updateQuery()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.noteslist.NotesList: setDefaultKeyMode(java.lang.Integer)void' label='com.openintents.notepad.noteslist.NotesList: setDefaultKeyMode(java.lang.Integer)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.widget.ListView: setEmptyView(android.view.View)void' label='android.widget.ListView: setEmptyView(android.view.View)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.database.Cursor: getLong(java.lang.Integer)J' label='android.database.Cursor: getLong(java.lang.Integer)J'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.noteslist.NotesList: getSelectedItemId()J' label='com.openintents.notepad.noteslist.NotesList: getSelectedItemId()J'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.noteslist.NotesListCursorAdapter: runQueryOnBackgroundThread(java.lang.CharSequence,java.lang.String)android.database.Cursor' label='com.openintents.notepad.noteslist.NotesListCursorAdapter: runQueryOnBackgroundThread(java.lang.CharSequence,java.lang.String)android.database.Cursor'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.noteslist.NotesList: requestWindowFeature(java.lang.Integer)boolean' label='com.openintents.notepad.noteslist.NotesList: requestWindowFeature(java.lang.Integer)boolean'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.noteslist.NotesList: updateTagList()void' label='com.openintents.notepad.noteslist.NotesList: updateTagList()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.noteslist.NotesList: showDialog(java.lang.Integer)void' label='com.openintents.notepad.noteslist.NotesList: showDialog(java.lang.Integer)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.content.ComponentName: init(android.content.Context,java.lang.Class)void' label='android.content.ComponentName: init(android.content.Context,java.lang.Class)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.util.FileUriUtils: getFile(android.net.Uri)java.io.File' label='com.openintents.notepad.util.FileUriUtils: getFile(android.net.Uri)java.io.File'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.String: equals(java.lang.Object)boolean' label='java.lang.String: equals(java.lang.Object)boolean'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.noteslist.NotesList: startActivity(android.content.Intent)void' label='com.openintents.notepad.noteslist.NotesList: startActivity(android.content.Intent)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.content.Intent: addCategory(java.lang.String)android.content.Intent' label='android.content.Intent: addCategory(java.lang.String)android.content.Intent'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.noteslist.NotesList: encryptNote(JLjava.lang.String)void' label='com.openintents.notepad.noteslist.NotesList: encryptNote(JLjava.lang.String)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.view.ContextMenu: add(IIII)android.view.MenuItem' label='android.view.ContextMenu: add(IIII)android.view.MenuItem'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.crypto.EncryptActivity: getCryptoStringArray(java.lang.String,java.lang.String,java.lang.String)[Ljava.lang.String' label='com.openintents.notepad.crypto.EncryptActivity: getCryptoStringArray(java.lang.String,java.lang.String,java.lang.String)[Ljava.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.os.Bundle: putString(java.lang.String,java.lang.String)void' label='android.os.Bundle: putString(java.lang.String,java.lang.String)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.adview.AdViewLayout: init(android.app.Activity,java.lang.String)void' label='com.adview.AdViewLayout: init(android.app.Activity,java.lang.String)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.noteslist.NotesList: getIntent()android.content.Intent' label='com.openintents.notepad.noteslist.NotesList: getIntent()android.content.Intent'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.distribution.DistributionLibrary: onCreateOptionsMenu(android.view.Menu)void' label='com.openintents.distribution.DistributionLibrary: onCreateOptionsMenu(android.view.Menu)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.content.Intent: putExtra(java.lang.String,[Ljava.lang.String)android.content.Intent' label='android.content.Intent: putExtra(java.lang.String,[Ljava.lang.String)android.content.Intent'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.noteslist.TagsDialog: setEncrypted(J)void' label='com.openintents.notepad.noteslist.TagsDialog: setEncrypted(J)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.content.IntentFilter: addAction(java.lang.String)void' label='android.content.IntentFilter: addAction(java.lang.String)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.noteslist.NotesList$1: init(com.openintents.notepad.noteslist.NotesList)void' label='com.openintents.notepad.noteslist.NotesList$1: init(com.openintents.notepad.noteslist.NotesList)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.distribution.DistributionLibraryListActivity: onPause()void' label='com.openintents.distribution.DistributionLibraryListActivity: onPause()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.os.Environment: getExternalStorageDirectory()java.io.File' label='android.os.Environment: getExternalStorageDirectory()java.io.File'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.widget.ArrayAdapter: setDropDownViewResource(java.lang.Integer)void' label='android.widget.ArrayAdapter: setDropDownViewResource(java.lang.Integer)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.util.List: contains(java.lang.Object)boolean' label='java.util.List: contains(java.lang.Object)boolean'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.view.MenuItem: getMenuInfo()android.view.ContextMenu$ContextMenuInfo' label='android.view.MenuItem: getMenuInfo()android.view.ContextMenu$ContextMenuInfo'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.util.Log: e(java.lang.String,java.lang.String,java.lang.Throwable)java.lang.Integer' label='android.util.Log: e(java.lang.String,java.lang.String,java.lang.Throwable)java.lang.Integer'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.noteslist.NotesList: checkAdapter()void' label='com.openintents.notepad.noteslist.NotesList: checkAdapter()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.util.Calendar: get(java.lang.Integer)java.lang.Integer' label='java.util.Calendar: get(java.lang.Integer)java.lang.Integer'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='android.content.Intent: getStringExtra(java.lang.String)java.lang.String' label='android.content.Intent: getStringExtra(java.lang.String)java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.view.Menu: removeGroup(java.lang.Integer)void' label='android.view.Menu: removeGroup(java.lang.Integer)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.noteslist.NotesList: onActivityResult(IILandroid.content.Intent)void' label='com.openintents.notepad.noteslist.NotesList: onActivityResult(IILandroid.content.Intent)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.os.Handler: postDelayed(java.lang.Runnable,J)boolean' label='android.os.Handler: postDelayed(java.lang.Runnable,J)boolean'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.noteslist.NotesList: getContentResolver()android.content.ContentResolver' label='com.openintents.notepad.noteslist.NotesList: getContentResolver()android.content.ContentResolver'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.noteslist.NotesList: writeToFile(java.io.File,java.lang.String)void' label='com.openintents.notepad.noteslist.NotesList: writeToFile(java.io.File,java.lang.String)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.noteslist.NotesListCursor: getNextEncryptedString()java.lang.String' label='com.openintents.notepad.noteslist.NotesListCursor: getNextEncryptedString()java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.noteslist.NotesList$3: init(com.openintents.notepad.noteslist.NotesList)void' label='com.openintents.notepad.noteslist.NotesList$3: init(com.openintents.notepad.noteslist.NotesList)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.content.IntentFilter: init()void' label='android.content.IntentFilter: init()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.StringBuilder: init(java.lang.String)void' label='java.lang.StringBuilder: init(java.lang.String)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.util.ArrayList: addAll(java.util.Collection)boolean' label='java.util.ArrayList: addAll(java.util.Collection)boolean'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.noteslist.NotesList: onPrepareOptionsMenu(android.view.Menu)boolean' label='com.openintents.notepad.noteslist.NotesList: onPrepareOptionsMenu(android.view.Menu)boolean'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.StringBuilder: append(java.lang.String)java.lang.StringBuilder' label='java.lang.StringBuilder: append(java.lang.String)java.lang.StringBuilder'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.content.Intent: setType(java.lang.String)android.content.Intent' label='android.content.Intent: setType(java.lang.String)android.content.Intent'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.widget.Spinner: setAdapter(android.widget.SpinnerAdapter)void' label='android.widget.Spinner: setAdapter(android.widget.SpinnerAdapter)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.widget.AdapterView$AdapterContextMenuInfo: init(android.view.View,IJ)void' label='android.widget.AdapterView$AdapterContextMenuInfo: init(android.view.View,IJ)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.String: trim()java.lang.String' label='java.lang.String: trim()java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.noteslist.NotesList: addContentView(android.view.View,android.view.ViewGroup$LayoutParams)void' label='com.openintents.notepad.noteslist.NotesList: addContentView(android.view.View,android.view.ViewGroup$LayoutParams)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.noteslist.NotesList$5: init(com.openintents.notepad.noteslist.NotesList,java.lang.String)void' label='com.openintents.notepad.noteslist.NotesList$5: init(com.openintents.notepad.noteslist.NotesList,java.lang.String)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.distribution.DistributionLibraryListActivity: onResume()void' label='com.openintents.distribution.DistributionLibraryListActivity: onResume()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.util.Log: e(java.lang.String,java.lang.String)java.lang.Integer' label='android.util.Log: e(java.lang.String,java.lang.String)java.lang.Integer'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.noteslist.NotesList$4: init(com.openintents.notepad.noteslist.NotesList)void' label='com.openintents.notepad.noteslist.NotesList$4: init(com.openintents.notepad.noteslist.NotesList)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.noteslist.NotesList: setContentView(java.lang.Integer)void' label='com.openintents.notepad.noteslist.NotesList: setContentView(java.lang.Integer)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.content.Intent: init(java.lang.String)void' label='android.content.Intent: init(java.lang.String)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.noteslist.NotesList: search()void' label='com.openintents.notepad.noteslist.NotesList: search()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.widget.Toast: show()void' label='android.widget.Toast: show()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.widget.ListAdapter: getCount()java.lang.Integer' label='android.widget.ListAdapter: getCount()java.lang.Integer'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.String: split(java.lang.String)[Ljava.lang.String' label='java.lang.String: split(java.lang.String)[Ljava.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.widget.Spinner: getSelectedItemPosition()java.lang.Integer' label='android.widget.Spinner: getSelectedItemPosition()java.lang.Integer'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.noteslist.NotesList: saveFile(android.net.Uri,java.io.File)void' label='com.openintents.notepad.noteslist.NotesList: saveFile(android.net.Uri,java.io.File)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.noteslist.NotesList: openFromSdCard()void' label='com.openintents.notepad.noteslist.NotesList: openFromSdCard()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.util.HashMap: put(java.lang.Object,java.lang.Object)java.lang.Object' label='java.util.HashMap: put(java.lang.Object,java.lang.Object)java.lang.Object'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.noteslist.NotesList: onOptionsItemSelected(android.view.MenuItem)boolean' label='com.openintents.notepad.noteslist.NotesList: onOptionsItemSelected(android.view.MenuItem)boolean'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.widget.Spinner: getSelectedItem()java.lang.Object' label='android.widget.Spinner: getSelectedItem()java.lang.Object'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.distribution.DownloadOIAppDialog: onPrepareDialog(android.content.Context,android.app.Dialog)void' label='com.openintents.distribution.DownloadOIAppDialog: onPrepareDialog(android.content.Context,android.app.Dialog)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.noteslist.NotesList: init()void' label='com.openintents.notepad.noteslist.NotesList: init()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.content.Intent: setData(android.net.Uri)android.content.Intent' label='android.content.Intent: setData(android.net.Uri)android.content.Intent'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.noteslist.NotesListCursorAdapter: getCursor()android.database.Cursor' label='com.openintents.notepad.noteslist.NotesListCursorAdapter: getCursor()android.database.Cursor'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.os.Bundle: containsKey(java.lang.String)boolean' label='android.os.Bundle: containsKey(java.lang.String)boolean'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.widget.LinearLayout: addView(android.view.View,android.view.ViewGroup$LayoutParams)void' label='android.widget.LinearLayout: addView(android.view.View,android.view.ViewGroup$LayoutParams)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.noteslist.NotesListCursorAdapter: init(android.content.Context,android.database.Cursor,com.openintents.notepad.noteslist.NotesListCursor)void' label='com.openintents.notepad.noteslist.NotesListCursorAdapter: init(android.content.Context,android.database.Cursor,com.openintents.notepad.noteslist.NotesListCursor)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.noteslist.NotesList: editTags()void' label='com.openintents.notepad.noteslist.NotesList: editTags()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.content.ContentResolver: delete(android.net.Uri,java.lang.String,[Ljava.lang.String)java.lang.Integer' label='android.content.ContentResolver: delete(android.net.Uri,java.lang.String,[Ljava.lang.String)java.lang.Integer'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.waps.AppConnect: spendPoints(ILcom.waps.UpdatePointsNotifier)void' label='com.waps.AppConnect: spendPoints(ILcom.waps.UpdatePointsNotifier)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.noteslist.NotesList: decryptTitle(java.lang.String)void' label='com.openintents.notepad.noteslist.NotesList: decryptTitle(java.lang.String)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.io.File: exists()boolean' label='java.io.File: exists()boolean'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.io.BufferedWriter: write(java.lang.String)void' label='java.io.BufferedWriter: write(java.lang.String)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.noteslist.NotesList: setTitle(java.lang.Integer)void' label='com.openintents.notepad.noteslist.NotesList: setTitle(java.lang.Integer)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.noteslist.TagsDialog: setTags(java.lang.String)void' label='com.openintents.notepad.noteslist.TagsDialog: setTags(java.lang.String)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.widget.Spinner: setOnItemSelectedListener(android.widget.AdapterView$OnItemSelectedListener)void' label='android.widget.Spinner: setOnItemSelectedListener(android.widget.AdapterView$OnItemSelectedListener)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.noteslist.NotesList: getListAdapter()android.widget.ListAdapter' label='com.openintents.notepad.noteslist.NotesList: getListAdapter()android.widget.ListAdapter'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.StringBuilder: append(java.lang.Integer)java.lang.StringBuilder' label='java.lang.StringBuilder: append(java.lang.Integer)java.lang.StringBuilder'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.distribution.DistributionLibraryListActivity: onPrepareOptionsMenu(android.view.Menu)boolean' label='com.openintents.distribution.DistributionLibraryListActivity: onPrepareOptionsMenu(android.view.Menu)boolean'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.util.MenuIntentOptionsWithIcons: init(android.content.Context,android.view.Menu)void' label='com.openintents.util.MenuIntentOptionsWithIcons: init(android.content.Context,android.view.Menu)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.noteslist.NotesList: onSaveInstanceState(android.os.Bundle)void' label='com.openintents.notepad.noteslist.NotesList: onSaveInstanceState(android.os.Bundle)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.content.Intent: putExtra(java.lang.String,java.lang.String)android.content.Intent' label='android.content.Intent: putExtra(java.lang.String,java.lang.String)android.content.Intent'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.noteslist.NotesListCursorAdapter: changeCursor(android.database.Cursor)void' label='com.openintents.notepad.noteslist.NotesListCursorAdapter: changeCursor(android.database.Cursor)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.noteslist.NotesList: onCreateOptionsMenu(android.view.Menu)boolean' label='com.openintents.notepad.noteslist.NotesList: onCreateOptionsMenu(android.view.Menu)boolean'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.view.ContextMenu: addIntentOptions(IIILandroid.content.ComponentName,[Landroid.content.Intent,android.content.Intent,I[Landroid.view.MenuItem)java.lang.Integer' label='android.view.ContextMenu: addIntentOptions(IIILandroid.content.ComponentName,[Landroid.content.Intent,android.content.Intent,I[Landroid.view.MenuItem)java.lang.Integer'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.content.ContentUris: withAppendedId(android.net.Uri,J)android.net.Uri' label='android.content.ContentUris: withAppendedId(android.net.Uri,J)android.net.Uri'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.database.Cursor: moveToPosition(java.lang.Integer)boolean' label='android.database.Cursor: moveToPosition(java.lang.Integer)boolean'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.database.Cursor: getInt(java.lang.Integer)java.lang.Integer' label='android.database.Cursor: getInt(java.lang.Integer)java.lang.Integer'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.content.Intent: init(java.lang.String,android.net.Uri)void' label='android.content.Intent: init(java.lang.String,android.net.Uri)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.widget.ListView: setOnCreateContextMenuListener(android.view.View$OnCreateContextMenuListener)void' label='android.widget.ListView: setOnCreateContextMenuListener(android.view.View$OnCreateContextMenuListener)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.util.List: add(java.lang.Object)boolean' label='java.util.List: add(java.lang.Object)boolean'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.distribution.DistributionLibrary: showEulaOrNewVersion()boolean' label='com.openintents.distribution.DistributionLibrary: showEulaOrNewVersion()boolean'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.widget.LinearLayout$LayoutParams: init(II)void' label='android.widget.LinearLayout$LayoutParams: init(II)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.widget.Spinner: setVisibility(java.lang.Integer)void' label='android.widget.Spinner: setVisibility(java.lang.Integer)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.distribution.DistributionLibraryListActivity: onOptionsItemSelected(android.view.MenuItem)boolean' label='com.openintents.distribution.DistributionLibraryListActivity: onOptionsItemSelected(android.view.MenuItem)boolean'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.noteslist.NotesList: getString(java.lang.Integer)java.lang.String' label='com.openintents.notepad.noteslist.NotesList: getString(java.lang.Integer)java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.String: valueOf(java.lang.Object)java.lang.String' label='java.lang.String: valueOf(java.lang.Object)java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.noteslist.NotesList: onPause()void' label='com.openintents.notepad.noteslist.NotesList: onPause()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.view.Window: setFlags(II)void' label='android.view.Window: setFlags(II)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.widget.LinearLayout: setGravity(java.lang.Integer)void' label='android.widget.LinearLayout: setGravity(java.lang.Integer)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.io.File: getAbsolutePath()java.lang.String' label='java.io.File: getAbsolutePath()java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.distribution.DistributionLibraryListActivity: onDestroy()void' label='com.openintents.distribution.DistributionLibraryListActivity: onDestroy()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.io.FileWriter: init(java.io.File)void' label='java.io.FileWriter: init(java.io.File)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.content.ContentResolver: query(android.net.Uri,[Ljava.lang.String,java.lang.String,[Ljava.lang.String,java.lang.String)android.database.Cursor' label='android.content.ContentResolver: query(android.net.Uri,[Ljava.lang.String,java.lang.String,[Ljava.lang.String,java.lang.String)android.database.Cursor'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.noteslist.TagsDialog: setUri(android.net.Uri)void' label='com.openintents.notepad.noteslist.TagsDialog: setUri(android.net.Uri)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.io.BufferedWriter: init(java.io.Writer)void' label='java.io.BufferedWriter: init(java.io.Writer)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.content.Intent: putExtra(java.lang.String,android.os.Parcelable)android.content.Intent' label='android.content.Intent: putExtra(java.lang.String,android.os.Parcelable)android.content.Intent'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.os.Bundle: putLong(java.lang.String,J)void' label='android.os.Bundle: putLong(java.lang.String,J)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.os.Handler: init()void' label='android.os.Handler: init()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.content.Intent: getData()android.net.Uri' label='android.content.Intent: getData()android.net.Uri'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.waps.AppConnect: getPoints(com.waps.UpdatePointsNotifier)void' label='com.waps.AppConnect: getPoints(com.waps.UpdatePointsNotifier)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.util.FileUriUtils: getUri(java.lang.String)android.net.Uri' label='com.openintents.notepad.util.FileUriUtils: getUri(java.lang.String)android.net.Uri'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.noteslist.NotesList: onPrepareDialog(ILandroid.app.Dialog)void' label='com.openintents.notepad.noteslist.NotesList: onPrepareDialog(ILandroid.app.Dialog)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.noteslist.NotesList: onContextItemSelected(android.view.MenuItem)boolean' label='com.openintents.notepad.noteslist.NotesList: onContextItemSelected(android.view.MenuItem)boolean'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.util.Calendar: getInstance()java.util.Calendar' label='java.util.Calendar: getInstance()java.util.Calendar'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.noteslist.NotesList: findViewById(java.lang.Integer)android.view.View' label='com.openintents.notepad.noteslist.NotesList: findViewById(java.lang.Integer)android.view.View'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.text.TextUtils: isEmpty(java.lang.CharSequence)boolean' label='android.text.TextUtils: isEmpty(java.lang.CharSequence)boolean'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.noteslist.NotesListCursor: init(android.content.Context,android.content.Intent)void' label='com.openintents.notepad.noteslist.NotesListCursor: init(android.content.Context,android.content.Intent)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.noteslist.NotesList: getSdCardPath()java.io.File' label='com.openintents.notepad.noteslist.NotesList: getSdCardPath()java.io.File'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.noteslist.NotesList: insertNewNote()void' label='com.openintents.notepad.noteslist.NotesList: insertNewNote()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.content.Intent: init()void' label='android.content.Intent: init()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.util.HashSet: init()void' label='java.util.HashSet: init()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.noteslist.NotesList: sendNoteByEmail(J)void' label='com.openintents.notepad.noteslist.NotesList: sendNoteByEmail(J)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.noteslist.NotesList: onSearchRequested()boolean' label='com.openintents.notepad.noteslist.NotesList: onSearchRequested()boolean'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.waps.AppConnect: finalize()void' label='com.waps.AppConnect: finalize()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.io.File: isDirectory()boolean' label='java.io.File: isDirectory()boolean'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.widget.ArrayAdapter: init(android.content.Context,ILjava.util.List)void' label='android.widget.ArrayAdapter: init(android.content.Context,ILjava.util.List)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.content.Intent: setAction(java.lang.String)android.content.Intent' label='android.content.Intent: setAction(java.lang.String)android.content.Intent'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.distribution.DistributionLibraryListActivity: onCreate(android.os.Bundle)void' label='com.openintents.distribution.DistributionLibraryListActivity: onCreate(android.os.Bundle)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.distribution.DistributionLibrary: setFirst(II)void' label='com.openintents.distribution.DistributionLibrary: setFirst(II)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.waps.AppConnect: getInstance(android.content.Context)com.waps.AppConnect' label='com.waps.AppConnect: getInstance(android.content.Context)com.waps.AppConnect'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.noteslist.NotesList: getUpdatePointsFailed(java.lang.String)void' label='com.openintents.notepad.noteslist.NotesList: getUpdatePointsFailed(java.lang.String)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.noteslist.NotesList: unregisterReceiver(android.content.BroadcastReceiver)void' label='com.openintents.notepad.noteslist.NotesList: unregisterReceiver(android.content.BroadcastReceiver)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.noteslist.NotesList: startActivityForResult(android.content.Intent,java.lang.Integer)void' label='com.openintents.notepad.noteslist.NotesList: startActivityForResult(android.content.Intent,java.lang.Integer)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.database.Cursor: requery()boolean' label='android.database.Cursor: requery()boolean'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.os.Bundle: getLong(java.lang.String)J' label='android.os.Bundle: getLong(java.lang.String)J'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.database.Cursor: getCount()java.lang.Integer' label='android.database.Cursor: getCount()java.lang.Integer'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.os.Bundle: getString(java.lang.String)java.lang.String' label='android.os.Bundle: getString(java.lang.String)java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.noteslist.TagsDialog: init(android.content.Context)void' label='com.openintents.notepad.noteslist.TagsDialog: init(android.content.Context)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.distribution.DistributionLibraryListActivity: onSaveInstanceState(android.os.Bundle)void' label='com.openintents.distribution.DistributionLibraryListActivity: onSaveInstanceState(android.os.Bundle)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.StringBuilder: append(java.lang.Object)java.lang.StringBuilder' label='java.lang.StringBuilder: append(java.lang.Object)java.lang.StringBuilder'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.widget.RelativeLayout$LayoutParams: init(II)void' label='android.widget.RelativeLayout$LayoutParams: init(II)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.noteslist.NotesList: getUpdatePoints(java.lang.String,java.lang.Integer)void' label='com.openintents.notepad.noteslist.NotesList: getUpdatePoints(java.lang.String,java.lang.Integer)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.widget.LinearLayout: invalidate()void' label='android.widget.LinearLayout: invalidate()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.view.MenuItem: setShortcut(CC)android.view.MenuItem' label='android.view.MenuItem: setShortcut(CC)android.view.MenuItem'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.app.AlertDialog$Builder: show()android.app.AlertDialog' label='android.app.AlertDialog$Builder: show()android.app.AlertDialog'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.StringBuilder: toString()java.lang.String' label='java.lang.StringBuilder: toString()java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.os.Bundle: getInt(java.lang.String)java.lang.Integer' label='android.os.Bundle: getInt(java.lang.String)java.lang.Integer'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.util.Collections: sort(java.util.List)void' label='java.util.Collections: sort(java.util.List)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.noteslist.NotesList: decryptDelayed()void' label='com.openintents.notepad.noteslist.NotesList: decryptDelayed()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.util.HashSet: add(java.lang.Object)boolean' label='java.util.HashSet: add(java.lang.Object)boolean'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.widget.ListView: setTextFilterEnabled(boolean)void' label='android.widget.ListView: setTextFilterEnabled(boolean)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.noteslist.NotesList: onCreateContextMenu(android.view.ContextMenu,android.view.View,android.view.ContextMenu$ContextMenuInfo)void' label='com.openintents.notepad.noteslist.NotesList: onCreateContextMenu(android.view.ContextMenu,android.view.View,android.view.ContextMenu$ContextMenuInfo)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.noteslist.NotesList: getWindow()android.view.Window' label='com.openintents.notepad.noteslist.NotesList: getWindow()android.view.Window'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.util.List: isEmpty()boolean' label='java.util.List: isEmpty()boolean'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.noteslist.NotesList: setListAdapter(android.widget.ListAdapter)void' label='com.openintents.notepad.noteslist.NotesList: setListAdapter(android.widget.ListAdapter)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.util.Log: i(java.lang.String,java.lang.String)java.lang.Integer' label='android.util.Log: i(java.lang.String,java.lang.String)java.lang.Integer'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='android.view.ContextMenu: setHeaderTitle(java.lang.CharSequence)android.view.ContextMenu' label='android.view.ContextMenu: setHeaderTitle(java.lang.CharSequence)android.view.ContextMenu'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.widget.ListView: setOnScrollListener(android.widget.AbsListView$OnScrollListener)void' label='android.widget.ListView: setOnScrollListener(android.widget.AbsListView$OnScrollListener)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.noteslist.NotesList: registerReceiver(android.content.BroadcastReceiver,android.content.IntentFilter)android.content.Intent' label='com.openintents.notepad.noteslist.NotesList: registerReceiver(android.content.BroadcastReceiver,android.content.IntentFilter)android.content.Intent'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.noteslist.NotesList: onListItemClick(android.widget.ListView,android.view.View,IJ)void' label='com.openintents.notepad.noteslist.NotesList: onListItemClick(android.widget.ListView,android.view.View,IJ)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		</nodes>
+		<edges>
+			<edge id='0' source='com.openintents.notepad.noteslist.NotesList: onResume()void' target='android.content.IntentFilter: addAction(java.lang.String)void'/>
+			<edge id='1' source='com.openintents.notepad.noteslist.NotesList: updateTagList()void' target='java.util.List: contains(java.lang.Object)boolean'/>
+			<edge id='2' source='com.openintents.notepad.noteslist.NotesList: writeToFile(java.io.File,java.lang.String)void' target='java.io.FileWriter: init(java.io.File)void'/>
+			<edge id='3' source='com.openintents.notepad.noteslist.NotesList: onCreateContextMenu(android.view.ContextMenu,android.view.View,android.view.ContextMenu$ContextMenuInfo)void' target='android.view.ContextMenu: setHeaderTitle(java.lang.CharSequence)android.view.ContextMenu'/>
+			<edge id='4' source='com.openintents.notepad.noteslist.NotesList: onCreateContextMenu(android.view.ContextMenu,android.view.View,android.view.ContextMenu$ContextMenuInfo)void' target='android.view.ContextMenu: add(IIII)android.view.MenuItem'/>
+			<edge id='5' source='com.openintents.notepad.noteslist.NotesList: onListItemClick(android.widget.ListView,android.view.View,IJ)void' target='com.openintents.notepad.noteslist.NotesList: startActivityForResult(android.content.Intent,java.lang.Integer)void'/>
+			<edge id='6' source='com.openintents.notepad.noteslist.NotesList: onCreate(android.os.Bundle)void' target='com.openintents.notepad.noteslist.NotesList: addContentView(android.view.View,android.view.ViewGroup$LayoutParams)void'/>
+			<edge id='7' source='com.openintents.notepad.noteslist.NotesList: getUpdatePointsFailed(java.lang.String)void' target='android.util.Log: i(java.lang.String,java.lang.String)java.lang.Integer'/>
+			<edge id='8' source='com.openintents.notepad.noteslist.NotesList: onCreate(android.os.Bundle)void' target='android.widget.ListView: setOnCreateContextMenuListener(android.view.View$OnCreateContextMenuListener)void'/>
+			<edge id='9' source='com.openintents.notepad.noteslist.NotesList: onPrepareOptionsMenu(android.view.Menu)boolean' target='com.openintents.notepad.noteslist.NotesList: getIntent()android.content.Intent'/>
+			<edge id='10' source='com.openintents.notepad.noteslist.NotesList: onOptionsItemSelected(android.view.MenuItem)boolean' target='android.util.Log: i(java.lang.String,java.lang.String)java.lang.Integer'/>
+			<edge id='11' source='com.openintents.notepad.noteslist.NotesList: encryptNote(JLjava.lang.String)void' target='android.content.Intent: putExtra(java.lang.String,java.lang.String)android.content.Intent'/>
+			<edge id='12' source='com.openintents.notepad.noteslist.NotesList: onListItemClick(android.widget.ListView,android.view.View,IJ)void' target='android.content.Intent: init(java.lang.String,android.net.Uri)void'/>
+			<edge id='13' source='com.openintents.notepad.noteslist.NotesList: onCreate(android.os.Bundle)void' target='android.widget.LinearLayout: addView(android.view.View,android.view.ViewGroup$LayoutParams)void'/>
+			<edge id='14' source='com.openintents.notepad.noteslist.NotesList: checkAdapter()void' target='com.openintents.notepad.noteslist.NotesListCursorAdapter: init(android.content.Context,android.database.Cursor,com.openintents.notepad.noteslist.NotesListCursor)void'/>
+			<edge id='15' source='com.openintents.notepad.noteslist.NotesList: onPrepareDialog(ILandroid.app.Dialog)void' target='com.openintents.notepad.noteslist.NotesList: getTaglist(android.database.Cursor)[Ljava.lang.String'/>
+			<edge id='16' source='com.openintents.notepad.noteslist.NotesList: onActivityResult(IILandroid.content.Intent)void' target='java.util.HashMap: put(java.lang.Object,java.lang.Object)java.lang.Object'/>
+			<edge id='17' source='com.openintents.notepad.noteslist.NotesList: onCreateOptionsMenu(android.view.Menu)boolean' target='android.content.Intent: addCategory(java.lang.String)android.content.Intent'/>
+			<edge id='18' source='com.openintents.notepad.noteslist.NotesList: getUpdatePoints(java.lang.String,java.lang.Integer)void' target='java.lang.StringBuilder: init(java.lang.String)void'/>
+			<edge id='19' source='com.openintents.notepad.noteslist.NotesList: getSdCardPath()java.io.File' target='android.os.Environment: getExternalStorageDirectory()java.io.File'/>
+			<edge id='20' source='com.openintents.notepad.noteslist.NotesList: sendNoteByEmail(J)void' target='com.openintents.notepad.noteslist.NotesList: getContentResolver()android.content.ContentResolver'/>
+			<edge id='21' source='com.openintents.notepad.noteslist.NotesList: onListItemClick(android.widget.ListView,android.view.View,IJ)void' target='android.content.Intent: putExtra(java.lang.String,boolean)android.content.Intent'/>
+			<edge id='22' source='com.openintents.notepad.noteslist.NotesList: encryptNote(JLjava.lang.String)void' target='android.content.Intent: getData()android.net.Uri'/>
+			<edge id='23' source='com.openintents.notepad.noteslist.NotesList: getTaglist(android.database.Cursor)[Ljava.lang.String' target='android.database.Cursor: getString(java.lang.Integer)java.lang.String'/>
+			<edge id='24' source='com.openintents.notepad.noteslist.NotesList: onPrepareOptionsMenu(android.view.Menu)boolean' target='android.content.Intent: init(java.lang.String,android.net.Uri)void'/>
+			<edge id='25' source='com.openintents.notepad.noteslist.NotesList: onCreate(android.os.Bundle)void' target='android.widget.ListView: setEmptyView(android.view.View)void'/>
+			<edge id='26' source='com.openintents.notepad.noteslist.NotesList: onOptionsItemSelected(android.view.MenuItem)boolean' target='com.openintents.notepad.noteslist.NotesList$4: init(com.openintents.notepad.noteslist.NotesList)void'/>
+			<edge id='27' source='com.openintents.notepad.noteslist.NotesList: sendNoteByEmail(J)void' target='com.openintents.notepad.noteslist.NotesList: getString(java.lang.Integer)java.lang.String'/>
+			<edge id='28' source='com.openintents.notepad.noteslist.NotesList: onCreateContextMenu(android.view.ContextMenu,android.view.View,android.view.ContextMenu$ContextMenuInfo)void' target='com.openintents.notepad.noteslist.NotesList: getIntent()android.content.Intent'/>
+			<edge id='29' source='com.openintents.notepad.noteslist.NotesList: sendNoteByEmail(J)void' target='com.openintents.notepad.PreferenceActivity: getSortOrderFromPrefs(android.content.Context)java.lang.String'/>
+			<edge id='30' source='com.openintents.notepad.noteslist.NotesList: onListItemClick(android.widget.ListView,android.view.View,IJ)void' target='android.content.Intent: getData()android.net.Uri'/>
+			<edge id='31' source='com.openintents.notepad.noteslist.NotesList: encryptNote(JLjava.lang.String)void' target='com.openintents.notepad.noteslist.NotesList: getString(java.lang.Integer)java.lang.String'/>
+			<edge id='32' source='com.openintents.notepad.noteslist.NotesList: onScrollStateChanged(android.widget.AbsListView,java.lang.Integer)void' target='java.lang.StringBuilder: toString()java.lang.String'/>
+			<edge id='33' source='com.openintents.notepad.noteslist.NotesList: onListItemClick(android.widget.ListView,android.view.View,IJ)void' target='android.database.Cursor: getString(java.lang.Integer)java.lang.String'/>
+			<edge id='34' source='com.openintents.notepad.noteslist.NotesList: onListItemClick(android.widget.ListView,android.view.View,IJ)void' target='android.text.TextUtils: isEmpty(java.lang.CharSequence)boolean'/>
+			<edge id='35' source='com.openintents.notepad.noteslist.NotesList: onCreate(android.os.Bundle)void' target='android.widget.AdapterView$AdapterContextMenuInfo: init(android.view.View,IJ)void'/>
+			<edge id='36' source='com.openintents.notepad.noteslist.NotesList: onActivityResult(IILandroid.content.Intent)void' target='android.widget.Toast: makeText(android.content.Context,II)android.widget.Toast'/>
+			<edge id='37' source='com.openintents.notepad.noteslist.NotesList: encryptNote(JLjava.lang.String)void' target='java.lang.String: equals(java.lang.Object)boolean'/>
+			<edge id='38' source='com.openintents.notepad.noteslist.NotesList: decryptTitle(java.lang.String)void' target='android.content.Intent: setAction(java.lang.String)android.content.Intent'/>
+			<edge id='39' source='com.openintents.notepad.noteslist.NotesList: insertNewNote()void' target='com.openintents.notepad.noteslist.NotesList: getIntent()android.content.Intent'/>
+			<edge id='40' source='com.openintents.notepad.noteslist.NotesList: onListItemClick(android.widget.ListView,android.view.View,IJ)void' target='android.content.Intent: setAction(java.lang.String)android.content.Intent'/>
+			<edge id='41' source='com.openintents.notepad.noteslist.NotesList: encryptNote(JLjava.lang.String)void' target='android.content.Intent: putExtra(java.lang.String,[Ljava.lang.String)android.content.Intent'/>
+			<edge id='42' source='com.openintents.notepad.noteslist.NotesList: openFromSdCard()void' target='java.lang.StringBuilder: init(java.lang.String)void'/>
+			<edge id='43' source='com.openintents.notepad.noteslist.NotesList: onCreate(android.os.Bundle)void' target='android.widget.LinearLayout: setGravity(java.lang.Integer)void'/>
+			<edge id='44' source='com.openintents.notepad.noteslist.NotesList: encryptNote(JLjava.lang.String)void' target='android.database.Cursor: moveToFirst()boolean'/>
+			<edge id='45' source='com.openintents.notepad.noteslist.NotesList: onCreateDialog(java.lang.Integer)android.app.Dialog' target='com.openintents.distribution.DistributionLibraryListActivity: onCreateDialog(java.lang.Integer)android.app.Dialog'/>
+			<edge id='46' source='com.openintents.notepad.noteslist.NotesList: updateTagList()void' target='java.lang.String: trim()java.lang.String'/>
+			<edge id='47' source='com.openintents.notepad.noteslist.NotesList: encryptNote(JLjava.lang.String)void' target='android.database.Cursor: getString(java.lang.Integer)java.lang.String'/>
+			<edge id='48' source='com.openintents.notepad.noteslist.NotesList: onPause()void' target='com.openintents.distribution.DistributionLibraryListActivity: onPause()void'/>
+			<edge id='49' source='com.openintents.notepad.noteslist.NotesList: decryptDelayed()void' target='com.openintents.notepad.noteslist.NotesList: decryptDelayed(java.lang.String,J)void'/>
+			<edge id='50' source='com.openintents.notepad.noteslist.NotesList: sendNoteByEmail(J)void' target='android.widget.Toast: show()void'/>
+			<edge id='51' source='com.openintents.notepad.noteslist.NotesList: onActivityResult(IILandroid.content.Intent)void' target='java.io.File: exists()boolean'/>
+			<edge id='52' source='com.openintents.notepad.noteslist.NotesList: sendNoteByEmail(J)void' target='com.openintents.notepad.noteslist.NotesList: getIntent()android.content.Intent'/>
+			<edge id='53' source='com.openintents.notepad.noteslist.NotesList: sendNoteByEmail(J)void' target='android.content.ContentResolver: query(android.net.Uri,[Ljava.lang.String,java.lang.String,[Ljava.lang.String,java.lang.String)android.database.Cursor'/>
+			<edge id='54' source='com.openintents.notepad.noteslist.NotesList: onContextItemSelected(android.view.MenuItem)boolean' target='android.content.ContentResolver: delete(android.net.Uri,java.lang.String,[Ljava.lang.String)java.lang.Integer'/>
+			<edge id='55' source='com.openintents.notepad.noteslist.NotesList: onCreate(android.os.Bundle)void' target='com.openintents.notepad.noteslist.NotesList: getWindow()android.view.Window'/>
+			<edge id='56' source='com.openintents.notepad.noteslist.NotesList: updateTagList()void' target='android.text.TextUtils: isEmpty(java.lang.CharSequence)boolean'/>
+			<edge id='57' source='com.openintents.notepad.noteslist.NotesList: init()void' target='com.openintents.notepad.noteslist.NotesList$1: init(com.openintents.notepad.noteslist.NotesList)void'/>
+			<edge id='58' source='com.openintents.notepad.noteslist.NotesList: onOptionsItemSelected(android.view.MenuItem)boolean' target='android.app.AlertDialog$Builder: setMessage(java.lang.CharSequence)android.app.AlertDialog$Builder'/>
+			<edge id='59' source='com.openintents.notepad.noteslist.NotesList: sendNoteByEmail(J)void' target='android.database.Cursor: getString(java.lang.Integer)java.lang.String'/>
+			<edge id='60' source='com.openintents.notepad.noteslist.NotesList: sendNoteByEmail(J)void' target='android.content.Intent: putExtra(java.lang.String,java.lang.String)android.content.Intent'/>
+			<edge id='61' source='com.openintents.notepad.noteslist.NotesList: onContextItemSelected(android.view.MenuItem)boolean' target='com.openintents.notepad.noteslist.NotesList: sendNoteByEmail(J)void'/>
+			<edge id='62' source='com.openintents.notepad.noteslist.NotesList: updateTagList()void' target='android.database.Cursor: moveToFirst()boolean'/>
+			<edge id='63' source='com.openintents.notepad.noteslist.NotesList: decryptTitle(java.lang.String)void' target='com.openintents.notepad.noteslist.NotesList: startActivityForResult(android.content.Intent,java.lang.Integer)void'/>
+			<edge id='64' source='com.openintents.notepad.noteslist.NotesList: onDestroy()void' target='com.openintents.distribution.DistributionLibraryListActivity: onDestroy()void'/>
+			<edge id='65' source='com.openintents.notepad.noteslist.NotesList: onActivityResult(IILandroid.content.Intent)void' target='android.content.Intent: getStringExtra(java.lang.String)java.lang.String'/>
+			<edge id='66' source='com.openintents.notepad.noteslist.NotesList: onCreateContextMenu(android.view.ContextMenu,android.view.View,android.view.ContextMenu$ContextMenuInfo)void' target='android.database.Cursor: getString(java.lang.Integer)java.lang.String'/>
+			<edge id='67' source='com.openintents.notepad.noteslist.NotesList: onActivityResult(IILandroid.content.Intent)void' target='java.io.File: isDirectory()boolean'/>
+			<edge id='68' source='com.openintents.notepad.noteslist.NotesList: writeToFile(java.io.File,java.lang.String)void' target='java.io.BufferedWriter: write(java.lang.String)void'/>
+			<edge id='69' source='com.openintents.notepad.noteslist.NotesList: updateTagList()void' target='java.util.List: add(java.lang.Object)boolean'/>
+			<edge id='70' source='com.openintents.notepad.noteslist.NotesList: onPrepareDialog(ILandroid.app.Dialog)void' target='android.content.Intent: getData()android.net.Uri'/>
+			<edge id='71' source='com.openintents.notepad.noteslist.NotesList: onCreate(android.os.Bundle)void' target='com.openintents.notepad.noteslist.NotesList: setDefaultKeyMode(java.lang.Integer)void'/>
+			<edge id='72' source='com.openintents.notepad.noteslist.NotesList: onDestroy()void' target='com.waps.AppConnect: getInstance(android.content.Context)com.waps.AppConnect'/>
+			<edge id='73' source='com.openintents.notepad.noteslist.NotesList: onContextItemSelected(android.view.MenuItem)boolean' target='com.openintents.notepad.noteslist.NotesList: editTags()void'/>
+			<edge id='74' source='com.openintents.notepad.noteslist.NotesList: sendNoteByEmail(J)void' target='android.content.Intent: setAction(java.lang.String)android.content.Intent'/>
+			<edge id='75' source='com.openintents.notepad.noteslist.NotesList: getTaglist(android.database.Cursor)[Ljava.lang.String' target='java.util.Collections: sort(java.util.List)void'/>
+			<edge id='76' source='com.openintents.notepad.noteslist.NotesList: onCreate(android.os.Bundle)void' target='android.widget.LinearLayout$LayoutParams: init(II)void'/>
+			<edge id='77' source='com.openintents.notepad.noteslist.NotesList: saveFile(android.net.Uri,java.io.File)void' target='java.lang.StringBuilder: init(java.lang.String)void'/>
+			<edge id='78' source='com.openintents.notepad.noteslist.NotesList: onListItemClick(android.widget.ListView,android.view.View,IJ)void' target='android.content.Intent$ShortcutIconResource: fromContext(android.content.Context,java.lang.Integer)android.content.Intent$ShortcutIconResource'/>
+			<edge id='79' source='com.openintents.notepad.noteslist.NotesList: onCreateOptionsMenu(android.view.Menu)boolean' target='com.openintents.distribution.DistributionLibraryListActivity: onCreateOptionsMenu(android.view.Menu)boolean'/>
+			<edge id='80' source='com.openintents.notepad.noteslist.NotesList: encryptNote(JLjava.lang.String)void' target='com.openintents.notepad.noteslist.NotesList: getContentResolver()android.content.ContentResolver'/>
+			<edge id='81' source='com.openintents.notepad.noteslist.NotesList: decryptDelayed()void' target='com.openintents.notepad.noteslist.NotesListCursorAdapter: getCursor()android.database.Cursor'/>
+			<edge id='82' source='com.openintents.notepad.noteslist.NotesList: updateTagList()void' target='java.lang.String: split(java.lang.String)[Ljava.lang.String'/>
+			<edge id='83' source='com.openintents.notepad.noteslist.NotesList: onActivityResult(IILandroid.content.Intent)void' target='com.openintents.notepad.noteslist.NotesList: decryptDelayed()void'/>
+			<edge id='84' source='com.openintents.notepad.noteslist.NotesList: onContextItemSelected(android.view.MenuItem)boolean' target='com.openintents.notepad.noteslist.NotesList: encryptNote(JLjava.lang.String)void'/>
+			<edge id='85' source='com.openintents.notepad.noteslist.NotesList: openFromSdCard()void' target='java.lang.String: valueOf(java.lang.Object)java.lang.String'/>
+			<edge id='86' source='com.openintents.notepad.noteslist.NotesList: sendNoteByEmail(J)void' target='android.content.ContentUris: withAppendedId(android.net.Uri,J)android.net.Uri'/>
+			<edge id='87' source='com.openintents.notepad.noteslist.NotesList: onCreate(android.os.Bundle)void' target='com.openintents.distribution.DistributionLibraryListActivity: onCreate(android.os.Bundle)void'/>
+			<edge id='88' source='com.openintents.notepad.noteslist.NotesList: onListItemClick(android.widget.ListView,android.view.View,IJ)void' target='com.openintents.notepad.noteslist.NotesListCursorAdapter: getCursor()android.database.Cursor'/>
+			<edge id='89' source='com.openintents.notepad.noteslist.NotesList: sendNoteByEmail(J)void' target='android.content.Intent: setType(java.lang.String)android.content.Intent'/>
+			<edge id='90' source='com.openintents.notepad.noteslist.NotesList: onCreateOptionsMenu(android.view.Menu)boolean' target='android.content.ComponentName: init(android.content.Context,java.lang.Class)void'/>
+			<edge id='91' source='com.openintents.notepad.noteslist.NotesList: sendNoteByEmail(J)void' target='android.content.Intent: getData()android.net.Uri'/>
+			<edge id='92' source='com.openintents.notepad.noteslist.NotesList: openFromSdCard()void' target='com.openintents.notepad.noteslist.NotesList: getSdCardPath()java.io.File'/>
+			<edge id='93' source='com.openintents.notepad.noteslist.NotesList: onContextItemSelected(android.view.MenuItem)boolean' target='com.openintents.notepad.noteslist.NotesList: getContentResolver()android.content.ContentResolver'/>
+			<edge id='94' source='com.openintents.notepad.noteslist.NotesList: getTaglist(android.database.Cursor)[Ljava.lang.String' target='java.util.HashSet: init()void'/>
+			<edge id='95' source='com.openintents.notepad.noteslist.NotesList: saveFile(android.net.Uri,java.io.File)void' target='android.database.Cursor: getCount()java.lang.Integer'/>
+			<edge id='96' source='com.openintents.notepad.noteslist.NotesList: onListItemClick(android.widget.ListView,android.view.View,IJ)void' target='com.openintents.notepad.noteslist.NotesList: setResult(ILandroid.content.Intent)void'/>
+			<edge id='97' source='com.openintents.notepad.noteslist.NotesList: openFromSdCard()void' target='com.openintents.notepad.noteslist.NotesList: startActivityForResult(android.content.Intent,java.lang.Integer)void'/>
+			<edge id='98' source='com.openintents.notepad.noteslist.NotesList: sendNoteByEmail(J)void' target='android.database.Cursor: moveToFirst()boolean'/>
+			<edge id='99' source='com.openintents.notepad.noteslist.NotesList: saveFile(android.net.Uri,java.io.File)void' target='java.lang.StringBuilder: append(java.lang.Object)java.lang.StringBuilder'/>
+			<edge id='100' source='com.openintents.notepad.noteslist.NotesList: openFromSdCard()void' target='java.lang.StringBuilder: toString()java.lang.String'/>
+			<edge id='101' source='com.openintents.notepad.noteslist.NotesList: decryptTitle(java.lang.String)void' target='android.util.Log: e(java.lang.String,java.lang.String)java.lang.Integer'/>
+			<edge id='102' source='com.openintents.notepad.noteslist.NotesList: updateTagList()void' target='com.openintents.notepad.noteslist.NotesList: getIntent()android.content.Intent'/>
+			<edge id='103' source='com.openintents.notepad.noteslist.NotesList: onCreate(android.os.Bundle)void' target='android.database.Cursor: registerDataSetObserver(android.database.DataSetObserver)void'/>
+			<edge id='104' source='com.openintents.notepad.noteslist.NotesList: onSaveInstanceState(android.os.Bundle)void' target='android.os.Bundle: putInt(java.lang.String,java.lang.Integer)void'/>
+			<edge id='105' source='com.openintents.notepad.noteslist.NotesList: onListItemClick(android.widget.ListView,android.view.View,IJ)void' target='java.lang.String: equals(java.lang.Object)boolean'/>
+			<edge id='106' source='com.openintents.notepad.noteslist.NotesList: onOptionsItemSelected(android.view.MenuItem)boolean' target='android.view.MenuItem: getItemId()java.lang.Integer'/>
+			<edge id='107' source='com.openintents.notepad.noteslist.NotesList: updateTagList()void' target='android.widget.Spinner: setVisibility(java.lang.Integer)void'/>
+			<edge id='108' source='com.openintents.notepad.noteslist.NotesList: insertNewNote()void' target='android.content.Intent: init(java.lang.String,android.net.Uri)void'/>
+			<edge id='109' source='com.openintents.notepad.noteslist.NotesList: getTaglist(android.database.Cursor)[Ljava.lang.String' target='java.util.ArrayList: init()void'/>
+			<edge id='110' source='com.openintents.notepad.noteslist.NotesList: showNotesListSettings()void' target='android.content.Intent: init(android.content.Context,java.lang.Class)void'/>
+			<edge id='111' source='com.openintents.notepad.noteslist.NotesList: getTaglist(android.database.Cursor)[Ljava.lang.String' target='java.util.HashSet: add(java.lang.Object)boolean'/>
+			<edge id='112' source='com.openintents.notepad.noteslist.NotesList: encryptNote(JLjava.lang.String)void' target='android.net.Uri: toString()java.lang.String'/>
+			<edge id='113' source='com.openintents.notepad.noteslist.NotesList: updateQuery()void' target='com.openintents.notepad.noteslist.NotesListCursorAdapter: changeCursor(android.database.Cursor)void'/>
+			<edge id='114' source='com.openintents.notepad.noteslist.NotesList: onOptionsItemSelected(android.view.MenuItem)boolean' target='java.lang.StringBuilder: toString()java.lang.String'/>
+			<edge id='115' source='com.openintents.notepad.noteslist.NotesList: getUpdatePointsFailed(java.lang.String)void' target='java.lang.StringBuilder: toString()java.lang.String'/>
+			<edge id='116' source='com.openintents.notepad.noteslist.NotesList: onCreate(android.os.Bundle)void' target='com.openintents.notepad.noteslist.NotesList: getIntent()android.content.Intent'/>
+			<edge id='117' source='com.openintents.notepad.noteslist.NotesList: onScrollStateChanged(android.widget.AbsListView,java.lang.Integer)void' target='java.lang.StringBuilder: append(java.lang.String)java.lang.StringBuilder'/>
+			<edge id='118' source='com.openintents.notepad.noteslist.NotesList: onCreate(android.os.Bundle)void' target='android.widget.RelativeLayout$LayoutParams: init(II)void'/>
+			<edge id='119' source='com.openintents.notepad.noteslist.NotesList: onPrepareOptionsMenu(android.view.Menu)boolean' target='android.widget.ListAdapter: getCount()java.lang.Integer'/>
+			<edge id='120' source='com.openintents.notepad.noteslist.NotesList: onPause()void' target='com.openintents.notepad.noteslist.NotesList: unregisterReceiver(android.content.BroadcastReceiver)void'/>
+			<edge id='121' source='com.openintents.notepad.noteslist.NotesList: onCreateOptionsMenu(android.view.Menu)boolean' target='android.content.Intent: init(java.lang.String,android.net.Uri)void'/>
+			<edge id='122' source='com.openintents.notepad.noteslist.NotesList: onOptionsItemSelected(android.view.MenuItem)boolean' target='java.util.Calendar: getInstance()java.util.Calendar'/>
+			<edge id='123' source='com.openintents.notepad.noteslist.NotesList: onContextItemSelected(android.view.MenuItem)boolean' target='android.util.Log: e(java.lang.String,java.lang.String,java.lang.Throwable)java.lang.Integer'/>
+			<edge id='124' source='com.openintents.notepad.noteslist.NotesList: onOptionsItemSelected(android.view.MenuItem)boolean' target='com.openintents.notepad.noteslist.NotesList: search()void'/>
+			<edge id='125' source='com.openintents.notepad.noteslist.NotesList: onListItemClick(android.widget.ListView,android.view.View,IJ)void' target='android.content.Intent: getAction()java.lang.String'/>
+			<edge id='126' source='com.openintents.notepad.noteslist.NotesList: onPrepareOptionsMenu(android.view.Menu)boolean' target='com.openintents.util.MenuIntentOptionsWithIcons: addIntentOptions(IIILandroid.content.ComponentName,[Landroid.content.Intent,android.content.Intent,I[Landroid.view.MenuItem)java.lang.Integer'/>
+			<edge id='127' source='com.openintents.notepad.noteslist.NotesList: onScrollStateChanged(android.widget.AbsListView,java.lang.Integer)void' target='java.util.List: remove(java.lang.Integer)java.lang.Object'/>
+			<edge id='128' source='com.openintents.notepad.noteslist.NotesList: onResume()void' target='com.openintents.notepad.noteslist.NotesList: checkAdapter()void'/>
+			<edge id='129' source='com.openintents.notepad.noteslist.NotesList: onPrepareDialog(ILandroid.app.Dialog)void' target='android.database.Cursor: moveToPosition(java.lang.Integer)boolean'/>
+			<edge id='130' source='com.openintents.notepad.noteslist.NotesList: onPrepareDialog(ILandroid.app.Dialog)void' target='com.openintents.distribution.DownloadOIAppDialog: onPrepareDialog(android.content.Context,android.app.Dialog)void'/>
+			<edge id='131' source='com.openintents.notepad.noteslist.NotesList: onCreate(android.os.Bundle)void' target='com.openintents.notepad.noteslist.NotesList: updateTagList()void'/>
+			<edge id='132' source='com.openintents.notepad.noteslist.NotesList: encryptNote(JLjava.lang.String)void' target='android.widget.Toast: makeText(android.content.Context,II)android.widget.Toast'/>
+			<edge id='133' source='com.openintents.notepad.noteslist.NotesList: onCreateContextMenu(android.view.ContextMenu,android.view.View,android.view.ContextMenu$ContextMenuInfo)void' target='android.database.Cursor: getLong(java.lang.Integer)J'/>
+			<edge id='134' source='com.openintents.notepad.noteslist.NotesList: search()void' target='com.openintents.notepad.noteslist.NotesList: onSearchRequested()boolean'/>
+			<edge id='135' source='com.openintents.notepad.noteslist.NotesList: openFromSdCard()void' target='android.content.Intent: putExtra(java.lang.String,java.lang.Integer)android.content.Intent'/>
+			<edge id='136' source='com.openintents.notepad.noteslist.NotesList: onResume()void' target='com.waps.AppConnect: getInstance(android.content.Context)com.waps.AppConnect'/>
+			<edge id='137' source='com.openintents.notepad.noteslist.NotesList: getTaglist(android.database.Cursor)[Ljava.lang.String' target='android.database.Cursor: moveToPosition(java.lang.Integer)boolean'/>
+			<edge id='138' source='com.openintents.notepad.noteslist.NotesList: updateTagList()void' target='java.util.List: size()java.lang.Integer'/>
+			<edge id='139' source='com.openintents.notepad.noteslist.NotesList: onCreateContextMenu(android.view.ContextMenu,android.view.View,android.view.ContextMenu$ContextMenuInfo)void' target='com.openintents.notepad.noteslist.NotesList: getListAdapter()android.widget.ListAdapter'/>
+			<edge id='140' source='com.openintents.notepad.noteslist.NotesList: onCreate(android.os.Bundle)void' target='android.widget.Spinner: setOnItemSelectedListener(android.widget.AdapterView$OnItemSelectedListener)void'/>
+			<edge id='141' source='com.openintents.notepad.noteslist.NotesList: writeToFile(java.io.File,java.lang.String)void' target='android.widget.Toast: show()void'/>
+			<edge id='142' source='com.openintents.notepad.noteslist.NotesList: sendNoteByEmail(J)void' target='android.util.Log: e(java.lang.String,java.lang.String)java.lang.Integer'/>
+			<edge id='143' source='com.openintents.notepad.noteslist.NotesList: onActivityResult(IILandroid.content.Intent)void' target='com.openintents.notepad.noteslist.NotesList: setProgressBarIndeterminateVisibility(boolean)void'/>
+			<edge id='144' source='com.openintents.notepad.noteslist.NotesList: getUpdatePoints(java.lang.String,java.lang.Integer)void' target='java.lang.StringBuilder: append(java.lang.Integer)java.lang.StringBuilder'/>
+			<edge id='145' source='com.openintents.notepad.noteslist.NotesList: updateTagList()void' target='android.content.Intent: getData()android.net.Uri'/>
+			<edge id='146' source='com.openintents.notepad.noteslist.NotesList: onCreate(android.os.Bundle)void' target='android.widget.ListView: setOnScrollListener(android.widget.AbsListView$OnScrollListener)void'/>
+			<edge id='147' source='com.openintents.notepad.noteslist.NotesList: onListItemClick(android.widget.ListView,android.view.View,IJ)void' target='com.openintents.notepad.noteslist.NotesList: getIntent()android.content.Intent'/>
+			<edge id='148' source='com.openintents.notepad.noteslist.NotesList: onCreate(android.os.Bundle)void' target='com.openintents.notepad.noteslist.NotesList: findViewById(java.lang.Integer)android.view.View'/>
+			<edge id='149' source='com.openintents.notepad.noteslist.NotesList: onCreateContextMenu(android.view.ContextMenu,android.view.View,android.view.ContextMenu$ContextMenuInfo)void' target='android.util.Log: e(java.lang.String,java.lang.String,java.lang.Throwable)java.lang.Integer'/>
+			<edge id='150' source='com.openintents.notepad.noteslist.NotesList: onActivityResult(IILandroid.content.Intent)void' target='android.content.Intent: setData(android.net.Uri)android.content.Intent'/>
+			<edge id='151' source='com.openintents.notepad.noteslist.NotesList: onCreate(android.os.Bundle)void' target='android.content.Intent: setData(android.net.Uri)android.content.Intent'/>
+			<edge id='152' source='com.openintents.notepad.noteslist.NotesList: onListItemClick(android.widget.ListView,android.view.View,IJ)void' target='android.database.Cursor: moveToPosition(java.lang.Integer)boolean'/>
+			<edge id='153' source='com.openintents.notepad.noteslist.NotesList: onCreate(android.os.Bundle)void' target='com.openintents.notepad.noteslist.NotesListCursor: init(android.content.Context,android.content.Intent)void'/>
+			<edge id='154' source='com.openintents.notepad.noteslist.NotesList: onActivityResult(IILandroid.content.Intent)void' target='android.content.Intent: setAction(java.lang.String)android.content.Intent'/>
+			<edge id='155' source='com.openintents.notepad.noteslist.NotesList: decryptDelayed(java.lang.String,J)void' target='android.os.Handler: postDelayed(java.lang.Runnable,J)boolean'/>
+			<edge id='156' source='com.openintents.notepad.noteslist.NotesList: updateTagList()void' target='android.widget.ArrayAdapter: setDropDownViewResource(java.lang.Integer)void'/>
+			<edge id='157' source='com.openintents.notepad.noteslist.NotesList: updateQuery()void' target='com.openintents.notepad.noteslist.NotesListCursorAdapter: runQueryOnBackgroundThread(java.lang.CharSequence,java.lang.String)android.database.Cursor'/>
+			<edge id='158' source='com.openintents.notepad.noteslist.NotesList: openFromSdCard()void' target='java.lang.String: endsWith(java.lang.String)boolean'/>
+			<edge id='159' source='com.openintents.notepad.noteslist.NotesList: onResume()void' target='com.openintents.distribution.DistributionLibraryListActivity: onResume()void'/>
+			<edge id='160' source='com.openintents.notepad.noteslist.NotesList: onCreate(android.os.Bundle)void' target='com.openintents.distribution.DistributionLibrary: showEulaOrNewVersion()boolean'/>
+			<edge id='161' source='com.openintents.notepad.noteslist.NotesList: insertNewNote()void' target='android.content.Intent: putExtra(java.lang.String,java.lang.String)android.content.Intent'/>
+			<edge id='162' source='com.openintents.notepad.noteslist.NotesList: onActivityResult(IILandroid.content.Intent)void' target='android.content.Intent: getData()android.net.Uri'/>
+			<edge id='163' source='com.openintents.notepad.noteslist.NotesList: encryptNote(JLjava.lang.String)void' target='com.openintents.notepad.crypto.EncryptActivity: getCryptoStringArray(java.lang.String,java.lang.String,java.lang.String)[Ljava.lang.String'/>
+			<edge id='164' source='com.openintents.notepad.noteslist.NotesList: onPrepareOptionsMenu(android.view.Menu)boolean' target='com.openintents.util.MenuIntentOptionsWithIcons: init(android.content.Context,android.view.Menu)void'/>
+			<edge id='165' source='com.openintents.notepad.noteslist.NotesList: writeToFile(java.io.File,java.lang.String)void' target='android.widget.Toast: makeText(android.content.Context,II)android.widget.Toast'/>
+			<edge id='166' source='com.openintents.notepad.noteslist.NotesList: onCreateContextMenu(android.view.ContextMenu,android.view.View,android.view.ContextMenu$ContextMenuInfo)void' target='android.content.Intent: init(java.lang.String,android.net.Uri)void'/>
+			<edge id='167' source='com.openintents.notepad.noteslist.NotesList: onOptionsItemSelected(android.view.MenuItem)boolean' target='android.app.AlertDialog$Builder: setPositiveButton(java.lang.CharSequence,android.content.DialogInterface$OnClickListener)android.app.AlertDialog$Builder'/>
+			<edge id='168' source='com.openintents.notepad.noteslist.NotesList: onCreate(android.os.Bundle)void' target='android.widget.LinearLayout: init(android.content.Context)void'/>
+			<edge id='169' source='com.openintents.notepad.noteslist.NotesList: onCreate(android.os.Bundle)void' target='com.openintents.notepad.noteslist.NotesList: getListView()android.widget.ListView'/>
+			<edge id='170' source='com.openintents.notepad.noteslist.NotesList: sendNoteByEmail(J)void' target='android.content.Intent: init()void'/>
+			<edge id='171' source='com.openintents.notepad.noteslist.NotesList: encryptNote(JLjava.lang.String)void' target='android.database.Cursor: getInt(java.lang.Integer)java.lang.Integer'/>
+			<edge id='172' source='com.openintents.notepad.noteslist.NotesList: checkAdapter()void' target='com.openintents.notepad.noteslist.NotesList: setListAdapter(android.widget.ListAdapter)void'/>
+			<edge id='173' source='com.openintents.notepad.noteslist.NotesList: onResume()void' target='com.waps.AppConnect: getPoints(com.waps.UpdatePointsNotifier)void'/>
+			<edge id='174' source='com.openintents.notepad.noteslist.NotesList: updateQuery()void' target='android.widget.Spinner: getSelectedItem()java.lang.Object'/>
+			<edge id='175' source='com.openintents.notepad.noteslist.NotesList: onCreateOptionsMenu(android.view.Menu)boolean' target='com.openintents.notepad.noteslist.NotesList: getIntent()android.content.Intent'/>
+			<edge id='176' source='com.openintents.notepad.noteslist.NotesList: checkAdapter()void' target='com.openintents.notepad.noteslist.NotesListCursorAdapter: getCursor()android.database.Cursor'/>
+			<edge id='177' source='com.openintents.notepad.noteslist.NotesList: onCreateContextMenu(android.view.ContextMenu,android.view.View,android.view.ContextMenu$ContextMenuInfo)void' target='android.content.Intent: addCategory(java.lang.String)android.content.Intent'/>
+			<edge id='178' source='com.openintents.notepad.noteslist.NotesList: onResume()void' target='com.openintents.notepad.noteslist.NotesList: registerReceiver(android.content.BroadcastReceiver,android.content.IntentFilter)android.content.Intent'/>
+			<edge id='179' source='com.openintents.notepad.noteslist.NotesList: onPrepareOptionsMenu(android.view.Menu)boolean' target='android.content.ContentUris: withAppendedId(android.net.Uri,J)android.net.Uri'/>
+			<edge id='180' source='com.openintents.notepad.noteslist.NotesList: getTaglist(android.database.Cursor)[Ljava.lang.String' target='java.util.ArrayList: toArray([Ljava.lang.Object)[Ljava.lang.Object'/>
+			<edge id='181' source='com.openintents.notepad.noteslist.NotesList: onContextItemSelected(android.view.MenuItem)boolean' target='android.content.Intent: getData()android.net.Uri'/>
+			<edge id='182' source='com.openintents.notepad.noteslist.NotesList: encryptNote(JLjava.lang.String)void' target='android.content.ContentResolver: query(android.net.Uri,[Ljava.lang.String,java.lang.String,[Ljava.lang.String,java.lang.String)android.database.Cursor'/>
+			<edge id='183' source='com.openintents.notepad.noteslist.NotesList: onOptionsItemSelected(android.view.MenuItem)boolean' target='android.app.AlertDialog$Builder: init(android.content.Context)void'/>
+			<edge id='184' source='com.openintents.notepad.noteslist.NotesList: onContextItemSelected(android.view.MenuItem)boolean' target='com.openintents.notepad.noteslist.NotesList: getIntent()android.content.Intent'/>
+			<edge id='185' source='com.openintents.notepad.noteslist.NotesList: sendNoteByEmail(J)void' target='com.openintents.notepad.noteslist.NotesList: startActivity(android.content.Intent)void'/>
+			<edge id='186' source='com.openintents.notepad.noteslist.NotesList: openFromSdCard()void' target='com.openintents.notepad.util.FileUriUtils: getUri(java.lang.String)android.net.Uri'/>
+			<edge id='187' source='com.openintents.notepad.noteslist.NotesList: init()void' target='android.os.Handler: init()void'/>
+			<edge id='188' source='com.openintents.notepad.noteslist.NotesList: onCreate(android.os.Bundle)void' target='java.lang.String: equals(java.lang.Object)boolean'/>
+			<edge id='189' source='com.openintents.notepad.noteslist.NotesList: onPrepareOptionsMenu(android.view.Menu)boolean' target='com.openintents.notepad.noteslist.NotesList: getListAdapter()android.widget.ListAdapter'/>
+			<edge id='190' source='com.openintents.notepad.noteslist.NotesList: onCreateContextMenu(android.view.ContextMenu,android.view.View,android.view.ContextMenu$ContextMenuInfo)void' target='android.content.Intent: getData()android.net.Uri'/>
+			<edge id='191' source='com.openintents.notepad.noteslist.NotesList: onOptionsItemSelected(android.view.MenuItem)boolean' target='java.lang.StringBuilder: append(java.lang.String)java.lang.StringBuilder'/>
+			<edge id='192' source='com.openintents.notepad.noteslist.NotesList: onCreateOptionsMenu(android.view.Menu)boolean' target='com.openintents.util.MenuIntentOptionsWithIcons: addIntentOptions(IIILandroid.content.ComponentName,[Landroid.content.Intent,android.content.Intent,I[Landroid.view.MenuItem)java.lang.Integer'/>
+			<edge id='193' source='com.openintents.notepad.noteslist.NotesList: onScrollStateChanged(android.widget.AbsListView,java.lang.Integer)void' target='java.util.List: isEmpty()boolean'/>
+			<edge id='194' source='com.openintents.notepad.noteslist.NotesList: onScrollStateChanged(android.widget.AbsListView,java.lang.Integer)void' target='android.util.Log: i(java.lang.String,java.lang.String)java.lang.Integer'/>
+			<edge id='195' source='com.openintents.notepad.noteslist.NotesList: updateTagList()void' target='android.database.Cursor: getLong(java.lang.Integer)J'/>
+			<edge id='196' source='com.openintents.notepad.noteslist.NotesList: onCreate(android.os.Bundle)void' target='com.openintents.notepad.noteslist.NotesList$3: init(com.openintents.notepad.noteslist.NotesList)void'/>
+			<edge id='197' source='com.openintents.notepad.noteslist.NotesList: openFromSdCard()void' target='android.content.Intent: setData(android.net.Uri)android.content.Intent'/>
+			<edge id='198' source='com.openintents.notepad.noteslist.NotesList: onPrepareDialog(ILandroid.app.Dialog)void' target='android.content.ContentUris: withAppendedId(android.net.Uri,J)android.net.Uri'/>
+			<edge id='199' source='com.openintents.notepad.noteslist.NotesList: getUpdatePoints(java.lang.String,java.lang.Integer)void' target='java.lang.StringBuilder: toString()java.lang.String'/>
+			<edge id='200' source='com.openintents.notepad.noteslist.NotesList: onCreateOptionsMenu(android.view.Menu)boolean' target='android.content.Intent: getData()android.net.Uri'/>
+			<edge id='201' source='com.openintents.notepad.noteslist.NotesList: encryptNote(JLjava.lang.String)void' target='android.widget.Toast: show()void'/>
+			<edge id='202' source='com.openintents.notepad.noteslist.NotesList: onScrollStateChanged(android.widget.AbsListView,java.lang.Integer)void' target='java.lang.StringBuilder: init(java.lang.String)void'/>
+			<edge id='203' source='com.openintents.notepad.noteslist.NotesList: onPrepareDialog(ILandroid.app.Dialog)void' target='com.openintents.notepad.noteslist.TagsDialog: setEncrypted(J)void'/>
+			<edge id='204' source='com.openintents.notepad.noteslist.NotesList: onActivityResult(IILandroid.content.Intent)void' target='com.openintents.notepad.noteslist.NotesList: startActivity(android.content.Intent)void'/>
+			<edge id='205' source='com.openintents.notepad.noteslist.NotesList: onOptionsItemSelected(android.view.MenuItem)boolean' target='java.util.Calendar: get(java.lang.Integer)java.lang.Integer'/>
+			<edge id='206' source='com.openintents.notepad.noteslist.NotesList: onCreate(android.os.Bundle)void' target='com.openintents.distribution.DistributionLibrary: setFirst(II)void'/>
+			<edge id='207' source='com.openintents.notepad.noteslist.NotesList: saveFile(android.net.Uri,java.io.File)void' target='com.openintents.notepad.noteslist.NotesList: getContentResolver()android.content.ContentResolver'/>
+			<edge id='208' source='com.openintents.notepad.noteslist.NotesList: onCreate(android.os.Bundle)void' target='android.view.Window: setFlags(II)void'/>
+			<edge id='209' source='com.openintents.notepad.noteslist.NotesList: onPrepareDialog(ILandroid.app.Dialog)void' target='com.openintents.notepad.noteslist.NotesListCursorAdapter: getCursor()android.database.Cursor'/>
+			<edge id='210' source='com.openintents.notepad.noteslist.NotesList: encryptNote(JLjava.lang.String)void' target='android.content.ContentUris: withAppendedId(android.net.Uri,J)android.net.Uri'/>
+			<edge id='211' source='com.openintents.notepad.noteslist.NotesList: onCreate(android.os.Bundle)void' target='com.openintents.notepad.noteslist.NotesList: checkAdapter()void'/>
+			<edge id='212' source='com.openintents.notepad.noteslist.NotesList: insertNewNote()void' target='com.openintents.notepad.noteslist.NotesList: startActivity(android.content.Intent)void'/>
+			<edge id='213' source='com.openintents.notepad.noteslist.NotesList: onCreate(android.os.Bundle)void' target='android.os.Bundle: getString(java.lang.String)java.lang.String'/>
+			<edge id='214' source='com.openintents.notepad.noteslist.NotesList: onListItemClick(android.widget.ListView,android.view.View,IJ)void' target='android.content.ContentUris: withAppendedId(android.net.Uri,J)android.net.Uri'/>
+			<edge id='215' source='com.openintents.notepad.noteslist.NotesList: updateTagList()void' target='android.database.Cursor: moveToNext()boolean'/>
+			<edge id='216' source='com.openintents.notepad.noteslist.NotesList: saveFile(android.net.Uri,java.io.File)void' target='android.database.Cursor: getLong(java.lang.Integer)J'/>
+			<edge id='217' source='com.openintents.notepad.noteslist.NotesList: onListItemClick(android.widget.ListView,android.view.View,IJ)void' target='android.content.Intent: setData(android.net.Uri)android.content.Intent'/>
+			<edge id='218' source='com.openintents.notepad.noteslist.NotesList: onListItemClick(android.widget.ListView,android.view.View,IJ)void' target='android.database.Cursor: getLong(java.lang.Integer)J'/>
+			<edge id='219' source='com.openintents.notepad.noteslist.NotesList: onActivityResult(IILandroid.content.Intent)void' target='android.content.Intent: init(android.content.Context,java.lang.Class)void'/>
+			<edge id='220' source='com.openintents.notepad.noteslist.NotesList: decryptDelayed()void' target='com.openintents.notepad.noteslist.NotesList: setProgressBarIndeterminateVisibility(boolean)void'/>
+			<edge id='221' source='com.openintents.notepad.noteslist.NotesList: getTaglist(android.database.Cursor)[Ljava.lang.String' target='java.lang.String: split(java.lang.String)[Ljava.lang.String'/>
+			<edge id='222' source='com.openintents.notepad.noteslist.NotesList: onListItemClick(android.widget.ListView,android.view.View,IJ)void' target='com.openintents.notepad.noteslist.NotesList: finish()void'/>
+			<edge id='223' source='com.openintents.notepad.noteslist.NotesList: updateTagList()void' target='com.openintents.notepad.noteslist.NotesList: getContentResolver()android.content.ContentResolver'/>
+			<edge id='224' source='com.openintents.notepad.noteslist.NotesList: onCreateContextMenu(android.view.ContextMenu,android.view.View,android.view.ContextMenu$ContextMenuInfo)void' target='android.content.ComponentName: init(android.content.Context,java.lang.Class)void'/>
+			<edge id='225' source='com.openintents.notepad.noteslist.NotesList: onListItemClick(android.widget.ListView,android.view.View,IJ)void' target='android.content.Intent: init(java.lang.String)void'/>
+			<edge id='226' source='com.openintents.notepad.noteslist.NotesList: onCreateDialog(java.lang.Integer)android.app.Dialog' target='com.openintents.notepad.noteslist.TagsDialog: init(android.content.Context)void'/>
+			<edge id='227' source='com.openintents.notepad.noteslist.NotesList: openFromSdCard()void' target='java.io.File: getAbsolutePath()java.lang.String'/>
+			<edge id='228' source='com.openintents.notepad.noteslist.NotesList: onCreateOptionsMenu(android.view.Menu)boolean' target='com.openintents.distribution.DistributionLibrary: onCreateOptionsMenu(android.view.Menu)void'/>
+			<edge id='229' source='com.openintents.notepad.noteslist.NotesList: onListItemClick(android.widget.ListView,android.view.View,IJ)void' target='android.content.Intent: putExtra(java.lang.String,java.lang.String)android.content.Intent'/>
+			<edge id='230' source='com.openintents.notepad.noteslist.NotesList: updateTagList()void' target='com.openintents.notepad.noteslist.NotesList: findViewById(java.lang.Integer)android.view.View'/>
+			<edge id='231' source='com.openintents.notepad.noteslist.NotesList: insertNewNote()void' target='android.content.Intent: getData()android.net.Uri'/>
+			<edge id='232' source='com.openintents.notepad.noteslist.NotesList: sendNoteByEmail(J)void' target='android.widget.Toast: makeText(android.content.Context,II)android.widget.Toast'/>
+			<edge id='233' source='com.openintents.notepad.noteslist.NotesList: onCreate(android.os.Bundle)void' target='android.content.Intent: getData()android.net.Uri'/>
+			<edge id='234' source='com.openintents.notepad.noteslist.NotesList: getTaglist(android.database.Cursor)[Ljava.lang.String' target='java.lang.String: equals(java.lang.Object)boolean'/>
+			<edge id='235' source='com.openintents.notepad.noteslist.NotesList: checkAdapter()void' target='com.openintents.notepad.noteslist.NotesList: updateQuery()void'/>
+			<edge id='236' source='com.openintents.notepad.noteslist.NotesList: decryptTitle(java.lang.String)void' target='android.content.Intent: putExtra(java.lang.String,java.lang.String)android.content.Intent'/>
+			<edge id='237' source='com.openintents.notepad.noteslist.NotesList: onCreateContextMenu(android.view.ContextMenu,android.view.View,android.view.ContextMenu$ContextMenuInfo)void' target='android.widget.ListAdapter: getItem(java.lang.Integer)java.lang.Object'/>
+			<edge id='238' source='com.openintents.notepad.noteslist.NotesList: onCreateDialog(java.lang.Integer)android.app.Dialog' target='com.openintents.distribution.DownloadOIAppDialog: init(android.content.Context,java.lang.Integer)void'/>
+			<edge id='239' source='com.openintents.notepad.noteslist.NotesList: saveFile(android.net.Uri,java.io.File)void' target='java.lang.StringBuilder: toString()java.lang.String'/>
+			<edge id='240' source='com.openintents.notepad.noteslist.NotesList: onCreateOptionsMenu(android.view.Menu)boolean' target='android.view.Menu: add(IIII)android.view.MenuItem'/>
+			<edge id='241' source='com.openintents.notepad.noteslist.NotesList: showNotesListSettings()void' target='com.openintents.notepad.noteslist.NotesList: startActivity(android.content.Intent)void'/>
+			<edge id='242' source='com.openintents.notepad.noteslist.NotesList: onCreate(android.os.Bundle)void' target='android.os.Bundle: getLong(java.lang.String)J'/>
+			<edge id='243' source='com.openintents.notepad.noteslist.NotesList: onCreate(android.os.Bundle)void' target='com.openintents.notepad.noteslist.NotesList$2: init(com.openintents.notepad.noteslist.NotesList)void'/>
+			<edge id='244' source='com.openintents.notepad.noteslist.NotesList: updateTagList()void' target='com.openintents.notepad.noteslist.NotesList: getString(java.lang.Integer)java.lang.String'/>
+			<edge id='245' source='com.openintents.notepad.noteslist.NotesList: onCreate(android.os.Bundle)void' target='android.widget.LinearLayout: invalidate()void'/>
+			<edge id='246' source='com.openintents.notepad.noteslist.NotesList: onCreateOptionsMenu(android.view.Menu)boolean' target='android.view.MenuItem: setIcon(java.lang.Integer)android.view.MenuItem'/>
+			<edge id='247' source='com.openintents.notepad.noteslist.NotesList: onPrepareOptionsMenu(android.view.Menu)boolean' target='android.content.Intent: getData()android.net.Uri'/>
+			<edge id='248' source='com.openintents.notepad.noteslist.NotesList: onActivityResult(IILandroid.content.Intent)void' target='com.openintents.notepad.util.FileUriUtils: getFile(android.net.Uri)java.io.File'/>
+			<edge id='249' source='com.openintents.notepad.noteslist.NotesList: updateTagList()void' target='android.widget.Spinner: setAdapter(android.widget.SpinnerAdapter)void'/>
+			<edge id='250' source='com.openintents.notepad.noteslist.NotesList: getUpdatePointsFailed(java.lang.String)void' target='java.lang.StringBuilder: append(java.lang.Integer)java.lang.StringBuilder'/>
+			<edge id='251' source='com.openintents.notepad.noteslist.NotesList: onDestroy()void' target='com.waps.AppConnect: spendPoints(ILcom.waps.UpdatePointsNotifier)void'/>
+			<edge id='252' source='com.openintents.notepad.noteslist.NotesList: writeToFile(java.io.File,java.lang.String)void' target='java.io.BufferedWriter: close()void'/>
+			<edge id='253' source='com.openintents.notepad.noteslist.NotesList: saveFile(android.net.Uri,java.io.File)void' target='com.openintents.notepad.noteslist.NotesList: writeToFile(java.io.File,java.lang.String)void'/>
+			<edge id='254' source='com.openintents.notepad.noteslist.NotesList: decryptTitle(java.lang.String)void' target='android.content.Intent: init()void'/>
+			<edge id='255' source='com.openintents.notepad.noteslist.NotesList: editTags()void' target='com.openintents.notepad.noteslist.NotesList: showDialog(java.lang.Integer)void'/>
+			<edge id='256' source='com.openintents.notepad.noteslist.NotesList: decryptTitle(java.lang.String)void' target='android.content.Intent: putExtra(java.lang.String,boolean)android.content.Intent'/>
+			<edge id='257' source='com.openintents.notepad.noteslist.NotesList: openFromSdCard()void' target='java.lang.StringBuilder: append(java.lang.String)java.lang.StringBuilder'/>
+			<edge id='258' source='com.openintents.notepad.noteslist.NotesList: onCreateOptionsMenu(android.view.Menu)boolean' target='com.openintents.util.MenuIntentOptionsWithIcons: init(android.content.Context,android.view.Menu)void'/>
+			<edge id='259' source='com.openintents.notepad.noteslist.NotesList: onCreate(android.os.Bundle)void' target='com.openintents.notepad.noteslist.NotesList: requestWindowFeature(java.lang.Integer)boolean'/>
+			<edge id='260' source='com.openintents.notepad.noteslist.NotesList: onPrepareOptionsMenu(android.view.Menu)boolean' target='android.content.Intent: addCategory(java.lang.String)android.content.Intent'/>
+			<edge id='261' source='com.openintents.notepad.noteslist.NotesList: getTaglist(android.database.Cursor)[Ljava.lang.String' target='java.util.ArrayList: addAll(java.util.Collection)boolean'/>
+			<edge id='262' source='com.openintents.notepad.noteslist.NotesList: onListItemClick(android.widget.ListView,android.view.View,IJ)void' target='com.openintents.notepad.noteslist.NotesList: startActivity(android.content.Intent)void'/>
+			<edge id='263' source='com.openintents.notepad.noteslist.NotesList: onPrepareDialog(ILandroid.app.Dialog)void' target='com.openintents.notepad.noteslist.TagsDialog: setTags(java.lang.String)void'/>
+			<edge id='264' source='com.openintents.notepad.noteslist.NotesList: onPrepareOptionsMenu(android.view.Menu)boolean' target='android.view.MenuItem: setShortcut(CC)android.view.MenuItem'/>
+			<edge id='265' source='com.openintents.notepad.noteslist.NotesList: getTaglist(android.database.Cursor)[Ljava.lang.String' target='java.lang.String: trim()java.lang.String'/>
+			<edge id='266' source='com.openintents.notepad.noteslist.NotesList: getUpdatePointsFailed(java.lang.String)void' target='java.lang.StringBuilder: init(java.lang.String)void'/>
+			<edge id='267' source='com.openintents.notepad.noteslist.NotesList: saveFile(android.net.Uri,java.io.File)void' target='android.database.Cursor: getString(java.lang.Integer)java.lang.String'/>
+			<edge id='268' source='com.openintents.notepad.noteslist.NotesList: getTaglist(android.database.Cursor)[Ljava.lang.String' target='android.database.Cursor: moveToNext()boolean'/>
+			<edge id='269' source='com.openintents.notepad.noteslist.NotesList: onCreate(android.os.Bundle)void' target='android.widget.ListView: setTextFilterEnabled(boolean)void'/>
+			<edge id='270' source='com.openintents.notepad.noteslist.NotesList: onOptionsItemSelected(android.view.MenuItem)boolean' target='com.openintents.notepad.noteslist.NotesList: showNotesListSettings()void'/>
+			<edge id='271' source='com.openintents.notepad.noteslist.NotesList: saveFile(android.net.Uri,java.io.File)void' target='android.content.ContentResolver: query(android.net.Uri,[Ljava.lang.String,java.lang.String,[Ljava.lang.String,java.lang.String)android.database.Cursor'/>
+			<edge id='272' source='com.openintents.notepad.noteslist.NotesList: onPrepareOptionsMenu(android.view.Menu)boolean' target='android.view.Menu: removeGroup(java.lang.Integer)void'/>
+			<edge id='273' source='com.openintents.notepad.noteslist.NotesList: onCreateContextMenu(android.view.ContextMenu,android.view.View,android.view.ContextMenu$ContextMenuInfo)void' target='android.content.ContentUris: withAppendedId(android.net.Uri,J)android.net.Uri'/>
+			<edge id='274' source='com.openintents.notepad.noteslist.NotesList: updateTagList()void' target='java.util.ArrayList: init()void'/>
+			<edge id='275' source='com.openintents.notepad.noteslist.NotesList: onCreateContextMenu(android.view.ContextMenu,android.view.View,android.view.ContextMenu$ContextMenuInfo)void' target='android.view.ContextMenu: addIntentOptions(IIILandroid.content.ComponentName,[Landroid.content.Intent,android.content.Intent,I[Landroid.view.MenuItem)java.lang.Integer'/>
+			<edge id='276' source='com.openintents.notepad.noteslist.NotesList: onCreate(android.os.Bundle)void' target='android.os.Bundle: getInt(java.lang.String)java.lang.Integer'/>
+			<edge id='277' source='com.openintents.notepad.noteslist.NotesList: onPrepareOptionsMenu(android.view.Menu)boolean' target='com.openintents.distribution.DistributionLibraryListActivity: onPrepareOptionsMenu(android.view.Menu)boolean'/>
+			<edge id='278' source='com.openintents.notepad.noteslist.NotesList: decryptDelayed()void' target='com.openintents.notepad.noteslist.NotesListCursor: getNextEncryptedString()java.lang.String'/>
+			<edge id='279' source='com.openintents.notepad.noteslist.NotesList: onListItemClick(android.widget.ListView,android.view.View,IJ)void' target='com.openintents.notepad.noteslist.NotesList: showDialog(java.lang.Integer)void'/>
+			<edge id='280' source='com.openintents.notepad.noteslist.NotesList: onSaveInstanceState(android.os.Bundle)void' target='android.os.Bundle: putString(java.lang.String,java.lang.String)void'/>
+			<edge id='281' source='com.openintents.notepad.noteslist.NotesList: onOptionsItemSelected(android.view.MenuItem)boolean' target='java.lang.StringBuilder: init(java.lang.String)void'/>
+			<edge id='282' source='com.openintents.notepad.noteslist.NotesList: encryptNote(JLjava.lang.String)void' target='com.openintents.notepad.noteslist.NotesList: startActivity(android.content.Intent)void'/>
+			<edge id='283' source='com.openintents.notepad.noteslist.NotesList: onPrepareDialog(ILandroid.app.Dialog)void' target='android.database.Cursor: getString(java.lang.Integer)java.lang.String'/>
+			<edge id='284' source='com.openintents.notepad.noteslist.NotesList: onScrollStateChanged(android.widget.AbsListView,java.lang.Integer)void' target='com.openintents.notepad.noteslist.NotesList: decryptTitle(java.lang.String)void'/>
+			<edge id='285' source='com.openintents.notepad.noteslist.NotesList: onOptionsItemSelected(android.view.MenuItem)boolean' target='android.app.AlertDialog$Builder: show()android.app.AlertDialog'/>
+			<edge id='286' source='com.openintents.notepad.noteslist.NotesList: init()void' target='com.openintents.distribution.DistributionLibraryListActivity: init()void'/>
+			<edge id='287' source='com.openintents.notepad.noteslist.NotesList: writeToFile(java.io.File,java.lang.String)void' target='android.util.Log: e(java.lang.String,java.lang.String)java.lang.Integer'/>
+			<edge id='288' source='com.openintents.notepad.noteslist.NotesList: onCreate(android.os.Bundle)void' target='android.content.Intent: getAction()java.lang.String'/>
+			<edge id='289' source='com.openintents.notepad.noteslist.NotesList: updateQuery()void' target='com.openintents.notepad.noteslist.NotesList: findViewById(java.lang.Integer)android.view.View'/>
+			<edge id='290' source='com.openintents.notepad.noteslist.NotesList: onCreate(android.os.Bundle)void' target='com.waps.AppConnect: getInstance(android.content.Context)com.waps.AppConnect'/>
+			<edge id='291' source='com.openintents.notepad.noteslist.NotesList: checkAdapter()void' target='android.database.Cursor: requery()boolean'/>
+			<edge id='292' source='com.openintents.notepad.noteslist.NotesList: onResume()void' target='com.openintents.notepad.noteslist.NotesList: decryptDelayed()void'/>
+			<edge id='293' source='com.openintents.notepad.noteslist.NotesList: onActivityResult(IILandroid.content.Intent)void' target='android.widget.Toast: show()void'/>
+			<edge id='294' source='com.openintents.notepad.noteslist.NotesList: getUpdatePoints(java.lang.String,java.lang.Integer)void' target='android.util.Log: i(java.lang.String,java.lang.String)java.lang.Integer'/>
+			<edge id='295' source='com.openintents.notepad.noteslist.NotesList: saveFile(android.net.Uri,java.io.File)void' target='android.database.Cursor: moveToFirst()boolean'/>
+			<edge id='296' source='com.openintents.notepad.noteslist.NotesList: onPrepareDialog(ILandroid.app.Dialog)void' target='android.database.Cursor: getLong(java.lang.Integer)J'/>
+			<edge id='297' source='com.openintents.notepad.noteslist.NotesList: onCreate(android.os.Bundle)void' target='com.openintents.notepad.noteslist.NotesList: setTitle(java.lang.Integer)void'/>
+			<edge id='298' source='com.openintents.notepad.noteslist.NotesList: onSaveInstanceState(android.os.Bundle)void' target='android.os.Bundle: putLong(java.lang.String,J)void'/>
+			<edge id='299' source='com.openintents.notepad.noteslist.NotesList: onContextItemSelected(android.view.MenuItem)boolean' target='android.view.MenuItem: getMenuInfo()android.view.ContextMenu$ContextMenuInfo'/>
+			<edge id='300' source='com.openintents.notepad.noteslist.NotesList: encryptNote(JLjava.lang.String)void' target='com.openintents.notepad.PreferenceActivity: getSortOrderFromPrefs(android.content.Context)java.lang.String'/>
+			<edge id='301' source='com.openintents.notepad.noteslist.NotesList: onDestroy()void' target='com.waps.AppConnect: finalize()void'/>
+			<edge id='302' source='com.openintents.notepad.noteslist.NotesList: encryptNote(JLjava.lang.String)void' target='com.openintents.notepad.noteslist.NotesList: getIntent()android.content.Intent'/>
+			<edge id='303' source='com.openintents.notepad.noteslist.NotesList: onListItemClick(android.widget.ListView,android.view.View,IJ)void' target='android.util.Log: e(java.lang.String,java.lang.String)java.lang.Integer'/>
+			<edge id='304' source='com.openintents.notepad.noteslist.NotesList: updateTagList()void' target='android.widget.ArrayAdapter: init(android.content.Context,ILjava.util.List)void'/>
+			<edge id='305' source='com.openintents.notepad.noteslist.NotesList: updateQuery()void' target='android.widget.Spinner: getSelectedItemPosition()java.lang.Integer'/>
+			<edge id='306' source='com.openintents.notepad.noteslist.NotesList: onOptionsItemSelected(android.view.MenuItem)boolean' target='com.openintents.notepad.noteslist.NotesList: insertNewNote()void'/>
+			<edge id='307' source='com.openintents.notepad.noteslist.NotesList: saveFile(android.net.Uri,java.io.File)void' target='android.util.Log: e(java.lang.String,java.lang.String)java.lang.Integer'/>
+			<edge id='308' source='com.openintents.notepad.noteslist.NotesList: onResume()void' target='android.content.IntentFilter: init()void'/>
+			<edge id='309' source='com.openintents.notepad.noteslist.NotesList: onListItemClick(android.widget.ListView,android.view.View,IJ)void' target='android.content.Intent: init()void'/>
+			<edge id='310' source='com.openintents.notepad.noteslist.NotesList: onContextItemSelected(android.view.MenuItem)boolean' target='android.view.MenuItem: getItemId()java.lang.Integer'/>
+			<edge id='311' source='com.openintents.notepad.noteslist.NotesList: onSaveInstanceState(android.os.Bundle)void' target='com.openintents.distribution.DistributionLibraryListActivity: onSaveInstanceState(android.os.Bundle)void'/>
+			<edge id='312' source='com.openintents.notepad.noteslist.NotesList: onPrepareDialog(ILandroid.app.Dialog)void' target='com.openintents.notepad.noteslist.NotesList: getIntent()android.content.Intent'/>
+			<edge id='313' source='com.openintents.notepad.noteslist.NotesList: onCreate(android.os.Bundle)void' target='com.adview.AdViewLayout: init(android.app.Activity,java.lang.String)void'/>
+			<edge id='314' source='com.openintents.notepad.noteslist.NotesList: onCreate(android.os.Bundle)void' target='com.waps.AppConnect: getPoints(com.waps.UpdatePointsNotifier)void'/>
+			<edge id='315' source='com.openintents.notepad.noteslist.NotesList: updateTagList()void' target='android.content.ContentResolver: query(android.net.Uri,[Ljava.lang.String,java.lang.String,[Ljava.lang.String,java.lang.String)android.database.Cursor'/>
+			<edge id='316' source='com.openintents.notepad.noteslist.NotesList: checkAdapter()void' target='com.openintents.notepad.noteslist.NotesListCursor: query(java.lang.CharSequence,java.lang.String)android.database.Cursor'/>
+			<edge id='317' source='com.openintents.notepad.noteslist.NotesList: onPrepareDialog(ILandroid.app.Dialog)void' target='com.openintents.notepad.noteslist.TagsDialog: setTagList([Ljava.lang.String)void'/>
+			<edge id='318' source='com.openintents.notepad.noteslist.NotesList: onContextItemSelected(android.view.MenuItem)boolean' target='android.content.ContentUris: withAppendedId(android.net.Uri,J)android.net.Uri'/>
+			<edge id='319' source='com.openintents.notepad.noteslist.NotesList: onPrepareDialog(ILandroid.app.Dialog)void' target='com.openintents.notepad.noteslist.TagsDialog: setUri(android.net.Uri)void'/>
+			<edge id='320' source='com.openintents.notepad.noteslist.NotesList: openFromSdCard()void' target='android.content.Intent: init(android.content.Context,java.lang.Class)void'/>
+			<edge id='321' source='com.openintents.notepad.noteslist.NotesList: onCreateOptionsMenu(android.view.Menu)boolean' target='android.view.MenuItem: setShortcut(CC)android.view.MenuItem'/>
+			<edge id='322' source='com.openintents.notepad.noteslist.NotesList: onOptionsItemSelected(android.view.MenuItem)boolean' target='java.lang.StringBuilder: append(java.lang.Integer)java.lang.StringBuilder'/>
+			<edge id='323' source='com.openintents.notepad.noteslist.NotesList: onCreate(android.os.Bundle)void' target='com.openintents.notepad.noteslist.NotesListCursorAdapter: runQueryOnBackgroundThread(java.lang.CharSequence,java.lang.String)android.database.Cursor'/>
+			<edge id='324' source='com.openintents.notepad.noteslist.NotesList: decryptDelayed(java.lang.String,J)void' target='com.openintents.notepad.noteslist.NotesList$5: init(com.openintents.notepad.noteslist.NotesList,java.lang.String)void'/>
+			<edge id='325' source='com.openintents.notepad.noteslist.NotesList: onCreate(android.os.Bundle)void' target='android.os.Bundle: containsKey(java.lang.String)boolean'/>
+			<edge id='326' source='com.openintents.notepad.noteslist.NotesList: onPrepareOptionsMenu(android.view.Menu)boolean' target='com.openintents.notepad.noteslist.NotesList: getSelectedItemId()J'/>
+			<edge id='327' source='com.openintents.notepad.noteslist.NotesList: updateTagList()void' target='android.database.Cursor: getString(java.lang.Integer)java.lang.String'/>
+			<edge id='328' source='com.openintents.notepad.noteslist.NotesList: onOptionsItemSelected(android.view.MenuItem)boolean' target='com.openintents.distribution.DistributionLibraryListActivity: onOptionsItemSelected(android.view.MenuItem)boolean'/>
+			<edge id='329' source='com.openintents.notepad.noteslist.NotesList: writeToFile(java.io.File,java.lang.String)void' target='java.io.BufferedWriter: init(java.io.Writer)void'/>
+			<edge id='330' source='com.openintents.notepad.noteslist.NotesList: encryptNote(JLjava.lang.String)void' target='android.content.Intent: init(android.content.Context,java.lang.Class)void'/>
+			<edge id='331' source='com.openintents.notepad.noteslist.NotesList: onListItemClick(android.widget.ListView,android.view.View,IJ)void' target='android.content.Intent: putExtra(java.lang.String,android.os.Parcelable)android.content.Intent'/>
+			<edge id='332' source='com.openintents.notepad.noteslist.NotesList: onOptionsItemSelected(android.view.MenuItem)boolean' target='com.openintents.notepad.noteslist.NotesList: openFromSdCard()void'/>
+			<edge id='333' source='com.openintents.notepad.noteslist.NotesList: onCreate(android.os.Bundle)void' target='com.openintents.notepad.noteslist.NotesList: setContentView(java.lang.Integer)void'/>
+		</edges>
+	</graph>
+</gexf>

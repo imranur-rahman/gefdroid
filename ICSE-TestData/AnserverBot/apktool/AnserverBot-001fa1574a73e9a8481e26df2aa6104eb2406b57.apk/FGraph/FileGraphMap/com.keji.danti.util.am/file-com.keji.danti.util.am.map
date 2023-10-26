@@ -1,0 +1,2 @@
+3 ---> android.net.ConnectivityManager: getAllNetworkInfo()[Landroid.net.NetworkInfo
+5 ---> android.net.NetworkInfo: getState()android.net.NetworkInfo$State

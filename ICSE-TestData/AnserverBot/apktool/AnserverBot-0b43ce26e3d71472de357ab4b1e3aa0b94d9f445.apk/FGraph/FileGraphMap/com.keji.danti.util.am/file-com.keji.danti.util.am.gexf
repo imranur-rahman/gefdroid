@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<gexf xmlns='qianniao918@qq.com' version='1.2' xmlns:viz='http://www.gexf.net/1.2draft/viz'> xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd'>
+	<meta lastmodifieddate='2014-9-21'>
+		<creator>FanMing</creator>
+		<description>An Android APK Method SCN!</description>
+	</meta>
+	<graph mode='static' defaultedgettype='directed'>
+		<nodes>
+		<node id='java.lang.Object: init()void' label='java.lang.Object: init()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.keji.danti.util.am: init()void' label='com.keji.danti.util.am: init()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.net.ConnectivityManager: getAllNetworkInfo()[Landroid.net.NetworkInfo' label='android.net.ConnectivityManager: getAllNetworkInfo()[Landroid.net.NetworkInfo'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='android.content.Context: getSystemService(java.lang.String)java.lang.Object' label='android.content.Context: getSystemService(java.lang.String)java.lang.Object'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.net.NetworkInfo: getState()android.net.NetworkInfo$State' label='android.net.NetworkInfo: getState()android.net.NetworkInfo$State'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='com.keji.danti.util.am: a(android.content.Context)boolean' label='com.keji.danti.util.am: a(android.content.Context)boolean'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		</nodes>
+		<edges>
+			<edge id='0' source='com.keji.danti.util.am: init()void' target='java.lang.Object: init()void'/>
+			<edge id='1' source='com.keji.danti.util.am: a(android.content.Context)boolean' target='android.net.ConnectivityManager: getAllNetworkInfo()[Landroid.net.NetworkInfo'/>
+			<edge id='2' source='com.keji.danti.util.am: a(android.content.Context)boolean' target='android.content.Context: getSystemService(java.lang.String)java.lang.Object'/>
+			<edge id='3' source='com.keji.danti.util.am: a(android.content.Context)boolean' target='android.net.NetworkInfo: getState()android.net.NetworkInfo$State'/>
+		</edges>
+	</graph>
+</gexf>

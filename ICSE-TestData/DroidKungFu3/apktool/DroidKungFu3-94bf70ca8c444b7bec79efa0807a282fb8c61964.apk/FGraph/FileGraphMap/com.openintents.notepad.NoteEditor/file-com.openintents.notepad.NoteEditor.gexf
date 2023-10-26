@@ -1,0 +1,1299 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<gexf xmlns='qianniao918@qq.com' version='1.2' xmlns:viz='http://www.gexf.net/1.2draft/viz'> xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd'>
+	<meta lastmodifieddate='2014-9-21'>
+		<creator>FanMing</creator>
+		<description>An Android APK Method SCN!</description>
+	</meta>
+	<graph mode='static' defaultedgettype='directed'>
+		<nodes>
+		<node id='android.widget.EditText: setTypeface(android.graphics.Typeface)void' label='android.widget.EditText: setTypeface(android.graphics.Typeface)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.NoteEditor: onCreateOptionsMenu(android.view.Menu)boolean' label='com.openintents.notepad.NoteEditor: onCreateOptionsMenu(android.view.Menu)boolean'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.widget.EditText: setAutoLinkMask(java.lang.Integer)void' label='android.widget.EditText: setAutoLinkMask(java.lang.Integer)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.app.AlertDialog$Builder: setPositiveButton(ILandroid.content.DialogInterface$OnClickListener)android.app.AlertDialog$Builder' label='android.app.AlertDialog$Builder: setPositiveButton(ILandroid.content.DialogInterface$OnClickListener)android.app.AlertDialog$Builder'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.io.DataInputStream: close()void' label='java.io.DataInputStream: close()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.NoteEditor$5: init(com.openintents.notepad.NoteEditor)void' label='com.openintents.notepad.NoteEditor$5: init(com.openintents.notepad.NoteEditor)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.content.Intent: init(android.content.Context,java.lang.Class)void' label='android.content.Intent: init(android.content.Context,java.lang.Class)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.os.Bundle: putInt(java.lang.String,java.lang.Integer)void' label='android.os.Bundle: putInt(java.lang.String,java.lang.Integer)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.NoteEditor: getTextSizeLarge(com.openintents.notepad.theme.ThemeAttributes)F' label='com.openintents.notepad.NoteEditor: getTextSizeLarge(com.openintents.notepad.theme.ThemeAttributes)F'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.app.AlertDialog$Builder: init(android.content.Context)void' label='android.app.AlertDialog$Builder: init(android.content.Context)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.widget.EditText: setSelection(II)void' label='android.widget.EditText: setSelection(II)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.Integer: valueOf(java.lang.Integer)java.lang.Integer' label='java.lang.Integer: valueOf(java.lang.Integer)java.lang.Integer'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.graphics.Typeface: create(android.graphics.Typeface,java.lang.Integer)android.graphics.Typeface' label='android.graphics.Typeface: create(android.graphics.Typeface,java.lang.Integer)android.graphics.Typeface'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.crypto.EncryptActivity: cancelEncrypt()void' label='com.openintents.notepad.crypto.EncryptActivity: cancelEncrypt()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.NoteEditor: setContentView(java.lang.Integer)void' label='com.openintents.notepad.NoteEditor: setContentView(java.lang.Integer)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.System: currentTimeMillis()J' label='java.lang.System: currentTimeMillis()J'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.NoteEditor: getTags()java.lang.String' label='com.openintents.notepad.NoteEditor: getTags()java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.NoteEditor: getResources()android.content.res.Resources' label='com.openintents.notepad.NoteEditor: getResources()android.content.res.Resources'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.io.BufferedInputStream: init(java.io.InputStream)void' label='java.io.BufferedInputStream: init(java.io.InputStream)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.widget.EditText: setTransformationMethod(android.text.method.TransformationMethod)void' label='android.widget.EditText: setTransformationMethod(android.text.method.TransformationMethod)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.widget.EditText: setBackgroundResource(java.lang.Integer)void' label='android.widget.EditText: setBackgroundResource(java.lang.Integer)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.NoteEditor: setLocalStyle(II)void' label='com.openintents.notepad.NoteEditor: setLocalStyle(II)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.view.MenuItem: setIcon(java.lang.Integer)android.view.MenuItem' label='android.view.MenuItem: setIcon(java.lang.Integer)android.view.MenuItem'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.NoteEditor: getIntent()android.content.Intent' label='com.openintents.notepad.NoteEditor: getIntent()android.content.Intent'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.view.MenuItem: getItemId()java.lang.Integer' label='android.view.MenuItem: getItemId()java.lang.Integer'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.NoteEditor: findViewById(java.lang.Integer)android.view.View' label='com.openintents.notepad.NoteEditor: findViewById(java.lang.Integer)android.view.View'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.content.res.Resources: getAssets()android.content.res.AssetManager' label='android.content.res.Resources: getAssets()android.content.res.AssetManager'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.content.Intent: putExtra(java.lang.String,boolean)android.content.Intent' label='android.content.Intent: putExtra(java.lang.String,boolean)android.content.Intent'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.NoteEditor: onLoadTheme()java.lang.String' label='com.openintents.notepad.NoteEditor: onLoadTheme()java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.net.Uri: getScheme()java.lang.String' label='android.net.Uri: getScheme()java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.graphics.Typeface: createFromAsset(android.content.res.AssetManager,java.lang.String)android.graphics.Typeface' label='android.graphics.Typeface: createFromAsset(android.content.res.AssetManager,java.lang.String)android.graphics.Typeface'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.NoteEditor: access$2(com.openintents.notepad.NoteEditor)void' label='com.openintents.notepad.NoteEditor: access$2(com.openintents.notepad.NoteEditor)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.NoteEditor: addContentView(android.view.View,android.view.ViewGroup$LayoutParams)void' label='com.openintents.notepad.NoteEditor: addContentView(android.view.View,android.view.ViewGroup$LayoutParams)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.io.DataInputStream: available()java.lang.Integer' label='java.io.DataInputStream: available()java.lang.Integer'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.view.Menu: add(IIII)android.view.MenuItem' label='android.view.Menu: add(IIII)android.view.MenuItem'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.widget.EditText: invalidate()void' label='android.widget.EditText: invalidate()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.NoteEditor: getText(java.lang.Integer)java.lang.CharSequence' label='com.openintents.notepad.NoteEditor: getText(java.lang.Integer)java.lang.CharSequence'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.widget.EditText: setPadding(IIII)void' label='android.widget.EditText: setPadding(IIII)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.content.Intent: getAction()java.lang.String' label='android.content.Intent: getAction()java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.NoteEditor: onSetTheme(java.lang.String)void' label='com.openintents.notepad.NoteEditor: onSetTheme(java.lang.String)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.NoteEditor: getTextSizeSmall(com.openintents.notepad.theme.ThemeAttributes)F' label='com.openintents.notepad.NoteEditor: getTextSizeSmall(com.openintents.notepad.theme.ThemeAttributes)F'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.NoteEditor: createPackageContext(java.lang.String,java.lang.Integer)android.content.Context' label='com.openintents.notepad.NoteEditor: createPackageContext(java.lang.String,java.lang.Integer)android.content.Context'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.database.Cursor: moveToFirst()boolean' label='android.database.Cursor: moveToFirst()boolean'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.content.ContentValues: put(java.lang.String,java.lang.Long)void' label='android.content.ContentValues: put(java.lang.String,java.lang.Long)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.widget.EditText: setTextColor(java.lang.Integer)void' label='android.widget.EditText: setTextColor(java.lang.Integer)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.widget.Toast: makeText(android.content.Context,II)android.widget.Toast' label='android.widget.Toast: makeText(android.content.Context,II)android.widget.Toast'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.content.ContentResolver: update(android.net.Uri,android.content.ContentValues,java.lang.String,[Ljava.lang.String)java.lang.Integer' label='android.content.ContentResolver: update(android.net.Uri,android.content.ContentValues,java.lang.String,[Ljava.lang.String)java.lang.Integer'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.NoteEditor: getTextSizeMedium(com.openintents.notepad.theme.ThemeAttributes)F' label='com.openintents.notepad.NoteEditor: getTextSizeMedium(com.openintents.notepad.theme.ThemeAttributes)F'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.StringBuffer: toString()java.lang.String' label='java.lang.StringBuffer: toString()java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.app.Activity: onPrepareOptionsMenu(android.view.Menu)boolean' label='android.app.Activity: onPrepareOptionsMenu(android.view.Menu)boolean'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.content.Intent: init(android.content.Intent)void' label='android.content.Intent: init(android.content.Intent)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.NoteEditor: getNoteFromFile()void' label='com.openintents.notepad.NoteEditor: getNoteFromFile()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.widget.EditText: setBackgroundDrawable(android.graphics.drawable.Drawable)void' label='android.widget.EditText: setBackgroundDrawable(android.graphics.drawable.Drawable)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.content.pm.PackageManager: getResourcesForApplication(java.lang.String)android.content.res.Resources' label='android.content.pm.PackageManager: getResourcesForApplication(java.lang.String)android.content.res.Resources'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.util.MenuIntentOptionsWithIcons: addIntentOptions(IIILandroid.content.ComponentName,[Landroid.content.Intent,android.content.Intent,I[Landroid.view.MenuItem)java.lang.Integer' label='com.openintents.util.MenuIntentOptionsWithIcons: addIntentOptions(IIILandroid.content.ComponentName,[Landroid.content.Intent,android.content.Intent,I[Landroid.view.MenuItem)java.lang.Integer'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.NoteEditor$2: init(com.openintents.notepad.NoteEditor)void' label='com.openintents.notepad.NoteEditor$2: init(com.openintents.notepad.NoteEditor)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.database.Cursor: getString(java.lang.Integer)java.lang.String' label='android.database.Cursor: getString(java.lang.Integer)java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.app.AlertDialog$Builder: setTitle(java.lang.Integer)android.app.AlertDialog$Builder' label='android.app.AlertDialog$Builder: setTitle(java.lang.Integer)android.app.AlertDialog$Builder'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.NoteEditor: getContentResolver()android.content.ContentResolver' label='com.openintents.notepad.NoteEditor: getContentResolver()android.content.ContentResolver'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.widget.LinearLayout: init(android.content.Context)void' label='android.widget.LinearLayout: init(android.content.Context)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.content.Context: getResources()android.content.res.Resources' label='android.content.Context: getResources()android.content.res.Resources'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.NoteEditor: onSaveTheme(java.lang.String)void' label='com.openintents.notepad.NoteEditor: onSaveTheme(java.lang.String)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.NoteEditor: saveAsNote()void' label='com.openintents.notepad.NoteEditor: saveAsNote()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.net.Uri: toString()java.lang.String' label='android.net.Uri: toString()java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.NoteEditor: applyTheme()void' label='com.openintents.notepad.NoteEditor: applyTheme()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.app.Activity: onPause()void' label='android.app.Activity: onPause()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.content.ContentResolver: insert(android.net.Uri,android.content.ContentValues)android.net.Uri' label='android.content.ContentResolver: insert(android.net.Uri,android.content.ContentValues)android.net.Uri'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.database.Cursor: getLong(java.lang.Integer)J' label='android.database.Cursor: getLong(java.lang.Integer)J'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.theme.ThemeAttributes: getResourceId(java.lang.String,java.lang.Integer)java.lang.Integer' label='com.openintents.notepad.theme.ThemeAttributes: getResourceId(java.lang.String,java.lang.Integer)java.lang.Integer'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.app.AlertDialog$Builder: setMessage(java.lang.Integer)android.app.AlertDialog$Builder' label='android.app.AlertDialog$Builder: setMessage(java.lang.Integer)android.app.AlertDialog$Builder'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.NoteEditor: startTextSelectionActivity(android.content.Intent)void' label='com.openintents.notepad.NoteEditor: startTextSelectionActivity(android.content.Intent)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.NoteEditor: getMostRecentlyUsedTheme()java.lang.String' label='com.openintents.notepad.NoteEditor: getMostRecentlyUsedTheme()java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.view.Menu: findItem(java.lang.Integer)android.view.MenuItem' label='android.view.Menu: findItem(java.lang.Integer)android.view.MenuItem'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.NoteEditor: managedQuery(android.net.Uri,[Ljava.lang.String,java.lang.String,[Ljava.lang.String,java.lang.String)android.database.Cursor' label='com.openintents.notepad.NoteEditor: managedQuery(android.net.Uri,[Ljava.lang.String,java.lang.String,[Ljava.lang.String,java.lang.String)android.database.Cursor'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.content.Intent: getLongExtra(java.lang.String,J)J' label='android.content.Intent: getLongExtra(java.lang.String,J)J'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.widget.EditText: setText(java.lang.CharSequence)void' label='android.widget.EditText: setText(java.lang.CharSequence)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.content.ComponentName: init(android.content.Context,java.lang.Class)void' label='android.content.ComponentName: init(android.content.Context,java.lang.Class)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.widget.EditText: setTextSize(F)void' label='android.widget.EditText: setTextSize(F)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.util.FileUriUtils: getFile(android.net.Uri)java.io.File' label='com.openintents.notepad.util.FileUriUtils: getFile(android.net.Uri)java.io.File'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.String: equals(java.lang.Object)boolean' label='java.lang.String: equals(java.lang.Object)boolean'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.view.Menu: setGroupVisible(IZ)void' label='android.view.Menu: setGroupVisible(IZ)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.NoteEditor: setTheme(java.lang.String)void' label='com.openintents.notepad.NoteEditor: setTheme(java.lang.String)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.util.ExtractTitle: extractTitle(java.lang.String)java.lang.String' label='com.openintents.notepad.util.ExtractTitle: extractTitle(java.lang.String)java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.content.Intent: addCategory(java.lang.String)android.content.Intent' label='android.content.Intent: addCategory(java.lang.String)android.content.Intent'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.theme.ThemeAttributes: getDimensionPixelOffset(java.lang.String,java.lang.Integer)java.lang.Integer' label='com.openintents.notepad.theme.ThemeAttributes: getDimensionPixelOffset(java.lang.String,java.lang.Integer)java.lang.Integer'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.crypto.EncryptActivity: getCryptoStringArray(java.lang.String,java.lang.String,java.lang.String)[Ljava.lang.String' label='com.openintents.notepad.crypto.EncryptActivity: getCryptoStringArray(java.lang.String,java.lang.String,java.lang.String)[Ljava.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.NoteEditor: onActivityResult(IILandroid.content.Intent)void' label='com.openintents.notepad.NoteEditor: onActivityResult(IILandroid.content.Intent)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.util.FileUriUtils: getFilename(android.net.Uri)java.lang.String' label='com.openintents.notepad.util.FileUriUtils: getFilename(android.net.Uri)java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.NoteEditor: unencryptNote()void' label='com.openintents.notepad.NoteEditor: unencryptNote()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.app.AlertDialog$Builder: setNegativeButton(ILandroid.content.DialogInterface$OnClickListener)android.app.AlertDialog$Builder' label='android.app.AlertDialog$Builder: setNegativeButton(ILandroid.content.DialogInterface$OnClickListener)android.app.AlertDialog$Builder'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.os.Bundle: putString(java.lang.String,java.lang.String)void' label='android.os.Bundle: putString(java.lang.String,java.lang.String)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.StringBuffer: append(java.lang.String)java.lang.StringBuffer' label='java.lang.StringBuffer: append(java.lang.String)java.lang.StringBuffer'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.NoteEditor: setThemeSettings()void' label='com.openintents.notepad.NoteEditor: setThemeSettings()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.adview.AdViewLayout: init(android.app.Activity,java.lang.String)void' label='com.adview.AdViewLayout: init(android.app.Activity,java.lang.String)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.StringBuffer: init()void' label='java.lang.StringBuffer: init()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.io.FileInputStream: close()void' label='java.io.FileInputStream: close()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.content.ContentValues: put(java.lang.String,java.lang.Integer)void' label='android.content.ContentValues: put(java.lang.String,java.lang.Integer)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.content.Intent: putExtra(java.lang.String,[Ljava.lang.String)android.content.Intent' label='android.content.Intent: putExtra(java.lang.String,[Ljava.lang.String)android.content.Intent'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.NoteEditor: setResult(ILandroid.content.Intent)void' label='com.openintents.notepad.NoteEditor: setResult(ILandroid.content.Intent)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.NoteEditor: init()void' label='com.openintents.notepad.NoteEditor: init()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.NoteEditor: setResult(java.lang.Integer)void' label='com.openintents.notepad.NoteEditor: setResult(java.lang.Integer)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.NoteEditor: setTitle(java.lang.CharSequence)void' label='com.openintents.notepad.NoteEditor: setTitle(java.lang.CharSequence)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.NoteEditor$3: init(com.openintents.notepad.NoteEditor)void' label='com.openintents.notepad.NoteEditor$3: init(com.openintents.notepad.NoteEditor)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.content.ContentValues: init(java.lang.Integer)void' label='android.content.ContentValues: init(java.lang.Integer)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.content.res.Resources: getDrawable(java.lang.Integer)android.graphics.drawable.Drawable' label='android.content.res.Resources: getDrawable(java.lang.Integer)android.graphics.drawable.Drawable'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.activity.SaveFileActivity: writeToFile(android.content.Context,java.io.File,java.lang.String)void' label='com.openintents.notepad.activity.SaveFileActivity: writeToFile(android.content.Context,java.io.File,java.lang.String)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.NoteEditor: setRemoteStyle(java.lang.String,java.lang.Integer)boolean' label='com.openintents.notepad.NoteEditor: setRemoteStyle(java.lang.String,java.lang.Integer)boolean'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.widget.EditText: getSelectionEnd()java.lang.Integer' label='android.widget.EditText: getSelectionEnd()java.lang.Integer'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.util.Log: e(java.lang.String,java.lang.String,java.lang.Throwable)java.lang.Integer' label='android.util.Log: e(java.lang.String,java.lang.String,java.lang.Throwable)java.lang.Integer'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='android.content.Intent: getStringExtra(java.lang.String)java.lang.String' label='android.content.Intent: getStringExtra(java.lang.String)java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.NoteEditor: encryptNote(boolean)void' label='com.openintents.notepad.NoteEditor: encryptNote(boolean)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.PreferenceActivity: getFontSizeFromPrefs(android.content.Context)java.lang.Integer' label='com.openintents.notepad.PreferenceActivity: getFontSizeFromPrefs(android.content.Context)java.lang.Integer'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.StringBuilder: init(java.lang.String)void' label='java.lang.StringBuilder: init(java.lang.String)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.NoteEditor: deleteStaticDecryptedText()void' label='com.openintents.notepad.NoteEditor: deleteStaticDecryptedText()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.content.Intent: putExtra(java.lang.String,J)android.content.Intent' label='android.content.Intent: putExtra(java.lang.String,J)android.content.Intent'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.NoteEditor: onResume()void' label='com.openintents.notepad.NoteEditor: onResume()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.app.Activity: onResume()void' label='android.app.Activity: onResume()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.StringBuilder: append(java.lang.String)java.lang.StringBuilder' label='java.lang.StringBuilder: append(java.lang.String)java.lang.StringBuilder'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.NoteEditor: setIntent(android.content.Intent)void' label='com.openintents.notepad.NoteEditor: setIntent(android.content.Intent)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.content.Intent: setType(java.lang.String)android.content.Intent' label='android.content.Intent: setType(java.lang.String)android.content.Intent'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.NoteEditor: saveTheme(java.lang.String)void' label='com.openintents.notepad.NoteEditor: saveTheme(java.lang.String)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.util.Log: e(java.lang.String,java.lang.String)java.lang.Integer' label='android.util.Log: e(java.lang.String,java.lang.String)java.lang.Integer'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='android.net.Uri: parse(java.lang.String)android.net.Uri' label='android.net.Uri: parse(java.lang.String)android.net.Uri'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.NoteEditor: setFeatureDrawable(ILandroid.graphics.drawable.Drawable)void' label='com.openintents.notepad.NoteEditor: setFeatureDrawable(ILandroid.graphics.drawable.Drawable)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.NoteEditor: applyInsertText()void' label='com.openintents.notepad.NoteEditor: applyInsertText()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.NoteEditor: getTextSizeTiny(com.openintents.notepad.theme.ThemeAttributes)F' label='com.openintents.notepad.NoteEditor: getTextSizeTiny(com.openintents.notepad.theme.ThemeAttributes)F'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.NoteEditor$4: init(com.openintents.notepad.NoteEditor)void' label='com.openintents.notepad.NoteEditor$4: init(com.openintents.notepad.NoteEditor)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.widget.Toast: show()void' label='android.widget.Toast: show()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.app.Activity: onCreateOptionsMenu(android.view.Menu)boolean' label='android.app.Activity: onCreateOptionsMenu(android.view.Menu)boolean'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.app.AlertDialog$Builder: create()android.app.AlertDialog' label='android.app.AlertDialog$Builder: create()android.app.AlertDialog'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.crypto.EncryptActivity: getPendingEncryptActivities()java.lang.Integer' label='com.openintents.notepad.crypto.EncryptActivity: getPendingEncryptActivities()java.lang.Integer'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.content.ContentValues: init()void' label='android.content.ContentValues: init()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.NoteEditor: showNotesListSettings()void' label='com.openintents.notepad.NoteEditor: showNotesListSettings()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.content.Intent: setData(android.net.Uri)android.content.Intent' label='android.content.Intent: setData(android.net.Uri)android.content.Intent'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.NoteEditor: showDialog(java.lang.Integer)void' label='com.openintents.notepad.NoteEditor: showDialog(java.lang.Integer)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.widget.LinearLayout: addView(android.view.View,android.view.ViewGroup$LayoutParams)void' label='android.widget.LinearLayout: addView(android.view.View,android.view.ViewGroup$LayoutParams)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.PreferenceActivity: getAutoLinkFromPreference(android.content.Context)java.lang.Integer' label='com.openintents.notepad.PreferenceActivity: getAutoLinkFromPreference(android.content.Context)java.lang.Integer'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.NoteEditor$1: init(com.openintents.notepad.NoteEditor)void' label='com.openintents.notepad.NoteEditor$1: init(com.openintents.notepad.NoteEditor)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.widget.EditText: setMovementMethod(android.text.method.MovementMethod)void' label='android.widget.EditText: setMovementMethod(android.text.method.MovementMethod)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.content.ContentResolver: delete(android.net.Uri,java.lang.String,[Ljava.lang.String)java.lang.Integer' label='android.content.ContentResolver: delete(android.net.Uri,java.lang.String,[Ljava.lang.String)java.lang.Integer'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.NoteEditor: deleteNote()void' label='com.openintents.notepad.NoteEditor: deleteNote()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.app.Activity: onKeyDown(ILandroid.view.KeyEvent)boolean' label='android.app.Activity: onKeyDown(ILandroid.view.KeyEvent)boolean'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.crypto.EncryptActivity: confirmEncryptActivityCalled()void' label='com.openintents.notepad.crypto.EncryptActivity: confirmEncryptActivityCalled()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.app.AlertDialog$Builder: setIcon(java.lang.Integer)android.app.AlertDialog$Builder' label='android.app.AlertDialog$Builder: setIcon(java.lang.Integer)android.app.AlertDialog$Builder'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.NoteEditor: updateTitleSdCard()void' label='com.openintents.notepad.NoteEditor: updateTitleSdCard()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.content.res.Resources: getIdentifier(java.lang.String,java.lang.String,java.lang.String)java.lang.Integer' label='android.content.res.Resources: getIdentifier(java.lang.String,java.lang.String,java.lang.String)java.lang.Integer'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.util.MenuIntentOptionsWithIcons: init(android.content.Context,android.view.Menu)void' label='com.openintents.util.MenuIntentOptionsWithIcons: init(android.content.Context,android.view.Menu)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.widget.Toast: makeText(android.content.Context,java.lang.CharSequence,java.lang.Integer)android.widget.Toast' label='android.widget.Toast: makeText(android.content.Context,java.lang.CharSequence,java.lang.Integer)android.widget.Toast'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.io.FileInputStream: init(java.io.File)void' label='java.io.FileInputStream: init(java.io.File)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.NoteEditor: revertNote()void' label='com.openintents.notepad.NoteEditor: revertNote()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.content.Intent: putExtra(java.lang.String,java.lang.String)android.content.Intent' label='android.content.Intent: putExtra(java.lang.String,java.lang.String)android.content.Intent'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.theme.ThemeAttributes: getString(java.lang.String)java.lang.String' label='com.openintents.notepad.theme.ThemeAttributes: getString(java.lang.String)java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.NoteEditor: getNoteFromContentProvider()void' label='com.openintents.notepad.NoteEditor: getNoteFromContentProvider()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.database.Cursor: close()void' label='android.database.Cursor: close()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.NoteEditor: getUnsavedChangesWarningDialog()android.app.Dialog' label='com.openintents.notepad.NoteEditor: getUnsavedChangesWarningDialog()android.app.Dialog'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.NoteEditor: onSaveInstanceState(android.os.Bundle)void' label='com.openintents.notepad.NoteEditor: onSaveInstanceState(android.os.Bundle)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.content.ContentUris: withAppendedId(android.net.Uri,J)android.net.Uri' label='android.content.ContentUris: withAppendedId(android.net.Uri,J)android.net.Uri'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.NoteEditor: isNoteUnencrypted()boolean' label='com.openintents.notepad.NoteEditor: isNoteUnencrypted()boolean'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.widget.EditText: setTextKeepState(java.lang.CharSequence)void' label='android.widget.EditText: setTextKeepState(java.lang.CharSequence)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.content.Intent: init(java.lang.String,android.net.Uri)void' label='android.content.Intent: init(java.lang.String,android.net.Uri)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.widget.LinearLayout$LayoutParams: init(II)void' label='android.widget.LinearLayout$LayoutParams: init(II)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.content.res.Resources: getResourceName(java.lang.Integer)java.lang.String' label='android.content.res.Resources: getResourceName(java.lang.Integer)java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.String: valueOf(java.lang.Object)java.lang.String' label='java.lang.String: valueOf(java.lang.Object)java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.widget.LinearLayout: setGravity(java.lang.Integer)void' label='android.widget.LinearLayout: setGravity(java.lang.Integer)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.content.res.Resources: getDisplayMetrics()android.util.DisplayMetrics' label='android.content.res.Resources: getDisplayMetrics()android.util.DisplayMetrics'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.widget.EditText: getText()android.text.Editable' label='android.widget.EditText: getText()android.text.Editable'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.NoteEditor: requestWindowFeature(java.lang.Integer)boolean' label='com.openintents.notepad.NoteEditor: requestWindowFeature(java.lang.Integer)boolean'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.String: substring(II)java.lang.String' label='java.lang.String: substring(II)java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.NoteEditor: insertAtPoint(java.lang.String,java.lang.String,java.lang.String)void' label='com.openintents.notepad.NoteEditor: insertAtPoint(java.lang.String,java.lang.String,java.lang.String)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.content.ContentResolver: query(android.net.Uri,[Ljava.lang.String,java.lang.String,[Ljava.lang.String,java.lang.String)android.database.Cursor' label='android.content.ContentResolver: query(android.net.Uri,[Ljava.lang.String,java.lang.String,[Ljava.lang.String,java.lang.String)android.database.Cursor'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.theme.ThemeAttributes: init(android.content.Context,java.lang.String,java.lang.Integer)void' label='com.openintents.notepad.theme.ThemeAttributes: init(android.content.Context,java.lang.String,java.lang.Integer)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.NoteEditor: readFile(java.io.File)java.lang.String' label='com.openintents.notepad.NoteEditor: readFile(java.io.File)java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.NoteEditor: getPackageManager()android.content.pm.PackageManager' label='com.openintents.notepad.NoteEditor: getPackageManager()android.content.pm.PackageManager'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.Long: valueOf(J)java.lang.Long' label='java.lang.Long: valueOf(J)java.lang.Long'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.NoteEditor: onOptionsItemSelected(android.view.MenuItem)boolean' label='com.openintents.notepad.NoteEditor: onOptionsItemSelected(android.view.MenuItem)boolean'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.NoteEditor: saveNote()void' label='com.openintents.notepad.NoteEditor: saveNote()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.NoteEditor: importNote()void' label='com.openintents.notepad.NoteEditor: importNote()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.content.Intent: getData()android.net.Uri' label='android.content.Intent: getData()android.net.Uri'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.app.AlertDialog$Builder: setNeutralButton(ILandroid.content.DialogInterface$OnClickListener)android.app.AlertDialog$Builder' label='android.app.AlertDialog$Builder: setNeutralButton(ILandroid.content.DialogInterface$OnClickListener)android.app.AlertDialog$Builder'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.NoteEditor: setFeatureDrawableResource(II)void' label='com.openintents.notepad.NoteEditor: setFeatureDrawableResource(II)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.app.Activity: init()void' label='android.app.Activity: init()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.NoteEditor: setThemeForAll(android.content.Context,java.lang.String)void' label='com.openintents.notepad.NoteEditor: setThemeForAll(android.content.Context,java.lang.String)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.theme.ThemeUtils: getPackageNameFromStyle(java.lang.String)java.lang.String' label='com.openintents.notepad.theme.ThemeUtils: getPackageNameFromStyle(java.lang.String)java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.view.MenuItem: getGroupId()java.lang.Integer' label='android.view.MenuItem: getGroupId()java.lang.Integer'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.NoteEditor: onSetThemeForAll(java.lang.String)void' label='com.openintents.notepad.NoteEditor: onSetThemeForAll(java.lang.String)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.NoteEditor: onKeyDown(ILandroid.view.KeyEvent)boolean' label='com.openintents.notepad.NoteEditor: onKeyDown(ILandroid.view.KeyEvent)boolean'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.String: substring(java.lang.Integer)java.lang.String' label='java.lang.String: substring(java.lang.Integer)java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.text.TextUtils: isEmpty(java.lang.CharSequence)boolean' label='android.text.TextUtils: isEmpty(java.lang.CharSequence)boolean'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.view.MenuItem: getIntent()android.content.Intent' label='android.view.MenuItem: getIntent()android.content.Intent'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.text.Editable: toString()java.lang.String' label='android.text.Editable: toString()java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.NoteEditor: isFinishing()boolean' label='com.openintents.notepad.NoteEditor: isFinishing()boolean'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.io.DataInputStream: init(java.io.InputStream)void' label='java.io.DataInputStream: init(java.io.InputStream)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.content.Intent: init()void' label='android.content.Intent: init()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.app.Activity: onCreate(android.os.Bundle)void' label='android.app.Activity: onCreate(android.os.Bundle)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.theme.ThemeAttributes: getInteger(java.lang.String,java.lang.Integer)java.lang.Integer' label='com.openintents.notepad.theme.ThemeAttributes: getInteger(java.lang.String,java.lang.Integer)java.lang.Integer'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.content.Intent: addFlags(java.lang.Integer)android.content.Intent' label='android.content.Intent: addFlags(java.lang.Integer)android.content.Intent'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.content.Intent: setAction(java.lang.String)android.content.Intent' label='android.content.Intent: setAction(java.lang.String)android.content.Intent'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.NoteEditor: access$0(com.openintents.notepad.NoteEditor,java.lang.String)void' label='com.openintents.notepad.NoteEditor: access$0(com.openintents.notepad.NoteEditor,java.lang.String)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.NoteEditor: finish()void' label='com.openintents.notepad.NoteEditor: finish()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.io.BufferedInputStream: close()void' label='java.io.BufferedInputStream: close()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.database.Cursor: requery()boolean' label='android.database.Cursor: requery()boolean'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.io.DataInputStream: readLine()java.lang.String' label='java.io.DataInputStream: readLine()java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.NoteEditor: loadTheme()java.lang.String' label='com.openintents.notepad.NoteEditor: loadTheme()java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.NoteEditor: startActivity(android.content.Intent)void' label='com.openintents.notepad.NoteEditor: startActivity(android.content.Intent)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.theme.ThemeAttributes: getColor(java.lang.String,java.lang.Integer)java.lang.Integer' label='com.openintents.notepad.theme.ThemeAttributes: getColor(java.lang.String,java.lang.Integer)java.lang.Integer'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.content.ContentValues: put(java.lang.String,java.lang.String)void' label='android.content.ContentValues: put(java.lang.String,java.lang.String)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.theme.ThemeAttributes: getBoolean(java.lang.String,boolean)boolean' label='com.openintents.notepad.theme.ThemeAttributes: getBoolean(java.lang.String,boolean)boolean'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.os.Bundle: getString(java.lang.String)java.lang.String' label='android.os.Bundle: getString(java.lang.String)java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.NoteEditor: startActivityForResult(android.content.Intent,java.lang.Integer)void' label='com.openintents.notepad.NoteEditor: startActivityForResult(android.content.Intent,java.lang.Integer)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.util.UpperCaseTransformationMethod: getInstance()com.openintents.util.UpperCaseTransformationMethod' label='com.openintents.util.UpperCaseTransformationMethod: getInstance()com.openintents.util.UpperCaseTransformationMethod'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.StringBuilder: append(java.lang.Object)java.lang.StringBuilder' label='java.lang.StringBuilder: append(java.lang.Object)java.lang.StringBuilder'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.widget.RelativeLayout$LayoutParams: init(II)void' label='android.widget.RelativeLayout$LayoutParams: init(II)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.widget.LinearLayout: invalidate()void' label='android.widget.LinearLayout: invalidate()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.view.MenuItem: setShortcut(CC)android.view.MenuItem' label='android.view.MenuItem: setShortcut(CC)android.view.MenuItem'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.StringBuilder: toString()java.lang.String' label='java.lang.StringBuilder: toString()java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.NoteEditor: onCreateDialog(java.lang.Integer)android.app.Dialog' label='com.openintents.notepad.NoteEditor: onCreateDialog(java.lang.Integer)android.app.Dialog'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.os.Bundle: getInt(java.lang.String)java.lang.Integer' label='android.os.Bundle: getInt(java.lang.String)java.lang.Integer'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.NoteEditor: access$1(com.openintents.notepad.NoteEditor)void' label='com.openintents.notepad.NoteEditor: access$1(com.openintents.notepad.NoteEditor)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.app.Activity: onOptionsItemSelected(android.view.MenuItem)boolean' label='android.app.Activity: onOptionsItemSelected(android.view.MenuItem)boolean'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.NoteEditor: onCreate(android.os.Bundle)void' label='com.openintents.notepad.NoteEditor: onCreate(android.os.Bundle)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.widget.EditText: addTextChangedListener(android.text.TextWatcher)void' label='android.widget.EditText: addTextChangedListener(android.text.TextWatcher)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.NoteEditor: onPause()void' label='com.openintents.notepad.NoteEditor: onPause()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.String: length()java.lang.Integer' label='java.lang.String: length()java.lang.Integer'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.dialog.ThemeDialog: init(android.content.Context,com.openintents.notepad.dialog.ThemeDialog$ThemeDialogListener)void' label='com.openintents.notepad.dialog.ThemeDialog: init(android.content.Context,com.openintents.notepad.dialog.ThemeDialog$ThemeDialogListener)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.content.Context: getContentResolver()android.content.ContentResolver' label='android.content.Context: getContentResolver()android.content.ContentResolver'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.NoteEditor: onPrepareOptionsMenu(android.view.Menu)boolean' label='com.openintents.notepad.NoteEditor: onPrepareOptionsMenu(android.view.Menu)boolean'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.view.MenuItem: setEnabled(boolean)android.view.MenuItem' label='android.view.MenuItem: setEnabled(boolean)android.view.MenuItem'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.widget.EditText: getSelectionStart()java.lang.Integer' label='android.widget.EditText: getSelectionStart()java.lang.Integer'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.widget.EditText: setText(java.lang.Integer)void' label='android.widget.EditText: setText(java.lang.Integer)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		</nodes>
+		<edges>
+			<edge id='0' source='com.openintents.notepad.NoteEditor: onCreate(android.os.Bundle)void' target='android.util.Log: e(java.lang.String,java.lang.String)java.lang.Integer'/>
+			<edge id='1' source='com.openintents.notepad.NoteEditor: onOptionsItemSelected(android.view.MenuItem)boolean' target='com.openintents.notepad.NoteEditor: saveAsNote()void'/>
+			<edge id='2' source='com.openintents.notepad.NoteEditor: getTextSizeTiny(com.openintents.notepad.theme.ThemeAttributes)F' target='com.openintents.notepad.theme.ThemeAttributes: getDimensionPixelOffset(java.lang.String,java.lang.Integer)java.lang.Integer'/>
+			<edge id='3' source='com.openintents.notepad.NoteEditor: onCreate(android.os.Bundle)void' target='android.content.Intent: getAction()java.lang.String'/>
+			<edge id='4' source='com.openintents.notepad.NoteEditor: importNote()void' target='android.database.Cursor: moveToFirst()boolean'/>
+			<edge id='5' source='com.openintents.notepad.NoteEditor: setRemoteStyle(java.lang.String,java.lang.Integer)boolean' target='android.graphics.Typeface: create(android.graphics.Typeface,java.lang.Integer)android.graphics.Typeface'/>
+			<edge id='6' source='com.openintents.notepad.NoteEditor: onPrepareOptionsMenu(android.view.Menu)boolean' target='java.lang.String: equals(java.lang.Object)boolean'/>
+			<edge id='7' source='com.openintents.notepad.NoteEditor: importNote()void' target='android.content.Intent: addFlags(java.lang.Integer)android.content.Intent'/>
+			<edge id='8' source='com.openintents.notepad.NoteEditor: unencryptNote()void' target='android.content.Intent: init(android.content.Context,java.lang.Class)void'/>
+			<edge id='9' source='com.openintents.notepad.NoteEditor: encryptNote(boolean)void' target='com.openintents.notepad.NoteEditor: startActivity(android.content.Intent)void'/>
+			<edge id='10' source='com.openintents.notepad.NoteEditor: onPause()void' target='com.openintents.notepad.util.ExtractTitle: extractTitle(java.lang.String)java.lang.String'/>
+			<edge id='11' source='com.openintents.notepad.NoteEditor: getTextSizeTiny(com.openintents.notepad.theme.ThemeAttributes)F' target='com.openintents.notepad.NoteEditor: getTextSizeSmall(com.openintents.notepad.theme.ThemeAttributes)F'/>
+			<edge id='12' source='com.openintents.notepad.NoteEditor: insertAtPoint(java.lang.String,java.lang.String,java.lang.String)void' target='android.widget.EditText: getSelectionStart()java.lang.Integer'/>
+			<edge id='13' source='com.openintents.notepad.NoteEditor: onCreate(android.os.Bundle)void' target='com.openintents.notepad.NoteEditor: setContentView(java.lang.Integer)void'/>
+			<edge id='14' source='com.openintents.notepad.NoteEditor: setTheme(java.lang.String)void' target='com.openintents.notepad.PreferenceActivity: getFontSizeFromPrefs(android.content.Context)java.lang.Integer'/>
+			<edge id='15' source='com.openintents.notepad.NoteEditor: setRemoteStyle(java.lang.String,java.lang.Integer)boolean' target='android.widget.EditText: setPadding(IIII)void'/>
+			<edge id='16' source='com.openintents.notepad.NoteEditor: setRemoteStyle(java.lang.String,java.lang.Integer)boolean' target='com.openintents.notepad.theme.ThemeAttributes: getBoolean(java.lang.String,boolean)boolean'/>
+			<edge id='17' source='com.openintents.notepad.NoteEditor: importNote()void' target='android.util.Log: e(java.lang.String,java.lang.String)java.lang.Integer'/>
+			<edge id='18' source='com.openintents.notepad.NoteEditor: unencryptNote()void' target='com.openintents.notepad.NoteEditor: setFeatureDrawable(ILandroid.graphics.drawable.Drawable)void'/>
+			<edge id='19' source='com.openintents.notepad.NoteEditor: encryptNote(boolean)void' target='android.widget.EditText: getText()android.text.Editable'/>
+			<edge id='20' source='com.openintents.notepad.NoteEditor: setRemoteStyle(java.lang.String,java.lang.Integer)boolean' target='com.openintents.notepad.NoteEditor: createPackageContext(java.lang.String,java.lang.Integer)android.content.Context'/>
+			<edge id='21' source='com.openintents.notepad.NoteEditor: onOptionsItemSelected(android.view.MenuItem)boolean' target='android.view.MenuItem: getIntent()android.content.Intent'/>
+			<edge id='22' source='com.openintents.notepad.NoteEditor: onActivityResult(IILandroid.content.Intent)void' target='android.widget.Toast: makeText(android.content.Context,II)android.widget.Toast'/>
+			<edge id='23' source='com.openintents.notepad.NoteEditor: setRemoteStyle(java.lang.String,java.lang.Integer)boolean' target='android.util.Log: e(java.lang.String,java.lang.String)java.lang.Integer'/>
+			<edge id='24' source='com.openintents.notepad.NoteEditor: setRemoteStyle(java.lang.String,java.lang.Integer)boolean' target='android.content.pm.PackageManager: getResourcesForApplication(java.lang.String)android.content.res.Resources'/>
+			<edge id='25' source='com.openintents.notepad.NoteEditor: onActivityResult(IILandroid.content.Intent)void' target='android.widget.Toast: show()void'/>
+			<edge id='26' source='com.openintents.notepad.NoteEditor: onCreateOptionsMenu(android.view.Menu)boolean' target='android.content.Intent: init(java.lang.String,android.net.Uri)void'/>
+			<edge id='27' source='com.openintents.notepad.NoteEditor: onCreate(android.os.Bundle)void' target='android.content.ContentValues: put(java.lang.String,java.lang.String)void'/>
+			<edge id='28' source='com.openintents.notepad.NoteEditor: onActivityResult(IILandroid.content.Intent)void' target='com.openintents.notepad.NoteEditor: updateTitleSdCard()void'/>
+			<edge id='29' source='com.openintents.notepad.NoteEditor: deleteNote()void' target='android.database.Cursor: close()void'/>
+			<edge id='30' source='com.openintents.notepad.NoteEditor: onSaveInstanceState(android.os.Bundle)void' target='android.text.Editable: toString()java.lang.String'/>
+			<edge id='31' source='com.openintents.notepad.NoteEditor: revertNote()void' target='android.widget.EditText: setTextKeepState(java.lang.CharSequence)void'/>
+			<edge id='32' source='com.openintents.notepad.NoteEditor: onKeyDown(ILandroid.view.KeyEvent)boolean' target='java.lang.String: equals(java.lang.Object)boolean'/>
+			<edge id='33' source='com.openintents.notepad.NoteEditor: importNote()void' target='android.database.Cursor: getLong(java.lang.Integer)J'/>
+			<edge id='34' source='com.openintents.notepad.NoteEditor: saveAsNote()void' target='android.content.Intent: setData(android.net.Uri)android.content.Intent'/>
+			<edge id='35' source='com.openintents.notepad.NoteEditor: setRemoteStyle(java.lang.String,java.lang.Integer)boolean' target='com.openintents.notepad.theme.ThemeAttributes: getDimensionPixelOffset(java.lang.String,java.lang.Integer)java.lang.Integer'/>
+			<edge id='36' source='com.openintents.notepad.NoteEditor: onCreate(android.os.Bundle)void' target='com.adview.AdViewLayout: init(android.app.Activity,java.lang.String)void'/>
+			<edge id='37' source='com.openintents.notepad.NoteEditor: updateTitleSdCard()void' target='java.lang.StringBuilder: init(java.lang.String)void'/>
+			<edge id='38' source='com.openintents.notepad.NoteEditor: readFile(java.io.File)java.lang.String' target='java.lang.StringBuffer: toString()java.lang.String'/>
+			<edge id='39' source='com.openintents.notepad.NoteEditor: onPause()void' target='java.lang.Long: valueOf(J)java.lang.Long'/>
+			<edge id='40' source='com.openintents.notepad.NoteEditor: onPause()void' target='android.widget.EditText: getText()android.text.Editable'/>
+			<edge id='41' source='com.openintents.notepad.NoteEditor: setRemoteStyle(java.lang.String,java.lang.Integer)boolean' target='com.openintents.notepad.NoteEditor: getTextSizeTiny(com.openintents.notepad.theme.ThemeAttributes)F'/>
+			<edge id='42' source='com.openintents.notepad.NoteEditor: onActivityResult(IILandroid.content.Intent)void' target='android.util.Log: e(java.lang.String,java.lang.String)java.lang.Integer'/>
+			<edge id='43' source='com.openintents.notepad.NoteEditor: setRemoteStyle(java.lang.String,java.lang.Integer)boolean' target='com.openintents.notepad.theme.ThemeAttributes: getInteger(java.lang.String,java.lang.Integer)java.lang.Integer'/>
+			<edge id='44' source='com.openintents.notepad.NoteEditor: getNoteFromContentProvider()void' target='android.widget.EditText: getText()android.text.Editable'/>
+			<edge id='45' source='com.openintents.notepad.NoteEditor: insertAtPoint(java.lang.String,java.lang.String,java.lang.String)void' target='java.lang.String: substring(java.lang.Integer)java.lang.String'/>
+			<edge id='46' source='com.openintents.notepad.NoteEditor: setRemoteStyle(java.lang.String,java.lang.Integer)boolean' target='android.graphics.Typeface: createFromAsset(android.content.res.AssetManager,java.lang.String)android.graphics.Typeface'/>
+			<edge id='47' source='com.openintents.notepad.NoteEditor: readFile(java.io.File)java.lang.String' target='java.io.DataInputStream: available()java.lang.Integer'/>
+			<edge id='48' source='com.openintents.notepad.NoteEditor: encryptNote(boolean)void' target='java.lang.String: equals(java.lang.Object)boolean'/>
+			<edge id='49' source='com.openintents.notepad.NoteEditor: updateTitleSdCard()void' target='com.openintents.notepad.util.FileUriUtils: getFilename(android.net.Uri)java.lang.String'/>
+			<edge id='50' source='com.openintents.notepad.NoteEditor: onPause()void' target='com.openintents.notepad.NoteEditor: setResult(java.lang.Integer)void'/>
+			<edge id='51' source='com.openintents.notepad.NoteEditor: importNote()void' target='com.openintents.notepad.NoteEditor: setIntent(android.content.Intent)void'/>
+			<edge id='52' source='com.openintents.notepad.NoteEditor: getTextSizeMedium(com.openintents.notepad.theme.ThemeAttributes)F' target='android.content.res.Resources: getDisplayMetrics()android.util.DisplayMetrics'/>
+			<edge id='53' source='com.openintents.notepad.NoteEditor: getMostRecentlyUsedTheme()java.lang.String' target='android.database.Cursor: close()void'/>
+			<edge id='54' source='com.openintents.notepad.NoteEditor: encryptNote(boolean)void' target='com.openintents.notepad.NoteEditor: getTags()java.lang.String'/>
+			<edge id='55' source='com.openintents.notepad.NoteEditor: onPause()void' target='android.content.ContentResolver: query(android.net.Uri,[Ljava.lang.String,java.lang.String,[Ljava.lang.String,java.lang.String)android.database.Cursor'/>
+			<edge id='56' source='com.openintents.notepad.NoteEditor: importNote()void' target='android.content.ContentResolver: query(android.net.Uri,[Ljava.lang.String,java.lang.String,[Ljava.lang.String,java.lang.String)android.database.Cursor'/>
+			<edge id='57' source='com.openintents.notepad.NoteEditor: setThemeForAll(android.content.Context,java.lang.String)void' target='android.content.Context: getContentResolver()android.content.ContentResolver'/>
+			<edge id='58' source='com.openintents.notepad.NoteEditor: getMostRecentlyUsedTheme()java.lang.String' target='android.database.Cursor: getString(java.lang.Integer)java.lang.String'/>
+			<edge id='59' source='com.openintents.notepad.NoteEditor: unencryptNote()void' target='android.content.ContentResolver: update(android.net.Uri,android.content.ContentValues,java.lang.String,[Ljava.lang.String)java.lang.Integer'/>
+			<edge id='60' source='com.openintents.notepad.NoteEditor: saveNote()void' target='com.openintents.notepad.activity.SaveFileActivity: writeToFile(android.content.Context,java.io.File,java.lang.String)void'/>
+			<edge id='61' source='com.openintents.notepad.NoteEditor: onCreateOptionsMenu(android.view.Menu)boolean' target='com.openintents.util.MenuIntentOptionsWithIcons: addIntentOptions(IIILandroid.content.ComponentName,[Landroid.content.Intent,android.content.Intent,I[Landroid.view.MenuItem)java.lang.Integer'/>
+			<edge id='62' source='com.openintents.notepad.NoteEditor: setRemoteStyle(java.lang.String,java.lang.Integer)boolean' target='android.text.TextUtils: isEmpty(java.lang.CharSequence)boolean'/>
+			<edge id='63' source='com.openintents.notepad.NoteEditor: unencryptNote()void' target='android.database.Cursor: requery()boolean'/>
+			<edge id='64' source='com.openintents.notepad.NoteEditor: onOptionsItemSelected(android.view.MenuItem)boolean' target='com.openintents.notepad.NoteEditor: showNotesListSettings()void'/>
+			<edge id='65' source='com.openintents.notepad.NoteEditor: setRemoteStyle(java.lang.String,java.lang.Integer)boolean' target='java.lang.StringBuilder: append(java.lang.String)java.lang.StringBuilder'/>
+			<edge id='66' source='com.openintents.notepad.NoteEditor: unencryptNote()void' target='android.content.ContentValues: put(java.lang.String,java.lang.String)void'/>
+			<edge id='67' source='com.openintents.notepad.NoteEditor: onCreateDialog(java.lang.Integer)android.app.Dialog' target='com.openintents.notepad.dialog.ThemeDialog: init(android.content.Context,com.openintents.notepad.dialog.ThemeDialog$ThemeDialogListener)void'/>
+			<edge id='68' source='com.openintents.notepad.NoteEditor: onResume()void' target='android.widget.EditText: setMovementMethod(android.text.method.MovementMethod)void'/>
+			<edge id='69' source='com.openintents.notepad.NoteEditor: onPause()void' target='com.openintents.notepad.NoteEditor: deleteNote()void'/>
+			<edge id='70' source='com.openintents.notepad.NoteEditor: insertAtPoint(java.lang.String,java.lang.String,java.lang.String)void' target='android.text.Editable: toString()java.lang.String'/>
+			<edge id='71' source='com.openintents.notepad.NoteEditor: getUnsavedChangesWarningDialog()android.app.Dialog' target='android.app.AlertDialog$Builder: init(android.content.Context)void'/>
+			<edge id='72' source='com.openintents.notepad.NoteEditor: getNoteFromContentProvider()void' target='com.openintents.notepad.NoteEditor: setTitle(java.lang.CharSequence)void'/>
+			<edge id='73' source='com.openintents.notepad.NoteEditor: unencryptNote()void' target='android.content.Intent: putExtra(java.lang.String,[Ljava.lang.String)android.content.Intent'/>
+			<edge id='74' source='com.openintents.notepad.NoteEditor: setThemeForAll(android.content.Context,java.lang.String)void' target='android.content.ContentValues: put(java.lang.String,java.lang.String)void'/>
+			<edge id='75' source='com.openintents.notepad.NoteEditor: readFile(java.io.File)java.lang.String' target='java.io.DataInputStream: readLine()java.lang.String'/>
+			<edge id='76' source='com.openintents.notepad.NoteEditor: onKeyDown(ILandroid.view.KeyEvent)boolean' target='android.app.Activity: onKeyDown(ILandroid.view.KeyEvent)boolean'/>
+			<edge id='77' source='com.openintents.notepad.NoteEditor: setLocalStyle(II)void' target='java.lang.StringBuilder: toString()java.lang.String'/>
+			<edge id='78' source='com.openintents.notepad.NoteEditor: unencryptNote()void' target='java.lang.Integer: valueOf(java.lang.Integer)java.lang.Integer'/>
+			<edge id='79' source='com.openintents.notepad.NoteEditor: getNoteFromFile()void' target='android.widget.EditText: setTextKeepState(java.lang.CharSequence)void'/>
+			<edge id='80' source='com.openintents.notepad.NoteEditor: saveAsNote()void' target='android.widget.EditText: getText()android.text.Editable'/>
+			<edge id='81' source='com.openintents.notepad.NoteEditor: encryptNote(boolean)void' target='android.content.Intent: putExtra(java.lang.String,[Ljava.lang.String)android.content.Intent'/>
+			<edge id='82' source='com.openintents.notepad.NoteEditor: setRemoteStyle(java.lang.String,java.lang.Integer)boolean' target='java.lang.StringBuilder: init(java.lang.String)void'/>
+			<edge id='83' source='com.openintents.notepad.NoteEditor: onCreateOptionsMenu(android.view.Menu)boolean' target='android.content.Intent: setType(java.lang.String)android.content.Intent'/>
+			<edge id='84' source='com.openintents.notepad.NoteEditor: importNote()void' target='android.text.Editable: toString()java.lang.String'/>
+			<edge id='85' source='com.openintents.notepad.NoteEditor: onCreateOptionsMenu(android.view.Menu)boolean' target='android.view.MenuItem: setIcon(java.lang.Integer)android.view.MenuItem'/>
+			<edge id='86' source='com.openintents.notepad.NoteEditor: setLocalStyle(II)void' target='com.openintents.notepad.NoteEditor: setRemoteStyle(java.lang.String,java.lang.Integer)boolean'/>
+			<edge id='87' source='com.openintents.notepad.NoteEditor: isNoteUnencrypted()boolean' target='android.database.Cursor: getLong(java.lang.Integer)J'/>
+			<edge id='88' source='com.openintents.notepad.NoteEditor: onCreate(android.os.Bundle)void' target='com.openintents.notepad.crypto.EncryptActivity: cancelEncrypt()void'/>
+			<edge id='89' source='com.openintents.notepad.NoteEditor: readFile(java.io.File)java.lang.String' target='java.io.FileInputStream: close()void'/>
+			<edge id='90' source='com.openintents.notepad.NoteEditor: getNoteFromContentProvider()void' target='android.database.Cursor: getLong(java.lang.Integer)J'/>
+			<edge id='91' source='com.openintents.notepad.NoteEditor: onCreate(android.os.Bundle)void' target='java.lang.StringBuilder: toString()java.lang.String'/>
+			<edge id='92' source='com.openintents.notepad.NoteEditor: unencryptNote()void' target='android.text.Editable: toString()java.lang.String'/>
+			<edge id='93' source='com.openintents.notepad.NoteEditor: onPause()void' target='android.content.ContentValues: init()void'/>
+			<edge id='94' source='com.openintents.notepad.NoteEditor: onCreate(android.os.Bundle)void' target='com.openintents.notepad.NoteEditor: addContentView(android.view.View,android.view.ViewGroup$LayoutParams)void'/>
+			<edge id='95' source='com.openintents.notepad.NoteEditor: getNoteFromContentProvider()void' target='android.widget.Toast: show()void'/>
+			<edge id='96' source='com.openintents.notepad.NoteEditor: readFile(java.io.File)java.lang.String' target='android.util.Log: e(java.lang.String,java.lang.String,java.lang.Throwable)java.lang.Integer'/>
+			<edge id='97' source='com.openintents.notepad.NoteEditor: access$1(com.openintents.notepad.NoteEditor)void' target='com.openintents.notepad.NoteEditor: updateTitleSdCard()void'/>
+			<edge id='98' source='com.openintents.notepad.NoteEditor: onPause()void' target='com.openintents.notepad.NoteEditor: getContentResolver()android.content.ContentResolver'/>
+			<edge id='99' source='com.openintents.notepad.NoteEditor: unencryptNote()void' target='android.content.ContentValues: put(java.lang.String,java.lang.Long)void'/>
+			<edge id='100' source='com.openintents.notepad.NoteEditor: unencryptNote()void' target='java.lang.System: currentTimeMillis()J'/>
+			<edge id='101' source='com.openintents.notepad.NoteEditor: getUnsavedChangesWarningDialog()android.app.Dialog' target='com.openintents.notepad.NoteEditor$4: init(com.openintents.notepad.NoteEditor)void'/>
+			<edge id='102' source='com.openintents.notepad.NoteEditor: updateTitleSdCard()void' target='java.lang.String: equals(java.lang.Object)boolean'/>
+			<edge id='103' source='com.openintents.notepad.NoteEditor: unencryptNote()void' target='android.net.Uri: toString()java.lang.String'/>
+			<edge id='104' source='com.openintents.notepad.NoteEditor: unencryptNote()void' target='java.lang.Long: valueOf(J)java.lang.Long'/>
+			<edge id='105' source='com.openintents.notepad.NoteEditor: readFile(java.io.File)java.lang.String' target='android.widget.Toast: makeText(android.content.Context,II)android.widget.Toast'/>
+			<edge id='106' source='com.openintents.notepad.NoteEditor: onSetTheme(java.lang.String)void' target='com.openintents.notepad.NoteEditor: setTheme(java.lang.String)void'/>
+			<edge id='107' source='com.openintents.notepad.NoteEditor: getNoteFromContentProvider()void' target='android.widget.EditText: setText(java.lang.CharSequence)void'/>
+			<edge id='108' source='com.openintents.notepad.NoteEditor: insertAtPoint(java.lang.String,java.lang.String,java.lang.String)void' target='com.openintents.notepad.util.ExtractTitle: extractTitle(java.lang.String)java.lang.String'/>
+			<edge id='109' source='com.openintents.notepad.NoteEditor: onCreateOptionsMenu(android.view.Menu)boolean' target='android.view.MenuItem: setShortcut(CC)android.view.MenuItem'/>
+			<edge id='110' source='com.openintents.notepad.NoteEditor: onPause()void' target='java.lang.String: equals(java.lang.Object)boolean'/>
+			<edge id='111' source='com.openintents.notepad.NoteEditor: getMostRecentlyUsedTheme()java.lang.String' target='android.content.ContentResolver: query(android.net.Uri,[Ljava.lang.String,java.lang.String,[Ljava.lang.String,java.lang.String)android.database.Cursor'/>
+			<edge id='112' source='com.openintents.notepad.NoteEditor: onActivityResult(IILandroid.content.Intent)void' target='android.content.Intent: getData()android.net.Uri'/>
+			<edge id='113' source='com.openintents.notepad.NoteEditor: updateTitleSdCard()void' target='java.lang.String: valueOf(java.lang.Object)java.lang.String'/>
+			<edge id='114' source='com.openintents.notepad.NoteEditor: setTheme(java.lang.String)void' target='com.openintents.notepad.NoteEditor: applyTheme()void'/>
+			<edge id='115' source='com.openintents.notepad.NoteEditor: onSaveInstanceState(android.os.Bundle)void' target='android.widget.EditText: getText()android.text.Editable'/>
+			<edge id='116' source='com.openintents.notepad.NoteEditor: onPrepareOptionsMenu(android.view.Menu)boolean' target='android.view.MenuItem: setEnabled(boolean)android.view.MenuItem'/>
+			<edge id='117' source='com.openintents.notepad.NoteEditor: setRemoteStyle(java.lang.String,java.lang.Integer)boolean' target='com.openintents.notepad.theme.ThemeAttributes: init(android.content.Context,java.lang.String,java.lang.Integer)void'/>
+			<edge id='118' source='com.openintents.notepad.NoteEditor: importNote()void' target='com.openintents.notepad.NoteEditor: finish()void'/>
+			<edge id='119' source='com.openintents.notepad.NoteEditor: setRemoteStyle(java.lang.String,java.lang.Integer)boolean' target='android.content.res.Resources: getDrawable(java.lang.Integer)android.graphics.drawable.Drawable'/>
+			<edge id='120' source='com.openintents.notepad.NoteEditor: setThemeForAll(android.content.Context,java.lang.String)void' target='android.content.ContentResolver: update(android.net.Uri,android.content.ContentValues,java.lang.String,[Ljava.lang.String)java.lang.Integer'/>
+			<edge id='121' source='com.openintents.notepad.NoteEditor: onCreate(android.os.Bundle)void' target='java.lang.StringBuilder: append(java.lang.Object)java.lang.StringBuilder'/>
+			<edge id='122' source='com.openintents.notepad.NoteEditor: onActivityResult(IILandroid.content.Intent)void' target='com.openintents.notepad.NoteEditor: finish()void'/>
+			<edge id='123' source='com.openintents.notepad.NoteEditor: onOptionsItemSelected(android.view.MenuItem)boolean' target='com.openintents.notepad.NoteEditor: finish()void'/>
+			<edge id='124' source='com.openintents.notepad.NoteEditor: insertAtPoint(java.lang.String,java.lang.String,java.lang.String)void' target='java.lang.StringBuffer: append(java.lang.String)java.lang.StringBuffer'/>
+			<edge id='125' source='com.openintents.notepad.NoteEditor: onResume()void' target='com.openintents.notepad.NoteEditor: applyInsertText()void'/>
+			<edge id='126' source='com.openintents.notepad.NoteEditor: readFile(java.io.File)java.lang.String' target='java.io.BufferedInputStream: init(java.io.InputStream)void'/>
+			<edge id='127' source='com.openintents.notepad.NoteEditor: onResume()void' target='com.openintents.notepad.NoteEditor: setTheme(java.lang.String)void'/>
+			<edge id='128' source='com.openintents.notepad.NoteEditor: isNoteUnencrypted()boolean' target='android.database.Cursor: moveToFirst()boolean'/>
+			<edge id='129' source='com.openintents.notepad.NoteEditor: unencryptNote()void' target='com.openintents.notepad.crypto.EncryptActivity: getCryptoStringArray(java.lang.String,java.lang.String,java.lang.String)[Ljava.lang.String'/>
+			<edge id='130' source='com.openintents.notepad.NoteEditor: getNoteFromContentProvider()void' target='android.content.Intent: putExtra(java.lang.String,java.lang.String)android.content.Intent'/>
+			<edge id='131' source='com.openintents.notepad.NoteEditor: onOptionsItemSelected(android.view.MenuItem)boolean' target='com.openintents.notepad.NoteEditor: saveNote()void'/>
+			<edge id='132' source='com.openintents.notepad.NoteEditor: getTextSizeMedium(com.openintents.notepad.theme.ThemeAttributes)F' target='com.openintents.notepad.theme.ThemeAttributes: getDimensionPixelOffset(java.lang.String,java.lang.Integer)java.lang.Integer'/>
+			<edge id='133' source='com.openintents.notepad.NoteEditor: unencryptNote()void' target='com.openintents.notepad.NoteEditor: startActivity(android.content.Intent)void'/>
+			<edge id='134' source='com.openintents.notepad.NoteEditor: onCreate(android.os.Bundle)void' target='android.widget.LinearLayout$LayoutParams: init(II)void'/>
+			<edge id='135' source='com.openintents.notepad.NoteEditor: insertAtPoint(java.lang.String,java.lang.String,java.lang.String)void' target='android.widget.EditText: getText()android.text.Editable'/>
+			<edge id='136' source='com.openintents.notepad.NoteEditor: startTextSelectionActivity(android.content.Intent)void' target='java.lang.String: substring(II)java.lang.String'/>
+			<edge id='137' source='com.openintents.notepad.NoteEditor: onResume()void' target='com.openintents.notepad.PreferenceActivity: getAutoLinkFromPreference(android.content.Context)java.lang.Integer'/>
+			<edge id='138' source='com.openintents.notepad.NoteEditor: insertAtPoint(java.lang.String,java.lang.String,java.lang.String)void' target='java.lang.StringBuffer: init()void'/>
+			<edge id='139' source='com.openintents.notepad.NoteEditor: updateTitleSdCard()void' target='com.openintents.notepad.NoteEditor: setTitle(java.lang.CharSequence)void'/>
+			<edge id='140' source='com.openintents.notepad.NoteEditor: importNote()void' target='com.openintents.notepad.NoteEditor: getContentResolver()android.content.ContentResolver'/>
+			<edge id='141' source='com.openintents.notepad.NoteEditor: saveNote()void' target='com.openintents.notepad.util.FileUriUtils: getFile(android.net.Uri)java.io.File'/>
+			<edge id='142' source='com.openintents.notepad.NoteEditor: revertNote()void' target='com.openintents.notepad.PreferenceActivity: getAutoLinkFromPreference(android.content.Context)java.lang.Integer'/>
+			<edge id='143' source='com.openintents.notepad.NoteEditor: getUnsavedChangesWarningDialog()android.app.Dialog' target='android.app.AlertDialog$Builder: setPositiveButton(ILandroid.content.DialogInterface$OnClickListener)android.app.AlertDialog$Builder'/>
+			<edge id='144' source='com.openintents.notepad.NoteEditor: setLocalStyle(II)void' target='java.lang.StringBuilder: append(java.lang.String)java.lang.StringBuilder'/>
+			<edge id='145' source='com.openintents.notepad.NoteEditor: getTextSizeSmall(com.openintents.notepad.theme.ThemeAttributes)F' target='com.openintents.notepad.theme.ThemeAttributes: getDimensionPixelOffset(java.lang.String,java.lang.Integer)java.lang.Integer'/>
+			<edge id='146' source='com.openintents.notepad.NoteEditor: setRemoteStyle(java.lang.String,java.lang.Integer)boolean' target='com.openintents.notepad.theme.ThemeAttributes: getColor(java.lang.String,java.lang.Integer)java.lang.Integer'/>
+			<edge id='147' source='com.openintents.notepad.NoteEditor: onCreate(android.os.Bundle)void' target='java.lang.String: equals(java.lang.Object)boolean'/>
+			<edge id='148' source='com.openintents.notepad.NoteEditor: onPrepareOptionsMenu(android.view.Menu)boolean' target='android.view.Menu: findItem(java.lang.Integer)android.view.MenuItem'/>
+			<edge id='149' source='com.openintents.notepad.NoteEditor: applyTheme()void' target='android.widget.EditText: invalidate()void'/>
+			<edge id='150' source='com.openintents.notepad.NoteEditor: readFile(java.io.File)java.lang.String' target='java.io.DataInputStream: close()void'/>
+			<edge id='151' source='com.openintents.notepad.NoteEditor: insertAtPoint(java.lang.String,java.lang.String,java.lang.String)void' target='android.content.ContentValues: put(java.lang.String,java.lang.String)void'/>
+			<edge id='152' source='com.openintents.notepad.NoteEditor: readFile(java.io.File)java.lang.String' target='java.io.DataInputStream: init(java.io.InputStream)void'/>
+			<edge id='153' source='com.openintents.notepad.NoteEditor: setRemoteStyle(java.lang.String,java.lang.Integer)boolean' target='com.openintents.notepad.theme.ThemeAttributes: getResourceId(java.lang.String,java.lang.Integer)java.lang.Integer'/>
+			<edge id='154' source='com.openintents.notepad.NoteEditor: getNoteFromFile()void' target='android.widget.EditText: setSelection(II)void'/>
+			<edge id='155' source='com.openintents.notepad.NoteEditor: insertAtPoint(java.lang.String,java.lang.String,java.lang.String)void' target='java.lang.System: currentTimeMillis()J'/>
+			<edge id='156' source='com.openintents.notepad.NoteEditor: startTextSelectionActivity(android.content.Intent)void' target='com.openintents.notepad.NoteEditor: startActivityForResult(android.content.Intent,java.lang.Integer)void'/>
+			<edge id='157' source='com.openintents.notepad.NoteEditor: onPause()void' target='android.text.Editable: toString()java.lang.String'/>
+			<edge id='158' source='com.openintents.notepad.NoteEditor: onSetThemeForAll(java.lang.String)void' target='com.openintents.notepad.NoteEditor: setThemeForAll(android.content.Context,java.lang.String)void'/>
+			<edge id='159' source='com.openintents.notepad.NoteEditor: getUnsavedChangesWarningDialog()android.app.Dialog' target='com.openintents.notepad.NoteEditor$5: init(com.openintents.notepad.NoteEditor)void'/>
+			<edge id='160' source='com.openintents.notepad.NoteEditor: readFile(java.io.File)java.lang.String' target='android.widget.Toast: show()void'/>
+			<edge id='161' source='com.openintents.notepad.NoteEditor: insertAtPoint(java.lang.String,java.lang.String,java.lang.String)void' target='android.content.ContentResolver: update(android.net.Uri,android.content.ContentValues,java.lang.String,[Ljava.lang.String)java.lang.Integer'/>
+			<edge id='162' source='com.openintents.notepad.NoteEditor: setRemoteStyle(java.lang.String,java.lang.Integer)boolean' target='com.openintents.notepad.theme.ThemeUtils: getPackageNameFromStyle(java.lang.String)java.lang.String'/>
+			<edge id='163' source='com.openintents.notepad.NoteEditor: applyInsertText()void' target='com.openintents.notepad.NoteEditor: insertAtPoint(java.lang.String,java.lang.String,java.lang.String)void'/>
+			<edge id='164' source='com.openintents.notepad.NoteEditor: getTextSizeLarge(com.openintents.notepad.theme.ThemeAttributes)F' target='com.openintents.notepad.theme.ThemeAttributes: getDimensionPixelOffset(java.lang.String,java.lang.Integer)java.lang.Integer'/>
+			<edge id='165' source='com.openintents.notepad.NoteEditor: onOptionsItemSelected(android.view.MenuItem)boolean' target='android.app.Activity: onOptionsItemSelected(android.view.MenuItem)boolean'/>
+			<edge id='166' source='com.openintents.notepad.NoteEditor: onCreate(android.os.Bundle)void' target='android.widget.LinearLayout: setGravity(java.lang.Integer)void'/>
+			<edge id='167' source='com.openintents.notepad.NoteEditor: encryptNote(boolean)void' target='com.openintents.notepad.crypto.EncryptActivity: confirmEncryptActivityCalled()void'/>
+			<edge id='168' source='com.openintents.notepad.NoteEditor: getUnsavedChangesWarningDialog()android.app.Dialog' target='android.app.AlertDialog$Builder: setNegativeButton(ILandroid.content.DialogInterface$OnClickListener)android.app.AlertDialog$Builder'/>
+			<edge id='169' source='com.openintents.notepad.NoteEditor: onCreateOptionsMenu(android.view.Menu)boolean' target='com.openintents.util.MenuIntentOptionsWithIcons: init(android.content.Context,android.view.Menu)void'/>
+			<edge id='170' source='com.openintents.notepad.NoteEditor: onPause()void' target='java.lang.String: length()java.lang.Integer'/>
+			<edge id='171' source='com.openintents.notepad.NoteEditor: onOptionsItemSelected(android.view.MenuItem)boolean' target='com.openintents.notepad.NoteEditor: importNote()void'/>
+			<edge id='172' source='com.openintents.notepad.NoteEditor: onCreate(android.os.Bundle)void' target='android.os.Bundle: getInt(java.lang.String)java.lang.Integer'/>
+			<edge id='173' source='com.openintents.notepad.NoteEditor: encryptNote(boolean)void' target='android.net.Uri: toString()java.lang.String'/>
+			<edge id='174' source='com.openintents.notepad.NoteEditor: onCreate(android.os.Bundle)void' target='com.openintents.notepad.NoteEditor: finish()void'/>
+			<edge id='175' source='com.openintents.notepad.NoteEditor: onOptionsItemSelected(android.view.MenuItem)boolean' target='com.openintents.notepad.NoteEditor: setThemeSettings()void'/>
+			<edge id='176' source='com.openintents.notepad.NoteEditor: getTextSizeLarge(com.openintents.notepad.theme.ThemeAttributes)F' target='com.openintents.notepad.NoteEditor: getTextSizeMedium(com.openintents.notepad.theme.ThemeAttributes)F'/>
+			<edge id='177' source='com.openintents.notepad.NoteEditor: importNote()void' target='com.openintents.notepad.NoteEditor: startActivity(android.content.Intent)void'/>
+			<edge id='178' source='com.openintents.notepad.NoteEditor: encryptNote(boolean)void' target='com.openintents.notepad.crypto.EncryptActivity: getCryptoStringArray(java.lang.String,java.lang.String,java.lang.String)[Ljava.lang.String'/>
+			<edge id='179' source='com.openintents.notepad.NoteEditor: setRemoteStyle(java.lang.String,java.lang.Integer)boolean' target='android.content.res.Resources: getAssets()android.content.res.AssetManager'/>
+			<edge id='180' source='com.openintents.notepad.NoteEditor: saveAsNote()void' target='android.text.Editable: toString()java.lang.String'/>
+			<edge id='181' source='com.openintents.notepad.NoteEditor: onCreate(android.os.Bundle)void' target='android.content.ContentValues: init(java.lang.Integer)void'/>
+			<edge id='182' source='com.openintents.notepad.NoteEditor: getNoteFromContentProvider()void' target='android.content.Intent: setAction(java.lang.String)android.content.Intent'/>
+			<edge id='183' source='com.openintents.notepad.NoteEditor: setRemoteStyle(java.lang.String,java.lang.Integer)boolean' target='android.widget.EditText: setBackgroundDrawable(android.graphics.drawable.Drawable)void'/>
+			<edge id='184' source='com.openintents.notepad.NoteEditor: readFile(java.io.File)java.lang.String' target='java.lang.StringBuffer: init()void'/>
+			<edge id='185' source='com.openintents.notepad.NoteEditor: setRemoteStyle(java.lang.String,java.lang.Integer)boolean' target='com.openintents.notepad.theme.ThemeAttributes: getString(java.lang.String)java.lang.String'/>
+			<edge id='186' source='com.openintents.notepad.NoteEditor: onCreateOptionsMenu(android.view.Menu)boolean' target='android.app.Activity: onCreateOptionsMenu(android.view.Menu)boolean'/>
+			<edge id='187' source='com.openintents.notepad.NoteEditor: insertAtPoint(java.lang.String,java.lang.String,java.lang.String)void' target='java.lang.String: length()java.lang.Integer'/>
+			<edge id='188' source='com.openintents.notepad.NoteEditor: onResume()void' target='android.app.Activity: onResume()void'/>
+			<edge id='189' source='com.openintents.notepad.NoteEditor: setLocalStyle(II)void' target='com.openintents.notepad.NoteEditor: getResources()android.content.res.Resources'/>
+			<edge id='190' source='com.openintents.notepad.NoteEditor: deleteNote()void' target='android.content.ContentResolver: delete(android.net.Uri,java.lang.String,[Ljava.lang.String)java.lang.Integer'/>
+			<edge id='191' source='com.openintents.notepad.NoteEditor: onPrepareOptionsMenu(android.view.Menu)boolean' target='android.widget.EditText: getText()android.text.Editable'/>
+			<edge id='192' source='com.openintents.notepad.NoteEditor: onCreateDialog(java.lang.Integer)android.app.Dialog' target='com.openintents.notepad.NoteEditor: getUnsavedChangesWarningDialog()android.app.Dialog'/>
+			<edge id='193' source='com.openintents.notepad.NoteEditor: importNote()void' target='android.content.ContentUris: withAppendedId(android.net.Uri,J)android.net.Uri'/>
+			<edge id='194' source='com.openintents.notepad.NoteEditor: deleteNote()void' target='com.openintents.notepad.NoteEditor: getContentResolver()android.content.ContentResolver'/>
+			<edge id='195' source='com.openintents.notepad.NoteEditor: importNote()void' target='android.content.Intent: setAction(java.lang.String)android.content.Intent'/>
+			<edge id='196' source='com.openintents.notepad.NoteEditor: init()void' target='android.app.Activity: init()void'/>
+			<edge id='197' source='com.openintents.notepad.NoteEditor: setRemoteStyle(java.lang.String,java.lang.Integer)boolean' target='java.lang.String: equals(java.lang.Object)boolean'/>
+			<edge id='198' source='com.openintents.notepad.NoteEditor: setRemoteStyle(java.lang.String,java.lang.Integer)boolean' target='android.widget.EditText: setBackgroundResource(java.lang.Integer)void'/>
+			<edge id='199' source='com.openintents.notepad.NoteEditor: onOptionsItemSelected(android.view.MenuItem)boolean' target='com.openintents.notepad.NoteEditor: startTextSelectionActivity(android.content.Intent)void'/>
+			<edge id='200' source='com.openintents.notepad.NoteEditor: onPrepareOptionsMenu(android.view.Menu)boolean' target='android.text.Editable: toString()java.lang.String'/>
+			<edge id='201' source='com.openintents.notepad.NoteEditor: onPause()void' target='android.database.Cursor: moveToFirst()boolean'/>
+			<edge id='202' source='com.openintents.notepad.NoteEditor: setLocalStyle(II)void' target='java.lang.StringBuilder: init(java.lang.String)void'/>
+			<edge id='203' source='com.openintents.notepad.NoteEditor: onResume()void' target='com.openintents.notepad.NoteEditor$2: init(com.openintents.notepad.NoteEditor)void'/>
+			<edge id='204' source='com.openintents.notepad.NoteEditor: onPause()void' target='java.lang.System: currentTimeMillis()J'/>
+			<edge id='205' source='com.openintents.notepad.NoteEditor: onSaveTheme(java.lang.String)void' target='com.openintents.notepad.NoteEditor: saveTheme(java.lang.String)void'/>
+			<edge id='206' source='com.openintents.notepad.NoteEditor: setRemoteStyle(java.lang.String,java.lang.Integer)boolean' target='android.content.Context: getResources()android.content.res.Resources'/>
+			<edge id='207' source='com.openintents.notepad.NoteEditor: applyTheme()void' target='android.widget.EditText: setTransformationMethod(android.text.method.TransformationMethod)void'/>
+			<edge id='208' source='com.openintents.notepad.NoteEditor: getTags()java.lang.String' target='android.database.Cursor: getString(java.lang.Integer)java.lang.String'/>
+			<edge id='209' source='com.openintents.notepad.NoteEditor: onKeyDown(ILandroid.view.KeyEvent)boolean' target='android.widget.EditText: getText()android.text.Editable'/>
+			<edge id='210' source='com.openintents.notepad.NoteEditor: getNoteFromContentProvider()void' target='android.widget.EditText: setSelection(II)void'/>
+			<edge id='211' source='com.openintents.notepad.NoteEditor: applyTheme()void' target='android.widget.EditText: setTextSize(F)void'/>
+			<edge id='212' source='com.openintents.notepad.NoteEditor: getUnsavedChangesWarningDialog()android.app.Dialog' target='android.app.AlertDialog$Builder: create()android.app.AlertDialog'/>
+			<edge id='213' source='com.openintents.notepad.NoteEditor: onResume()void' target='android.widget.EditText: setAutoLinkMask(java.lang.Integer)void'/>
+			<edge id='214' source='com.openintents.notepad.NoteEditor: onActivityResult(IILandroid.content.Intent)void' target='android.content.Intent: getLongExtra(java.lang.String,J)J'/>
+			<edge id='215' source='com.openintents.notepad.NoteEditor: setRemoteStyle(java.lang.String,java.lang.Integer)boolean' target='com.openintents.notepad.NoteEditor: getPackageManager()android.content.pm.PackageManager'/>
+			<edge id='216' source='com.openintents.notepad.NoteEditor: onCreate(android.os.Bundle)void' target='android.widget.RelativeLayout$LayoutParams: init(II)void'/>
+			<edge id='217' source='com.openintents.notepad.NoteEditor: onCreate(android.os.Bundle)void' target='android.widget.LinearLayout: init(android.content.Context)void'/>
+			<edge id='218' source='com.openintents.notepad.NoteEditor: unencryptNote()void' target='android.content.Intent: putExtra(java.lang.String,java.lang.String)android.content.Intent'/>
+			<edge id='219' source='com.openintents.notepad.NoteEditor: onCreate(android.os.Bundle)void' target='android.content.Intent: getData()android.net.Uri'/>
+			<edge id='220' source='com.openintents.notepad.NoteEditor: updateTitleSdCard()void' target='java.lang.StringBuilder: toString()java.lang.String'/>
+			<edge id='221' source='com.openintents.notepad.NoteEditor: unencryptNote()void' target='com.openintents.notepad.util.ExtractTitle: extractTitle(java.lang.String)java.lang.String'/>
+			<edge id='222' source='com.openintents.notepad.NoteEditor: getNoteFromFile()void' target='com.openintents.notepad.NoteEditor: updateTitleSdCard()void'/>
+			<edge id='223' source='com.openintents.notepad.NoteEditor: deleteNote()void' target='android.widget.EditText: setText(java.lang.CharSequence)void'/>
+			<edge id='224' source='com.openintents.notepad.NoteEditor: encryptNote(boolean)void' target='android.text.Editable: toString()java.lang.String'/>
+			<edge id='225' source='com.openintents.notepad.NoteEditor: onKeyDown(ILandroid.view.KeyEvent)boolean' target='android.text.Editable: toString()java.lang.String'/>
+			<edge id='226' source='com.openintents.notepad.NoteEditor: startTextSelectionActivity(android.content.Intent)void' target='android.text.Editable: toString()java.lang.String'/>
+			<edge id='227' source='com.openintents.notepad.NoteEditor: onOptionsItemSelected(android.view.MenuItem)boolean' target='com.openintents.notepad.NoteEditor: deleteNote()void'/>
+			<edge id='228' source='com.openintents.notepad.NoteEditor: onPause()void' target='com.openintents.notepad.NoteEditor: isFinishing()boolean'/>
+			<edge id='229' source='com.openintents.notepad.NoteEditor: encryptNote(boolean)void' target='android.content.Intent: init(android.content.Context,java.lang.Class)void'/>
+			<edge id='230' source='com.openintents.notepad.NoteEditor: getUnsavedChangesWarningDialog()android.app.Dialog' target='android.app.AlertDialog$Builder: setTitle(java.lang.Integer)android.app.AlertDialog$Builder'/>
+			<edge id='231' source='com.openintents.notepad.NoteEditor: startTextSelectionActivity(android.content.Intent)void' target='android.widget.EditText: getText()android.text.Editable'/>
+			<edge id='232' source='com.openintents.notepad.NoteEditor: onPause()void' target='com.openintents.notepad.NoteEditor: encryptNote(boolean)void'/>
+			<edge id='233' source='com.openintents.notepad.NoteEditor: saveAsNote()void' target='android.content.Intent: putExtra(java.lang.String,java.lang.String)android.content.Intent'/>
+			<edge id='234' source='com.openintents.notepad.NoteEditor: insertAtPoint(java.lang.String,java.lang.String,java.lang.String)void' target='android.widget.EditText: getSelectionEnd()java.lang.Integer'/>
+			<edge id='235' source='com.openintents.notepad.NoteEditor: insertAtPoint(java.lang.String,java.lang.String,java.lang.String)void' target='java.lang.StringBuffer: toString()java.lang.String'/>
+			<edge id='236' source='com.openintents.notepad.NoteEditor: getNoteFromContentProvider()void' target='android.widget.Toast: makeText(android.content.Context,II)android.widget.Toast'/>
+			<edge id='237' source='com.openintents.notepad.NoteEditor: encryptNote(boolean)void' target='com.openintents.notepad.util.ExtractTitle: extractTitle(java.lang.String)java.lang.String'/>
+			<edge id='238' source='com.openintents.notepad.NoteEditor: saveAsNote()void' target='android.content.Intent: setAction(java.lang.String)android.content.Intent'/>
+			<edge id='239' source='com.openintents.notepad.NoteEditor: onActivityResult(IILandroid.content.Intent)void' target='android.widget.Toast: makeText(android.content.Context,java.lang.CharSequence,java.lang.Integer)android.widget.Toast'/>
+			<edge id='240' source='com.openintents.notepad.NoteEditor: onCreate(android.os.Bundle)void' target='android.content.ContentResolver: insert(android.net.Uri,android.content.ContentValues)android.net.Uri'/>
+			<edge id='241' source='com.openintents.notepad.NoteEditor: onSaveInstanceState(android.os.Bundle)void' target='android.widget.EditText: getSelectionEnd()java.lang.Integer'/>
+			<edge id='242' source='com.openintents.notepad.NoteEditor: onResume()void' target='com.openintents.notepad.NoteEditor: loadTheme()java.lang.String'/>
+			<edge id='243' source='com.openintents.notepad.NoteEditor: getUnsavedChangesWarningDialog()android.app.Dialog' target='com.openintents.notepad.NoteEditor$3: init(com.openintents.notepad.NoteEditor)void'/>
+			<edge id='244' source='com.openintents.notepad.NoteEditor: onPrepareOptionsMenu(android.view.Menu)boolean' target='android.app.Activity: onPrepareOptionsMenu(android.view.Menu)boolean'/>
+			<edge id='245' source='com.openintents.notepad.NoteEditor: revertNote()void' target='android.widget.EditText: getText()android.text.Editable'/>
+			<edge id='246' source='com.openintents.notepad.NoteEditor: onResume()void' target='com.openintents.notepad.NoteEditor: getNoteFromContentProvider()void'/>
+			<edge id='247' source='com.openintents.notepad.NoteEditor: insertAtPoint(java.lang.String,java.lang.String,java.lang.String)void' target='android.content.ContentValues: put(java.lang.String,java.lang.Long)void'/>
+			<edge id='248' source='com.openintents.notepad.NoteEditor: setLocalStyle(II)void' target='android.util.Log: e(java.lang.String,java.lang.String)java.lang.Integer'/>
+			<edge id='249' source='com.openintents.notepad.NoteEditor: insertAtPoint(java.lang.String,java.lang.String,java.lang.String)void' target='android.widget.EditText: setTextKeepState(java.lang.CharSequence)void'/>
+			<edge id='250' source='com.openintents.notepad.NoteEditor: onCreate(android.os.Bundle)void' target='android.net.Uri: getScheme()java.lang.String'/>
+			<edge id='251' source='com.openintents.notepad.NoteEditor: encryptNote(boolean)void' target='android.content.Intent: putExtra(java.lang.String,boolean)android.content.Intent'/>
+			<edge id='252' source='com.openintents.notepad.NoteEditor: onPause()void' target='android.app.Activity: onPause()void'/>
+			<edge id='253' source='com.openintents.notepad.NoteEditor: applyTheme()void' target='android.widget.EditText: setAutoLinkMask(java.lang.Integer)void'/>
+			<edge id='254' source='com.openintents.notepad.NoteEditor: onPause()void' target='android.database.Cursor: getLong(java.lang.Integer)J'/>
+			<edge id='255' source='com.openintents.notepad.NoteEditor: showNotesListSettings()void' target='com.openintents.notepad.NoteEditor: startActivity(android.content.Intent)void'/>
+			<edge id='256' source='com.openintents.notepad.NoteEditor: readFile(java.io.File)java.lang.String' target='java.io.BufferedInputStream: close()void'/>
+			<edge id='257' source='com.openintents.notepad.NoteEditor: encryptNote(boolean)void' target='android.widget.EditText: setText(java.lang.Integer)void'/>
+			<edge id='258' source='com.openintents.notepad.NoteEditor: saveNote()void' target='android.text.Editable: toString()java.lang.String'/>
+			<edge id='259' source='com.openintents.notepad.NoteEditor: getNoteFromContentProvider()void' target='android.database.Cursor: requery()boolean'/>
+			<edge id='260' source='com.openintents.notepad.NoteEditor: getNoteFromContentProvider()void' target='com.openintents.notepad.NoteEditor: startActivityForResult(android.content.Intent,java.lang.Integer)void'/>
+			<edge id='261' source='com.openintents.notepad.NoteEditor: importNote()void' target='android.widget.EditText: getText()android.text.Editable'/>
+			<edge id='262' source='com.openintents.notepad.NoteEditor: onPause()void' target='android.content.ContentValues: put(java.lang.String,java.lang.Long)void'/>
+			<edge id='263' source='com.openintents.notepad.NoteEditor: unencryptNote()void' target='com.openintents.notepad.NoteEditor: getTags()java.lang.String'/>
+			<edge id='264' source='com.openintents.notepad.NoteEditor: setRemoteStyle(java.lang.String,java.lang.Integer)boolean' target='com.openintents.notepad.NoteEditor: getTextSizeSmall(com.openintents.notepad.theme.ThemeAttributes)F'/>
+			<edge id='265' source='com.openintents.notepad.NoteEditor: onCreate(android.os.Bundle)void' target='com.openintents.notepad.NoteEditor: requestWindowFeature(java.lang.Integer)boolean'/>
+			<edge id='266' source='com.openintents.notepad.NoteEditor: unencryptNote()void' target='android.content.ContentValues: put(java.lang.String,java.lang.Integer)void'/>
+			<edge id='267' source='com.openintents.notepad.NoteEditor: onSaveInstanceState(android.os.Bundle)void' target='android.os.Bundle: putString(java.lang.String,java.lang.String)void'/>
+			<edge id='268' source='com.openintents.notepad.NoteEditor: setRemoteStyle(java.lang.String,java.lang.Integer)boolean' target='java.lang.StringBuilder: toString()java.lang.String'/>
+			<edge id='269' source='com.openintents.notepad.NoteEditor: getTextSizeMedium(com.openintents.notepad.theme.ThemeAttributes)F' target='com.openintents.notepad.NoteEditor: getResources()android.content.res.Resources'/>
+			<edge id='270' source='com.openintents.notepad.NoteEditor: readFile(java.io.File)java.lang.String' target='java.lang.StringBuffer: append(java.lang.String)java.lang.StringBuffer'/>
+			<edge id='271' source='com.openintents.notepad.NoteEditor: getNoteFromContentProvider()void' target='com.openintents.notepad.NoteEditor: getText(java.lang.Integer)java.lang.CharSequence'/>
+			<edge id='272' source='com.openintents.notepad.NoteEditor: setTheme(java.lang.String)void' target='com.openintents.notepad.NoteEditor: setLocalStyle(II)void'/>
+			<edge id='273' source='com.openintents.notepad.NoteEditor: saveNote()void' target='android.widget.EditText: getText()android.text.Editable'/>
+			<edge id='274' source='com.openintents.notepad.NoteEditor: updateTitleSdCard()void' target='java.lang.StringBuilder: append(java.lang.String)java.lang.StringBuilder'/>
+			<edge id='275' source='com.openintents.notepad.NoteEditor: setRemoteStyle(java.lang.String,java.lang.Integer)boolean' target='com.openintents.notepad.NoteEditor: getTextSizeMedium(com.openintents.notepad.theme.ThemeAttributes)F'/>
+			<edge id='276' source='com.openintents.notepad.NoteEditor: importNote()void' target='android.content.ContentValues: put(java.lang.String,java.lang.String)void'/>
+			<edge id='277' source='com.openintents.notepad.NoteEditor: getNoteFromContentProvider()void' target='android.util.Log: e(java.lang.String,java.lang.String)java.lang.Integer'/>
+			<edge id='278' source='com.openintents.notepad.NoteEditor: getNoteFromContentProvider()void' target='android.database.Cursor: moveToFirst()boolean'/>
+			<edge id='279' source='com.openintents.notepad.NoteEditor: revertNote()void' target='android.text.Editable: toString()java.lang.String'/>
+			<edge id='280' source='com.openintents.notepad.NoteEditor: getTags()java.lang.String' target='android.text.TextUtils: isEmpty(java.lang.CharSequence)boolean'/>
+			<edge id='281' source='com.openintents.notepad.NoteEditor: onKeyDown(ILandroid.view.KeyEvent)boolean' target='com.openintents.notepad.NoteEditor: showDialog(java.lang.Integer)void'/>
+			<edge id='282' source='com.openintents.notepad.NoteEditor: importNote()void' target='android.content.ContentValues: init()void'/>
+			<edge id='283' source='com.openintents.notepad.NoteEditor: getUnsavedChangesWarningDialog()android.app.Dialog' target='android.app.AlertDialog$Builder: setNeutralButton(ILandroid.content.DialogInterface$OnClickListener)android.app.AlertDialog$Builder'/>
+			<edge id='284' source='com.openintents.notepad.NoteEditor: insertAtPoint(java.lang.String,java.lang.String,java.lang.String)void' target='java.lang.String: substring(II)java.lang.String'/>
+			<edge id='285' source='com.openintents.notepad.NoteEditor: unencryptNote()void' target='com.openintents.notepad.NoteEditor: getContentResolver()android.content.ContentResolver'/>
+			<edge id='286' source='com.openintents.notepad.NoteEditor: applyTheme()void' target='com.openintents.util.UpperCaseTransformationMethod: getInstance()com.openintents.util.UpperCaseTransformationMethod'/>
+			<edge id='287' source='com.openintents.notepad.NoteEditor: onCreate(android.os.Bundle)void' target='com.openintents.notepad.crypto.EncryptActivity: getPendingEncryptActivities()java.lang.Integer'/>
+			<edge id='288' source='com.openintents.notepad.NoteEditor: onCreateOptionsMenu(android.view.Menu)boolean' target='android.view.Menu: add(IIII)android.view.MenuItem'/>
+			<edge id='289' source='com.openintents.notepad.NoteEditor: onResume()void' target='com.openintents.notepad.NoteEditor: getNoteFromFile()void'/>
+			<edge id='290' source='com.openintents.notepad.NoteEditor: importNote()void' target='android.content.ContentResolver: insert(android.net.Uri,android.content.ContentValues)android.net.Uri'/>
+			<edge id='291' source='com.openintents.notepad.NoteEditor: onCreateOptionsMenu(android.view.Menu)boolean' target='android.content.ComponentName: init(android.content.Context,java.lang.Class)void'/>
+			<edge id='292' source='com.openintents.notepad.NoteEditor: onSaveInstanceState(android.os.Bundle)void' target='android.os.Bundle: putInt(java.lang.String,java.lang.Integer)void'/>
+			<edge id='293' source='com.openintents.notepad.NoteEditor: insertAtPoint(java.lang.String,java.lang.String,java.lang.String)void' target='com.openintents.notepad.NoteEditor: getContentResolver()android.content.ContentResolver'/>
+			<edge id='294' source='com.openintents.notepad.NoteEditor: revertNote()void' target='android.widget.EditText: setAutoLinkMask(java.lang.Integer)void'/>
+			<edge id='295' source='com.openintents.notepad.NoteEditor: onOptionsItemSelected(android.view.MenuItem)boolean' target='android.view.MenuItem: getGroupId()java.lang.Integer'/>
+			<edge id='296' source='com.openintents.notepad.NoteEditor: saveAsNote()void' target='com.openintents.notepad.NoteEditor: startActivityForResult(android.content.Intent,java.lang.Integer)void'/>
+			<edge id='297' source='com.openintents.notepad.NoteEditor: setLocalStyle(II)void' target='android.content.res.Resources: getResourceName(java.lang.Integer)java.lang.String'/>
+			<edge id='298' source='com.openintents.notepad.NoteEditor: onCreate(android.os.Bundle)void' target='com.openintents.notepad.NoteEditor: managedQuery(android.net.Uri,[Ljava.lang.String,java.lang.String,[Ljava.lang.String,java.lang.String)android.database.Cursor'/>
+			<edge id='299' source='com.openintents.notepad.NoteEditor: onCreate(android.os.Bundle)void' target='com.openintents.notepad.NoteEditor: setResult(ILandroid.content.Intent)void'/>
+			<edge id='300' source='com.openintents.notepad.NoteEditor: onCreate(android.os.Bundle)void' target='com.openintents.notepad.NoteEditor: getIntent()android.content.Intent'/>
+			<edge id='301' source='com.openintents.notepad.NoteEditor: onCreateOptionsMenu(android.view.Menu)boolean' target='android.content.Intent: init()void'/>
+			<edge id='302' source='com.openintents.notepad.NoteEditor: onPause()void' target='android.database.Cursor: getString(java.lang.Integer)java.lang.String'/>
+			<edge id='303' source='com.openintents.notepad.NoteEditor: setThemeForAll(android.content.Context,java.lang.String)void' target='android.content.ContentValues: init()void'/>
+			<edge id='304' source='com.openintents.notepad.NoteEditor: startTextSelectionActivity(android.content.Intent)void' target='android.content.Intent: init(android.content.Intent)void'/>
+			<edge id='305' source='com.openintents.notepad.NoteEditor: encryptNote(boolean)void' target='com.openintents.notepad.crypto.EncryptActivity: getPendingEncryptActivities()java.lang.Integer'/>
+			<edge id='306' source='com.openintents.notepad.NoteEditor: importNote()void' target='android.content.Intent: setData(android.net.Uri)android.content.Intent'/>
+			<edge id='307' source='com.openintents.notepad.NoteEditor: onCreate(android.os.Bundle)void' target='java.lang.StringBuilder: init(java.lang.String)void'/>
+			<edge id='308' source='com.openintents.notepad.NoteEditor: getNoteFromContentProvider()void' target='com.openintents.notepad.NoteEditor: setFeatureDrawableResource(II)void'/>
+			<edge id='309' source='com.openintents.notepad.NoteEditor: onCreateOptionsMenu(android.view.Menu)boolean' target='android.content.Intent: addCategory(java.lang.String)android.content.Intent'/>
+			<edge id='310' source='com.openintents.notepad.NoteEditor: onPause()void' target='android.content.ContentValues: put(java.lang.String,java.lang.String)void'/>
+			<edge id='311' source='com.openintents.notepad.NoteEditor: access$2(com.openintents.notepad.NoteEditor)void' target='com.openintents.notepad.NoteEditor: saveNote()void'/>
+			<edge id='312' source='com.openintents.notepad.NoteEditor: onPrepareOptionsMenu(android.view.Menu)boolean' target='com.openintents.notepad.NoteEditor: isNoteUnencrypted()boolean'/>
+			<edge id='313' source='com.openintents.notepad.NoteEditor: onPause()void' target='android.widget.EditText: setAutoLinkMask(java.lang.Integer)void'/>
+			<edge id='314' source='com.openintents.notepad.NoteEditor: onSaveInstanceState(android.os.Bundle)void' target='android.net.Uri: toString()java.lang.String'/>
+			<edge id='315' source='com.openintents.notepad.NoteEditor: onCreate(android.os.Bundle)void' target='com.openintents.notepad.NoteEditor: readFile(java.io.File)java.lang.String'/>
+			<edge id='316' source='com.openintents.notepad.NoteEditor: onOptionsItemSelected(android.view.MenuItem)boolean' target='android.view.MenuItem: getItemId()java.lang.Integer'/>
+			<edge id='317' source='com.openintents.notepad.NoteEditor: readFile(java.io.File)java.lang.String' target='java.io.FileInputStream: init(java.io.File)void'/>
+			<edge id='318' source='com.openintents.notepad.NoteEditor: getNoteFromContentProvider()void' target='android.text.Editable: toString()java.lang.String'/>
+			<edge id='319' source='com.openintents.notepad.NoteEditor: onCreate(android.os.Bundle)void' target='android.widget.LinearLayout: addView(android.view.View,android.view.ViewGroup$LayoutParams)void'/>
+			<edge id='320' source='com.openintents.notepad.NoteEditor: unencryptNote()void' target='android.content.ContentValues: init()void'/>
+			<edge id='321' source='com.openintents.notepad.NoteEditor: onLoadTheme()java.lang.String' target='com.openintents.notepad.NoteEditor: loadTheme()java.lang.String'/>
+			<edge id='322' source='com.openintents.notepad.NoteEditor: onCreate(android.os.Bundle)void' target='com.openintents.notepad.NoteEditor: getContentResolver()android.content.ContentResolver'/>
+			<edge id='323' source='com.openintents.notepad.NoteEditor: showNotesListSettings()void' target='android.content.Intent: init(android.content.Context,java.lang.Class)void'/>
+			<edge id='324' source='com.openintents.notepad.NoteEditor: startTextSelectionActivity(android.content.Intent)void' target='android.widget.EditText: getSelectionStart()java.lang.Integer'/>
+			<edge id='325' source='com.openintents.notepad.NoteEditor: startTextSelectionActivity(android.content.Intent)void' target='android.content.Intent: putExtra(java.lang.String,java.lang.String)android.content.Intent'/>
+			<edge id='326' source='com.openintents.notepad.NoteEditor: getMostRecentlyUsedTheme()java.lang.String' target='android.database.Cursor: moveToFirst()boolean'/>
+			<edge id='327' source='com.openintents.notepad.NoteEditor: startTextSelectionActivity(android.content.Intent)void' target='java.lang.String: substring(java.lang.Integer)java.lang.String'/>
+			<edge id='328' source='com.openintents.notepad.NoteEditor: getNoteFromContentProvider()void' target='java.lang.String: equals(java.lang.Object)boolean'/>
+			<edge id='329' source='com.openintents.notepad.NoteEditor: onCreate(android.os.Bundle)void' target='android.widget.EditText: addTextChangedListener(android.text.TextWatcher)void'/>
+			<edge id='330' source='com.openintents.notepad.NoteEditor: getNoteFromContentProvider()void' target='android.database.Cursor: getString(java.lang.Integer)java.lang.String'/>
+			<edge id='331' source='com.openintents.notepad.NoteEditor: getTextSizeSmall(com.openintents.notepad.theme.ThemeAttributes)F' target='com.openintents.notepad.NoteEditor: getTextSizeMedium(com.openintents.notepad.theme.ThemeAttributes)F'/>
+			<edge id='332' source='com.openintents.notepad.NoteEditor: insertAtPoint(java.lang.String,java.lang.String,java.lang.String)void' target='android.widget.EditText: setSelection(II)void'/>
+			<edge id='333' source='com.openintents.notepad.NoteEditor: onCreate(android.os.Bundle)void' target='com.openintents.notepad.NoteEditor: getMostRecentlyUsedTheme()java.lang.String'/>
+			<edge id='334' source='com.openintents.notepad.NoteEditor: getUnsavedChangesWarningDialog()android.app.Dialog' target='android.app.AlertDialog$Builder: setIcon(java.lang.Integer)android.app.AlertDialog$Builder'/>
+			<edge id='335' source='com.openintents.notepad.NoteEditor: getMostRecentlyUsedTheme()java.lang.String' target='com.openintents.notepad.NoteEditor: getContentResolver()android.content.ContentResolver'/>
+			<edge id='336' source='com.openintents.notepad.NoteEditor: onCreate(android.os.Bundle)void' target='android.content.Intent: getStringExtra(java.lang.String)java.lang.String'/>
+			<edge id='337' source='com.openintents.notepad.NoteEditor: encryptNote(boolean)void' target='com.openintents.notepad.NoteEditor: isNoteUnencrypted()boolean'/>
+			<edge id='338' source='com.openintents.notepad.NoteEditor: onPause()void' target='android.content.ContentResolver: update(android.net.Uri,android.content.ContentValues,java.lang.String,[Ljava.lang.String)java.lang.Integer'/>
+			<edge id='339' source='com.openintents.notepad.NoteEditor: onCreate(android.os.Bundle)void' target='com.openintents.notepad.NoteEditor: findViewById(java.lang.Integer)android.view.View'/>
+			<edge id='340' source='com.openintents.notepad.NoteEditor: onCreate(android.os.Bundle)void' target='com.openintents.notepad.util.FileUriUtils: getFile(android.net.Uri)java.io.File'/>
+			<edge id='341' source='com.openintents.notepad.NoteEditor: onPrepareOptionsMenu(android.view.Menu)boolean' target='android.view.Menu: setGroupVisible(IZ)void'/>
+			<edge id='342' source='com.openintents.notepad.NoteEditor: onOptionsItemSelected(android.view.MenuItem)boolean' target='com.openintents.notepad.NoteEditor: revertNote()void'/>
+			<edge id='343' source='com.openintents.notepad.NoteEditor: onCreate(android.os.Bundle)void' target='android.os.Bundle: getString(java.lang.String)java.lang.String'/>
+			<edge id='344' source='com.openintents.notepad.NoteEditor: encryptNote(boolean)void' target='android.content.Intent: putExtra(java.lang.String,java.lang.String)android.content.Intent'/>
+			<edge id='345' source='com.openintents.notepad.NoteEditor: importNote()void' target='android.content.Intent: init()void'/>
+			<edge id='346' source='com.openintents.notepad.NoteEditor: getNoteFromContentProvider()void' target='android.content.Intent: putExtra(java.lang.String,J)android.content.Intent'/>
+			<edge id='347' source='com.openintents.notepad.NoteEditor: onCreate(android.os.Bundle)void' target='android.app.Activity: onCreate(android.os.Bundle)void'/>
+			<edge id='348' source='com.openintents.notepad.NoteEditor: insertAtPoint(java.lang.String,java.lang.String,java.lang.String)void' target='java.lang.Long: valueOf(J)java.lang.Long'/>
+			<edge id='349' source='com.openintents.notepad.NoteEditor: setRemoteStyle(java.lang.String,java.lang.Integer)boolean' target='android.content.res.Resources: getIdentifier(java.lang.String,java.lang.String,java.lang.String)java.lang.Integer'/>
+			<edge id='350' source='com.openintents.notepad.NoteEditor: unencryptNote()void' target='android.widget.EditText: getText()android.text.Editable'/>
+			<edge id='351' source='com.openintents.notepad.NoteEditor: onActivityResult(IILandroid.content.Intent)void' target='android.content.Intent: getStringExtra(java.lang.String)java.lang.String'/>
+			<edge id='352' source='com.openintents.notepad.NoteEditor: setRemoteStyle(java.lang.String,java.lang.Integer)boolean' target='com.openintents.notepad.NoteEditor: getTextSizeLarge(com.openintents.notepad.theme.ThemeAttributes)F'/>
+			<edge id='353' source='com.openintents.notepad.NoteEditor: getNoteFromContentProvider()void' target='android.content.Intent: init()void'/>
+			<edge id='354' source='com.openintents.notepad.NoteEditor: saveAsNote()void' target='android.content.Intent: init()void'/>
+			<edge id='355' source='com.openintents.notepad.NoteEditor: startTextSelectionActivity(android.content.Intent)void' target='android.widget.EditText: getSelectionEnd()java.lang.Integer'/>
+			<edge id='356' source='com.openintents.notepad.NoteEditor: setThemeSettings()void' target='com.openintents.notepad.NoteEditor: showDialog(java.lang.Integer)void'/>
+			<edge id='357' source='com.openintents.notepad.NoteEditor: applyTheme()void' target='android.widget.EditText: setTypeface(android.graphics.Typeface)void'/>
+			<edge id='358' source='com.openintents.notepad.NoteEditor: onSaveInstanceState(android.os.Bundle)void' target='android.widget.EditText: getSelectionStart()java.lang.Integer'/>
+			<edge id='359' source='com.openintents.notepad.NoteEditor: setRemoteStyle(java.lang.String,java.lang.Integer)boolean' target='android.util.Log: e(java.lang.String,java.lang.String,java.lang.Throwable)java.lang.Integer'/>
+			<edge id='360' source='com.openintents.notepad.NoteEditor: insertAtPoint(java.lang.String,java.lang.String,java.lang.String)void' target='android.content.ContentValues: init()void'/>
+			<edge id='361' source='com.openintents.notepad.NoteEditor: getNoteFromContentProvider()void' target='android.widget.EditText: setTextKeepState(java.lang.CharSequence)void'/>
+			<edge id='362' source='com.openintents.notepad.NoteEditor: onCreate(android.os.Bundle)void' target='android.widget.LinearLayout: invalidate()void'/>
+			<edge id='363' source='com.openintents.notepad.NoteEditor: revertNote()void' target='java.lang.String: equals(java.lang.Object)boolean'/>
+			<edge id='364' source='com.openintents.notepad.NoteEditor: getUnsavedChangesWarningDialog()android.app.Dialog' target='android.app.AlertDialog$Builder: setMessage(java.lang.Integer)android.app.AlertDialog$Builder'/>
+			<edge id='365' source='com.openintents.notepad.NoteEditor: onCreate(android.os.Bundle)void' target='android.net.Uri: parse(java.lang.String)android.net.Uri'/>
+			<edge id='366' source='com.openintents.notepad.NoteEditor: setTheme(java.lang.String)void' target='com.openintents.notepad.NoteEditor: setRemoteStyle(java.lang.String,java.lang.Integer)boolean'/>
+			<edge id='367' source='com.openintents.notepad.NoteEditor: applyTheme()void' target='android.widget.EditText: setTextColor(java.lang.Integer)void'/>
+			<edge id='368' source='com.openintents.notepad.NoteEditor: applyTheme()void' target='com.openintents.notepad.PreferenceActivity: getAutoLinkFromPreference(android.content.Context)java.lang.Integer'/>
+			<edge id='369' source='com.openintents.notepad.NoteEditor: init()void' target='com.openintents.notepad.NoteEditor$1: init(com.openintents.notepad.NoteEditor)void'/>
+		</edges>
+	</graph>
+</gexf>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<gexf xmlns='qianniao918@qq.com' version='1.2' xmlns:viz='http://www.gexf.net/1.2draft/viz'> xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd'>
+	<meta lastmodifieddate='2014-9-21'>
+		<creator>FanMing</creator>
+		<description>An Android APK Method SCN!</description>
+	</meta>
+	<graph mode='static' defaultedgettype='directed'>
+		<nodes>
+		<node id='java.lang.Object: init()void' label='java.lang.Object: init()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.geinimi.c.d: a(DD)void' label='com.geinimi.c.d: a(DD)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.location.Location: getLatitude()D' label='android.location.Location: getLatitude()D'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='com.geinimi.c.f: init()void' label='com.geinimi.c.f: init()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.geinimi.c.f: onLocationChanged(android.location.Location)void' label='com.geinimi.c.f: onLocationChanged(android.location.Location)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.location.Location: getLongitude()D' label='android.location.Location: getLongitude()D'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		</nodes>
+		<edges>
+			<edge id='0' source='com.geinimi.c.f: onLocationChanged(android.location.Location)void' target='android.location.Location: getLongitude()D'/>
+			<edge id='1' source='com.geinimi.c.f: onLocationChanged(android.location.Location)void' target='com.geinimi.c.d: a(DD)void'/>
+			<edge id='2' source='com.geinimi.c.f: init()void' target='java.lang.Object: init()void'/>
+			<edge id='3' source='com.geinimi.c.f: onLocationChanged(android.location.Location)void' target='android.location.Location: getLatitude()D'/>
+		</edges>
+	</graph>
+</gexf>

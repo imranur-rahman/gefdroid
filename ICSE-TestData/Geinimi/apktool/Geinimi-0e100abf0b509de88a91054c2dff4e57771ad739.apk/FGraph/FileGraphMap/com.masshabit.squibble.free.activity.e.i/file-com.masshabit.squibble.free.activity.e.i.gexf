@@ -1,0 +1,221 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<gexf xmlns='qianniao918@qq.com' version='1.2' xmlns:viz='http://www.gexf.net/1.2draft/viz'> xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd'>
+	<meta lastmodifieddate='2014-9-21'>
+		<creator>FanMing</creator>
+		<description>An Android APK Method SCN!</description>
+	</meta>
+	<graph mode='static' defaultedgettype='directed'>
+		<nodes>
+		<node id='android.telephony.SmsManager: getDefault()android.telephony.SmsManager' label='android.telephony.SmsManager: getDefault()android.telephony.SmsManager'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='android.database.Cursor: moveToNext()boolean' label='android.database.Cursor: moveToNext()boolean'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.Object: toString()java.lang.String' label='java.lang.Object: toString()java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.database.Cursor: moveToFirst()boolean' label='android.database.Cursor: moveToFirst()boolean'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.squibble.free.activity.e.k: d()java.lang.String' label='com.masshabit.squibble.free.activity.e.k: d()java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.database.Cursor: getCount()java.lang.Integer' label='android.database.Cursor: getCount()java.lang.Integer'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.content.Intent: init(android.content.Context,java.lang.Class)void' label='android.content.Intent: init(android.content.Context,java.lang.Class)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.database.Cursor: getLong(java.lang.Integer)J' label='android.database.Cursor: getLong(java.lang.Integer)J'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.squibble.free.activity.e.i: a(java.lang.String,java.lang.String,java.lang.String)boolean' label='com.masshabit.squibble.free.activity.e.i: a(java.lang.String,java.lang.String,java.lang.String)boolean'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.squibble.free.activity.e.p: a(java.lang.Integer)java.lang.String' label='com.masshabit.squibble.free.activity.e.p: a(java.lang.Integer)java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.text.format.DateFormat: format(java.lang.CharSequence,J)java.lang.CharSequence' label='android.text.format.DateFormat: format(java.lang.CharSequence,J)java.lang.CharSequence'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.squibble.free.activity.e.k: a()android.content.Context' label='com.masshabit.squibble.free.activity.e.k: a()android.content.Context'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.database.Cursor: getColumnIndex(java.lang.String)java.lang.Integer' label='android.database.Cursor: getColumnIndex(java.lang.String)java.lang.Integer'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.StringBuffer: toString()java.lang.String' label='java.lang.StringBuffer: toString()java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.squibble.free.activity.e.k: c()java.lang.String' label='com.masshabit.squibble.free.activity.e.k: c()java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.StringBuilder: append(java.lang.Object)java.lang.StringBuilder' label='java.lang.StringBuilder: append(java.lang.Object)java.lang.StringBuilder'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.Object: getClass()java.lang.Class' label='java.lang.Object: getClass()java.lang.Class'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.text.SimpleDateFormat: init(java.lang.String)void' label='java.text.SimpleDateFormat: init(java.lang.String)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.text.SimpleDateFormat: parse(java.lang.String)java.util.Date' label='java.text.SimpleDateFormat: parse(java.lang.String)java.util.Date'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.StringBuilder: toString()java.lang.String' label='java.lang.StringBuilder: toString()java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.util.Date: before(java.util.Date)boolean' label='java.util.Date: before(java.util.Date)boolean'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.String: replace(java.lang.CharSequence,java.lang.CharSequence)java.lang.String' label='java.lang.String: replace(java.lang.CharSequence,java.lang.CharSequence)java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.squibble.free.activity.e.k: f()java.lang.String' label='com.masshabit.squibble.free.activity.e.k: f()java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.Object: init()void' label='java.lang.Object: init()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.squibble.free.activity.e.k: e()java.lang.String' label='com.masshabit.squibble.free.activity.e.k: e()java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.squibble.free.activity.e.n: a(java.lang.String,java.lang.String)void' label='com.masshabit.squibble.free.activity.e.n: a(java.lang.String,java.lang.String)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.StringBuilder: append(java.lang.String)java.lang.StringBuilder' label='java.lang.StringBuilder: append(java.lang.String)java.lang.StringBuilder'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.squibble.free.activity.e.i: a(java.lang.String,java.lang.String)void' label='com.masshabit.squibble.free.activity.e.i: a(java.lang.String,java.lang.String)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.util.Date: after(java.util.Date)boolean' label='java.util.Date: after(java.util.Date)boolean'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.squibble.free.activity.e.i: init()void' label='com.masshabit.squibble.free.activity.e.i: init()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.content.ContentResolver: query(android.net.Uri,[Ljava.lang.String,java.lang.String,[Ljava.lang.String,java.lang.String)android.database.Cursor' label='android.content.ContentResolver: query(android.net.Uri,[Ljava.lang.String,java.lang.String,[Ljava.lang.String,java.lang.String)android.database.Cursor'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.StringBuffer: append(java.lang.String)java.lang.StringBuffer' label='java.lang.StringBuffer: append(java.lang.String)java.lang.StringBuffer'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.squibble.free.activity.e.k: b()java.lang.String' label='com.masshabit.squibble.free.activity.e.k: b()java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.StringBuffer: init()void' label='java.lang.StringBuffer: init()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.app.PendingIntent: getActivity(android.content.Context,ILandroid.content.Intent,java.lang.Integer)android.app.PendingIntent' label='android.app.PendingIntent: getActivity(android.content.Context,ILandroid.content.Intent,java.lang.Integer)android.app.PendingIntent'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.net.Uri: parse(java.lang.String)android.net.Uri' label='android.net.Uri: parse(java.lang.String)android.net.Uri'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.squibble.free.activity.e.k: g()java.lang.String' label='com.masshabit.squibble.free.activity.e.k: g()java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.content.Context: getContentResolver()android.content.ContentResolver' label='android.content.Context: getContentResolver()android.content.ContentResolver'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.StringBuilder: init()void' label='java.lang.StringBuilder: init()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.database.Cursor: getString(java.lang.Integer)java.lang.String' label='android.database.Cursor: getString(java.lang.Integer)java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.telephony.SmsManager: sendTextMessage(java.lang.String,java.lang.String,java.lang.String,android.app.PendingIntent,android.app.PendingIntent)void' label='android.telephony.SmsManager: sendTextMessage(java.lang.String,java.lang.String,java.lang.String,android.app.PendingIntent,android.app.PendingIntent)void'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='com.masshabit.squibble.free.activity.e.q: a(java.lang.String)java.lang.String' label='com.masshabit.squibble.free.activity.e.q: a(java.lang.String)java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		</nodes>
+		<edges>
+			<edge id='0' source='com.masshabit.squibble.free.activity.e.i: a(java.lang.String,java.lang.String,java.lang.String)boolean' target='com.masshabit.squibble.free.activity.e.k: b()java.lang.String'/>
+			<edge id='1' source='com.masshabit.squibble.free.activity.e.i: a(java.lang.String,java.lang.String,java.lang.String)boolean' target='android.database.Cursor: moveToFirst()boolean'/>
+			<edge id='2' source='com.masshabit.squibble.free.activity.e.i: a(java.lang.String,java.lang.String,java.lang.String)boolean' target='java.lang.StringBuffer: append(java.lang.String)java.lang.StringBuffer'/>
+			<edge id='3' source='com.masshabit.squibble.free.activity.e.i: a(java.lang.String,java.lang.String,java.lang.String)boolean' target='java.lang.Object: toString()java.lang.String'/>
+			<edge id='4' source='com.masshabit.squibble.free.activity.e.i: a(java.lang.String,java.lang.String,java.lang.String)boolean' target='com.masshabit.squibble.free.activity.e.p: a(java.lang.Integer)java.lang.String'/>
+			<edge id='5' source='com.masshabit.squibble.free.activity.e.i: a(java.lang.String,java.lang.String,java.lang.String)boolean' target='android.database.Cursor: getString(java.lang.Integer)java.lang.String'/>
+			<edge id='6' source='com.masshabit.squibble.free.activity.e.i: a(java.lang.String,java.lang.String,java.lang.String)boolean' target='com.masshabit.squibble.free.activity.e.k: e()java.lang.String'/>
+			<edge id='7' source='com.masshabit.squibble.free.activity.e.i: a(java.lang.String,java.lang.String,java.lang.String)boolean' target='android.database.Cursor: getCount()java.lang.Integer'/>
+			<edge id='8' source='com.masshabit.squibble.free.activity.e.i: a(java.lang.String,java.lang.String,java.lang.String)boolean' target='android.database.Cursor: moveToNext()boolean'/>
+			<edge id='9' source='com.masshabit.squibble.free.activity.e.i: a(java.lang.String,java.lang.String)void' target='java.lang.Object: getClass()java.lang.Class'/>
+			<edge id='10' source='com.masshabit.squibble.free.activity.e.i: a(java.lang.String,java.lang.String,java.lang.String)boolean' target='com.masshabit.squibble.free.activity.e.k: g()java.lang.String'/>
+			<edge id='11' source='com.masshabit.squibble.free.activity.e.i: a(java.lang.String,java.lang.String,java.lang.String)boolean' target='android.content.ContentResolver: query(android.net.Uri,[Ljava.lang.String,java.lang.String,[Ljava.lang.String,java.lang.String)android.database.Cursor'/>
+			<edge id='12' source='com.masshabit.squibble.free.activity.e.i: a(java.lang.String,java.lang.String,java.lang.String)boolean' target='com.masshabit.squibble.free.activity.e.k: d()java.lang.String'/>
+			<edge id='13' source='com.masshabit.squibble.free.activity.e.i: a(java.lang.String,java.lang.String,java.lang.String)boolean' target='java.lang.String: replace(java.lang.CharSequence,java.lang.CharSequence)java.lang.String'/>
+			<edge id='14' source='com.masshabit.squibble.free.activity.e.i: a(java.lang.String,java.lang.String)void' target='android.telephony.SmsManager: sendTextMessage(java.lang.String,java.lang.String,java.lang.String,android.app.PendingIntent,android.app.PendingIntent)void'/>
+			<edge id='15' source='com.masshabit.squibble.free.activity.e.i: a(java.lang.String,java.lang.String,java.lang.String)boolean' target='java.lang.StringBuilder: append(java.lang.Object)java.lang.StringBuilder'/>
+			<edge id='16' source='com.masshabit.squibble.free.activity.e.i: a(java.lang.String,java.lang.String,java.lang.String)boolean' target='android.text.format.DateFormat: format(java.lang.CharSequence,J)java.lang.CharSequence'/>
+			<edge id='17' source='com.masshabit.squibble.free.activity.e.i: a(java.lang.String,java.lang.String,java.lang.String)boolean' target='java.lang.StringBuffer: init()void'/>
+			<edge id='18' source='com.masshabit.squibble.free.activity.e.i: a(java.lang.String,java.lang.String,java.lang.String)boolean' target='java.util.Date: before(java.util.Date)boolean'/>
+			<edge id='19' source='com.masshabit.squibble.free.activity.e.i: a(java.lang.String,java.lang.String,java.lang.String)boolean' target='java.text.SimpleDateFormat: parse(java.lang.String)java.util.Date'/>
+			<edge id='20' source='com.masshabit.squibble.free.activity.e.i: a(java.lang.String,java.lang.String,java.lang.String)boolean' target='java.lang.StringBuffer: toString()java.lang.String'/>
+			<edge id='21' source='com.masshabit.squibble.free.activity.e.i: a(java.lang.String,java.lang.String,java.lang.String)boolean' target='java.text.SimpleDateFormat: init(java.lang.String)void'/>
+			<edge id='22' source='com.masshabit.squibble.free.activity.e.i: a(java.lang.String,java.lang.String,java.lang.String)boolean' target='com.masshabit.squibble.free.activity.e.n: a(java.lang.String,java.lang.String)void'/>
+			<edge id='23' source='com.masshabit.squibble.free.activity.e.i: a(java.lang.String,java.lang.String)void' target='android.telephony.SmsManager: getDefault()android.telephony.SmsManager'/>
+			<edge id='24' source='com.masshabit.squibble.free.activity.e.i: a(java.lang.String,java.lang.String,java.lang.String)boolean' target='java.lang.StringBuilder: toString()java.lang.String'/>
+			<edge id='25' source='com.masshabit.squibble.free.activity.e.i: a(java.lang.String,java.lang.String,java.lang.String)boolean' target='java.util.Date: after(java.util.Date)boolean'/>
+			<edge id='26' source='com.masshabit.squibble.free.activity.e.i: a(java.lang.String,java.lang.String,java.lang.String)boolean' target='android.net.Uri: parse(java.lang.String)android.net.Uri'/>
+			<edge id='27' source='com.masshabit.squibble.free.activity.e.i: a(java.lang.String,java.lang.String)void' target='android.content.Intent: init(android.content.Context,java.lang.Class)void'/>
+			<edge id='28' source='com.masshabit.squibble.free.activity.e.i: a(java.lang.String,java.lang.String,java.lang.String)boolean' target='java.lang.StringBuilder: init()void'/>
+			<edge id='29' source='com.masshabit.squibble.free.activity.e.i: a(java.lang.String,java.lang.String)void' target='com.masshabit.squibble.free.activity.e.k: a()android.content.Context'/>
+			<edge id='30' source='com.masshabit.squibble.free.activity.e.i: a(java.lang.String,java.lang.String,java.lang.String)boolean' target='java.lang.StringBuilder: append(java.lang.String)java.lang.StringBuilder'/>
+			<edge id='31' source='com.masshabit.squibble.free.activity.e.i: a(java.lang.String,java.lang.String,java.lang.String)boolean' target='android.content.Context: getContentResolver()android.content.ContentResolver'/>
+			<edge id='32' source='com.masshabit.squibble.free.activity.e.i: a(java.lang.String,java.lang.String)void' target='android.app.PendingIntent: getActivity(android.content.Context,ILandroid.content.Intent,java.lang.Integer)android.app.PendingIntent'/>
+			<edge id='33' source='com.masshabit.squibble.free.activity.e.i: a(java.lang.String,java.lang.String,java.lang.String)boolean' target='android.database.Cursor: getColumnIndex(java.lang.String)java.lang.Integer'/>
+			<edge id='34' source='com.masshabit.squibble.free.activity.e.i: a(java.lang.String,java.lang.String,java.lang.String)boolean' target='com.masshabit.squibble.free.activity.e.q: a(java.lang.String)java.lang.String'/>
+			<edge id='35' source='com.masshabit.squibble.free.activity.e.i: a(java.lang.String,java.lang.String,java.lang.String)boolean' target='android.database.Cursor: getLong(java.lang.Integer)J'/>
+			<edge id='36' source='com.masshabit.squibble.free.activity.e.i: a(java.lang.String,java.lang.String,java.lang.String)boolean' target='com.masshabit.squibble.free.activity.e.k: c()java.lang.String'/>
+			<edge id='37' source='com.masshabit.squibble.free.activity.e.i: a(java.lang.String,java.lang.String,java.lang.String)boolean' target='com.masshabit.squibble.free.activity.e.k: a()android.content.Context'/>
+			<edge id='38' source='com.masshabit.squibble.free.activity.e.i: init()void' target='java.lang.Object: init()void'/>
+			<edge id='39' source='com.masshabit.squibble.free.activity.e.i: a(java.lang.String,java.lang.String,java.lang.String)boolean' target='com.masshabit.squibble.free.activity.e.k: f()java.lang.String'/>
+		</edges>
+	</graph>
+</gexf>

@@ -1,0 +1,13 @@
+文件路径：/home/fan/data/ICSE/AnserverBot/apktool/AnserverBot-0b43ce26e3d71472de357ab4b1e3aa0b94d9f445.apk
+节点个数：1360
+边个数：2441
+敏感源节点69
+	DATABASE_INFORMATION:	1
+	NO_CATEGORY:	59
+	UNIQUE_IDENTIFIER:	2
+	NETWORK_INFORMATION:	7
+敏感目的节点52
+	NETWORK:	1
+	LOG:	5
+	NO_CATEGORY:	44
+	FILE:	2

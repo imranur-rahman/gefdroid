@@ -1,0 +1,14 @@
+文件路径：/home/fan/data/ICSE/Geinimi/apktool/Geinimi-0d33dc4fe85e88cb70e9e1870497b4fc26c272c1.apk
+节点个数：825
+边个数：1537
+敏感源节点55
+	LOCATION_INFORMATION:	3
+	NO_CATEGORY:	35
+	UNIQUE_IDENTIFIER:	6
+	NETWORK_INFORMATION:	11
+敏感目的节点38
+	NETWORK:	2
+	SMS_MMS:	1
+	LOG:	2
+	NO_CATEGORY:	32
+	FILE:	1

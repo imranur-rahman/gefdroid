@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<gexf xmlns='qianniao918@qq.com' version='1.2' xmlns:viz='http://www.gexf.net/1.2draft/viz'> xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd'>
+	<meta lastmodifieddate='2014-9-21'>
+		<creator>FanMing</creator>
+		<description>An Android APK Method SCN!</description>
+	</meta>
+	<graph mode='static' defaultedgettype='directed'>
+		<nodes>
+		<node id='com.openintents.notepad.NotePadProvider$DatabaseHelper: init(android.content.Context)void' label='com.openintents.notepad.NotePadProvider$DatabaseHelper: init(android.content.Context)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.util.Log: w(java.lang.String,java.lang.String)java.lang.Integer' label='android.util.Log: w(java.lang.String,java.lang.String)java.lang.Integer'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='java.lang.StringBuilder: append(java.lang.String)java.lang.StringBuilder' label='java.lang.StringBuilder: append(java.lang.String)java.lang.StringBuilder'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.NotePadProvider$DatabaseHelper: getReadableDatabase()android.database.sqlite.SQLiteDatabase' label='com.openintents.notepad.NotePadProvider$DatabaseHelper: getReadableDatabase()android.database.sqlite.SQLiteDatabase'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.util.Log: e(java.lang.String,java.lang.String,java.lang.Throwable)java.lang.Integer' label='android.util.Log: e(java.lang.String,java.lang.String,java.lang.Throwable)java.lang.Integer'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.NotePadProvider$DatabaseHelper: onCreate(android.database.sqlite.SQLiteDatabase)void' label='com.openintents.notepad.NotePadProvider$DatabaseHelper: onCreate(android.database.sqlite.SQLiteDatabase)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.database.sqlite.SQLiteOpenHelper: init(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,java.lang.Integer)void' label='android.database.sqlite.SQLiteOpenHelper: init(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,java.lang.Integer)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.database.sqlite.SQLiteDatabase: execSQL(java.lang.String)void' label='android.database.sqlite.SQLiteDatabase: execSQL(java.lang.String)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.StringBuilder: toString()java.lang.String' label='java.lang.StringBuilder: toString()java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.NotePadProvider$DatabaseHelper: getWritableDatabase()android.database.sqlite.SQLiteDatabase' label='com.openintents.notepad.NotePadProvider$DatabaseHelper: getWritableDatabase()android.database.sqlite.SQLiteDatabase'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.openintents.notepad.NotePadProvider$DatabaseHelper: onUpgrade(android.database.sqlite.SQLiteDatabase,II)void' label='com.openintents.notepad.NotePadProvider$DatabaseHelper: onUpgrade(android.database.sqlite.SQLiteDatabase,II)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.StringBuilder: append(java.lang.Integer)java.lang.StringBuilder' label='java.lang.StringBuilder: append(java.lang.Integer)java.lang.StringBuilder'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.StringBuilder: init(java.lang.String)void' label='java.lang.StringBuilder: init(java.lang.String)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		</nodes>
+		<edges>
+			<edge id='0' source='com.openintents.notepad.NotePadProvider$DatabaseHelper: onUpgrade(android.database.sqlite.SQLiteDatabase,II)void' target='java.lang.StringBuilder: append(java.lang.Integer)java.lang.StringBuilder'/>
+			<edge id='1' source='com.openintents.notepad.NotePadProvider$DatabaseHelper: onUpgrade(android.database.sqlite.SQLiteDatabase,II)void' target='android.database.sqlite.SQLiteDatabase: execSQL(java.lang.String)void'/>
+			<edge id='2' source='com.openintents.notepad.NotePadProvider$DatabaseHelper: onUpgrade(android.database.sqlite.SQLiteDatabase,II)void' target='android.util.Log: e(java.lang.String,java.lang.String,java.lang.Throwable)java.lang.Integer'/>
+			<edge id='3' source='com.openintents.notepad.NotePadProvider$DatabaseHelper: onUpgrade(android.database.sqlite.SQLiteDatabase,II)void' target='java.lang.StringBuilder: append(java.lang.String)java.lang.StringBuilder'/>
+			<edge id='4' source='com.openintents.notepad.NotePadProvider$DatabaseHelper: onCreate(android.database.sqlite.SQLiteDatabase)void' target='android.database.sqlite.SQLiteDatabase: execSQL(java.lang.String)void'/>
+			<edge id='5' source='com.openintents.notepad.NotePadProvider$DatabaseHelper: onUpgrade(android.database.sqlite.SQLiteDatabase,II)void' target='com.openintents.notepad.NotePadProvider$DatabaseHelper: onCreate(android.database.sqlite.SQLiteDatabase)void'/>
+			<edge id='6' source='com.openintents.notepad.NotePadProvider$DatabaseHelper: onUpgrade(android.database.sqlite.SQLiteDatabase,II)void' target='android.util.Log: w(java.lang.String,java.lang.String)java.lang.Integer'/>
+			<edge id='7' source='com.openintents.notepad.NotePadProvider$DatabaseHelper: onUpgrade(android.database.sqlite.SQLiteDatabase,II)void' target='java.lang.StringBuilder: init(java.lang.String)void'/>
+			<edge id='8' source='com.openintents.notepad.NotePadProvider$DatabaseHelper: init(android.content.Context)void' target='android.database.sqlite.SQLiteOpenHelper: init(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,java.lang.Integer)void'/>
+			<edge id='9' source='com.openintents.notepad.NotePadProvider$DatabaseHelper: onUpgrade(android.database.sqlite.SQLiteDatabase,II)void' target='java.lang.StringBuilder: toString()java.lang.String'/>
+		</edges>
+	</graph>
+</gexf>

@@ -1,0 +1,2 @@
+43 ---> android.util.Log: d(java.lang.String,java.lang.String)java.lang.Integer
+65 ---> android.util.Log: e(java.lang.String,java.lang.String)java.lang.Integer

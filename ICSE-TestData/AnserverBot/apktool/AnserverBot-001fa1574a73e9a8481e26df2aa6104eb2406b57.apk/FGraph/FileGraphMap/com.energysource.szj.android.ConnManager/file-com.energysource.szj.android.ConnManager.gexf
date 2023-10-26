@@ -1,0 +1,121 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<gexf xmlns='qianniao918@qq.com' version='1.2' xmlns:viz='http://www.gexf.net/1.2draft/viz'> xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd'>
+	<meta lastmodifieddate='2014-9-21'>
+		<creator>FanMing</creator>
+		<description>An Android APK Method SCN!</description>
+	</meta>
+	<graph mode='static' defaultedgettype='directed'>
+		<nodes>
+		<node id='java.lang.Object: init()void' label='java.lang.Object: init()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.net.NetworkInfo: getType()java.lang.Integer' label='android.net.NetworkInfo: getType()java.lang.Integer'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='android.util.Log: w(java.lang.String,java.lang.String)java.lang.Integer' label='android.util.Log: w(java.lang.String,java.lang.String)java.lang.Integer'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='com.energysource.szj.android.ConnManager: isWifiConnected(android.content.Context)boolean' label='com.energysource.szj.android.ConnManager: isWifiConnected(android.content.Context)boolean'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.energysource.szj.android.ConnManager: isGprsConnected(android.content.Context)boolean' label='com.energysource.szj.android.ConnManager: isGprsConnected(android.content.Context)boolean'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.energysource.szj.android.ConnManager: getNetworkType(android.net.NetworkInfo)java.lang.Integer' label='com.energysource.szj.android.ConnManager: getNetworkType(android.net.NetworkInfo)java.lang.Integer'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.energysource.szj.android.ConnManager$OnConnStateChangedListener: onWifiConnected(android.net.NetworkInfo)void' label='com.energysource.szj.android.ConnManager$OnConnStateChangedListener: onWifiConnected(android.net.NetworkInfo)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.net.ConnectivityManager: getActiveNetworkInfo()android.net.NetworkInfo' label='android.net.ConnectivityManager: getActiveNetworkInfo()android.net.NetworkInfo'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='com.energysource.szj.android.ConnManager$OnConnStateChangedListener: onDisconnected(android.net.NetworkInfo)void' label='com.energysource.szj.android.ConnManager$OnConnStateChangedListener: onDisconnected(android.net.NetworkInfo)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.net.NetworkInfo: getState()android.net.NetworkInfo$State' label='android.net.NetworkInfo: getState()android.net.NetworkInfo$State'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='com.energysource.szj.android.ConnManager: handleConnStateChanged(android.net.NetworkInfo,android.content.Context)void' label='com.energysource.szj.android.ConnManager: handleConnStateChanged(android.net.NetworkInfo,android.content.Context)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.energysource.szj.android.ConnManager: clinit()void' label='com.energysource.szj.android.ConnManager: clinit()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.util.Log: i(java.lang.String,java.lang.String)java.lang.Integer' label='android.util.Log: i(java.lang.String,java.lang.String)java.lang.Integer'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='android.content.Context: getSystemService(java.lang.String)java.lang.Object' label='android.content.Context: getSystemService(java.lang.String)java.lang.Object'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.content.Context: startService(android.content.Intent)android.content.ComponentName' label='android.content.Context: startService(android.content.Intent)android.content.ComponentName'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.energysource.szj.android.ConnManager: init()void' label='com.energysource.szj.android.ConnManager: init()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.util.Log: v(java.lang.String,java.lang.String)java.lang.Integer' label='android.util.Log: v(java.lang.String,java.lang.String)java.lang.Integer'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='android.net.NetworkInfo: toString()java.lang.String' label='android.net.NetworkInfo: toString()java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.energysource.szj.android.ConnManager$OnConnStateChangedListener: onGprsConnected(android.net.NetworkInfo)void' label='com.energysource.szj.android.ConnManager$OnConnStateChangedListener: onGprsConnected(android.net.NetworkInfo)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.energysource.szj.android.ConnManager: getCurrentNetworkType(android.content.Context)java.lang.Integer' label='com.energysource.szj.android.ConnManager: getCurrentNetworkType(android.content.Context)java.lang.Integer'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.content.Intent: init(java.lang.String)void' label='android.content.Intent: init(java.lang.String)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.energysource.szj.android.ConnManager: isConnecting(android.content.Context)boolean' label='com.energysource.szj.android.ConnManager: isConnecting(android.content.Context)boolean'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		</nodes>
+		<edges>
+			<edge id='0' source='com.energysource.szj.android.ConnManager: handleConnStateChanged(android.net.NetworkInfo,android.content.Context)void' target='android.util.Log: v(java.lang.String,java.lang.String)java.lang.Integer'/>
+			<edge id='1' source='com.energysource.szj.android.ConnManager: handleConnStateChanged(android.net.NetworkInfo,android.content.Context)void' target='com.energysource.szj.android.ConnManager$OnConnStateChangedListener: onWifiConnected(android.net.NetworkInfo)void'/>
+			<edge id='2' source='com.energysource.szj.android.ConnManager: init()void' target='java.lang.Object: init()void'/>
+			<edge id='3' source='com.energysource.szj.android.ConnManager: getNetworkType(android.net.NetworkInfo)java.lang.Integer' target='android.net.NetworkInfo: getType()java.lang.Integer'/>
+			<edge id='4' source='com.energysource.szj.android.ConnManager: handleConnStateChanged(android.net.NetworkInfo,android.content.Context)void' target='android.util.Log: w(java.lang.String,java.lang.String)java.lang.Integer'/>
+			<edge id='5' source='com.energysource.szj.android.ConnManager: isGprsConnected(android.content.Context)boolean' target='com.energysource.szj.android.ConnManager: getCurrentNetworkType(android.content.Context)java.lang.Integer'/>
+			<edge id='6' source='com.energysource.szj.android.ConnManager: handleConnStateChanged(android.net.NetworkInfo,android.content.Context)void' target='com.energysource.szj.android.ConnManager: getNetworkType(android.net.NetworkInfo)java.lang.Integer'/>
+			<edge id='7' source='com.energysource.szj.android.ConnManager: isConnecting(android.content.Context)boolean' target='com.energysource.szj.android.ConnManager: getCurrentNetworkType(android.content.Context)java.lang.Integer'/>
+			<edge id='8' source='com.energysource.szj.android.ConnManager: isWifiConnected(android.content.Context)boolean' target='com.energysource.szj.android.ConnManager: getCurrentNetworkType(android.content.Context)java.lang.Integer'/>
+			<edge id='9' source='com.energysource.szj.android.ConnManager: handleConnStateChanged(android.net.NetworkInfo,android.content.Context)void' target='android.net.NetworkInfo: toString()java.lang.String'/>
+			<edge id='10' source='com.energysource.szj.android.ConnManager: getNetworkType(android.net.NetworkInfo)java.lang.Integer' target='android.net.NetworkInfo: getState()android.net.NetworkInfo$State'/>
+			<edge id='11' source='com.energysource.szj.android.ConnManager: handleConnStateChanged(android.net.NetworkInfo,android.content.Context)void' target='com.energysource.szj.android.ConnManager$OnConnStateChangedListener: onDisconnected(android.net.NetworkInfo)void'/>
+			<edge id='12' source='com.energysource.szj.android.ConnManager: handleConnStateChanged(android.net.NetworkInfo,android.content.Context)void' target='android.util.Log: i(java.lang.String,java.lang.String)java.lang.Integer'/>
+			<edge id='13' source='com.energysource.szj.android.ConnManager: getCurrentNetworkType(android.content.Context)java.lang.Integer' target='android.net.ConnectivityManager: getActiveNetworkInfo()android.net.NetworkInfo'/>
+			<edge id='14' source='com.energysource.szj.android.ConnManager: handleConnStateChanged(android.net.NetworkInfo,android.content.Context)void' target='android.content.Context: startService(android.content.Intent)android.content.ComponentName'/>
+			<edge id='15' source='com.energysource.szj.android.ConnManager: handleConnStateChanged(android.net.NetworkInfo,android.content.Context)void' target='com.energysource.szj.android.ConnManager$OnConnStateChangedListener: onGprsConnected(android.net.NetworkInfo)void'/>
+			<edge id='16' source='com.energysource.szj.android.ConnManager: handleConnStateChanged(android.net.NetworkInfo,android.content.Context)void' target='android.content.Intent: init(java.lang.String)void'/>
+			<edge id='17' source='com.energysource.szj.android.ConnManager: getCurrentNetworkType(android.content.Context)java.lang.Integer' target='com.energysource.szj.android.ConnManager: getNetworkType(android.net.NetworkInfo)java.lang.Integer'/>
+			<edge id='18' source='com.energysource.szj.android.ConnManager: getCurrentNetworkType(android.content.Context)java.lang.Integer' target='android.content.Context: getSystemService(java.lang.String)java.lang.Object'/>
+			<edge id='19' source='com.energysource.szj.android.ConnManager: clinit()void' target='com.energysource.szj.android.ConnManager: init()void'/>
+		</edges>
+	</graph>
+</gexf>

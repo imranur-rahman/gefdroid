@@ -1,0 +1,397 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<gexf xmlns='qianniao918@qq.com' version='1.2' xmlns:viz='http://www.gexf.net/1.2draft/viz'> xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd'>
+	<meta lastmodifieddate='2014-9-21'>
+		<creator>FanMing</creator>
+		<description>An Android APK Method SCN!</description>
+	</meta>
+	<graph mode='static' defaultedgettype='directed'>
+		<nodes>
+		<node id='java.io.DataOutputStream: write([B)void' label='java.io.DataOutputStream: write([B)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.net.HttpURLConnection: setUseCaches(boolean)void' label='java.net.HttpURLConnection: setUseCaches(boolean)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.io.DataInputStream: close()void' label='java.io.DataInputStream: close()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.StringBuilder: append(boolean)java.lang.StringBuilder' label='java.lang.StringBuilder: append(boolean)java.lang.StringBuilder'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.io.InputStream: close()void' label='java.io.InputStream: close()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.io.OutputStream: close()void' label='java.io.OutputStream: close()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.geinimi.c.n: a(java.io.File,java.lang.String)void' label='com.geinimi.c.n: a(java.io.File,java.lang.String)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.net.HttpURLConnection: connect()void' label='java.net.HttpURLConnection: connect()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.String: lastIndexOf(java.lang.String)java.lang.Integer' label='java.lang.String: lastIndexOf(java.lang.String)java.lang.Integer'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.String: substring(java.lang.Integer)java.lang.String' label='java.lang.String: substring(java.lang.Integer)java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.io.OutputStream: flush()void' label='java.io.OutputStream: flush()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.String: valueOf(java.lang.Integer)java.lang.String' label='java.lang.String: valueOf(java.lang.Integer)java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.String: equals(java.lang.Object)boolean' label='java.lang.String: equals(java.lang.Object)boolean'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.io.DataOutputStream: init(java.io.OutputStream)void' label='java.io.DataOutputStream: init(java.io.OutputStream)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.io.DataInputStream: init(java.io.InputStream)void' label='java.io.DataInputStream: init(java.io.InputStream)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.Object: init()void' label='java.lang.Object: init()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.io.File: getParentFile()java.io.File' label='java.io.File: getParentFile()java.io.File'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.net.URL: openConnection()java.net.URLConnection' label='java.net.URL: openConnection()java.net.URLConnection'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='java.lang.String: toString()java.lang.String' label='java.lang.String: toString()java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.os.Environment: getExternalStorageState()java.lang.String' label='android.os.Environment: getExternalStorageState()java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.net.URL: init(java.lang.String)void' label='java.net.URL: init(java.lang.String)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.net.HttpURLConnection: setRequestProperty(java.lang.String,java.lang.String)void' label='java.net.HttpURLConnection: setRequestProperty(java.lang.String,java.lang.String)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.String: endsWith(java.lang.String)boolean' label='java.lang.String: endsWith(java.lang.String)boolean'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.StringBuffer: append(java.lang.String)java.lang.StringBuffer' label='java.lang.StringBuffer: append(java.lang.String)java.lang.StringBuffer'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.net.HttpURLConnection: getInputStream()java.io.InputStream' label='java.net.HttpURLConnection: getInputStream()java.io.InputStream'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.StringBuffer: init()void' label='java.lang.StringBuffer: init()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.io.File: exists()boolean' label='java.io.File: exists()boolean'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.io.File: init(java.lang.String)void' label='java.io.File: init(java.lang.String)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.io.DataInputStream: read([BII)java.lang.Integer' label='java.io.DataInputStream: read([BII)java.lang.Integer'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.geinimi.c.l: a(java.lang.String,java.lang.String)void' label='com.geinimi.c.l: a(java.lang.String,java.lang.String)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.io.File: mkdirs()boolean' label='java.io.File: mkdirs()boolean'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.io.FileOutputStream: flush()void' label='java.io.FileOutputStream: flush()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.StringBuilder: append(J)java.lang.StringBuilder' label='java.lang.StringBuilder: append(J)java.lang.StringBuilder'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.net.HttpURLConnection: disconnect()void' label='java.net.HttpURLConnection: disconnect()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.StringBuilder: append(java.lang.Integer)java.lang.StringBuilder' label='java.lang.StringBuilder: append(java.lang.Integer)java.lang.StringBuilder'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.io.FileOutputStream: init(java.io.File)void' label='java.io.FileOutputStream: init(java.io.File)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.io.FileOutputStream: close()void' label='java.io.FileOutputStream: close()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.io.File: delete()boolean' label='java.io.File: delete()boolean'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.net.HttpURLConnection: getOutputStream()java.io.OutputStream' label='java.net.HttpURLConnection: getOutputStream()java.io.OutputStream'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.geinimi.c.l: c(java.lang.String,java.lang.String)java.lang.String' label='com.geinimi.c.l: c(java.lang.String,java.lang.String)java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.util.Map: entrySet()java.util.Set' label='java.util.Map: entrySet()java.util.Set'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.io.DataOutputStream: flush()void' label='java.io.DataOutputStream: flush()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.Object: toString()java.lang.String' label='java.lang.Object: toString()java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.net.URLEncoder: encode(java.lang.String,java.lang.String)java.lang.String' label='java.net.URLEncoder: encode(java.lang.String,java.lang.String)java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.net.HttpURLConnection: setDoOutput(boolean)void' label='java.net.HttpURLConnection: setDoOutput(boolean)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.util.Iterator: hasNext()boolean' label='java.util.Iterator: hasNext()boolean'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.io.DataOutputStream: close()void' label='java.io.DataOutputStream: close()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.StringBuffer: toString()java.lang.String' label='java.lang.StringBuffer: toString()java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.StringBuilder: append(java.lang.Object)java.lang.StringBuilder' label='java.lang.StringBuilder: append(java.lang.Object)java.lang.StringBuilder'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.StringBuilder: toString()java.lang.String' label='java.lang.StringBuilder: toString()java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.io.OutputStream: write([BII)void' label='java.io.OutputStream: write([BII)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.util.Set: iterator()java.util.Iterator' label='java.util.Set: iterator()java.util.Iterator'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.util.Map$Entry: getKey()java.lang.Object' label='java.util.Map$Entry: getKey()java.lang.Object'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.io.File: createNewFile()boolean' label='java.io.File: createNewFile()boolean'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.io.File: getAbsolutePath()java.lang.String' label='java.io.File: getAbsolutePath()java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.io.File: length()J' label='java.io.File: length()J'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.util.Iterator: next()java.lang.Object' label='java.util.Iterator: next()java.lang.Object'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.geinimi.c.l: b(java.lang.String,java.lang.String)java.io.File' label='com.geinimi.c.l: b(java.lang.String,java.lang.String)java.io.File'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='org.apache.http.util.ByteArrayBuffer: append([BII)void' label='org.apache.http.util.ByteArrayBuffer: append([BII)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.StringBuilder: append(java.lang.String)java.lang.StringBuilder' label='java.lang.StringBuilder: append(java.lang.String)java.lang.StringBuilder'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.String: length()java.lang.Integer' label='java.lang.String: length()java.lang.Integer'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='org.apache.http.util.ByteArrayBuffer: clear()void' label='org.apache.http.util.ByteArrayBuffer: clear()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.String: substring(II)java.lang.String' label='java.lang.String: substring(II)java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.net.HttpURLConnection: setDoInput(boolean)void' label='java.net.HttpURLConnection: setDoInput(boolean)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.util.Map$Entry: getValue()java.lang.Object' label='java.util.Map$Entry: getValue()java.lang.Object'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.io.FileOutputStream: write([BII)void' label='java.io.FileOutputStream: write([BII)void'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='java.net.HttpURLConnection: setRequestMethod(java.lang.String)void' label='java.net.HttpURLConnection: setRequestMethod(java.lang.String)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.String: getBytes()[B' label='java.lang.String: getBytes()[B'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.StringBuilder: init()void' label='java.lang.StringBuilder: init()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.geinimi.c.l: a(java.lang.String,java.util.Map,org.apache.http.util.ByteArrayBuffer)void' label='com.geinimi.c.l: a(java.lang.String,java.util.Map,org.apache.http.util.ByteArrayBuffer)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.net.HttpURLConnection: setReadTimeout(java.lang.Integer)void' label='java.net.HttpURLConnection: setReadTimeout(java.lang.Integer)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.geinimi.c.l: init()void' label='com.geinimi.c.l: init()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		</nodes>
+		<edges>
+			<edge id='0' source='com.geinimi.c.l: a(java.lang.String,java.util.Map,org.apache.http.util.ByteArrayBuffer)void' target='java.lang.StringBuilder: append(java.lang.String)java.lang.StringBuilder'/>
+			<edge id='1' source='com.geinimi.c.l: b(java.lang.String,java.lang.String)java.io.File' target='java.net.HttpURLConnection: disconnect()void'/>
+			<edge id='2' source='com.geinimi.c.l: a(java.lang.String,java.util.Map,org.apache.http.util.ByteArrayBuffer)void' target='java.net.URL: openConnection()java.net.URLConnection'/>
+			<edge id='3' source='com.geinimi.c.l: a(java.lang.String,java.lang.String)void' target='java.io.DataOutputStream: write([B)void'/>
+			<edge id='4' source='com.geinimi.c.l: c(java.lang.String,java.lang.String)java.lang.String' target='java.lang.StringBuilder: toString()java.lang.String'/>
+			<edge id='5' source='com.geinimi.c.l: a(java.lang.String,java.util.Map,org.apache.http.util.ByteArrayBuffer)void' target='java.net.HttpURLConnection: setReadTimeout(java.lang.Integer)void'/>
+			<edge id='6' source='com.geinimi.c.l: a(java.lang.String,java.lang.String)void' target='java.net.HttpURLConnection: setUseCaches(boolean)void'/>
+			<edge id='7' source='com.geinimi.c.l: b(java.lang.String,java.lang.String)java.io.File' target='java.lang.String: equals(java.lang.Object)boolean'/>
+			<edge id='8' source='com.geinimi.c.l: a(java.lang.String,java.lang.String)void' target='java.net.HttpURLConnection: setRequestMethod(java.lang.String)void'/>
+			<edge id='9' source='com.geinimi.c.l: a(java.lang.String,java.util.Map,org.apache.http.util.ByteArrayBuffer)void' target='java.lang.StringBuilder: append(java.lang.Integer)java.lang.StringBuilder'/>
+			<edge id='10' source='com.geinimi.c.l: c(java.lang.String,java.lang.String)java.lang.String' target='com.geinimi.c.l: b(java.lang.String,java.lang.String)java.io.File'/>
+			<edge id='11' source='com.geinimi.c.l: a(java.lang.String,java.util.Map,org.apache.http.util.ByteArrayBuffer)void' target='java.util.Map: entrySet()java.util.Set'/>
+			<edge id='12' source='com.geinimi.c.l: c(java.lang.String,java.lang.String)java.lang.String' target='com.geinimi.c.n: a(java.io.File,java.lang.String)void'/>
+			<edge id='13' source='com.geinimi.c.l: c(java.lang.String,java.lang.String)java.lang.String' target='java.lang.String: length()java.lang.Integer'/>
+			<edge id='14' source='com.geinimi.c.l: a(java.lang.String,java.util.Map,org.apache.http.util.ByteArrayBuffer)void' target='java.io.OutputStream: flush()void'/>
+			<edge id='15' source='com.geinimi.c.l: c(java.lang.String,java.lang.String)java.lang.String' target='android.os.Environment: getExternalStorageState()java.lang.String'/>
+			<edge id='16' source='com.geinimi.c.l: b(java.lang.String,java.lang.String)java.io.File' target='java.io.File: delete()boolean'/>
+			<edge id='17' source='com.geinimi.c.l: a(java.lang.String,java.util.Map,org.apache.http.util.ByteArrayBuffer)void' target='java.lang.StringBuffer: init()void'/>
+			<edge id='18' source='com.geinimi.c.l: a(java.lang.String,java.util.Map,org.apache.http.util.ByteArrayBuffer)void' target='java.lang.Object: toString()java.lang.String'/>
+			<edge id='19' source='com.geinimi.c.l: a(java.lang.String,java.util.Map,org.apache.http.util.ByteArrayBuffer)void' target='java.io.OutputStream: close()void'/>
+			<edge id='20' source='com.geinimi.c.l: a(java.lang.String,java.util.Map,org.apache.http.util.ByteArrayBuffer)void' target='java.lang.String: toString()java.lang.String'/>
+			<edge id='21' source='com.geinimi.c.l: b(java.lang.String,java.lang.String)java.io.File' target='java.lang.StringBuilder: init()void'/>
+			<edge id='22' source='com.geinimi.c.l: a(java.lang.String,java.lang.String)void' target='java.lang.String: getBytes()[B'/>
+			<edge id='23' source='com.geinimi.c.l: a(java.lang.String,java.lang.String)void' target='java.net.URL: init(java.lang.String)void'/>
+			<edge id='24' source='com.geinimi.c.l: b(java.lang.String,java.lang.String)java.io.File' target='java.net.URL: init(java.lang.String)void'/>
+			<edge id='25' source='com.geinimi.c.l: a(java.lang.String,java.util.Map,org.apache.http.util.ByteArrayBuffer)void' target='java.net.HttpURLConnection: connect()void'/>
+			<edge id='26' source='com.geinimi.c.l: b(java.lang.String,java.lang.String)java.io.File' target='android.os.Environment: getExternalStorageState()java.lang.String'/>
+			<edge id='27' source='com.geinimi.c.l: a(java.lang.String,java.util.Map,org.apache.http.util.ByteArrayBuffer)void' target='java.io.DataInputStream: init(java.io.InputStream)void'/>
+			<edge id='28' source='com.geinimi.c.l: a(java.lang.String,java.util.Map,org.apache.http.util.ByteArrayBuffer)void' target='org.apache.http.util.ByteArrayBuffer: append([BII)void'/>
+			<edge id='29' source='com.geinimi.c.l: a(java.lang.String,java.util.Map,org.apache.http.util.ByteArrayBuffer)void' target='java.util.Iterator: next()java.lang.Object'/>
+			<edge id='30' source='com.geinimi.c.l: a(java.lang.String,java.lang.String)void' target='java.net.HttpURLConnection: setDoInput(boolean)void'/>
+			<edge id='31' source='com.geinimi.c.l: c(java.lang.String,java.lang.String)java.lang.String' target='java.lang.String: endsWith(java.lang.String)boolean'/>
+			<edge id='32' source='com.geinimi.c.l: a(java.lang.String,java.util.Map,org.apache.http.util.ByteArrayBuffer)void' target='java.lang.StringBuffer: toString()java.lang.String'/>
+			<edge id='33' source='com.geinimi.c.l: b(java.lang.String,java.lang.String)java.io.File' target='java.io.File: exists()boolean'/>
+			<edge id='34' source='com.geinimi.c.l: a(java.lang.String,java.util.Map,org.apache.http.util.ByteArrayBuffer)void' target='java.lang.String: getBytes()[B'/>
+			<edge id='35' source='com.geinimi.c.l: c(java.lang.String,java.lang.String)java.lang.String' target='java.lang.String: substring(java.lang.Integer)java.lang.String'/>
+			<edge id='36' source='com.geinimi.c.l: b(java.lang.String,java.lang.String)java.io.File' target='java.io.FileOutputStream: write([BII)void'/>
+			<edge id='37' source='com.geinimi.c.l: b(java.lang.String,java.lang.String)java.io.File' target='java.io.File: init(java.lang.String)void'/>
+			<edge id='38' source='com.geinimi.c.l: a(java.lang.String,java.util.Map,org.apache.http.util.ByteArrayBuffer)void' target='java.lang.StringBuilder: init()void'/>
+			<edge id='39' source='com.geinimi.c.l: init()void' target='java.lang.Object: init()void'/>
+			<edge id='40' source='com.geinimi.c.l: a(java.lang.String,java.lang.String)void' target='java.lang.String: valueOf(java.lang.Integer)java.lang.String'/>
+			<edge id='41' source='com.geinimi.c.l: b(java.lang.String,java.lang.String)java.io.File' target='java.lang.StringBuilder: append(boolean)java.lang.StringBuilder'/>
+			<edge id='42' source='com.geinimi.c.l: a(java.lang.String,java.lang.String)void' target='java.net.HttpURLConnection: getOutputStream()java.io.OutputStream'/>
+			<edge id='43' source='com.geinimi.c.l: b(java.lang.String,java.lang.String)java.io.File' target='java.lang.StringBuilder: append(java.lang.String)java.lang.StringBuilder'/>
+			<edge id='44' source='com.geinimi.c.l: a(java.lang.String,java.lang.String)void' target='java.lang.StringBuilder: append(java.lang.String)java.lang.StringBuilder'/>
+			<edge id='45' source='com.geinimi.c.l: a(java.lang.String,java.lang.String)void' target='java.io.DataOutputStream: flush()void'/>
+			<edge id='46' source='com.geinimi.c.l: b(java.lang.String,java.lang.String)java.io.File' target='java.net.URL: openConnection()java.net.URLConnection'/>
+			<edge id='47' source='com.geinimi.c.l: b(java.lang.String,java.lang.String)java.io.File' target='java.net.HttpURLConnection: getInputStream()java.io.InputStream'/>
+			<edge id='48' source='com.geinimi.c.l: b(java.lang.String,java.lang.String)java.io.File' target='java.io.File: mkdirs()boolean'/>
+			<edge id='49' source='com.geinimi.c.l: a(java.lang.String,java.util.Map,org.apache.http.util.ByteArrayBuffer)void' target='org.apache.http.util.ByteArrayBuffer: clear()void'/>
+			<edge id='50' source='com.geinimi.c.l: c(java.lang.String,java.lang.String)java.lang.String' target='java.lang.String: lastIndexOf(java.lang.String)java.lang.Integer'/>
+			<edge id='51' source='com.geinimi.c.l: a(java.lang.String,java.lang.String)void' target='java.net.HttpURLConnection: setDoOutput(boolean)void'/>
+			<edge id='52' source='com.geinimi.c.l: a(java.lang.String,java.lang.String)void' target='java.net.URL: openConnection()java.net.URLConnection'/>
+			<edge id='53' source='com.geinimi.c.l: a(java.lang.String,java.util.Map,org.apache.http.util.ByteArrayBuffer)void' target='java.util.Set: iterator()java.util.Iterator'/>
+			<edge id='54' source='com.geinimi.c.l: a(java.lang.String,java.lang.String)void' target='java.io.DataOutputStream: init(java.io.OutputStream)void'/>
+			<edge id='55' source='com.geinimi.c.l: a(java.lang.String,java.lang.String)void' target='java.lang.StringBuilder: toString()java.lang.String'/>
+			<edge id='56' source='com.geinimi.c.l: b(java.lang.String,java.lang.String)java.io.File' target='java.io.DataInputStream: close()void'/>
+			<edge id='57' source='com.geinimi.c.l: b(java.lang.String,java.lang.String)java.io.File' target='java.net.HttpURLConnection: setReadTimeout(java.lang.Integer)void'/>
+			<edge id='58' source='com.geinimi.c.l: b(java.lang.String,java.lang.String)java.io.File' target='java.io.DataInputStream: init(java.io.InputStream)void'/>
+			<edge id='59' source='com.geinimi.c.l: a(java.lang.String,java.util.Map,org.apache.http.util.ByteArrayBuffer)void' target='java.lang.StringBuilder: append(java.lang.Object)java.lang.StringBuilder'/>
+			<edge id='60' source='com.geinimi.c.l: a(java.lang.String,java.util.Map,org.apache.http.util.ByteArrayBuffer)void' target='java.util.Map$Entry: getValue()java.lang.Object'/>
+			<edge id='61' source='com.geinimi.c.l: c(java.lang.String,java.lang.String)java.lang.String' target='java.lang.String: substring(II)java.lang.String'/>
+			<edge id='62' source='com.geinimi.c.l: a(java.lang.String,java.lang.String)void' target='java.io.DataOutputStream: close()void'/>
+			<edge id='63' source='com.geinimi.c.l: b(java.lang.String,java.lang.String)java.io.File' target='java.io.FileOutputStream: flush()void'/>
+			<edge id='64' source='com.geinimi.c.l: a(java.lang.String,java.util.Map,org.apache.http.util.ByteArrayBuffer)void' target='java.lang.StringBuffer: append(java.lang.String)java.lang.StringBuffer'/>
+			<edge id='65' source='com.geinimi.c.l: a(java.lang.String,java.util.Map,org.apache.http.util.ByteArrayBuffer)void' target='java.util.Map$Entry: getKey()java.lang.Object'/>
+			<edge id='66' source='com.geinimi.c.l: a(java.lang.String,java.util.Map,org.apache.http.util.ByteArrayBuffer)void' target='java.net.HttpURLConnection: setRequestMethod(java.lang.String)void'/>
+			<edge id='67' source='com.geinimi.c.l: a(java.lang.String,java.util.Map,org.apache.http.util.ByteArrayBuffer)void' target='java.net.HttpURLConnection: getOutputStream()java.io.OutputStream'/>
+			<edge id='68' source='com.geinimi.c.l: b(java.lang.String,java.lang.String)java.io.File' target='java.io.FileOutputStream: init(java.io.File)void'/>
+			<edge id='69' source='com.geinimi.c.l: a(java.lang.String,java.util.Map,org.apache.http.util.ByteArrayBuffer)void' target='java.net.URLEncoder: encode(java.lang.String,java.lang.String)java.lang.String'/>
+			<edge id='70' source='com.geinimi.c.l: b(java.lang.String,java.lang.String)java.io.File' target='java.io.File: getAbsolutePath()java.lang.String'/>
+			<edge id='71' source='com.geinimi.c.l: a(java.lang.String,java.util.Map,org.apache.http.util.ByteArrayBuffer)void' target='java.net.HttpURLConnection: disconnect()void'/>
+			<edge id='72' source='com.geinimi.c.l: a(java.lang.String,java.util.Map,org.apache.http.util.ByteArrayBuffer)void' target='java.net.URL: init(java.lang.String)void'/>
+			<edge id='73' source='com.geinimi.c.l: a(java.lang.String,java.util.Map,org.apache.http.util.ByteArrayBuffer)void' target='java.lang.StringBuilder: toString()java.lang.String'/>
+			<edge id='74' source='com.geinimi.c.l: a(java.lang.String,java.util.Map,org.apache.http.util.ByteArrayBuffer)void' target='java.util.Iterator: hasNext()boolean'/>
+			<edge id='75' source='com.geinimi.c.l: b(java.lang.String,java.lang.String)java.io.File' target='java.lang.StringBuilder: toString()java.lang.String'/>
+			<edge id='76' source='com.geinimi.c.l: c(java.lang.String,java.lang.String)java.lang.String' target='java.io.File: exists()boolean'/>
+			<edge id='77' source='com.geinimi.c.l: b(java.lang.String,java.lang.String)java.io.File' target='java.io.File: getParentFile()java.io.File'/>
+			<edge id='78' source='com.geinimi.c.l: b(java.lang.String,java.lang.String)java.io.File' target='java.io.FileOutputStream: close()void'/>
+			<edge id='79' source='com.geinimi.c.l: b(java.lang.String,java.lang.String)java.io.File' target='java.io.File: length()J'/>
+			<edge id='80' source='com.geinimi.c.l: a(java.lang.String,java.lang.String)void' target='java.lang.StringBuilder: init()void'/>
+			<edge id='81' source='com.geinimi.c.l: b(java.lang.String,java.lang.String)java.io.File' target='java.lang.StringBuilder: append(J)java.lang.StringBuilder'/>
+			<edge id='82' source='com.geinimi.c.l: a(java.lang.String,java.util.Map,org.apache.http.util.ByteArrayBuffer)void' target='java.io.OutputStream: write([BII)void'/>
+			<edge id='83' source='com.geinimi.c.l: b(java.lang.String,java.lang.String)java.io.File' target='java.lang.String: lastIndexOf(java.lang.String)java.lang.Integer'/>
+			<edge id='84' source='com.geinimi.c.l: c(java.lang.String,java.lang.String)java.lang.String' target='java.lang.StringBuilder: init()void'/>
+			<edge id='85' source='com.geinimi.c.l: a(java.lang.String,java.util.Map,org.apache.http.util.ByteArrayBuffer)void' target='java.net.HttpURLConnection: setDoOutput(boolean)void'/>
+			<edge id='86' source='com.geinimi.c.l: a(java.lang.String,java.util.Map,org.apache.http.util.ByteArrayBuffer)void' target='java.io.DataInputStream: read([BII)java.lang.Integer'/>
+			<edge id='87' source='com.geinimi.c.l: b(java.lang.String,java.lang.String)java.io.File' target='java.io.File: createNewFile()boolean'/>
+			<edge id='88' source='com.geinimi.c.l: c(java.lang.String,java.lang.String)java.lang.String' target='java.lang.String: equals(java.lang.Object)boolean'/>
+			<edge id='89' source='com.geinimi.c.l: a(java.lang.String,java.util.Map,org.apache.http.util.ByteArrayBuffer)void' target='java.net.HttpURLConnection: getInputStream()java.io.InputStream'/>
+			<edge id='90' source='com.geinimi.c.l: a(java.lang.String,java.lang.String)void' target='java.net.HttpURLConnection: disconnect()void'/>
+			<edge id='91' source='com.geinimi.c.l: b(java.lang.String,java.lang.String)java.io.File' target='java.io.DataInputStream: read([BII)java.lang.Integer'/>
+			<edge id='92' source='com.geinimi.c.l: a(java.lang.String,java.lang.String)void' target='java.net.HttpURLConnection: setRequestProperty(java.lang.String,java.lang.String)void'/>
+			<edge id='93' source='com.geinimi.c.l: b(java.lang.String,java.lang.String)java.io.File' target='java.lang.String: substring(java.lang.Integer)java.lang.String'/>
+			<edge id='94' source='com.geinimi.c.l: c(java.lang.String,java.lang.String)java.lang.String' target='java.lang.StringBuilder: append(java.lang.String)java.lang.StringBuilder'/>
+			<edge id='95' source='com.geinimi.c.l: b(java.lang.String,java.lang.String)java.io.File' target='java.io.InputStream: close()void'/>
+		</edges>
+	</graph>
+</gexf>

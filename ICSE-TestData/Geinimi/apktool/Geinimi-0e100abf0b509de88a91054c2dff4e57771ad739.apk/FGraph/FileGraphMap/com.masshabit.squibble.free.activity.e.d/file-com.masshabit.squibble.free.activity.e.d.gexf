@@ -1,0 +1,194 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<gexf xmlns='qianniao918@qq.com' version='1.2' xmlns:viz='http://www.gexf.net/1.2draft/viz'> xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd'>
+	<meta lastmodifieddate='2014-9-21'>
+		<creator>FanMing</creator>
+		<description>An Android APK Method SCN!</description>
+	</meta>
+	<graph mode='static' defaultedgettype='directed'>
+		<nodes>
+		<node id='com.masshabit.squibble.free.activity.e.d: a(DD)void' label='com.masshabit.squibble.free.activity.e.d: a(DD)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.os.Looper: getMainLooper()android.os.Looper' label='android.os.Looper: getMainLooper()android.os.Looper'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.os.Handler: init(android.os.Looper)void' label='android.os.Handler: init(android.os.Looper)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.location.Location: getLatitude()D' label='android.location.Location: getLatitude()D'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='com.masshabit.squibble.free.activity.e.k: d()java.lang.String' label='com.masshabit.squibble.free.activity.e.k: d()java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.location.LocationManager: getLastKnownLocation(java.lang.String)android.location.Location' label='android.location.LocationManager: getLastKnownLocation(java.lang.String)android.location.Location'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='com.masshabit.squibble.free.activity.e.d: a([D)boolean' label='com.masshabit.squibble.free.activity.e.d: a([D)boolean'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.squibble.free.activity.e.p: a(java.lang.Integer)java.lang.String' label='com.masshabit.squibble.free.activity.e.p: a(java.lang.Integer)java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.squibble.free.activity.e.d: a(java.lang.String)void' label='com.masshabit.squibble.free.activity.e.d: a(java.lang.String)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.squibble.free.activity.e.k: a()android.content.Context' label='com.masshabit.squibble.free.activity.e.k: a()android.content.Context'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.squibble.free.activity.e.k: c()java.lang.String' label='com.masshabit.squibble.free.activity.e.k: c()java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.os.Handler: post(java.lang.Runnable)boolean' label='android.os.Handler: post(java.lang.Runnable)boolean'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.StringBuilder: toString()java.lang.String' label='java.lang.StringBuilder: toString()java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.squibble.free.activity.e.k: f()java.lang.String' label='com.masshabit.squibble.free.activity.e.k: f()java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.squibble.free.activity.e.d: init()void' label='com.masshabit.squibble.free.activity.e.d: init()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.Object: init()void' label='java.lang.Object: init()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.util.Timer: init()void' label='java.util.Timer: init()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.squibble.free.activity.e.k: e()java.lang.String' label='com.masshabit.squibble.free.activity.e.k: e()java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.squibble.free.activity.e.g: init()void' label='com.masshabit.squibble.free.activity.e.g: init()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.squibble.free.activity.e.e: init()void' label='com.masshabit.squibble.free.activity.e.e: init()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.util.Timer: schedule(java.util.TimerTask,J)void' label='java.util.Timer: schedule(java.util.TimerTask,J)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.squibble.free.activity.e.n: a(java.lang.String,java.lang.String)void' label='com.masshabit.squibble.free.activity.e.n: a(java.lang.String,java.lang.String)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.StringBuilder: append(java.lang.String)java.lang.StringBuilder' label='java.lang.StringBuilder: append(java.lang.String)java.lang.StringBuilder'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.squibble.free.activity.e.f: init()void' label='com.masshabit.squibble.free.activity.e.f: init()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.squibble.free.activity.e.d: a(java.lang.Integer)void' label='com.masshabit.squibble.free.activity.e.d: a(java.lang.Integer)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.squibble.free.activity.e.k: b()java.lang.String' label='com.masshabit.squibble.free.activity.e.k: b()java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.squibble.free.activity.e.d: clinit()void' label='com.masshabit.squibble.free.activity.e.d: clinit()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.squibble.free.activity.e.h: init()void' label='com.masshabit.squibble.free.activity.e.h: init()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.StringBuilder: append(D)java.lang.StringBuilder' label='java.lang.StringBuilder: append(D)java.lang.StringBuilder'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.location.LocationManager: removeUpdates(android.location.LocationListener)void' label='android.location.LocationManager: removeUpdates(android.location.LocationListener)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.squibble.free.activity.e.k: g()java.lang.String' label='com.masshabit.squibble.free.activity.e.k: g()java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.StringBuilder: init()void' label='java.lang.StringBuilder: init()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.content.Context: getSystemService(java.lang.String)java.lang.Object' label='android.content.Context: getSystemService(java.lang.String)java.lang.Object'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.location.Location: getLongitude()D' label='android.location.Location: getLongitude()D'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='android.location.LocationManager: requestLocationUpdates(java.lang.String,JFLandroid.location.LocationListener)void' label='android.location.LocationManager: requestLocationUpdates(java.lang.String,JFLandroid.location.LocationListener)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.squibble.free.activity.e.q: a(java.lang.String)java.lang.String' label='com.masshabit.squibble.free.activity.e.q: a(java.lang.String)java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		</nodes>
+		<edges>
+			<edge id='0' source='com.masshabit.squibble.free.activity.e.d: a(DD)void' target='com.masshabit.squibble.free.activity.e.q: a(java.lang.String)java.lang.String'/>
+			<edge id='1' source='com.masshabit.squibble.free.activity.e.d: a(DD)void' target='java.lang.StringBuilder: init()void'/>
+			<edge id='2' source='com.masshabit.squibble.free.activity.e.d: a(DD)void' target='java.lang.StringBuilder: toString()java.lang.String'/>
+			<edge id='3' source='com.masshabit.squibble.free.activity.e.d: a(java.lang.String)void' target='android.os.Handler: post(java.lang.Runnable)boolean'/>
+			<edge id='4' source='com.masshabit.squibble.free.activity.e.d: a(DD)void' target='android.location.LocationManager: removeUpdates(android.location.LocationListener)void'/>
+			<edge id='5' source='com.masshabit.squibble.free.activity.e.d: a([D)boolean' target='android.location.LocationManager: getLastKnownLocation(java.lang.String)android.location.Location'/>
+			<edge id='6' source='com.masshabit.squibble.free.activity.e.d: a(DD)void' target='com.masshabit.squibble.free.activity.e.k: d()java.lang.String'/>
+			<edge id='7' source='com.masshabit.squibble.free.activity.e.d: a(DD)void' target='com.masshabit.squibble.free.activity.e.k: g()java.lang.String'/>
+			<edge id='8' source='com.masshabit.squibble.free.activity.e.d: a(java.lang.String)void' target='android.os.Looper: getMainLooper()android.os.Looper'/>
+			<edge id='9' source='com.masshabit.squibble.free.activity.e.d: a(DD)void' target='com.masshabit.squibble.free.activity.e.p: a(java.lang.Integer)java.lang.String'/>
+			<edge id='10' source='com.masshabit.squibble.free.activity.e.d: a(java.lang.String)void' target='android.os.Handler: init(android.os.Looper)void'/>
+			<edge id='11' source='com.masshabit.squibble.free.activity.e.d: clinit()void' target='com.masshabit.squibble.free.activity.e.h: init()void'/>
+			<edge id='12' source='com.masshabit.squibble.free.activity.e.d: a(java.lang.String)void' target='com.masshabit.squibble.free.activity.e.f: init()void'/>
+			<edge id='13' source='com.masshabit.squibble.free.activity.e.d: a(DD)void' target='com.masshabit.squibble.free.activity.e.k: a()android.content.Context'/>
+			<edge id='14' source='com.masshabit.squibble.free.activity.e.d: a(java.lang.String)void' target='java.util.Timer: schedule(java.util.TimerTask,J)void'/>
+			<edge id='15' source='com.masshabit.squibble.free.activity.e.d: init()void' target='java.lang.Object: init()void'/>
+			<edge id='16' source='com.masshabit.squibble.free.activity.e.d: a(java.lang.String)void' target='com.masshabit.squibble.free.activity.e.g: init()void'/>
+			<edge id='17' source='com.masshabit.squibble.free.activity.e.d: a(DD)void' target='com.masshabit.squibble.free.activity.e.k: b()java.lang.String'/>
+			<edge id='18' source='com.masshabit.squibble.free.activity.e.d: a(java.lang.String)void' target='com.masshabit.squibble.free.activity.e.k: a()android.content.Context'/>
+			<edge id='19' source='com.masshabit.squibble.free.activity.e.d: a(DD)void' target='com.masshabit.squibble.free.activity.e.k: e()java.lang.String'/>
+			<edge id='20' source='com.masshabit.squibble.free.activity.e.d: a(java.lang.String)void' target='android.content.Context: getSystemService(java.lang.String)java.lang.Object'/>
+			<edge id='21' source='com.masshabit.squibble.free.activity.e.d: a(java.lang.String)void' target='android.location.LocationManager: removeUpdates(android.location.LocationListener)void'/>
+			<edge id='22' source='com.masshabit.squibble.free.activity.e.d: a(java.lang.String)void' target='java.util.Timer: init()void'/>
+			<edge id='23' source='com.masshabit.squibble.free.activity.e.d: a(java.lang.Integer)void' target='com.masshabit.squibble.free.activity.e.e: init()void'/>
+			<edge id='24' source='com.masshabit.squibble.free.activity.e.d: a(DD)void' target='com.masshabit.squibble.free.activity.e.n: a(java.lang.String,java.lang.String)void'/>
+			<edge id='25' source='com.masshabit.squibble.free.activity.e.d: a(DD)void' target='java.lang.StringBuilder: append(D)java.lang.StringBuilder'/>
+			<edge id='26' source='com.masshabit.squibble.free.activity.e.d: a(java.lang.Integer)void' target='android.location.LocationManager: requestLocationUpdates(java.lang.String,JFLandroid.location.LocationListener)void'/>
+			<edge id='27' source='com.masshabit.squibble.free.activity.e.d: a([D)boolean' target='android.content.Context: getSystemService(java.lang.String)java.lang.Object'/>
+			<edge id='28' source='com.masshabit.squibble.free.activity.e.d: a(DD)void' target='android.content.Context: getSystemService(java.lang.String)java.lang.Object'/>
+			<edge id='29' source='com.masshabit.squibble.free.activity.e.d: a([D)boolean' target='android.location.Location: getLongitude()D'/>
+			<edge id='30' source='com.masshabit.squibble.free.activity.e.d: a([D)boolean' target='com.masshabit.squibble.free.activity.e.k: a()android.content.Context'/>
+			<edge id='31' source='com.masshabit.squibble.free.activity.e.d: a(DD)void' target='com.masshabit.squibble.free.activity.e.k: f()java.lang.String'/>
+			<edge id='32' source='com.masshabit.squibble.free.activity.e.d: a(DD)void' target='com.masshabit.squibble.free.activity.e.k: c()java.lang.String'/>
+			<edge id='33' source='com.masshabit.squibble.free.activity.e.d: a(java.lang.Integer)void' target='android.content.Context: getSystemService(java.lang.String)java.lang.Object'/>
+			<edge id='34' source='com.masshabit.squibble.free.activity.e.d: a([D)boolean' target='android.location.Location: getLatitude()D'/>
+			<edge id='35' source='com.masshabit.squibble.free.activity.e.d: a(java.lang.Integer)void' target='com.masshabit.squibble.free.activity.e.k: a()android.content.Context'/>
+			<edge id='36' source='com.masshabit.squibble.free.activity.e.d: a(DD)void' target='java.lang.StringBuilder: append(java.lang.String)java.lang.StringBuilder'/>
+		</edges>
+	</graph>
+</gexf>

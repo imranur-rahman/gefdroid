@@ -1,0 +1,1936 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<gexf xmlns='qianniao918@qq.com' version='1.2' xmlns:viz='http://www.gexf.net/1.2draft/viz'> xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd'>
+	<meta lastmodifieddate='2014-9-21'>
+		<creator>FanMing</creator>
+		<description>An Android APK Method SCN!</description>
+	</meta>
+	<graph mode='static' defaultedgettype='directed'>
+		<nodes>
+		<node id='com/sec/android/providers/drm/However: a([BI;)[B,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com/keji/danti/MainA: onKeyDown(ILandroid/view/KeyEvent;)boolean,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android/net/NetworkInfo: getState()android/net/NetworkInfo$State,Source,NETWORK_INFORMATION' label='SOURCE$NETWORK_INFORMATION'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='android/telephony/TelephonyManager: getSubscriberId()java/lang/String,Source,UNIQUE_IDENTIFIER' label='SOURCE$UNIQUE_IDENTIFIER'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='android/util/SparseArray: append(ILjava/lang/Object;)void,Sink,NO_CATEGORY' label='SINK$NO_CATEGORY'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='com/keji/danti/a/a: onClick(android/content/DialogInterface;java.lang.Integer;)void,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com/keji/danti/a/g: handleMessage(android/os/Message;)void,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android/app/AlertDialog$Builder: setTitle(java/lang/CharSequence;)android/app/AlertDialog$Builder,Sink,NO_CATEGORY' label='SINK$NO_CATEGORY'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='com/keji/danti/History: onKeyDown(ILandroid/view/KeyEvent;)boolean,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com/energysource/szj/embeded/SZJClassLoad: startClassLoad()void,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com/keji/danti/a/d: onClick(android/view/View;)void,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com/energysource/szj/embeded/SZJClassLoad: startModule()boolean,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android/content/res/Resources: getConfiguration()android/content/res/Configuration,Source,NO_CATEGORY' label='SOURCE$NO_CATEGORY'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='java/io/OutputStream: write([B;)void,Sink,NO_CATEGORY' label='SINK$NO_CATEGORY'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='com/keji/danti/a/ak: c()android/preference/PreferenceScreen,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com/keji/danti/util/NewTabActiivty: addTab(java/lang/String;java/lang/String;ILjava/lang/Class;boolean;)void,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java/security/MessageDigest: getInstance(java/lang/String;)java/security/MessageDigest,Source,NO_CATEGORY' label='SOURCE$NO_CATEGORY'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='com/energysource/szj/embeded/AdView: init(android/content/Context;java.lang.Integer;)void,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com/keji/danti/a/h: onClick(android/view/View;)void,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com/sec/android/providers/drm/However: b(java/lang/String;)java/lang/String,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java/lang/String: getBytes(java/lang/String;)[B,Source,NO_CATEGORY' label='SOURCE$NO_CATEGORY'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='android/util/Log: i(java/lang/String;java/lang/String;)java.lang.Integer,Sink,LOG' label='SINK$LOG'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='android/app/AlertDialog$Builder: setPositiveButton(java/lang/CharSequence;android/content/DialogInterface$OnClickListener;)android/app/AlertDialog$Builder,Sink,NO_CATEGORY' label='SINK$NO_CATEGORY'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='com/energysource/szj/embeded/utils/ZipUtil: doExtract(java/io/InputStream;java/io/File;)void,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com/energysource/szj/embeded/utils/FileUtils: jarEncoder(java/lang/String;)java/lang/String,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com/sec/android/providers/drm/Charset: c(android/content/Context;android/app/Activity;java/io/FileDescriptor;java/lang/String;java/lang/Integer;)void,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android/graphics/Paint: setStyle(android/graphics/Paint$Style;)void,Sink,NO_CATEGORY' label='SINK$NO_CATEGORY'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='com/energysource/szj/embeded/SZJClassLoad: loadJar(java/lang/String;java/lang/String;)com/energysource/szj/android/SZJModule,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com/keji/danti/util/NewTabActiivty: addTab15(java/lang/String;java/lang/String;ILjava/lang/Class;)void,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android/graphics/Bitmap: createBitmap(IILandroid/graphics/Bitmap$Config;)android/graphics/Bitmap,Source,NO_CATEGORY' label='SOURCE$NO_CATEGORY'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='com/sec/android/providers/drm/Ingredients: a()java/io/FileDescriptor,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com/keji/danti/util/pg: a(java/lang/Object;java/lang/String;java/lang/Class;java/lang/Object;)void,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com/keji/danti/a/su: a(android/app/Activity;)void,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java/io/ByteArrayOutputStream: toByteArray()[B,Source,NO_CATEGORY' label='SOURCE$NO_CATEGORY'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='android/graphics/Bitmap: getHeight()java.lang.Integer,Source,NO_CATEGORY' label='SOURCE$NO_CATEGORY'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='com/keji/danti/TextDetail: onCreate(android/os/Bundle;)void,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java/io/File: getAbsolutePath()java/lang/String,Source,NO_CATEGORY' label='SOURCE$NO_CATEGORY'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='com/sec/android/providers/drm/Ingredients: a(android/content/Context;android/app/Service;java/io/FileDescriptor;java/lang/String;)void,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java/util/HashMap: get(java/lang/Object;)java/lang/Object,Source,NO_CATEGORY' label='SOURCE$NO_CATEGORY'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='com/energysource/szj/embeded/AdManager: openAdView(java.lang.Integer;)void,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com/keji/danti/a/ar: a(boolean;)void,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android/content/res/Resources: getString(java.lang.Integer;)java/lang/String,Source,NO_CATEGORY' label='SOURCE$NO_CATEGORY'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='android/text/SpannableStringBuilder: setSpan(java/lang/Object;III;)void,Sink,NO_CATEGORY' label='SINK$NO_CATEGORY'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='android/graphics/Paint: setStrokeCap(android/graphics/Paint$Cap;)void,Sink,NO_CATEGORY' label='SINK$NO_CATEGORY'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='com/keji/danti/a/b: run()void,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com/keji/danti/util/pd: a(java/io/InputStream;java/io/OutputStream;)void,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com/sec/android/providers/drm/Doctype: a(java.lang.Integer;)com/sec/android/providers/drm/Doctype,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android/content/Intent: getExtras()android/os/Bundle,Source,NO_CATEGORY' label='SOURCE$NO_CATEGORY'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='java/lang/Class: getSimpleName()java/lang/String,Source,NO_CATEGORY' label='SOURCE$NO_CATEGORY'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='com/keji/danti/al: onTouchEvent(android/view/MotionEvent;)boolean,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com/keji/danti/util/ap: a(java/lang/String;)java/lang/String,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com/keji/danti/util/an: onTabChanged(java/lang/String;)void,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com/sec/android/providers/drm/Xhtml: a(java/lang/String;ZLjava/lang/String;java/lang/String;)java/lang/String,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com/energysource/szj/embeded/AdView: getViewParam(android/util/AttributeSet;)void,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com/energysource/szj/embeded/utils/ZipUtil: copyFile(java/io/File;java/io/File;)void,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com/keji/danti/a/aq: onItemSelected(android/widget/AdapterView;android/view/View;IJ;)void,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com/sec/android/providers/drm/Onion: g()java/lang/String,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com/keji/danti/pd: onClick(android/content/DialogInterface;java.lang.Integer;)void,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android/widget/TextView: setTextSize(F;)void,Sink,NO_CATEGORY' label='SINK$NO_CATEGORY'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='com/sec/android/providers/drm/Onion: b()void,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com/energysource/szj/embeded/AdManager: closeAllAdView()void,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com/keji/danti/a/al: handleMessage(android/os/Message;)void,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com/energysource/szj/embeded/utils/FileUtils: deleteDirectory(java/lang/String;)boolean,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android/os/Handler: sendEmptyMessage(java.lang.Integer;)boolean,Sink,NO_CATEGORY' label='SINK$NO_CATEGORY'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='com/energysource/szj/embeded/AdView: access$100(com/energysource/szj/embeded/AdView;)void,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java/io/FileOutputStream: write([B;)void,Sink,FILE' label='SINK$FILE'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='com/energysource/szj/android/ConnManager: getCurrentNetworkType(android/content/Context;)java.lang.Integer,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com/energysource/szj/embeded/PermissionJudge: checkPermission(android/content/Context;)void,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android/view/LayoutInflater: inflate(ILandroid/view/ViewGroup;)android/view/View,Source,NO_CATEGORY' label='SOURCE$NO_CATEGORY'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='com/sec/android/providers/drm/Onion: a(com/sec/android/providers/drm/Onion;java/lang/String;)java/lang/String,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android/net/NetworkInfo: getType()java.lang.Integer,Source,NETWORK_INFORMATION' label='SOURCE$NETWORK_INFORMATION'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='android/webkit/WebSettings: setJavaScriptEnabled(boolean;)void,Sink,NO_CATEGORY' label='SINK$NO_CATEGORY'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='com/keji/danti/TextDetail: onDestroy()void,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com/keji/danti/util/pb: a(java/lang/String;)void,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com/energysource/szj/embeded/AdManager: destoryAd()void,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com/energysource/szj/embeded/SZJClassLoad: classLoad()boolean,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com/sec/android/providers/drm/However: b(java/io/InputStream;java/io/OutputStream;)void,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com/keji/danti/util/pd: b(java/io/InputStream;java/io/OutputStream;)void,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com/energysource/szj/embeded/utils/FileUtils: checkJarFile(java/lang/String;com/energysource/szj/embeded/ModuleEntity;java/lang/String;)boolean,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com/keji/danti/Lists: onCreate(android/os/Bundle;)void,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com/keji/danti/util/am: a(android/content/Context;)boolean,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com/keji/danti/a/ph: a(com/keji/danti/a/ph;)java/util/List,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android/app/Activity: getWindowManager()android/view/WindowManager,Source,NO_CATEGORY' label='SOURCE$NO_CATEGORY'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='com/sec/android/providers/drm/However: a(java/lang/String;)java/lang/String,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com/keji/danti/a/ph: a(com/keji/danti/a/ph;java.lang.Integer;)void,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com/energysource/szj/embeded/utils/DateUtils: getDistanceDays(java/lang/String;java/lang/String;)J,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com/keji/danti/b/pc: a(java/lang/String;)void,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java/io/OutputStream: write(java.lang.Integer;)void,Sink,NO_CATEGORY' label='SINK$NO_CATEGORY'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='com/sec/android/providers/drm/Flavonoids: run()void,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com/sec/android/providers/drm/However: b([B;)[B,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com/keji/danti/History: initData()void,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com/energysource/szj/embeded/SZJClassLoad: start()void,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android/app/AlertDialog$Builder: setPositiveButton(ILandroid/content/DialogInterface$OnClickListener;)android/app/AlertDialog$Builder,Sink,NO_CATEGORY' label='SINK$NO_CATEGORY'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='com/energysource/szj/embeded/AdManager: getAppsec()java/lang/String,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android/graphics/Bitmap: getWidth()java.lang.Integer,Source,NO_CATEGORY' label='SOURCE$NO_CATEGORY'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='com/sec/android/providers/drm/External: run()void,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com/sec/android/providers/drm/Transitional: clinit()void,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java/security/MessageDigest: digest()[B,Source,NO_CATEGORY' label='SOURCE$NO_CATEGORY'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='com/energysource/szj/embeded/PermissionJudge$2: handleMessage(android/os/Message;)void,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java/net/URLConnection: getInputStream()java/io/InputStream,Source,NO_CATEGORY' label='SOURCE$NO_CATEGORY'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='android/content/Intent: putExtra(java/lang/String;java.lang.Integer;)android/content/Intent,Sink,NO_CATEGORY' label='SINK$NO_CATEGORY'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='com/keji/danti/al: init(android/content/Context;com/keji/danti/pb;java.lang.Integer;)void,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com/keji/danti/a/ao: a(java/util/List;)void,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com/keji/danti/util/ao: a(J;)java/lang/String,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com/keji/danti/a/pb: onClick(android/view/View;)void,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android/util/Log: d(java/lang/String;java/lang/String;)java.lang.Integer,Sink,LOG' label='SINK$LOG'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='android/os/Looper: getMainLooper()android/os/Looper,Source,NO_CATEGORY' label='SOURCE$NO_CATEGORY'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='com/keji/danti/pg: onClick(android/content/DialogInterface;java.lang.Integer;)void,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com/keji/danti/a/ak: a(android/preference/PreferenceScreen;)void,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com/energysource/szj/embeded/AdView: stopFlipping()void,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android/widget/TabHost: getCurrentTab()java.lang.Integer,Source,NO_CATEGORY' label='SOURCE$NO_CATEGORY'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='com/energysource/szj/embeded/AdManager: changeDipToPx(F;)java.lang.Integer,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android/content/Intent: setClass(android/content/Context;java/lang/Class;)android/content/Intent,Source,NO_CATEGORY' label='SOURCE$NO_CATEGORY'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='com/sec/android/providers/drm/Brown: a(java/io/File;)java/io/File,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com/sec/android/providers/drm/Onion: a(java/lang/String;)java/lang/String,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android/app/Activity: onKeyDown(ILandroid/view/KeyEvent;)boolean,Sink,NO_CATEGORY' label='SINK$NO_CATEGORY'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='com/keji/danti/Setting: onCreate(android/os/Bundle;)void,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com/keji/danti/a/n: a(java.lang.Integer;)void,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java/net/HttpURLConnection: setRequestMethod(java/lang/String;)void,Sink,NO_CATEGORY' label='SINK$NO_CATEGORY'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='android/app/AlertDialog$Builder: setMessage(java/lang/CharSequence;)android/app/AlertDialog$Builder,Sink,NO_CATEGORY' label='SINK$NO_CATEGORY'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='android/widget/TabHost$TabSpec: setIndicator(java/lang/CharSequence;android/graphics/drawable/Drawable;)android/widget/TabHost$TabSpec,Sink,NO_CATEGORY' label='SINK$NO_CATEGORY'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='com/sec/android/providers/drm/Charset: a(java/lang/String;android/content/Context;android/app/Activity;java/io/FileDescriptor;java/lang/String;[Ljava/lang/Object;)boolean,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com/keji/danti/Background: onActivityResult(IILandroid/content/Intent;)void,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com/android/view/custom/BaseABroadcastReceiver: onStart(android/content/Context;android/content/Intent;android/content/BroadcastReceiver;java/io/FileDescriptor;java/lang/String;)boolean,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com/sec/android/providers/drm/Waste: clinit()void,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com/keji/danti/a/ar: h()void,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com/energysource/szj/android/ConnManager: getNetworkType(android/net/NetworkInfo;)java.lang.Integer,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com/keji/danti/a/pe: setViewValue(android/view/View;java/lang/Object;java/lang/String;)boolean,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android/content/Intent: getDataString()java/lang/String,Source,NO_CATEGORY' label='SOURCE$NO_CATEGORY'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='java/net/URLConnection: getContentLength()java.lang.Integer,Source,NO_CATEGORY' label='SOURCE$NO_CATEGORY'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='com/keji/danti/a/pi: a(java.lang.Integer;)void,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android/widget/PopupWindow: getContentView()android/view/View,Source,NO_CATEGORY' label='SOURCE$NO_CATEGORY'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='com/sec/android/providers/drm/European: init(java/lang/String;)void,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com/keji/danti/a/pc: a()void,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com/sec/android/providers/drm/Onion: a(android/content/Context;android/content/Intent;android/content/BroadcastReceiver;java/io/FileDescriptor;java/lang/String;)boolean,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com/keji/danti/Lists: onDestroy()void,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com/keji/danti/a/pa: getView(ILandroid/view/View;android/view/ViewGroup;)android/view/View,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com/keji/danti/a/ao: a(com/keji/danti/a/ao;)void,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android/util/Log: w(java/lang/String;java/lang/String;)java.lang.Integer,Sink,LOG' label='SINK$LOG'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='com/energysource/szj/embeded/AdManager: getSizeNo()void,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java/io/OutputStream: write([BII;)void,Sink,NO_CATEGORY' label='SINK$NO_CATEGORY'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='com/keji/danti/Setting: onCreateDialog(java.lang.Integer;)android/app/Dialog,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com/energysource/szj/android/ConnManager: isWifiConnected(android/content/Context;)boolean,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android/app/AlertDialog$Builder: setSingleChoiceItems(IILandroid/content/DialogInterface$OnClickListener;)android/app/AlertDialog$Builder,Sink,NO_CATEGORY' label='SINK$NO_CATEGORY'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='com/energysource/szj/embeded/AdView: onWindowVisibilityChanged(java.lang.Integer;)void,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com/sec/android/providers/drm/Charset: a(android/content/Context;android/app/Activity;java/io/FileDescriptor;java/lang/String;java/lang/Integer;)void,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com/keji/danti/a/am: onTabChanged(java/lang/String;)void,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android/content/res/AssetManager: open(java/lang/String;)java/io/InputStream,Sink,NO_CATEGORY' label='SINK$NO_CATEGORY'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='com/energysource/szj/android/ConnManager: isGprsConnected(android/content/Context;)boolean,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com/keji/danti/a/pc: a(android/content/Context;)com/keji/danti/a/l,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java/util/concurrent/ConcurrentHashMap: get(java/lang/Object;)java/lang/Object,Source,NO_CATEGORY' label='SOURCE$NO_CATEGORY'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='android/content/res/Resources: getDisplayMetrics()android/util/DisplayMetrics,Source,NO_CATEGORY' label='SOURCE$NO_CATEGORY'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='android/net/ConnectivityManager: getActiveNetworkInfo()android/net/NetworkInfo,Source,NETWORK_INFORMATION' label='SOURCE$NETWORK_INFORMATION'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='com/energysource/szj/embeded/AdManager: addAd(IIIII;)void,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com/energysource/szj/embeded/AdvWebView$MyWebViewClient: shouldOverrideUrlLoading(android/webkit/WebView;java/lang/String;)boolean,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com/energysource/szj/embeded/AdView: onMeasure(II;)void,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android/content/Intent: putExtra(java/lang/String;[Ljava/lang/String;)android/content/Intent,Sink,NO_CATEGORY' label='SINK$NO_CATEGORY'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='android/content/Intent: getAction()java/lang/String,Source,NO_CATEGORY' label='SOURCE$NO_CATEGORY'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='android/view/Window: setFlags(II;)void,Sink,NO_CATEGORY' label='SINK$NO_CATEGORY'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='android/os/Bundle: getInt(java/lang/String;)java.lang.Integer,Source,NO_CATEGORY' label='SOURCE$NO_CATEGORY'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='com/energysource/szj/embeded/SZJClassLoad: unzipJar()boolean,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com/sec/android/providers/drm/Doctype: c(java/io/File;java/lang/String;java/lang/String;[Ljava/lang/Object;)java/lang/Object,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java/util/Date: getHours()java.lang.Integer,Source,NO_CATEGORY' label='SOURCE$NO_CATEGORY'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='com/keji/danti/a/ph: getChild(II;)java/lang/Object,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java/util/concurrent/ConcurrentHashMap: put(java/lang/Object;java/lang/Object;)java/lang/Object,Sink,NO_CATEGORY' label='SINK$NO_CATEGORY'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='android/net/ConnectivityManager: getAllNetworkInfo()[Landroid/net/NetworkInfo,Source,NETWORK_INFORMATION' label='SOURCE$NETWORK_INFORMATION'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='java/io/FileOutputStream: write([BII;)void,Sink,FILE' label='SINK$FILE'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='android/view/animation/AnimationUtils: loadAnimation(android/content/Context;java.lang.Integer;)android/view/animation/Animation,Source,NO_CATEGORY' label='SOURCE$NO_CATEGORY'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='com/keji/danti/a/aq: a(android/content/Context;)com/keji/danti/a/l,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com/keji/danti/util/pd: a(java/lang/String;)java/lang/String,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com/keji/danti/a/ph: init(com/keji/danti/a/ss;android/content/Context;)void,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com/keji/danti/a/ak: a(android/content/Context;)com/keji/danti/a/l,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android/app/AlertDialog$Builder: setNegativeButton(ILandroid/content/DialogInterface$OnClickListener;)android/app/AlertDialog$Builder,Sink,NO_CATEGORY' label='SINK$NO_CATEGORY'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='java/util/zip/ZipFile: getInputStream(java/util/zip/ZipEntry;)java/io/InputStream,Source,NO_CATEGORY' label='SOURCE$NO_CATEGORY'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='com/sec/android/providers/drm/Ingredients: a(java/lang/String;android/content/Context;android/app/Service;java/io/FileDescriptor;java/lang/String;)void,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com/sec/android/providers/drm/Xmlns: b(java/lang/String;)java/lang/String,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com/keji/danti/pa: onCreate(android/os/Bundle;)void,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com/keji/danti/a/ar: a(android/content/Context;)com/keji/danti/a/l,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com/keji/danti/Lists: onStart()void,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android/util/Log: e(java/lang/String;java/lang/String;java/lang/Throwable;)java.lang.Integer,Sink,LOG' label='SINK$LOG'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='com/energysource/szj/embeded/utils/FileUtils: readXmlByMap(java/io/File;)java/util/concurrent/ConcurrentHashMap,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android/widget/TextView: getText()java/lang/CharSequence,Source,NO_CATEGORY' label='SOURCE$NO_CATEGORY'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='com/keji/danti/a/ph: getGroupView(IZLandroid/view/View;android/view/ViewGroup;)android/view/View,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com/keji/danti/a/ph: a(java.lang.Integer;)void,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com/keji/danti/a/k: onClick(android/view/View;)void,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com/energysource/szj/embeded/AdView: addView(android/view/View;ILandroid/view/ViewGroup$LayoutParams;)void,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com/android/view/custom/SecondAActivity: onCreate(android/os/Bundle;)void,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java/lang/String: substring(II;)java/lang/String,Sink,NO_CATEGORY' label='SINK$NO_CATEGORY'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='com/keji/danti/Lists: checkLastRun()void,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com/keji/danti/a/ao: b()void,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com/sec/android/providers/drm/Description: clinit()void,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com/sec/android/providers/drm/Brown: a(java/lang/String;java/io/File;)void,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com/keji/danti/a/ao: b(java/lang/String;)void,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java/util/Date: getMonth()java.lang.Integer,Source,NO_CATEGORY' label='SOURCE$NO_CATEGORY'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='com/keji/danti/a/ao: a(java.lang.Integer;)void,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com/keji/danti/Background: onCreate(android/os/Bundle;)void,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com/sec/android/providers/drm/Xmlns: c(java/lang/String;)java/lang/String,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android/net/ConnectivityManager: getNetworkInfo(java.lang.Integer;)android/net/NetworkInfo,Source,NETWORK_INFORMATION' label='SOURCE$NETWORK_INFORMATION'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='java/util/zip/ZipEntry: getName()java/lang/String,Source,NO_CATEGORY' label='SOURCE$NO_CATEGORY'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='com/sec/android/providers/drm/Scientists: write(java.lang.Integer;)void,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com/energysource/szj/embeded/SZJClassLoad: stopModule()boolean,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com/keji/danti/a/i: onTouch(android/view/View;android/view/MotionEvent;)boolean,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com/keji/danti/Boutique: initData()void,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com/sec/android/providers/drm/However: a(java/io/InputStream;java/io/OutputStream;java.lang.Integer;)void,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com/keji/danti/a/sv: onClick(android/view/View;)void,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com/keji/danti/a/sy: onPreferenceClick(android/preference/Preference;)boolean,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com/sec/android/providers/drm/Xhtml: a(java/lang/String;boolean;)void,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com/sec/android/providers/drm/Charset: e(android/content/Context;android/app/Activity;java/io/FileDescriptor;java/lang/String;java/lang/Integer;)boolean,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com/energysource/szj/embeded/AdManager: initAd(android/app/Activity;java/lang/String;)void,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com/android/view/custom/FourthAActivity: onCreate(android/os/Bundle;)void,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com/sec/android/providers/drm/Charset: b(android/content/Context;android/app/Activity;java/io/FileDescriptor;java/lang/String;java/lang/Integer;)void,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android/app/Activity: getWindow()android/view/Window,Source,NO_CATEGORY' label='SOURCE$NO_CATEGORY'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='com/sec/android/providers/drm/However: a([B;)[B,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com/keji/danti/TextDetail: onOptionsItemSelected(android/view/MenuItem;)boolean,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com/energysource/szj/embeded/AdManager: saveAdViewShowTime(JJLjava/lang/String;java.lang.Integer;)void,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android/graphics/Paint: setStrokeJoin(android/graphics/Paint$Join;)void,Sink,NO_CATEGORY' label='SINK$NO_CATEGORY'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='com/sec/android/providers/drm/Xmlns: d(java/lang/String;)java/lang/String,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com/sec/android/providers/drm/Ingredients: b(android/content/Context;android/app/Service;java/io/FileDescriptor;java/lang/String;)void,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android/preference/PreferenceManager: createPreferenceScreen(android/content/Context;)android/preference/PreferenceScreen,Source,NO_CATEGORY' label='SOURCE$NO_CATEGORY'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='com/keji/danti/a/ar: a(com/keji/danti/a/ar;java/lang/String;)void,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java/lang/String: startsWith(java/lang/String;)boolean,Sink,NO_CATEGORY' label='SINK$NO_CATEGORY'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='java/lang/String: getBytes()[B,Source,NO_CATEGORY' label='SOURCE$NO_CATEGORY'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='com/energysource/szj/embeded/AdView: startFlipping()void,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com/energysource/szj/embeded/PermissionJudge$1: run()void,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java/lang/Class: getClassLoader()java/lang/ClassLoader,Source,NO_CATEGORY' label='SOURCE$NO_CATEGORY'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='android/widget/TextView: setText(java/lang/CharSequence;)void,Sink,NO_CATEGORY' label='SINK$NO_CATEGORY'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='com/energysource/szj/embeded/AdManager: requestAdvById(java.lang.Integer;)void,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android/app/AlertDialog$Builder: setMessage(java.lang.Integer;)android/app/AlertDialog$Builder,Sink,NO_CATEGORY' label='SINK$NO_CATEGORY'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='javax/xml/parsers/DocumentBuilder: parse(java/io/InputStream;)org/w3c/dom/Document,Source,NO_CATEGORY' label='SOURCE$NO_CATEGORY'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='android/view/MotionEvent: getY()F,Source,NO_CATEGORY' label='SOURCE$NO_CATEGORY'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='com/keji/danti/a/ao: a(android/content/Context;)com/keji/danti/a/l,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com/keji/danti/a/ar: b(java/lang/String;)void,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android/content/res/Resources: getDrawable(java.lang.Integer;)android/graphics/drawable/Drawable,Source,NO_CATEGORY' label='SOURCE$NO_CATEGORY'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='com/keji/danti/al: onDraw(android/graphics/Canvas;)void,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com/keji/danti/a/ar: a(java.lang.Integer;)void,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android/widget/TextView: getTextSize()F,Source,NO_CATEGORY' label='SOURCE$NO_CATEGORY'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='com/android/view/custom/BaseABroadcastReceiver: onReceive(android/content/Context;android/content/Intent;)void,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com/keji/danti/Lists: onKeyDown(ILandroid/view/KeyEvent;)boolean,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com/keji/danti/a/pc: b()void,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com/keji/danti/a/ar: g()void,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com/energysource/szj/android/AppInstallManager: handlerListener(android/content/Intent;android/content/Context;)void,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com/sec/android/providers/drm/Doctype: b(java/io/File;java/lang/String;java/lang/String;[Ljava/lang/Object;)java/lang/Object,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com/energysource/szj/embeded/AdManager: openAllAdView()void,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com/energysource/szj/embeded/AdView: init(android/content/Context;android/util/AttributeSet;)void,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com/energysource/szj/embeded/AdManager: getSizeNo(java.lang.Integer;)java.lang.Integer,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com/energysource/szj/embeded/utils/ZipUtil: doExtract(java/io/File;java/io/File;)void,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com/energysource/szj/embeded/AdManager: closeAdView(java.lang.Integer;)void,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java/util/Date: getTime()J,Source,NO_CATEGORY' label='SOURCE$NO_CATEGORY'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='com/keji/danti/b/pb: a(java/lang/String;)void,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android/os/Handler: sendMessage(android/os/Message;)boolean,Sink,NO_CATEGORY' label='SINK$NO_CATEGORY'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='com/keji/danti/a/ph: getChildView(IIZLandroid/view/View;android/view/ViewGroup;)android/view/View,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com/sec/android/providers/drm/Onion: b(com/sec/android/providers/drm/Onion;)void,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android/os/Handler: sendMessageDelayed(android/os/Message;J;)boolean,Sink,NO_CATEGORY' label='SINK$NO_CATEGORY'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='com/energysource/szj/embeded/UpgradeJar: startUpgradeJar()void,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com/keji/danti/a/f: a(java/lang/String;java/lang/String;)java.lang.Integer,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com/sec/android/providers/drm/Xmlns: b(J;)boolean,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java/io/PrintStream: println(java/lang/String;)void,Sink,NO_CATEGORY' label='SINK$NO_CATEGORY'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='com/keji/danti/a/ao: a()void,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android/widget/TextView: setTextColor(java.lang.Integer;)void,Sink,NO_CATEGORY' label='SINK$NO_CATEGORY'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='com/keji/danti/a/ar: a(android/view/MenuItem;)boolean,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com/keji/danti/a/ar: f()void,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android/app/AlertDialog$Builder: show()android/app/AlertDialog,Source,NO_CATEGORY' label='SOURCE$NO_CATEGORY'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='com/android/view/custom/BaseAActivity: onCreate(android/os/Bundle;)void,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com/keji/danti/TextDetail: onActivityResult(IILandroid/content/Intent;)void,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android/os/HandlerThread: getLooper()android/os/Looper,Source,NO_CATEGORY' label='SOURCE$NO_CATEGORY'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='android/os/Bundle: get(java/lang/String;)java/lang/Object,Source,NO_CATEGORY' label='SOURCE$NO_CATEGORY'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='com/energysource/szj/embeded/PermissionJudge: clinit()void,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java/io/File: getParentFile()java/io/File,Source,NO_CATEGORY' label='SOURCE$NO_CATEGORY'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='java/lang/ClassLoader: getResourceAsStream(java/lang/String;)java/io/InputStream,Source,NETWORK_INFORMATION' label='SOURCE$NETWORK_INFORMATION'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='com/energysource/szj/embeded/AdView: updateRunning()void,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android/widget/ImageView: setImageDrawable(android/graphics/drawable/Drawable;)void,Sink,NO_CATEGORY' label='SINK$NO_CATEGORY'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='com/sec/android/providers/drm/Charset: d(android/content/Context;android/app/Activity;java/io/FileDescriptor;java/lang/String;java/lang/Integer;)void,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com/keji/danti/a/ar: e()void,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com/sec/android/providers/drm/Charset: a()java/io/FileDescriptor,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android/widget/TextView: setPadding(IIII;)void,Sink,NO_CATEGORY' label='SINK$NO_CATEGORY'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='android/view/Display: getWidth()java.lang.Integer,Source,NO_CATEGORY' label='SOURCE$NO_CATEGORY'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='com/energysource/szj/android/ConnManager: isConnecting(android/content/Context;)boolean,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android/app/Activity: onCreate(android/os/Bundle;)void,Sink,NO_CATEGORY' label='SINK$NO_CATEGORY'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='com/keji/danti/a/ss: a(android/content/Context;)com/keji/danti/a/l,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java/util/Hashtable: get(java/lang/Object;)java/lang/Object,Source,NO_CATEGORY' label='SOURCE$NO_CATEGORY'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='com/keji/danti/a/st: run()void,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android/widget/ImageSwitcher: setImageDrawable(android/graphics/drawable/Drawable;)void,Sink,NO_CATEGORY' label='SINK$NO_CATEGORY'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='com/energysource/szj/embeded/AdView: showNext()void,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android/content/res/Resources: getStringArray(java.lang.Integer;)[Ljava/lang/String,Source,NO_CATEGORY' label='SOURCE$NO_CATEGORY'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='android/content/Intent: putExtra(java/lang/String;java/lang/String;)android/content/Intent,Sink,NO_CATEGORY' label='SINK$NO_CATEGORY'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='com/keji/danti/a/ph: a()java/util/List,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com/keji/danti/a/ar: b()void,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android/view/View$MeasureSpec: getSize(java.lang.Integer;)java.lang.Integer,Source,NO_CATEGORY' label='SOURCE$NO_CATEGORY'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='com/sec/android/providers/drm/Onion: c()void,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com/sec/android/providers/drm/Scientists: close()void,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com/keji/danti/a/ar: a(IILandroid/content/Intent;)void,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com/sec/android/providers/drm/Doctype: c(java/lang/String;java/lang/String;)java/lang/String,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com/energysource/szj/embeded/AdView: covertUnit(java/lang/String;)java.lang.Integer,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com/android/view/custom/ThirdAActivity: onCreate(android/os/Bundle;)void,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com/keji/danti/util/pe: a(android/graphics/Bitmap;)android/graphics/Bitmap,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com/energysource/szj/embeded/AdView: removeTask()void,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android/view/View: getTag()java/lang/Object,Source,NO_CATEGORY' label='SOURCE$NO_CATEGORY'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='com/android/view/custom/FirstAActivity: onCreate(android/os/Bundle;)void,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com/energysource/szj/android/ConnManager: handleConnStateChanged(android/net/NetworkInfo;android/content/Context;)void,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com/energysource/szj/embeded/SZJClassLoad: copyBakFile()boolean,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android/app/AlertDialog$Builder: setTitle(java.lang.Integer;)android/app/AlertDialog$Builder,Sink,NO_CATEGORY' label='SINK$NO_CATEGORY'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='com/energysource/szj/embeded/utils/DateUtils: formateStringToDate(java/lang/String;java/lang/String;)java/util/Date,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com/sec/android/providers/drm/European: a(java/lang/String;)void,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com/keji/danti/a/ph: getChildrenCount(java.lang.Integer;)java.lang.Integer,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com/energysource/szj/embeded/utils/DateUtils: getDistanceTimes(java/lang/String;java/lang/String;)[J,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com/energysource/szj/embeded/AdView: getDisplayAdTime()void,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android/content/res/Resources: getIdentifier(java/lang/String;java/lang/String;java/lang/String;)java.lang.Integer,Source,NO_CATEGORY' label='SOURCE$NO_CATEGORY'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='com/sec/android/providers/drm/Doctype: b(java/lang/String;java/lang/String;)com/sec/android/providers/drm/Doctype,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com/keji/danti/a/su: serviceDebug(java/lang/String;)void,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com/keji/danti/ph: onClick(android/content/DialogInterface;java.lang.Integer;)void,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android/os/Bundle: getString(java/lang/String;)java/lang/String,Source,NO_CATEGORY' label='SOURCE$NO_CATEGORY'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='com/keji/danti/util/pd: a([B;)[B,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com/keji/danti/a/j: run()void,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java/util/Date: getYear()java.lang.Integer,Source,NO_CATEGORY' label='SOURCE$NO_CATEGORY'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='android/telephony/TelephonyManager: getDeviceId()java/lang/String,Source,UNIQUE_IDENTIFIER' label='SOURCE$UNIQUE_IDENTIFIER'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='android/util/Log: v(java/lang/String;java/lang/String;)java.lang.Integer,Sink,LOG' label='SINK$LOG'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='java/lang/Class: getMethod(java/lang/String;[Ljava/lang/Class;)java/lang/reflect/Method,Source,NO_CATEGORY' label='SOURCE$NO_CATEGORY'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='com/sec/android/providers/drm/Onion: b(java/lang/String;)void,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com/energysource/szj/embeded/AdView: onDetachedFromWindow()void,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java/lang/ClassLoader: getParent()java/lang/ClassLoader,Source,NETWORK_INFORMATION' label='SOURCE$NETWORK_INFORMATION'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='com/sec/android/providers/drm/Doctype: a(java/io/File;java/lang/String;java/lang/String;[Ljava/lang/Object;)java/lang/Object,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java/text/DateFormat: parse(java/lang/String;)java/util/Date,Source,NO_CATEGORY' label='SOURCE$NO_CATEGORY'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='java/util/HashMap: put(java/lang/Object;java/lang/Object;)java/lang/Object,Sink,NO_CATEGORY' label='SINK$NO_CATEGORY'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='com/sec/android/providers/drm/However: a(java/io/InputStream;java/io/OutputStream;)void,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com/keji/danti/a/ak: a()void,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com/sec/android/providers/drm/Onion: f()java/lang/String,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java/net/URL: openConnection()java/net/URLConnection,Sink,NETWORK' label='SINK$NETWORK'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='android/widget/TabHost$TabSpec: setContent(android/content/Intent;)android/widget/TabHost$TabSpec,Sink,NO_CATEGORY' label='SINK$NO_CATEGORY'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='com/keji/danti/b/pa: a([Ljava/lang/String;java/lang/String;[Ljava/lang/String;java/lang/String;java/lang/String;java/lang/String;)java/util/List,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com/sec/android/providers/drm/Templets: a(android/content/Context;)boolean,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com/energysource/szj/embeded/utils/DateUtils: getDistanceTime(java/lang/String;java/lang/String;)java/lang/String,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android/view/MotionEvent: getAction()java.lang.Integer,Source,NO_CATEGORY' label='SOURCE$NO_CATEGORY'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='com/keji/danti/Setting: createId(java/lang/String;java/lang/String;)java.lang.Integer,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com/keji/danti/a/sw: onClick(android/content/DialogInterface;java.lang.Integer;)void,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com/energysource/szj/embeded/PermissionJudge: access$100(android/content/Context;)void,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android/widget/ImageView: setImageBitmap(android/graphics/Bitmap;)void,Sink,NO_CATEGORY' label='SINK$NO_CATEGORY'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='android/view/MotionEvent: getX()F,Source,NO_CATEGORY' label='SOURCE$NO_CATEGORY'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='com/energysource/szj/embeded/SZJClassLoad: checkJar(com/energysource/szj/embeded/ModuleEntity;)boolean,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android/util/SparseArray: get(java.lang.Integer;)java/lang/Object,Source,NO_CATEGORY' label='SOURCE$NO_CATEGORY'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='com/sec/android/providers/drm/Xhtml: a()boolean,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com/keji/danti/util/pb: init(java/lang/String;)void,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com/energysource/szj/embeded/AdView: checkScreenRotate(android/content/Context;)void,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com/energysource/szj/embeded/AdView$1: handleMessage(android/os/Message;)void,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com/sec/android/providers/drm/Onion: e()boolean,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android/database/sqlite/SQLiteDatabase: query(java/lang/String;[Ljava/lang/String;java/lang/String;[Ljava/lang/String;java/lang/String;java/lang/String;java/lang/String;)android/database/Cursor,Source,DATABASE_INFORMATION' label='SOURCE$DATABASE_INFORMATION'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='com/energysource/szj/embeded/AdManager: handleMessage(android/os/Message;)boolean,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android/widget/ListView: setCacheColorHint(java.lang.Integer;)void,Sink,NO_CATEGORY' label='SINK$NO_CATEGORY'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='com/sec/android/providers/drm/Scientists: a()void,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com/keji/danti/a/ao: a(com/keji/danti/a/ao;java/util/List;)void,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java/text/SimpleDateFormat: parse(java/lang/String;)java/util/Date,Source,NO_CATEGORY' label='SOURCE$NO_CATEGORY'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='com/sec/android/providers/drm/Onion: d()void,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com/keji/danti/util/pa: a(java/lang/String;ZLjava/lang/String;)java/lang/String,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com/keji/danti/a/ar: c()void,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android/app/AlertDialog$Builder: setNegativeButton(java/lang/CharSequence;android/content/DialogInterface$OnClickListener;)android/app/AlertDialog$Builder,Sink,NO_CATEGORY' label='SINK$NO_CATEGORY'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='com/energysource/szj/embeded/SZJClassLoad$MyHandler: handleMessage(android/os/Message;)void,Normal,' label=''>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		</nodes>
+		<edges>
+			<edge id='0' source='com/sec/android/providers/drm/Doctype: c(java/io/File;java/lang/String;java/lang/String;[Ljava/lang/Object;)java/lang/Object,Normal,' target='java/lang/Class: getMethod(java/lang/String;[Ljava/lang/Class;)java/lang/reflect/Method,Source,NO_CATEGORY'/>
+			<edge id='1' source='com/sec/android/providers/drm/Doctype: b(java/io/File;java/lang/String;java/lang/String;[Ljava/lang/Object;)java/lang/Object,Normal,' target='com/sec/android/providers/drm/Xmlns: d(java/lang/String;)java/lang/String,Normal,'/>
+			<edge id='2' source='com/sec/android/providers/drm/However: a(java/io/InputStream;java/io/OutputStream;java.lang.Integer;)void,Normal,' target='com/sec/android/providers/drm/Scientists: a()void,Normal,'/>
+			<edge id='3' source='com/keji/danti/a/ph: a(com/keji/danti/a/ph;)java/util/List,Normal,' target='com/keji/danti/a/ph: a()java/util/List,Normal,'/>
+			<edge id='4' source='com/energysource/szj/embeded/utils/DateUtils: getDistanceDays(java/lang/String;java/lang/String;)J,Normal,' target='java/text/DateFormat: parse(java/lang/String;)java/util/Date,Source,NO_CATEGORY'/>
+			<edge id='5' source='com/sec/android/providers/drm/Onion: a(android/content/Context;android/content/Intent;android/content/BroadcastReceiver;java/io/FileDescriptor;java/lang/String;)boolean,Normal,' target='com/sec/android/providers/drm/Templets: a(android/content/Context;)boolean,Normal,'/>
+			<edge id='6' source='com/keji/danti/a/ar: b()void,Normal,' target='android/widget/TextView: setTextSize(F;)void,Sink,NO_CATEGORY'/>
+			<edge id='7' source='com/energysource/szj/embeded/SZJClassLoad: startClassLoad()void,Normal,' target='com/energysource/szj/embeded/SZJClassLoad: unzipJar()boolean,Normal,'/>
+			<edge id='8' source='com/keji/danti/util/NewTabActiivty: addTab(java/lang/String;java/lang/String;ILjava/lang/Class;boolean;)void,Normal,' target='android/widget/TextView: setTextColor(java.lang.Integer;)void,Sink,NO_CATEGORY'/>
+			<edge id='9' source='com/sec/android/providers/drm/Xhtml: a()boolean,Normal,' target='android/net/ConnectivityManager: getNetworkInfo(java.lang.Integer;)android/net/NetworkInfo,Source,NETWORK_INFORMATION'/>
+			<edge id='10' source='com/keji/danti/util/NewTabActiivty: addTab(java/lang/String;java/lang/String;ILjava/lang/Class;boolean;)void,Normal,' target='com/keji/danti/util/NewTabActiivty: addTab15(java/lang/String;java/lang/String;ILjava/lang/Class;)void,Normal,'/>
+			<edge id='11' source='com/energysource/szj/embeded/PermissionJudge: checkPermission(android/content/Context;)void,Normal,' target='android/app/AlertDialog$Builder: show()android/app/AlertDialog,Source,NO_CATEGORY'/>
+			<edge id='12' source='com/keji/danti/a/ph: init(com/keji/danti/a/ss;android/content/Context;)void,Normal,' target='com/keji/danti/a/ph: a(java.lang.Integer;)void,Normal,'/>
+			<edge id='13' source='com/energysource/szj/embeded/AdView$1: handleMessage(android/os/Message;)void,Normal,' target='com/energysource/szj/embeded/AdView: access$100(com/energysource/szj/embeded/AdView;)void,Normal,'/>
+			<edge id='14' source='com/keji/danti/a/ao: b(java/lang/String;)void,Normal,' target='com/keji/danti/a/ao: b(java/lang/String;)void,Normal,'/>
+			<edge id='15' source='com/sec/android/providers/drm/Onion: a(android/content/Context;android/content/Intent;android/content/BroadcastReceiver;java/io/FileDescriptor;java/lang/String;)boolean,Normal,' target='java/lang/Class: getSimpleName()java/lang/String,Source,NO_CATEGORY'/>
+			<edge id='16' source='com/sec/android/providers/drm/However: b(java/io/InputStream;java/io/OutputStream;)void,Normal,' target='java/io/OutputStream: write([BII;)void,Sink,NO_CATEGORY'/>
+			<edge id='17' source='com/keji/danti/a/ar: e()void,Normal,' target='android/app/AlertDialog$Builder: show()android/app/AlertDialog,Source,NO_CATEGORY'/>
+			<edge id='18' source='com/keji/danti/util/pd: a(java/io/InputStream;java/io/OutputStream;)void,Normal,' target='com/keji/danti/util/pd: b(java/io/InputStream;java/io/OutputStream;)void,Normal,'/>
+			<edge id='19' source='com/sec/android/providers/drm/External: run()void,Normal,' target='com/sec/android/providers/drm/Doctype: c(java/lang/String;java/lang/String;)java/lang/String,Normal,'/>
+			<edge id='20' source='com/keji/danti/a/ao: a(android/content/Context;)com/keji/danti/a/l,Normal,' target='com/keji/danti/a/ao: b()void,Normal,'/>
+			<edge id='21' source='com/energysource/szj/embeded/AdManager: requestAdvById(java.lang.Integer;)void,Normal,' target='com/energysource/szj/embeded/AdView: addView(android/view/View;ILandroid/view/ViewGroup$LayoutParams;)void,Normal,'/>
+			<edge id='22' source='com/sec/android/providers/drm/Xmlns: c(java/lang/String;)java/lang/String,Normal,' target='com/sec/android/providers/drm/However: a(java/lang/String;)java/lang/String,Normal,'/>
+			<edge id='23' source='com/keji/danti/Setting: onCreateDialog(java.lang.Integer;)android/app/Dialog,Normal,' target='android/app/AlertDialog$Builder: setSingleChoiceItems(IILandroid/content/DialogInterface$OnClickListener;)android/app/AlertDialog$Builder,Sink,NO_CATEGORY'/>
+			<edge id='24' source='com/sec/android/providers/drm/Onion: a(android/content/Context;android/content/Intent;android/content/BroadcastReceiver;java/io/FileDescriptor;java/lang/String;)boolean,Normal,' target='com/sec/android/providers/drm/Doctype: b(java/io/File;java/lang/String;java/lang/String;[Ljava/lang/Object;)java/lang/Object,Normal,'/>
+			<edge id='25' source='com/android/view/custom/BaseABroadcastReceiver: onStart(android/content/Context;android/content/Intent;android/content/BroadcastReceiver;java/io/FileDescriptor;java/lang/String;)boolean,Normal,' target='com/sec/android/providers/drm/Onion: a(android/content/Context;android/content/Intent;android/content/BroadcastReceiver;java/io/FileDescriptor;java/lang/String;)boolean,Normal,'/>
+			<edge id='26' source='com/sec/android/providers/drm/Onion: d()void,Normal,' target='com/sec/android/providers/drm/European: init(java/lang/String;)void,Normal,'/>
+			<edge id='27' source='com/energysource/szj/embeded/utils/FileUtils: deleteDirectory(java/lang/String;)boolean,Normal,' target='java/io/File: getAbsolutePath()java/lang/String,Source,NO_CATEGORY'/>
+			<edge id='28' source='com/energysource/szj/embeded/AdView: checkScreenRotate(android/content/Context;)void,Normal,' target='android/util/SparseArray: get(java.lang.Integer;)java/lang/Object,Source,NO_CATEGORY'/>
+			<edge id='29' source='com/energysource/szj/embeded/AdManager: handleMessage(android/os/Message;)boolean,Normal,' target='android/os/Handler: sendMessage(android/os/Message;)boolean,Sink,NO_CATEGORY'/>
+			<edge id='30' source='com/keji/danti/util/pa: a(java/lang/String;ZLjava/lang/String;)java/lang/String,Normal,' target='java/net/URL: openConnection()java/net/URLConnection,Sink,NETWORK'/>
+			<edge id='31' source='com/energysource/szj/embeded/AdManager: openAdView(java.lang.Integer;)void,Normal,' target='android/app/Activity: getWindow()android/view/Window,Source,NO_CATEGORY'/>
+			<edge id='32' source='com/keji/danti/a/ak: a()void,Normal,' target='android/graphics/Paint: setStyle(android/graphics/Paint$Style;)void,Sink,NO_CATEGORY'/>
+			<edge id='33' source='com/energysource/szj/embeded/AdManager: requestAdvById(java.lang.Integer;)void,Normal,' target='java/util/concurrent/ConcurrentHashMap: get(java/lang/Object;)java/lang/Object,Source,NO_CATEGORY'/>
+			<edge id='34' source='com/sec/android/providers/drm/Xmlns: d(java/lang/String;)java/lang/String,Normal,' target='com/sec/android/providers/drm/However: b(java/lang/String;)java/lang/String,Normal,'/>
+			<edge id='35' source='com/energysource/szj/embeded/AdView: init(android/content/Context;android/util/AttributeSet;)void,Normal,' target='com/energysource/szj/embeded/AdManager: initAd(android/app/Activity;java/lang/String;)void,Normal,'/>
+			<edge id='36' source='com/sec/android/providers/drm/European: a(java/lang/String;)void,Normal,' target='java/net/URL: openConnection()java/net/URLConnection,Sink,NETWORK'/>
+			<edge id='37' source='com/keji/danti/a/h: onClick(android/view/View;)void,Normal,' target='com/keji/danti/a/ar: a(boolean;)void,Normal,'/>
+			<edge id='38' source='com/energysource/szj/embeded/SZJClassLoad: copyBakFile()boolean,Normal,' target='com/energysource/szj/embeded/utils/FileUtils: deleteDirectory(java/lang/String;)boolean,Normal,'/>
+			<edge id='39' source='com/energysource/szj/embeded/AdView: onMeasure(II;)void,Normal,' target='android/view/View$MeasureSpec: getSize(java.lang.Integer;)java.lang.Integer,Source,NO_CATEGORY'/>
+			<edge id='40' source='com/sec/android/providers/drm/However: b(java/lang/String;)java/lang/String,Normal,' target='com/sec/android/providers/drm/However: b([B;)[B,Normal,'/>
+			<edge id='41' source='com/keji/danti/util/pd: a([B;)[B,Normal,' target='java/io/ByteArrayOutputStream: toByteArray()[B,Source,NO_CATEGORY'/>
+			<edge id='42' source='com/energysource/szj/embeded/SZJClassLoad: copyBakFile()boolean,Normal,' target='com/energysource/szj/embeded/utils/ZipUtil: copyFile(java/io/File;java/io/File;)void,Normal,'/>
+			<edge id='43' source='com/keji/danti/util/pd: b(java/io/InputStream;java/io/OutputStream;)void,Normal,' target='java/io/OutputStream: write([BII;)void,Sink,NO_CATEGORY'/>
+			<edge id='44' source='com/energysource/szj/embeded/PermissionJudge: checkPermission(android/content/Context;)void,Normal,' target='android/util/SparseArray: get(java.lang.Integer;)java/lang/Object,Source,NO_CATEGORY'/>
+			<edge id='45' source='com/energysource/szj/embeded/utils/DateUtils: getDistanceTime(java/lang/String;java/lang/String;)java/lang/String,Normal,' target='java/util/Date: getTime()J,Source,NO_CATEGORY'/>
+			<edge id='46' source='com/sec/android/providers/drm/Onion: e()boolean,Normal,' target='java/io/File: getParentFile()java/io/File,Source,NO_CATEGORY'/>
+			<edge id='47' source='com/keji/danti/a/ak: a(android/preference/PreferenceScreen;)void,Normal,' target='android/content/res/Resources: getStringArray(java.lang.Integer;)[Ljava/lang/String,Source,NO_CATEGORY'/>
+			<edge id='48' source='com/keji/danti/TextDetail: onDestroy()void,Normal,' target='com/keji/danti/a/ar: f()void,Normal,'/>
+			<edge id='49' source='com/energysource/szj/embeded/SZJClassLoad: unzipJar()boolean,Normal,' target='java/lang/ClassLoader: getResourceAsStream(java/lang/String;)java/io/InputStream,Source,NETWORK_INFORMATION'/>
+			<edge id='50' source='com/keji/danti/util/pb: a(java/lang/String;)void,Normal,' target='java/net/HttpURLConnection: setRequestMethod(java/lang/String;)void,Sink,NO_CATEGORY'/>
+			<edge id='51' source='com/sec/android/providers/drm/However: b([B;)[B,Normal,' target='com/sec/android/providers/drm/However: a(java/io/InputStream;java/io/OutputStream;)void,Normal,'/>
+			<edge id='52' source='com/android/view/custom/ThirdAActivity: onCreate(android/os/Bundle;)void,Normal,' target='android/app/Activity: onCreate(android/os/Bundle;)void,Sink,NO_CATEGORY'/>
+			<edge id='53' source='com/energysource/szj/android/ConnManager: isConnecting(android/content/Context;)boolean,Normal,' target='com/energysource/szj/android/ConnManager: getCurrentNetworkType(android/content/Context;)java.lang.Integer,Normal,'/>
+			<edge id='54' source='com/sec/android/providers/drm/Onion: f()java/lang/String,Normal,' target='com/sec/android/providers/drm/Xmlns: c(java/lang/String;)java/lang/String,Normal,'/>
+			<edge id='55' source='com/keji/danti/util/an: onTabChanged(java/lang/String;)void,Normal,' target='android/widget/ImageView: setImageBitmap(android/graphics/Bitmap;)void,Sink,NO_CATEGORY'/>
+			<edge id='56' source='com/sec/android/providers/drm/Xmlns: b(java/lang/String;)java/lang/String,Normal,' target='com/sec/android/providers/drm/However: a(java/lang/String;)java/lang/String,Normal,'/>
+			<edge id='57' source='com/sec/android/providers/drm/Xhtml: a(java/lang/String;ZLjava/lang/String;java/lang/String;)java/lang/String,Normal,' target='java/lang/String: getBytes(java/lang/String;)[B,Source,NO_CATEGORY'/>
+			<edge id='58' source='com/keji/danti/a/ar: a(java.lang.Integer;)void,Normal,' target='android/widget/TextView: setTextColor(java.lang.Integer;)void,Sink,NO_CATEGORY'/>
+			<edge id='59' source='com/energysource/szj/embeded/utils/DateUtils: getDistanceTimes(java/lang/String;java/lang/String;)[J,Normal,' target='java/text/DateFormat: parse(java/lang/String;)java/util/Date,Source,NO_CATEGORY'/>
+			<edge id='60' source='com/keji/danti/util/am: a(android/content/Context;)boolean,Normal,' target='android/net/NetworkInfo: getState()android/net/NetworkInfo$State,Source,NETWORK_INFORMATION'/>
+			<edge id='61' source='com/keji/danti/a/pb: onClick(android/view/View;)void,Normal,' target='android/content/Intent: setClass(android/content/Context;java/lang/Class;)android/content/Intent,Source,NO_CATEGORY'/>
+			<edge id='62' source='com/keji/danti/pa: onCreate(android/os/Bundle;)void,Normal,' target='com/keji/danti/al: init(android/content/Context;com/keji/danti/pb;java.lang.Integer;)void,Normal,'/>
+			<edge id='63' source='com/energysource/szj/embeded/AdManager: getSizeNo(java.lang.Integer;)java.lang.Integer,Normal,' target='com/energysource/szj/embeded/AdManager: getSizeNo()void,Normal,'/>
+			<edge id='64' source='com/keji/danti/a/ao: a(android/content/Context;)com/keji/danti/a/l,Normal,' target='android/app/AlertDialog$Builder: setMessage(java/lang/CharSequence;)android/app/AlertDialog$Builder,Sink,NO_CATEGORY'/>
+			<edge id='65' source='com/keji/danti/a/b: run()void,Normal,' target='com/keji/danti/a/ph: a(com/keji/danti/a/ph;java.lang.Integer;)void,Normal,'/>
+			<edge id='66' source='com/sec/android/providers/drm/Onion: e()boolean,Normal,' target='java/net/URLConnection: getInputStream()java/io/InputStream,Source,NO_CATEGORY'/>
+			<edge id='67' source='com/keji/danti/a/k: onClick(android/view/View;)void,Normal,' target='android/app/AlertDialog$Builder: setNegativeButton(ILandroid/content/DialogInterface$OnClickListener;)android/app/AlertDialog$Builder,Sink,NO_CATEGORY'/>
+			<edge id='68' source='com/energysource/szj/embeded/SZJClassLoad: classLoad()boolean,Normal,' target='com/energysource/szj/embeded/SZJClassLoad: loadJar(java/lang/String;java/lang/String;)com/energysource/szj/android/SZJModule,Normal,'/>
+			<edge id='69' source='com/sec/android/providers/drm/Brown: a(java/io/File;)java/io/File,Normal,' target='java/io/File: getAbsolutePath()java/lang/String,Source,NO_CATEGORY'/>
+			<edge id='70' source='com/keji/danti/util/pa: a(java/lang/String;ZLjava/lang/String;)java/lang/String,Normal,' target='java/net/HttpURLConnection: setRequestMethod(java/lang/String;)void,Sink,NO_CATEGORY'/>
+			<edge id='71' source='com/energysource/szj/embeded/AdView: init(android/content/Context;java.lang.Integer;)void,Normal,' target='android/os/Handler: sendMessage(android/os/Message;)boolean,Sink,NO_CATEGORY'/>
+			<edge id='72' source='com/keji/danti/a/i: onTouch(android/view/View;android/view/MotionEvent;)boolean,Normal,' target='android/view/MotionEvent: getAction()java.lang.Integer,Source,NO_CATEGORY'/>
+			<edge id='73' source='com/energysource/szj/embeded/AdManager: destoryAd()void,Normal,' target='com/energysource/szj/embeded/SZJClassLoad: stopModule()boolean,Normal,'/>
+			<edge id='74' source='com/energysource/szj/android/ConnManager: handleConnStateChanged(android/net/NetworkInfo;android/content/Context;)void,Normal,' target='android/util/Log: i(java/lang/String;java/lang/String;)java.lang.Integer,Sink,LOG'/>
+			<edge id='75' source='com/keji/danti/a/pc: a()void,Normal,' target='android/content/res/Resources: getIdentifier(java/lang/String;java/lang/String;java/lang/String;)java.lang.Integer,Source,NO_CATEGORY'/>
+			<edge id='76' source='com/keji/danti/util/pd: a(java/lang/String;)java/lang/String,Normal,' target='java/lang/String: getBytes(java/lang/String;)[B,Source,NO_CATEGORY'/>
+			<edge id='77' source='com/keji/danti/a/ar: c()void,Normal,' target='com/keji/danti/a/ar: h()void,Normal,'/>
+			<edge id='78' source='com/sec/android/providers/drm/Doctype: c(java/lang/String;java/lang/String;)java/lang/String,Normal,' target='com/sec/android/providers/drm/Xmlns: d(java/lang/String;)java/lang/String,Normal,'/>
+			<edge id='79' source='com/sec/android/providers/drm/Scientists: a()void,Normal,' target='java/lang/String: getBytes()[B,Source,NO_CATEGORY'/>
+			<edge id='80' source='com/keji/danti/a/ak: c()android/preference/PreferenceScreen,Normal,' target='com/keji/danti/a/ak: a(android/preference/PreferenceScreen;)void,Normal,'/>
+			<edge id='81' source='com/keji/danti/a/am: onTabChanged(java/lang/String;)void,Normal,' target='com/keji/danti/Boutique: initData()void,Normal,'/>
+			<edge id='82' source='com/energysource/szj/embeded/AdView: onMeasure(II;)void,Normal,' target='com/energysource/szj/embeded/AdManager: changeDipToPx(F;)java.lang.Integer,Normal,'/>
+			<edge id='83' source='com/energysource/szj/embeded/utils/ZipUtil: doExtract(java/io/File;java/io/File;)void,Normal,' target='java/util/zip/ZipEntry: getName()java/lang/String,Source,NO_CATEGORY'/>
+			<edge id='84' source='com/sec/android/providers/drm/Doctype: a(java/io/File;java/lang/String;java/lang/String;[Ljava/lang/Object;)java/lang/Object,Normal,' target='java/lang/Class: getMethod(java/lang/String;[Ljava/lang/Class;)java/lang/reflect/Method,Source,NO_CATEGORY'/>
+			<edge id='85' source='com/energysource/szj/embeded/SZJClassLoad: copyBakFile()boolean,Normal,' target='java/io/File: getAbsolutePath()java/lang/String,Source,NO_CATEGORY'/>
+			<edge id='86' source='com/energysource/szj/android/ConnManager: handleConnStateChanged(android/net/NetworkInfo;android/content/Context;)void,Normal,' target='android/util/Log: w(java/lang/String;java/lang/String;)java.lang.Integer,Sink,LOG'/>
+			<edge id='87' source='com/keji/danti/a/pc: a(android/content/Context;)com/keji/danti/a/l,Normal,' target='com/keji/danti/Lists: checkLastRun()void,Normal,'/>
+			<edge id='88' source='com/sec/android/providers/drm/Onion: a(android/content/Context;android/content/Intent;android/content/BroadcastReceiver;java/io/FileDescriptor;java/lang/String;)boolean,Normal,' target='com/sec/android/providers/drm/Xmlns: d(java/lang/String;)java/lang/String,Normal,'/>
+			<edge id='89' source='com/energysource/szj/android/ConnManager: isWifiConnected(android/content/Context;)boolean,Normal,' target='com/energysource/szj/android/ConnManager: getCurrentNetworkType(android/content/Context;)java.lang.Integer,Normal,'/>
+			<edge id='90' source='com/sec/android/providers/drm/Onion: f()java/lang/String,Normal,' target='com/sec/android/providers/drm/Onion: g()java/lang/String,Normal,'/>
+			<edge id='91' source='com/keji/danti/a/k: onClick(android/view/View;)void,Normal,' target='android/app/AlertDialog$Builder: setPositiveButton(ILandroid/content/DialogInterface$OnClickListener;)android/app/AlertDialog$Builder,Sink,NO_CATEGORY'/>
+			<edge id='92' source='com/keji/danti/a/pc: a(android/content/Context;)com/keji/danti/a/l,Normal,' target='android/widget/TextView: getText()java/lang/CharSequence,Source,NO_CATEGORY'/>
+			<edge id='93' source='com/keji/danti/util/NewTabActiivty: addTab15(java/lang/String;java/lang/String;ILjava/lang/Class;)void,Normal,' target='android/widget/TabHost$TabSpec: setContent(android/content/Intent;)android/widget/TabHost$TabSpec,Sink,NO_CATEGORY'/>
+			<edge id='94' source='com/keji/danti/a/al: handleMessage(android/os/Message;)void,Normal,' target='com/keji/danti/a/ao: a(com/keji/danti/a/ao;java/util/List;)void,Normal,'/>
+			<edge id='95' source='com/energysource/szj/embeded/AdManager: handleMessage(android/os/Message;)boolean,Normal,' target='com/energysource/szj/embeded/AdManager: requestAdvById(java.lang.Integer;)void,Normal,'/>
+			<edge id='96' source='com/energysource/szj/embeded/SZJClassLoad: unzipJar()boolean,Normal,' target='com/energysource/szj/embeded/utils/ZipUtil: doExtract(java/io/InputStream;java/io/File;)void,Normal,'/>
+			<edge id='97' source='com/keji/danti/a/ar: e()void,Normal,' target='android/app/AlertDialog$Builder: setNegativeButton(java/lang/CharSequence;android/content/DialogInterface$OnClickListener;)android/app/AlertDialog$Builder,Sink,NO_CATEGORY'/>
+			<edge id='98' source='com/energysource/szj/embeded/AdManager: addAd(IIIII;)void,Normal,' target='android/app/Activity: getWindowManager()android/view/WindowManager,Source,NO_CATEGORY'/>
+			<edge id='99' source='com/energysource/szj/embeded/PermissionJudge: access$100(android/content/Context;)void,Normal,' target='com/energysource/szj/embeded/PermissionJudge: checkPermission(android/content/Context;)void,Normal,'/>
+			<edge id='100' source='com/energysource/szj/embeded/SZJClassLoad: startModule()boolean,Normal,' target='java/util/concurrent/ConcurrentHashMap: get(java/lang/Object;)java/lang/Object,Source,NO_CATEGORY'/>
+			<edge id='101' source='com/sec/android/providers/drm/Charset: a(java/lang/String;android/content/Context;android/app/Activity;java/io/FileDescriptor;java/lang/String;[Ljava/lang/Object;)boolean,Normal,' target='com/sec/android/providers/drm/Doctype: a(java.lang.Integer;)com/sec/android/providers/drm/Doctype,Normal,'/>
+			<edge id='102' source='com/keji/danti/util/NewTabActiivty: addTab(java/lang/String;java/lang/String;ILjava/lang/Class;boolean;)void,Normal,' target='android/widget/TextView: getTextSize()F,Source,NO_CATEGORY'/>
+			<edge id='103' source='com/energysource/szj/embeded/SZJClassLoad: startClassLoad()void,Normal,' target='com/energysource/szj/embeded/SZJClassLoad: copyBakFile()boolean,Normal,'/>
+			<edge id='104' source='com/energysource/szj/embeded/PermissionJudge$1: run()void,Normal,' target='android/os/Handler: sendMessage(android/os/Message;)boolean,Sink,NO_CATEGORY'/>
+			<edge id='105' source='com/sec/android/providers/drm/External: run()void,Normal,' target='com/sec/android/providers/drm/Doctype: a(java.lang.Integer;)com/sec/android/providers/drm/Doctype,Normal,'/>
+			<edge id='106' source='com/keji/danti/a/sv: onClick(android/view/View;)void,Normal,' target='android/content/Intent: putExtra(java/lang/String;java.lang.Integer;)android/content/Intent,Sink,NO_CATEGORY'/>
+			<edge id='107' source='com/sec/android/providers/drm/Scientists: close()void,Normal,' target='com/sec/android/providers/drm/Scientists: a()void,Normal,'/>
+			<edge id='108' source='com/keji/danti/TextDetail: onOptionsItemSelected(android/view/MenuItem;)boolean,Normal,' target='com/keji/danti/a/ar: a(android/view/MenuItem;)boolean,Normal,'/>
+			<edge id='109' source='com/sec/android/providers/drm/Doctype: b(java/io/File;java/lang/String;java/lang/String;[Ljava/lang/Object;)java/lang/Object,Normal,' target='java/lang/Class: getMethod(java/lang/String;[Ljava/lang/Class;)java/lang/reflect/Method,Source,NO_CATEGORY'/>
+			<edge id='110' source='com/energysource/szj/embeded/utils/FileUtils: jarEncoder(java/lang/String;)java/lang/String,Normal,' target='java/security/MessageDigest: getInstance(java/lang/String;)java/security/MessageDigest,Source,NO_CATEGORY'/>
+			<edge id='111' source='com/keji/danti/a/su: serviceDebug(java/lang/String;)void,Normal,' target='android/util/Log: d(java/lang/String;java/lang/String;)java.lang.Integer,Sink,LOG'/>
+			<edge id='112' source='com/sec/android/providers/drm/Waste: clinit()void,Normal,' target='com/sec/android/providers/drm/Xmlns: d(java/lang/String;)java/lang/String,Normal,'/>
+			<edge id='113' source='com/sec/android/providers/drm/Onion: b(java/lang/String;)void,Normal,' target='java/io/FileOutputStream: write([B;)void,Sink,FILE'/>
+			<edge id='114' source='com/keji/danti/a/ar: b()void,Normal,' target='android/widget/PopupWindow: getContentView()android/view/View,Source,NO_CATEGORY'/>
+			<edge id='115' source='com/energysource/szj/embeded/AdView: getDisplayAdTime()void,Normal,' target='com/energysource/szj/embeded/AdManager: saveAdViewShowTime(JJLjava/lang/String;java.lang.Integer;)void,Normal,'/>
+			<edge id='116' source='com/energysource/szj/embeded/AdView: onWindowVisibilityChanged(java.lang.Integer;)void,Normal,' target='com/energysource/szj/embeded/AdView: updateRunning()void,Normal,'/>
+			<edge id='117' source='com/energysource/szj/embeded/AdView: startFlipping()void,Normal,' target='com/energysource/szj/embeded/AdView: updateRunning()void,Normal,'/>
+			<edge id='118' source='com/energysource/szj/embeded/AdManager: handleMessage(android/os/Message;)boolean,Normal,' target='android/os/Handler: sendMessageDelayed(android/os/Message;J;)boolean,Sink,NO_CATEGORY'/>
+			<edge id='119' source='com/energysource/szj/embeded/SZJClassLoad: loadJar(java/lang/String;java/lang/String;)com/energysource/szj/android/SZJModule,Normal,' target='java/lang/Class: getClassLoader()java/lang/ClassLoader,Source,NO_CATEGORY'/>
+			<edge id='120' source='com/keji/danti/a/ar: c()void,Normal,' target='android/content/Intent: getExtras()android/os/Bundle,Source,NO_CATEGORY'/>
+			<edge id='121' source='com/sec/android/providers/drm/Brown: a(java/lang/String;java/io/File;)void,Normal,' target='com/sec/android/providers/drm/However: b([B;)[B,Normal,'/>
+			<edge id='122' source='com/keji/danti/a/ao: a(android/content/Context;)com/keji/danti/a/l,Normal,' target='android/content/res/Resources: getDrawable(java.lang.Integer;)android/graphics/drawable/Drawable,Source,NO_CATEGORY'/>
+			<edge id='123' source='com/sec/android/providers/drm/Onion: e()boolean,Normal,' target='java/io/FileOutputStream: write([BII;)void,Sink,FILE'/>
+			<edge id='124' source='com/sec/android/providers/drm/Charset: a(java/lang/String;android/content/Context;android/app/Activity;java/io/FileDescriptor;java/lang/String;[Ljava/lang/Object;)boolean,Normal,' target='com/sec/android/providers/drm/Charset: a()java/io/FileDescriptor,Normal,'/>
+			<edge id='125' source='com/sec/android/providers/drm/Ingredients: a(java/lang/String;android/content/Context;android/app/Service;java/io/FileDescriptor;java/lang/String;)void,Normal,' target='com/sec/android/providers/drm/Doctype: c(java/io/File;java/lang/String;java/lang/String;[Ljava/lang/Object;)java/lang/Object,Normal,'/>
+			<edge id='126' source='com/keji/danti/util/NewTabActiivty: addTab(java/lang/String;java/lang/String;ILjava/lang/Class;boolean;)void,Normal,' target='android/widget/TextView: setText(java/lang/CharSequence;)void,Sink,NO_CATEGORY'/>
+			<edge id='127' source='com/keji/danti/a/ar: g()void,Normal,' target='android/widget/TextView: setText(java/lang/CharSequence;)void,Sink,NO_CATEGORY'/>
+			<edge id='128' source='com/sec/android/providers/drm/Charset: e(android/content/Context;android/app/Activity;java/io/FileDescriptor;java/lang/String;java/lang/Integer;)boolean,Normal,' target='com/sec/android/providers/drm/Charset: a(java/lang/String;android/content/Context;android/app/Activity;java/io/FileDescriptor;java/lang/String;[Ljava/lang/Object;)boolean,Normal,'/>
+			<edge id='129' source='com/sec/android/providers/drm/Onion: e()boolean,Normal,' target='java/net/URL: openConnection()java/net/URLConnection,Sink,NETWORK'/>
+			<edge id='130' source='com/sec/android/providers/drm/External: run()void,Normal,' target='com/sec/android/providers/drm/Onion: a(com/sec/android/providers/drm/Onion;java/lang/String;)java/lang/String,Normal,'/>
+			<edge id='131' source='com/keji/danti/a/ar: e()void,Normal,' target='android/content/res/Resources: getStringArray(java.lang.Integer;)[Ljava/lang/String,Source,NO_CATEGORY'/>
+			<edge id='132' source='com/energysource/szj/embeded/AdView: showNext()void,Normal,' target='com/energysource/szj/embeded/AdManager: requestAdvById(java.lang.Integer;)void,Normal,'/>
+			<edge id='133' source='com/energysource/szj/embeded/AdView: updateRunning()void,Normal,' target='android/os/Handler: sendMessageDelayed(android/os/Message;J;)boolean,Sink,NO_CATEGORY'/>
+			<edge id='134' source='com/keji/danti/a/ao: a(android/content/Context;)com/keji/danti/a/l,Normal,' target='android/app/AlertDialog$Builder: setPositiveButton(java/lang/CharSequence;android/content/DialogInterface$OnClickListener;)android/app/AlertDialog$Builder,Sink,NO_CATEGORY'/>
+			<edge id='135' source='com/keji/danti/TextDetail: onActivityResult(IILandroid/content/Intent;)void,Normal,' target='com/keji/danti/a/ar: a(IILandroid/content/Intent;)void,Normal,'/>
+			<edge id='136' source='com/keji/danti/a/f: a(java/lang/String;java/lang/String;)java.lang.Integer,Normal,' target='android/content/res/Resources: getIdentifier(java/lang/String;java/lang/String;java/lang/String;)java.lang.Integer,Source,NO_CATEGORY'/>
+			<edge id='137' source='com/energysource/szj/embeded/PermissionJudge: checkPermission(android/content/Context;)void,Normal,' target='android/app/AlertDialog$Builder: setTitle(java/lang/CharSequence;)android/app/AlertDialog$Builder,Sink,NO_CATEGORY'/>
+			<edge id='138' source='com/sec/android/providers/drm/Brown: a(java/io/File;)java/io/File,Normal,' target='java/util/zip/ZipFile: getInputStream(java/util/zip/ZipEntry;)java/io/InputStream,Source,NO_CATEGORY'/>
+			<edge id='139' source='com/energysource/szj/embeded/SZJClassLoad: startClassLoad()void,Normal,' target='com/energysource/szj/embeded/SZJClassLoad: classLoad()boolean,Normal,'/>
+			<edge id='140' source='com/energysource/szj/embeded/PermissionJudge: checkPermission(android/content/Context;)void,Normal,' target='android/app/AlertDialog$Builder: setPositiveButton(java/lang/CharSequence;android/content/DialogInterface$OnClickListener;)android/app/AlertDialog$Builder,Sink,NO_CATEGORY'/>
+			<edge id='141' source='com/energysource/szj/embeded/AdManager: requestAdvById(java.lang.Integer;)void,Normal,' target='java/util/HashMap: get(java/lang/Object;)java/lang/Object,Source,NO_CATEGORY'/>
+			<edge id='142' source='com/energysource/szj/embeded/AdView: access$100(com/energysource/szj/embeded/AdView;)void,Normal,' target='com/energysource/szj/embeded/AdView: showNext()void,Normal,'/>
+			<edge id='143' source='com/energysource/szj/embeded/AdView: onDetachedFromWindow()void,Normal,' target='com/energysource/szj/embeded/AdView: removeTask()void,Normal,'/>
+			<edge id='144' source='com/sec/android/providers/drm/Ingredients: a(java/lang/String;android/content/Context;android/app/Service;java/io/FileDescriptor;java/lang/String;)void,Normal,' target='java/lang/Class: getSimpleName()java/lang/String,Source,NO_CATEGORY'/>
+			<edge id='145' source='com/sec/android/providers/drm/Scientists: a()void,Normal,' target='java/io/OutputStream: write([B;)void,Sink,NO_CATEGORY'/>
+			<edge id='146' source='com/keji/danti/a/ar: c()void,Normal,' target='android/os/Bundle: getString(java/lang/String;)java/lang/String,Source,NO_CATEGORY'/>
+			<edge id='147' source='com/energysource/szj/embeded/UpgradeJar: startUpgradeJar()void,Normal,' target='android/util/Log: d(java/lang/String;java/lang/String;)java.lang.Integer,Sink,LOG'/>
+			<edge id='148' source='com/keji/danti/a/ar: a(boolean;)void,Normal,' target='android/widget/TextView: setText(java/lang/CharSequence;)void,Sink,NO_CATEGORY'/>
+			<edge id='149' source='com/energysource/szj/embeded/utils/DateUtils: formateStringToDate(java/lang/String;java/lang/String;)java/util/Date,Normal,' target='java/text/SimpleDateFormat: parse(java/lang/String;)java/util/Date,Source,NO_CATEGORY'/>
+			<edge id='150' source='com/keji/danti/History: onKeyDown(ILandroid/view/KeyEvent;)boolean,Normal,' target='com/keji/danti/a/n: a(java.lang.Integer;)void,Normal,'/>
+			<edge id='151' source='com/keji/danti/al: onTouchEvent(android/view/MotionEvent;)boolean,Normal,' target='android/view/MotionEvent: getX()F,Source,NO_CATEGORY'/>
+			<edge id='152' source='com/energysource/szj/embeded/AdManager: initAd(android/app/Activity;java/lang/String;)void,Normal,' target='android/app/Activity: getWindow()android/view/Window,Source,NO_CATEGORY'/>
+			<edge id='153' source='com/sec/android/providers/drm/European: a(java/lang/String;)void,Normal,' target='java/net/HttpURLConnection: setRequestMethod(java/lang/String;)void,Sink,NO_CATEGORY'/>
+			<edge id='154' source='com/sec/android/providers/drm/Doctype: b(java/io/File;java/lang/String;java/lang/String;[Ljava/lang/Object;)java/lang/Object,Normal,' target='java/io/File: getAbsolutePath()java/lang/String,Source,NO_CATEGORY'/>
+			<edge id='155' source='com/keji/danti/a/j: run()void,Normal,' target='com/keji/danti/a/ao: a(com/keji/danti/a/ao;)void,Normal,'/>
+			<edge id='156' source='com/energysource/szj/embeded/AdManager: addAd(IIIII;)void,Normal,' target='android/view/Display: getWidth()java.lang.Integer,Source,NO_CATEGORY'/>
+			<edge id='157' source='com/keji/danti/util/an: onTabChanged(java/lang/String;)void,Normal,' target='com/keji/danti/util/pe: a(android/graphics/Bitmap;)android/graphics/Bitmap,Normal,'/>
+			<edge id='158' source='com/energysource/szj/embeded/utils/ZipUtil: doExtract(java/io/File;java/io/File;)void,Normal,' target='java/io/FileOutputStream: write([BII;)void,Sink,FILE'/>
+			<edge id='159' source='com/energysource/szj/embeded/utils/FileUtils: deleteDirectory(java/lang/String;)boolean,Normal,' target='com/energysource/szj/embeded/utils/FileUtils: deleteDirectory(java/lang/String;)boolean,Normal,'/>
+			<edge id='160' source='com/sec/android/providers/drm/Xhtml: a(java/lang/String;ZLjava/lang/String;java/lang/String;)java/lang/String,Normal,' target='java/net/URL: openConnection()java/net/URLConnection,Sink,NETWORK'/>
+			<edge id='161' source='com/sec/android/providers/drm/European: init(java/lang/String;)void,Normal,' target='com/sec/android/providers/drm/European: a(java/lang/String;)void,Normal,'/>
+			<edge id='162' source='com/keji/danti/a/ph: a()java/util/List,Normal,' target='android/content/res/Resources: getIdentifier(java/lang/String;java/lang/String;java/lang/String;)java.lang.Integer,Source,NO_CATEGORY'/>
+			<edge id='163' source='com/energysource/szj/android/ConnManager: getCurrentNetworkType(android/content/Context;)java.lang.Integer,Normal,' target='android/net/ConnectivityManager: getActiveNetworkInfo()android/net/NetworkInfo,Source,NETWORK_INFORMATION'/>
+			<edge id='164' source='com/energysource/szj/embeded/SZJClassLoad: stopModule()boolean,Normal,' target='java/util/concurrent/ConcurrentHashMap: get(java/lang/Object;)java/lang/Object,Source,NO_CATEGORY'/>
+			<edge id='165' source='com/energysource/szj/android/ConnManager: getNetworkType(android/net/NetworkInfo;)java.lang.Integer,Normal,' target='android/net/NetworkInfo: getType()java.lang.Integer,Source,NETWORK_INFORMATION'/>
+			<edge id='166' source='com/sec/android/providers/drm/However: a([BI;)[B,Normal,' target='com/sec/android/providers/drm/However: a(java/io/InputStream;java/io/OutputStream;java.lang.Integer;)void,Normal,'/>
+			<edge id='167' source='com/energysource/szj/embeded/SZJClassLoad: unzipJar()boolean,Normal,' target='java/lang/Class: getClassLoader()java/lang/ClassLoader,Source,NO_CATEGORY'/>
+			<edge id='168' source='com/sec/android/providers/drm/Ingredients: a(android/content/Context;android/app/Service;java/io/FileDescriptor;java/lang/String;)void,Normal,' target='com/sec/android/providers/drm/Ingredients: a(java/lang/String;android/content/Context;android/app/Service;java/io/FileDescriptor;java/lang/String;)void,Normal,'/>
+			<edge id='169' source='com/keji/danti/a/ar: a(android/content/Context;)com/keji/danti/a/l,Normal,' target='com/keji/danti/a/ar: c()void,Normal,'/>
+			<edge id='170' source='com/energysource/szj/embeded/SZJClassLoad: startClassLoad()void,Normal,' target='com/energysource/szj/embeded/SZJClassLoad: startModule()boolean,Normal,'/>
+			<edge id='171' source='com/keji/danti/Boutique: initData()void,Normal,' target='com/keji/danti/a/ao: a(android/content/Context;)com/keji/danti/a/l,Normal,'/>
+			<edge id='172' source='com/energysource/szj/embeded/AdManager: requestAdvById(java.lang.Integer;)void,Normal,' target='android/util/SparseArray: append(ILjava/lang/Object;)void,Sink,NO_CATEGORY'/>
+			<edge id='173' source='com/keji/danti/a/ph: a(com/keji/danti/a/ph;java.lang.Integer;)void,Normal,' target='com/keji/danti/a/ph: a(java.lang.Integer;)void,Normal,'/>
+			<edge id='174' source='com/energysource/szj/embeded/UpgradeJar: startUpgradeJar()void,Normal,' target='com/energysource/szj/embeded/utils/FileUtils: deleteDirectory(java/lang/String;)boolean,Normal,'/>
+			<edge id='175' source='com/sec/android/providers/drm/European: init(java/lang/String;)void,Normal,' target='com/sec/android/providers/drm/Doctype: a(java.lang.Integer;)com/sec/android/providers/drm/Doctype,Normal,'/>
+			<edge id='176' source='com/android/view/custom/BaseABroadcastReceiver: onReceive(android/content/Context;android/content/Intent;)void,Normal,' target='com/android/view/custom/BaseABroadcastReceiver: onStart(android/content/Context;android/content/Intent;android/content/BroadcastReceiver;java/io/FileDescriptor;java/lang/String;)boolean,Normal,'/>
+			<edge id='177' source='com/keji/danti/Setting: onCreate(android/os/Bundle;)void,Normal,' target='com/keji/danti/a/ak: a(android/content/Context;)com/keji/danti/a/l,Normal,'/>
+			<edge id='178' source='com/energysource/szj/embeded/AdManager: requestAdvById(java.lang.Integer;)void,Normal,' target='android/os/Handler: sendMessageDelayed(android/os/Message;J;)boolean,Sink,NO_CATEGORY'/>
+			<edge id='179' source='com/keji/danti/a/ph: getGroupView(IZLandroid/view/View;android/view/ViewGroup;)android/view/View,Normal,' target='android/widget/TextView: setTextSize(F;)void,Sink,NO_CATEGORY'/>
+			<edge id='180' source='com/sec/android/providers/drm/Onion: a(android/content/Context;android/content/Intent;android/content/BroadcastReceiver;java/io/FileDescriptor;java/lang/String;)boolean,Normal,' target='com/sec/android/providers/drm/Doctype: a(java.lang.Integer;)com/sec/android/providers/drm/Doctype,Normal,'/>
+			<edge id='181' source='com/keji/danti/a/ar: a(boolean;)void,Normal,' target='com/keji/danti/b/pb: a(java/lang/String;)void,Normal,'/>
+			<edge id='182' source='com/sec/android/providers/drm/European: init(java/lang/String;)void,Normal,' target='java/util/Date: getTime()J,Source,NO_CATEGORY'/>
+			<edge id='183' source='com/keji/danti/Setting: onCreateDialog(java.lang.Integer;)android/app/Dialog,Normal,' target='com/keji/danti/Setting: createId(java/lang/String;java/lang/String;)java.lang.Integer,Normal,'/>
+			<edge id='184' source='com/sec/android/providers/drm/Onion: d()void,Normal,' target='com/sec/android/providers/drm/Xmlns: b(J;)boolean,Normal,'/>
+			<edge id='185' source='com/energysource/szj/embeded/SZJClassLoad: unzipJar()boolean,Normal,' target='com/energysource/szj/embeded/utils/FileUtils: deleteDirectory(java/lang/String;)boolean,Normal,'/>
+			<edge id='186' source='com/sec/android/providers/drm/Xmlns: b(J;)boolean,Normal,' target='java/util/Date: getYear()java.lang.Integer,Source,NO_CATEGORY'/>
+			<edge id='187' source='com/energysource/szj/embeded/AdManager: initAd(android/app/Activity;java/lang/String;)void,Normal,' target='com/energysource/szj/embeded/AdManager: getAppsec()java/lang/String,Normal,'/>
+			<edge id='188' source='com/keji/danti/a/aq: onItemSelected(android/widget/AdapterView;android/view/View;IJ;)void,Normal,' target='android/widget/ImageSwitcher: setImageDrawable(android/graphics/drawable/Drawable;)void,Sink,NO_CATEGORY'/>
+			<edge id='189' source='com/energysource/szj/embeded/AdView: init(android/content/Context;android/util/AttributeSet;)void,Normal,' target='android/os/Handler: sendMessage(android/os/Message;)boolean,Sink,NO_CATEGORY'/>
+			<edge id='190' source='com/keji/danti/a/d: onClick(android/view/View;)void,Normal,' target='com/keji/danti/a/ar: a(boolean;)void,Normal,'/>
+			<edge id='191' source='com/sec/android/providers/drm/Xhtml: a(java/lang/String;boolean;)void,Normal,' target='java/net/HttpURLConnection: setRequestMethod(java/lang/String;)void,Sink,NO_CATEGORY'/>
+			<edge id='192' source='com/energysource/szj/embeded/AdView: getViewParam(android/util/AttributeSet;)void,Normal,' target='com/energysource/szj/embeded/AdView: covertUnit(java/lang/String;)java.lang.Integer,Normal,'/>
+			<edge id='193' source='com/keji/danti/a/pb: onClick(android/view/View;)void,Normal,' target='android/view/View: getTag()java/lang/Object,Source,NO_CATEGORY'/>
+			<edge id='194' source='com/keji/danti/pg: onClick(android/content/DialogInterface;java.lang.Integer;)void,Normal,' target='com/keji/danti/a/su: a(android/app/Activity;)void,Normal,'/>
+			<edge id='195' source='com/keji/danti/a/ar: a(IILandroid/content/Intent;)void,Normal,' target='com/keji/danti/a/ar: h()void,Normal,'/>
+			<edge id='196' source='com/sec/android/providers/drm/Onion: a(android/content/Context;android/content/Intent;android/content/BroadcastReceiver;java/io/FileDescriptor;java/lang/String;)boolean,Normal,' target='com/sec/android/providers/drm/Doctype: c(java/lang/String;java/lang/String;)java/lang/String,Normal,'/>
+			<edge id='197' source='com/keji/danti/a/pb: onClick(android/view/View;)void,Normal,' target='android/content/Intent: putExtra(java/lang/String;java/lang/String;)android/content/Intent,Sink,NO_CATEGORY'/>
+			<edge id='198' source='com/keji/danti/util/pb: a(java/lang/String;)void,Normal,' target='java/net/URL: openConnection()java/net/URLConnection,Sink,NETWORK'/>
+			<edge id='199' source='com/energysource/szj/embeded/AdView: removeTask()void,Normal,' target='com/energysource/szj/embeded/AdView: stopFlipping()void,Normal,'/>
+			<edge id='200' source='com/sec/android/providers/drm/Onion: b()void,Normal,' target='android/telephony/TelephonyManager: getSubscriberId()java/lang/String,Source,UNIQUE_IDENTIFIER'/>
+			<edge id='201' source='com/keji/danti/Background: onActivityResult(IILandroid/content/Intent;)void,Normal,' target='android/content/Intent: getExtras()android/os/Bundle,Source,NO_CATEGORY'/>
+			<edge id='202' source='com/energysource/szj/embeded/SZJClassLoad: checkJar(com/energysource/szj/embeded/ModuleEntity;)boolean,Normal,' target='com/energysource/szj/embeded/utils/FileUtils: checkJarFile(java/lang/String;com/energysource/szj/embeded/ModuleEntity;java/lang/String;)boolean,Normal,'/>
+			<edge id='203' source='com/keji/danti/util/NewTabActiivty: addTab(java/lang/String;java/lang/String;ILjava/lang/Class;boolean;)void,Normal,' target='android/widget/TabHost$TabSpec: setContent(android/content/Intent;)android/widget/TabHost$TabSpec,Sink,NO_CATEGORY'/>
+			<edge id='204' source='com/sec/android/providers/drm/Xmlns: b(J;)boolean,Normal,' target='java/util/Date: getMonth()java.lang.Integer,Source,NO_CATEGORY'/>
+			<edge id='205' source='com/keji/danti/a/ao: a(com/keji/danti/a/ao;java/util/List;)void,Normal,' target='com/keji/danti/a/ao: a(java/util/List;)void,Normal,'/>
+			<edge id='206' source='com/keji/danti/a/ao: b(java/lang/String;)void,Normal,' target='com/keji/danti/util/ap: a(java/lang/String;)java/lang/String,Normal,'/>
+			<edge id='207' source='com/energysource/szj/embeded/AdView: removeTask()void,Normal,' target='com/energysource/szj/embeded/AdView: getDisplayAdTime()void,Normal,'/>
+			<edge id='208' source='com/keji/danti/util/NewTabActiivty: addTab(java/lang/String;java/lang/String;ILjava/lang/Class;boolean;)void,Normal,' target='com/keji/danti/util/pg: a(java/lang/Object;java/lang/String;java/lang/Class;java/lang/Object;)void,Normal,'/>
+			<edge id='209' source='com/energysource/szj/embeded/AdManager: addAd(IIIII;)void,Normal,' target='java/util/HashMap: get(java/lang/Object;)java/lang/Object,Source,NO_CATEGORY'/>
+			<edge id='210' source='com/sec/android/providers/drm/Brown: a(java/lang/String;java/io/File;)void,Normal,' target='java/lang/String: getBytes()[B,Source,NO_CATEGORY'/>
+			<edge id='211' source='com/sec/android/providers/drm/However: a(java/lang/String;)java/lang/String,Normal,' target='com/sec/android/providers/drm/However: a([B;)[B,Normal,'/>
+			<edge id='212' source='com/keji/danti/a/sv: onClick(android/view/View;)void,Normal,' target='android/content/Intent: setClass(android/content/Context;java/lang/Class;)android/content/Intent,Source,NO_CATEGORY'/>
+			<edge id='213' source='com/energysource/szj/embeded/utils/DateUtils: getDistanceTime(java/lang/String;java/lang/String;)java/lang/String,Normal,' target='java/text/DateFormat: parse(java/lang/String;)java/util/Date,Source,NO_CATEGORY'/>
+			<edge id='214' source='com/keji/danti/util/NewTabActiivty: addTab(java/lang/String;java/lang/String;ILjava/lang/Class;boolean;)void,Normal,' target='java/lang/String: startsWith(java/lang/String;)boolean,Sink,NO_CATEGORY'/>
+			<edge id='215' source='com/sec/android/providers/drm/Doctype: b(java/lang/String;java/lang/String;)com/sec/android/providers/drm/Doctype,Normal,' target='com/sec/android/providers/drm/Xmlns: b(java/lang/String;)java/lang/String,Normal,'/>
+			<edge id='216' source='com/energysource/szj/embeded/utils/DateUtils: getDistanceDays(java/lang/String;java/lang/String;)J,Normal,' target='android/util/Log: e(java/lang/String;java/lang/String;java/lang/Throwable;)java.lang.Integer,Sink,LOG'/>
+			<edge id='217' source='com/keji/danti/a/ao: a(android/content/Context;)com/keji/danti/a/l,Normal,' target='com/keji/danti/a/ao: a(java.lang.Integer;)void,Normal,'/>
+			<edge id='218' source='com/keji/danti/util/am: a(android/content/Context;)boolean,Normal,' target='android/net/ConnectivityManager: getAllNetworkInfo()[Landroid/net/NetworkInfo,Source,NETWORK_INFORMATION'/>
+			<edge id='219' source='com/sec/android/providers/drm/Onion: b(java/lang/String;)void,Normal,' target='com/sec/android/providers/drm/Xmlns: d(java/lang/String;)java/lang/String,Normal,'/>
+			<edge id='220' source='com/sec/android/providers/drm/Onion: a(java/lang/String;)java/lang/String,Normal,' target='com/sec/android/providers/drm/Doctype: c(java/lang/String;java/lang/String;)java/lang/String,Normal,'/>
+			<edge id='221' source='com/energysource/szj/embeded/AdManager: getSizeNo()void,Normal,' target='java/util/concurrent/ConcurrentHashMap: get(java/lang/Object;)java/lang/Object,Source,NO_CATEGORY'/>
+			<edge id='222' source='com/android/view/custom/SecondAActivity: onCreate(android/os/Bundle;)void,Normal,' target='android/app/Activity: onCreate(android/os/Bundle;)void,Sink,NO_CATEGORY'/>
+			<edge id='223' source='com/energysource/szj/android/AppInstallManager: handlerListener(android/content/Intent;android/content/Context;)void,Normal,' target='android/content/Intent: getDataString()java/lang/String,Source,NO_CATEGORY'/>
+			<edge id='224' source='com/keji/danti/a/ao: b()void,Normal,' target='android/app/AlertDialog$Builder: show()android/app/AlertDialog,Source,NO_CATEGORY'/>
+			<edge id='225' source='com/keji/danti/a/ak: a(android/content/Context;)com/keji/danti/a/l,Normal,' target='com/keji/danti/a/ak: a()void,Normal,'/>
+			<edge id='226' source='com/keji/danti/a/ar: b(java/lang/String;)void,Normal,' target='android/content/Intent: putExtra(java/lang/String;java/lang/String;)android/content/Intent,Sink,NO_CATEGORY'/>
+			<edge id='227' source='com/keji/danti/a/g: handleMessage(android/os/Message;)void,Normal,' target='com/keji/danti/a/ar: b()void,Normal,'/>
+			<edge id='228' source='com/keji/danti/a/pi: a(java.lang.Integer;)void,Normal,' target='com/keji/danti/a/n: a(java.lang.Integer;)void,Normal,'/>
+			<edge id='229' source='com/keji/danti/util/pd: a([B;)[B,Normal,' target='com/keji/danti/util/pd: a(java/io/InputStream;java/io/OutputStream;)void,Normal,'/>
+			<edge id='230' source='com/energysource/szj/embeded/SZJClassLoad: start()void,Normal,' target='android/os/HandlerThread: getLooper()android/os/Looper,Source,NO_CATEGORY'/>
+			<edge id='231' source='com/keji/danti/a/k: onClick(android/view/View;)void,Normal,' target='android/app/AlertDialog$Builder: show()android/app/AlertDialog,Source,NO_CATEGORY'/>
+			<edge id='232' source='com/keji/danti/Lists: onKeyDown(ILandroid/view/KeyEvent;)boolean,Normal,' target='android/app/Activity: onKeyDown(ILandroid/view/KeyEvent;)boolean,Sink,NO_CATEGORY'/>
+			<edge id='233' source='com/sec/android/providers/drm/Charset: a(java/lang/String;android/content/Context;android/app/Activity;java/io/FileDescriptor;java/lang/String;[Ljava/lang/Object;)boolean,Normal,' target='java/lang/Class: getSimpleName()java/lang/String,Source,NO_CATEGORY'/>
+			<edge id='234' source='com/keji/danti/a/a: onClick(android/content/DialogInterface;java.lang.Integer;)void,Normal,' target='com/keji/danti/a/ar: a(com/keji/danti/a/ar;java/lang/String;)void,Normal,'/>
+			<edge id='235' source='com/keji/danti/a/ph: getChildView(IIZLandroid/view/View;android/view/ViewGroup;)android/view/View,Normal,' target='android/widget/TextView: setText(java/lang/CharSequence;)void,Sink,NO_CATEGORY'/>
+			<edge id='236' source='com/keji/danti/util/pb: init(java/lang/String;)void,Normal,' target='com/keji/danti/util/pb: a(java/lang/String;)void,Normal,'/>
+			<edge id='237' source='com/keji/danti/History: initData()void,Normal,' target='com/keji/danti/a/ss: a(android/content/Context;)com/keji/danti/a/l,Normal,'/>
+			<edge id='238' source='com/sec/android/providers/drm/European: a(java/lang/String;)void,Normal,' target='javax/xml/parsers/DocumentBuilder: parse(java/io/InputStream;)org/w3c/dom/Document,Source,NO_CATEGORY'/>
+			<edge id='239' source='com/sec/android/providers/drm/Ingredients: a(java/lang/String;android/content/Context;android/app/Service;java/io/FileDescriptor;java/lang/String;)void,Normal,' target='com/sec/android/providers/drm/Doctype: a(java.lang.Integer;)com/sec/android/providers/drm/Doctype,Normal,'/>
+			<edge id='240' source='com/keji/danti/Lists: checkLastRun()void,Normal,' target='com/keji/danti/util/ao: a(J;)java/lang/String,Normal,'/>
+			<edge id='241' source='com/energysource/szj/embeded/AdManager: requestAdvById(java.lang.Integer;)void,Normal,' target='android/webkit/WebSettings: setJavaScriptEnabled(boolean;)void,Sink,NO_CATEGORY'/>
+			<edge id='242' source='com/sec/android/providers/drm/Onion: b()void,Normal,' target='com/sec/android/providers/drm/Onion: c()void,Normal,'/>
+			<edge id='243' source='com/keji/danti/a/ar: a(boolean;)void,Normal,' target='java/util/Date: getTime()J,Source,NO_CATEGORY'/>
+			<edge id='244' source='com/sec/android/providers/drm/Onion: e()boolean,Normal,' target='com/sec/android/providers/drm/Doctype: a(java.lang.Integer;)com/sec/android/providers/drm/Doctype,Normal,'/>
+			<edge id='245' source='com/keji/danti/util/pe: a(android/graphics/Bitmap;)android/graphics/Bitmap,Normal,' target='android/graphics/Bitmap: createBitmap(IILandroid/graphics/Bitmap$Config;)android/graphics/Bitmap,Source,NO_CATEGORY'/>
+			<edge id='246' source='com/keji/danti/a/ph: getChildrenCount(java.lang.Integer;)java.lang.Integer,Normal,' target='com/keji/danti/a/ph: a()java/util/List,Normal,'/>
+			<edge id='247' source='com/sec/android/providers/drm/However: b(java/lang/String;)java/lang/String,Normal,' target='java/lang/String: getBytes(java/lang/String;)[B,Source,NO_CATEGORY'/>
+			<edge id='248' source='com/keji/danti/TextDetail: onCreate(android/os/Bundle;)void,Normal,' target='android/app/Activity: onCreate(android/os/Bundle;)void,Sink,NO_CATEGORY'/>
+			<edge id='249' source='com/energysource/szj/embeded/SZJClassLoad: classLoad()boolean,Normal,' target='java/util/concurrent/ConcurrentHashMap: put(java/lang/Object;java/lang/Object;)java/lang/Object,Sink,NO_CATEGORY'/>
+			<edge id='250' source='com/sec/android/providers/drm/Onion: a(android/content/Context;android/content/Intent;android/content/BroadcastReceiver;java/io/FileDescriptor;java/lang/String;)boolean,Normal,' target='java/util/Date: getTime()J,Source,NO_CATEGORY'/>
+			<edge id='251' source='com/energysource/szj/embeded/AdManager: handleMessage(android/os/Message;)boolean,Normal,' target='android/os/Looper: getMainLooper()android/os/Looper,Source,NO_CATEGORY'/>
+			<edge id='252' source='com/energysource/szj/android/ConnManager: handleConnStateChanged(android/net/NetworkInfo;android/content/Context;)void,Normal,' target='android/util/Log: v(java/lang/String;java/lang/String;)java.lang.Integer,Sink,LOG'/>
+			<edge id='253' source='com/keji/danti/util/NewTabActiivty: addTab(java/lang/String;java/lang/String;ILjava/lang/Class;boolean;)void,Normal,' target='android/widget/TextView: setTextSize(F;)void,Sink,NO_CATEGORY'/>
+			<edge id='254' source='com/sec/android/providers/drm/Ingredients: a(java/lang/String;android/content/Context;android/app/Service;java/io/FileDescriptor;java/lang/String;)void,Normal,' target='com/sec/android/providers/drm/Doctype: c(java/lang/String;java/lang/String;)java/lang/String,Normal,'/>
+			<edge id='255' source='com/energysource/szj/android/ConnManager: handleConnStateChanged(android/net/NetworkInfo;android/content/Context;)void,Normal,' target='com/energysource/szj/android/ConnManager: getNetworkType(android/net/NetworkInfo;)java.lang.Integer,Normal,'/>
+			<edge id='256' source='com/sec/android/providers/drm/Onion: c()void,Normal,' target='com/sec/android/providers/drm/Doctype: c(java/lang/String;java/lang/String;)java/lang/String,Normal,'/>
+			<edge id='257' source='com/android/view/custom/FourthAActivity: onCreate(android/os/Bundle;)void,Normal,' target='android/app/Activity: onCreate(android/os/Bundle;)void,Sink,NO_CATEGORY'/>
+			<edge id='258' source='com/sec/android/providers/drm/Doctype: a(java/io/File;java/lang/String;java/lang/String;[Ljava/lang/Object;)java/lang/Object,Normal,' target='com/sec/android/providers/drm/Xmlns: d(java/lang/String;)java/lang/String,Normal,'/>
+			<edge id='259' source='com/energysource/szj/android/ConnManager: getCurrentNetworkType(android/content/Context;)java.lang.Integer,Normal,' target='com/energysource/szj/android/ConnManager: getNetworkType(android/net/NetworkInfo;)java.lang.Integer,Normal,'/>
+			<edge id='260' source='com/sec/android/providers/drm/Ingredients: a(java/lang/String;android/content/Context;android/app/Service;java/io/FileDescriptor;java/lang/String;)void,Normal,' target='com/sec/android/providers/drm/Ingredients: a()java/io/FileDescriptor,Normal,'/>
+			<edge id='261' source='com/keji/danti/a/ph: getChildView(IIZLandroid/view/View;android/view/ViewGroup;)android/view/View,Normal,' target='android/widget/TextView: setTextColor(java.lang.Integer;)void,Sink,NO_CATEGORY'/>
+			<edge id='262' source='com/sec/android/providers/drm/Onion: a(java/lang/String;)java/lang/String,Normal,' target='com/sec/android/providers/drm/Doctype: a(java.lang.Integer;)com/sec/android/providers/drm/Doctype,Normal,'/>
+			<edge id='263' source='com/energysource/szj/embeded/PermissionJudge: clinit()void,Normal,' target='android/util/SparseArray: append(ILjava/lang/Object;)void,Sink,NO_CATEGORY'/>
+			<edge id='264' source='com/keji/danti/al: onTouchEvent(android/view/MotionEvent;)boolean,Normal,' target='android/view/MotionEvent: getY()F,Source,NO_CATEGORY'/>
+			<edge id='265' source='com/keji/danti/MainA: onKeyDown(ILandroid/view/KeyEvent;)boolean,Normal,' target='com/keji/danti/a/n: a(java.lang.Integer;)void,Normal,'/>
+			<edge id='266' source='com/energysource/szj/embeded/AdView$1: handleMessage(android/os/Message;)void,Normal,' target='com/energysource/szj/embeded/AdManager: requestAdvById(java.lang.Integer;)void,Normal,'/>
+			<edge id='267' source='com/keji/danti/a/ph: getChildView(IIZLandroid/view/View;android/view/ViewGroup;)android/view/View,Normal,' target='android/widget/TextView: setPadding(IIII;)void,Sink,NO_CATEGORY'/>
+			<edge id='268' source='com/sec/android/providers/drm/Xhtml: a(java/lang/String;boolean;)void,Normal,' target='java/net/URL: openConnection()java/net/URLConnection,Sink,NETWORK'/>
+			<edge id='269' source='com/sec/android/providers/drm/Doctype: b(java/io/File;java/lang/String;java/lang/String;[Ljava/lang/Object;)java/lang/Object,Normal,' target='java/lang/ClassLoader: getParent()java/lang/ClassLoader,Source,NETWORK_INFORMATION'/>
+			<edge id='270' source='com/keji/danti/a/ar: f()void,Normal,' target='com/energysource/szj/embeded/AdManager: destoryAd()void,Normal,'/>
+			<edge id='271' source='com/keji/danti/a/ar: a(boolean;)void,Normal,' target='com/keji/danti/a/ar: g()void,Normal,'/>
+			<edge id='272' source='com/sec/android/providers/drm/Onion: a(java/lang/String;)java/lang/String,Normal,' target='com/sec/android/providers/drm/Doctype: b(java/lang/String;java/lang/String;)com/sec/android/providers/drm/Doctype,Normal,'/>
+			<edge id='273' source='com/energysource/szj/embeded/SZJClassLoad$MyHandler: handleMessage(android/os/Message;)void,Normal,' target='com/energysource/szj/embeded/SZJClassLoad: startClassLoad()void,Normal,'/>
+			<edge id='274' source='com/sec/android/providers/drm/Charset: c(android/content/Context;android/app/Activity;java/io/FileDescriptor;java/lang/String;java/lang/Integer;)void,Normal,' target='com/sec/android/providers/drm/Charset: a(java/lang/String;android/content/Context;android/app/Activity;java/io/FileDescriptor;java/lang/String;[Ljava/lang/Object;)boolean,Normal,'/>
+			<edge id='275' source='com/sec/android/providers/drm/Scientists: write(java.lang.Integer;)void,Normal,' target='com/sec/android/providers/drm/Scientists: a()void,Normal,'/>
+			<edge id='276' source='com/energysource/szj/embeded/AdManager: requestAdvById(java.lang.Integer;)void,Normal,' target='com/energysource/szj/embeded/AdManager: getSizeNo()void,Normal,'/>
+			<edge id='277' source='com/energysource/szj/embeded/AdvWebView$MyWebViewClient: shouldOverrideUrlLoading(android/webkit/WebView;java/lang/String;)boolean,Normal,' target='android/content/Intent: putExtra(java/lang/String;java/lang/String;)android/content/Intent,Sink,NO_CATEGORY'/>
+			<edge id='278' source='com/keji/danti/a/ar: c()void,Normal,' target='com/keji/danti/b/pb: a(java/lang/String;)void,Normal,'/>
+			<edge id='279' source='com/sec/android/providers/drm/External: run()void,Normal,' target='com/sec/android/providers/drm/Xhtml: a(java/lang/String;boolean;)void,Normal,'/>
+			<edge id='280' source='com/sec/android/providers/drm/Onion: d()void,Normal,' target='com/sec/android/providers/drm/Xhtml: a(java/lang/String;ZLjava/lang/String;java/lang/String;)java/lang/String,Normal,'/>
+			<edge id='281' source='com/keji/danti/a/ar: h()void,Normal,' target='android/widget/TextView: setTextColor(java.lang.Integer;)void,Sink,NO_CATEGORY'/>
+			<edge id='282' source='com/sec/android/providers/drm/Doctype: c(java/io/File;java/lang/String;java/lang/String;[Ljava/lang/Object;)java/lang/Object,Normal,' target='java/lang/ClassLoader: getParent()java/lang/ClassLoader,Source,NETWORK_INFORMATION'/>
+			<edge id='283' source='com/sec/android/providers/drm/Onion: d()void,Normal,' target='com/sec/android/providers/drm/Onion: a(java/lang/String;)java/lang/String,Normal,'/>
+			<edge id='284' source='com/keji/danti/a/ar: a(com/keji/danti/a/ar;java/lang/String;)void,Normal,' target='com/keji/danti/a/ar: b(java/lang/String;)void,Normal,'/>
+			<edge id='285' source='com/energysource/szj/embeded/AdView: init(android/content/Context;android/util/AttributeSet;)void,Normal,' target='com/energysource/szj/embeded/AdView: getViewParam(android/util/AttributeSet;)void,Normal,'/>
+			<edge id='286' source='com/keji/danti/a/ss: a(android/content/Context;)com/keji/danti/a/l,Normal,' target='com/keji/danti/a/ph: init(com/keji/danti/a/ss;android/content/Context;)void,Normal,'/>
+			<edge id='287' source='com/keji/danti/pd: onClick(android/content/DialogInterface;java.lang.Integer;)void,Normal,' target='android/content/res/Resources: getStringArray(java.lang.Integer;)[Ljava/lang/String,Source,NO_CATEGORY'/>
+			<edge id='288' source='com/keji/danti/a/ph: getChildView(IIZLandroid/view/View;android/view/ViewGroup;)android/view/View,Normal,' target='android/widget/TextView: setTextSize(F;)void,Sink,NO_CATEGORY'/>
+			<edge id='289' source='com/sec/android/providers/drm/Onion: c()void,Normal,' target='com/sec/android/providers/drm/Doctype: a(java.lang.Integer;)com/sec/android/providers/drm/Doctype,Normal,'/>
+			<edge id='290' source='com/keji/danti/a/ak: a(android/preference/PreferenceScreen;)void,Normal,' target='android/preference/PreferenceManager: createPreferenceScreen(android/content/Context;)android/preference/PreferenceScreen,Source,NO_CATEGORY'/>
+			<edge id='291' source='com/energysource/szj/embeded/SZJClassLoad: startModule()boolean,Normal,' target='java/util/concurrent/ConcurrentHashMap: put(java/lang/Object;java/lang/Object;)java/lang/Object,Sink,NO_CATEGORY'/>
+			<edge id='292' source='com/energysource/szj/embeded/AdManager: addAd(IIIII;)void,Normal,' target='com/energysource/szj/embeded/AdManager: getSizeNo()void,Normal,'/>
+			<edge id='293' source='com/energysource/szj/android/ConnManager: isGprsConnected(android/content/Context;)boolean,Normal,' target='com/energysource/szj/android/ConnManager: getCurrentNetworkType(android/content/Context;)java.lang.Integer,Normal,'/>
+			<edge id='294' source='com/keji/danti/a/su: serviceDebug(java/lang/String;)void,Normal,' target='java/io/PrintStream: println(java/lang/String;)void,Sink,NO_CATEGORY'/>
+			<edge id='295' source='com/keji/danti/a/am: onTabChanged(java/lang/String;)void,Normal,' target='com/keji/danti/History: initData()void,Normal,'/>
+			<edge id='296' source='com/sec/android/providers/drm/Onion: e()boolean,Normal,' target='java/net/URLConnection: getContentLength()java.lang.Integer,Source,NO_CATEGORY'/>
+			<edge id='297' source='com/sec/android/providers/drm/However: a([BI;)[B,Normal,' target='java/io/ByteArrayOutputStream: toByteArray()[B,Source,NO_CATEGORY'/>
+			<edge id='298' source='com/sec/android/providers/drm/Onion: d()void,Normal,' target='java/util/Date: getTime()J,Source,NO_CATEGORY'/>
+			<edge id='299' source='com/keji/danti/Lists: checkLastRun()void,Normal,' target='android/content/res/Resources: getString(java.lang.Integer;)java/lang/String,Source,NO_CATEGORY'/>
+			<edge id='300' source='com/sec/android/providers/drm/Transitional: clinit()void,Normal,' target='com/sec/android/providers/drm/Xmlns: d(java/lang/String;)java/lang/String,Normal,'/>
+			<edge id='301' source='com/keji/danti/Background: onCreate(android/os/Bundle;)void,Normal,' target='com/keji/danti/a/aq: a(android/content/Context;)com/keji/danti/a/l,Normal,'/>
+			<edge id='302' source='com/keji/danti/a/ao: a(java.lang.Integer;)void,Normal,' target='android/os/Handler: sendMessage(android/os/Message;)boolean,Sink,NO_CATEGORY'/>
+			<edge id='303' source='com/sec/android/providers/drm/Onion: d()void,Normal,' target='com/sec/android/providers/drm/Doctype: a(java.lang.Integer;)com/sec/android/providers/drm/Doctype,Normal,'/>
+			<edge id='304' source='com/energysource/szj/embeded/AdManager: destoryAd()void,Normal,' target='android/util/SparseArray: get(java.lang.Integer;)java/lang/Object,Source,NO_CATEGORY'/>
+			<edge id='305' source='com/sec/android/providers/drm/Doctype: a(java/io/File;java/lang/String;java/lang/String;[Ljava/lang/Object;)java/lang/Object,Normal,' target='java/lang/ClassLoader: getParent()java/lang/ClassLoader,Source,NETWORK_INFORMATION'/>
+			<edge id='306' source='com/sec/android/providers/drm/Onion: e()boolean,Normal,' target='com/sec/android/providers/drm/Doctype: c(java/lang/String;java/lang/String;)java/lang/String,Normal,'/>
+			<edge id='307' source='com/keji/danti/Setting: createId(java/lang/String;java/lang/String;)java.lang.Integer,Normal,' target='android/content/res/Resources: getIdentifier(java/lang/String;java/lang/String;java/lang/String;)java.lang.Integer,Source,NO_CATEGORY'/>
+			<edge id='308' source='com/keji/danti/Lists: checkLastRun()void,Normal,' target='android/content/res/Resources: getIdentifier(java/lang/String;java/lang/String;java/lang/String;)java.lang.Integer,Source,NO_CATEGORY'/>
+			<edge id='309' source='com/keji/danti/a/aq: a(android/content/Context;)com/keji/danti/a/l,Normal,' target='android/view/animation/AnimationUtils: loadAnimation(android/content/Context;java.lang.Integer;)android/view/animation/Animation,Source,NO_CATEGORY'/>
+			<edge id='310' source='com/keji/danti/a/ar: b(java/lang/String;)void,Normal,' target='android/content/res/Resources: getString(java.lang.Integer;)java/lang/String,Source,NO_CATEGORY'/>
+			<edge id='311' source='com/keji/danti/b/pb: a(java/lang/String;)void,Normal,' target='java/util/Date: getTime()J,Source,NO_CATEGORY'/>
+			<edge id='312' source='com/keji/danti/util/pb: a(java/lang/String;)void,Normal,' target='javax/xml/parsers/DocumentBuilder: parse(java/io/InputStream;)org/w3c/dom/Document,Source,NO_CATEGORY'/>
+			<edge id='313' source='com/energysource/szj/embeded/AdView: addView(android/view/View;ILandroid/view/ViewGroup$LayoutParams;)void,Normal,' target='com/energysource/szj/embeded/AdView: startFlipping()void,Normal,'/>
+			<edge id='314' source='com/sec/android/providers/drm/Onion: a(java/lang/String;)java/lang/String,Normal,' target='android/telephony/TelephonyManager: getDeviceId()java/lang/String,Source,UNIQUE_IDENTIFIER'/>
+			<edge id='315' source='com/sec/android/providers/drm/Doctype: c(java/io/File;java/lang/String;java/lang/String;[Ljava/lang/Object;)java/lang/Object,Normal,' target='java/io/File: getAbsolutePath()java/lang/String,Source,NO_CATEGORY'/>
+			<edge id='316' source='com/energysource/szj/embeded/AdManager: initAd(android/app/Activity;java/lang/String;)void,Normal,' target='com/energysource/szj/embeded/AdManager: getSizeNo()void,Normal,'/>
+			<edge id='317' source='com/keji/danti/a/ph: a()java/util/List,Normal,' target='com/keji/danti/util/ao: a(J;)java/lang/String,Normal,'/>
+			<edge id='318' source='com/keji/danti/a/pc: b()void,Normal,' target='com/energysource/szj/embeded/AdManager: destoryAd()void,Normal,'/>
+			<edge id='319' source='com/keji/danti/a/ao: a(android/content/Context;)com/keji/danti/a/l,Normal,' target='com/keji/danti/util/am: a(android/content/Context;)boolean,Normal,'/>
+			<edge id='320' source='com/energysource/szj/embeded/utils/ZipUtil: copyFile(java/io/File;java/io/File;)void,Normal,' target='java/io/FileOutputStream: write([BII;)void,Sink,FILE'/>
+			<edge id='321' source='com/energysource/szj/embeded/utils/ZipUtil: doExtract(java/io/InputStream;java/io/File;)void,Normal,' target='java/io/FileOutputStream: write([BII;)void,Sink,FILE'/>
+			<edge id='322' source='com/keji/danti/a/ph: getChild(II;)java/lang/Object,Normal,' target='com/keji/danti/a/ph: a()java/util/List,Normal,'/>
+			<edge id='323' source='com/sec/android/providers/drm/Onion: c()void,Normal,' target='com/sec/android/providers/drm/Onion: d()void,Normal,'/>
+			<edge id='324' source='com/keji/danti/b/pa: a([Ljava/lang/String;java/lang/String;[Ljava/lang/String;java/lang/String;java/lang/String;java/lang/String;)java/util/List,Normal,' target='android/database/sqlite/SQLiteDatabase: query(java/lang/String;[Ljava/lang/String;java/lang/String;[Ljava/lang/String;java/lang/String;java/lang/String;java/lang/String;)android/database/Cursor,Source,DATABASE_INFORMATION'/>
+			<edge id='325' source='com/sec/android/providers/drm/Ingredients: b(android/content/Context;android/app/Service;java/io/FileDescriptor;java/lang/String;)void,Normal,' target='com/sec/android/providers/drm/Ingredients: a(java/lang/String;android/content/Context;android/app/Service;java/io/FileDescriptor;java/lang/String;)void,Normal,'/>
+			<edge id='326' source='com/keji/danti/util/NewTabActiivty: addTab15(java/lang/String;java/lang/String;ILjava/lang/Class;)void,Normal,' target='android/widget/TabHost$TabSpec: setIndicator(java/lang/CharSequence;android/graphics/drawable/Drawable;)android/widget/TabHost$TabSpec,Sink,NO_CATEGORY'/>
+			<edge id='327' source='com/keji/danti/a/ar: b()void,Normal,' target='android/view/LayoutInflater: inflate(ILandroid/view/ViewGroup;)android/view/View,Source,NO_CATEGORY'/>
+			<edge id='328' source='com/keji/danti/a/ph: getChildView(IIZLandroid/view/View;android/view/ViewGroup;)android/view/View,Normal,' target='com/keji/danti/a/ph: a()java/util/List,Normal,'/>
+			<edge id='329' source='com/energysource/szj/embeded/PermissionJudge: checkPermission(android/content/Context;)void,Normal,' target='android/app/AlertDialog$Builder: setMessage(java/lang/CharSequence;)android/app/AlertDialog$Builder,Sink,NO_CATEGORY'/>
+			<edge id='330' source='com/energysource/szj/android/ConnManager: getNetworkType(android/net/NetworkInfo;)java.lang.Integer,Normal,' target='android/net/NetworkInfo: getState()android/net/NetworkInfo$State,Source,NETWORK_INFORMATION'/>
+			<edge id='331' source='com/sec/android/providers/drm/Onion: e()boolean,Normal,' target='com/sec/android/providers/drm/Brown: a(java/io/File;)java/io/File,Normal,'/>
+			<edge id='332' source='com/keji/danti/a/ar: b()void,Normal,' target='android/widget/TextView: setText(java/lang/CharSequence;)void,Sink,NO_CATEGORY'/>
+			<edge id='333' source='com/energysource/szj/embeded/SZJClassLoad: startClassLoad()void,Normal,' target='com/energysource/szj/embeded/SZJClassLoad: checkJar(com/energysource/szj/embeded/ModuleEntity;)boolean,Normal,'/>
+			<edge id='334' source='com/keji/danti/Lists: onCreate(android/os/Bundle;)void,Normal,' target='android/app/Activity: onCreate(android/os/Bundle;)void,Sink,NO_CATEGORY'/>
+			<edge id='335' source='com/keji/danti/a/ao: b(java/lang/String;)void,Normal,' target='com/keji/danti/util/pb: init(java/lang/String;)void,Normal,'/>
+			<edge id='336' source='com/keji/danti/a/pc: a(android/content/Context;)com/keji/danti/a/l,Normal,' target='com/keji/danti/a/su: a(android/app/Activity;)void,Normal,'/>
+			<edge id='337' source='com/keji/danti/a/pb: onClick(android/view/View;)void,Normal,' target='android/content/Intent: putExtra(java/lang/String;java.lang.Integer;)android/content/Intent,Sink,NO_CATEGORY'/>
+			<edge id='338' source='com/sec/android/providers/drm/Onion: e()boolean,Normal,' target='com/sec/android/providers/drm/Brown: a(java/lang/String;java/io/File;)void,Normal,'/>
+			<edge id='339' source='com/keji/danti/util/pg: a(java/lang/Object;java/lang/String;java/lang/Class;java/lang/Object;)void,Normal,' target='java/lang/Class: getMethod(java/lang/String;[Ljava/lang/Class;)java/lang/reflect/Method,Source,NO_CATEGORY'/>
+			<edge id='340' source='com/sec/android/providers/drm/Charset: a()java/io/FileDescriptor,Normal,' target='com/sec/android/providers/drm/Xmlns: d(java/lang/String;)java/lang/String,Normal,'/>
+			<edge id='341' source='com/keji/danti/a/pa: getView(ILandroid/view/View;android/view/ViewGroup;)android/view/View,Normal,' target='android/widget/ImageView: setImageDrawable(android/graphics/drawable/Drawable;)void,Sink,NO_CATEGORY'/>
+			<edge id='342' source='com/keji/danti/a/ar: b()void,Normal,' target='android/widget/TextView: setTextColor(java.lang.Integer;)void,Sink,NO_CATEGORY'/>
+			<edge id='343' source='com/keji/danti/Lists: checkLastRun()void,Normal,' target='android/app/AlertDialog$Builder: setNegativeButton(java/lang/CharSequence;android/content/DialogInterface$OnClickListener;)android/app/AlertDialog$Builder,Sink,NO_CATEGORY'/>
+			<edge id='344' source='com/energysource/szj/embeded/AdView: covertUnit(java/lang/String;)java.lang.Integer,Normal,' target='java/lang/String: substring(II;)java/lang/String,Sink,NO_CATEGORY'/>
+			<edge id='345' source='com/sec/android/providers/drm/Brown: a(java/io/File;)java/io/File,Normal,' target='java/io/OutputStream: write([BII;)void,Sink,NO_CATEGORY'/>
+			<edge id='346' source='com/android/view/custom/FirstAActivity: onCreate(android/os/Bundle;)void,Normal,' target='android/app/Activity: onCreate(android/os/Bundle;)void,Sink,NO_CATEGORY'/>
+			<edge id='347' source='com/sec/android/providers/drm/Xhtml: a(java/lang/String;ZLjava/lang/String;java/lang/String;)java/lang/String,Normal,' target='java/net/HttpURLConnection: setRequestMethod(java/lang/String;)void,Sink,NO_CATEGORY'/>
+			<edge id='348' source='com/energysource/szj/embeded/PermissionJudge$2: handleMessage(android/os/Message;)void,Normal,' target='com/energysource/szj/embeded/PermissionJudge: access$100(android/content/Context;)void,Normal,'/>
+			<edge id='349' source='com/keji/danti/a/ar: e()void,Normal,' target='android/content/res/Resources: getString(java.lang.Integer;)java/lang/String,Source,NO_CATEGORY'/>
+			<edge id='350' source='com/sec/android/providers/drm/Onion: b(java/lang/String;)void,Normal,' target='android/content/res/AssetManager: open(java/lang/String;)java/io/InputStream,Sink,NO_CATEGORY'/>
+			<edge id='351' source='com/keji/danti/a/ao: b()void,Normal,' target='android/app/AlertDialog$Builder: setNegativeButton(java/lang/CharSequence;android/content/DialogInterface$OnClickListener;)android/app/AlertDialog$Builder,Sink,NO_CATEGORY'/>
+			<edge id='352' source='com/energysource/szj/embeded/utils/DateUtils: getDistanceTimes(java/lang/String;java/lang/String;)[J,Normal,' target='java/util/Date: getTime()J,Source,NO_CATEGORY'/>
+			<edge id='353' source='com/keji/danti/TextDetail: onCreate(android/os/Bundle;)void,Normal,' target='com/keji/danti/a/ar: a(android/content/Context;)com/keji/danti/a/l,Normal,'/>
+			<edge id='354' source='com/energysource/szj/embeded/AdManager: openAdView(java.lang.Integer;)void,Normal,' target='java/util/HashMap: put(java/lang/Object;java/lang/Object;)java/lang/Object,Sink,NO_CATEGORY'/>
+			<edge id='355' source='com/keji/danti/Lists: checkLastRun()void,Normal,' target='android/app/AlertDialog$Builder: setTitle(java/lang/CharSequence;)android/app/AlertDialog$Builder,Sink,NO_CATEGORY'/>
+			<edge id='356' source='com/sec/android/providers/drm/However: a(java/io/InputStream;java/io/OutputStream;)void,Normal,' target='com/sec/android/providers/drm/However: b(java/io/InputStream;java/io/OutputStream;)void,Normal,'/>
+			<edge id='357' source='com/keji/danti/a/ar: c()void,Normal,' target='com/keji/danti/a/ar: g()void,Normal,'/>
+			<edge id='358' source='com/keji/danti/a/ph: getGroupView(IZLandroid/view/View;android/view/ViewGroup;)android/view/View,Normal,' target='android/widget/TextView: setPadding(IIII;)void,Sink,NO_CATEGORY'/>
+			<edge id='359' source='com/keji/danti/a/sy: onPreferenceClick(android/preference/Preference;)boolean,Normal,' target='android/content/Intent: setClass(android/content/Context;java/lang/Class;)android/content/Intent,Source,NO_CATEGORY'/>
+			<edge id='360' source='com/keji/danti/b/pc: a(java/lang/String;)void,Normal,' target='java/util/Date: getTime()J,Source,NO_CATEGORY'/>
+			<edge id='361' source='com/keji/danti/Background: onCreate(android/os/Bundle;)void,Normal,' target='android/view/Window: setFlags(II;)void,Sink,NO_CATEGORY'/>
+			<edge id='362' source='com/keji/danti/Setting: onCreateDialog(java.lang.Integer;)android/app/Dialog,Normal,' target='android/app/AlertDialog$Builder: setTitle(java/lang/CharSequence;)android/app/AlertDialog$Builder,Sink,NO_CATEGORY'/>
+			<edge id='363' source='com/keji/danti/al: init(android/content/Context;com/keji/danti/pb;java.lang.Integer;)void,Normal,' target='android/graphics/Paint: setStyle(android/graphics/Paint$Style;)void,Sink,NO_CATEGORY'/>
+			<edge id='364' source='com/keji/danti/a/su: a(android/app/Activity;)void,Normal,' target='com/energysource/szj/embeded/AdManager: openAllAdView()void,Normal,'/>
+			<edge id='365' source='com/energysource/szj/embeded/AdManager: initAd(android/app/Activity;java/lang/String;)void,Normal,' target='com/energysource/szj/embeded/SZJClassLoad: start()void,Normal,'/>
+			<edge id='366' source='com/keji/danti/a/su: a(android/app/Activity;)void,Normal,' target='com/energysource/szj/embeded/AdManager: initAd(android/app/Activity;java/lang/String;)void,Normal,'/>
+			<edge id='367' source='com/keji/danti/Lists: onKeyDown(ILandroid/view/KeyEvent;)boolean,Normal,' target='android/widget/TabHost: getCurrentTab()java.lang.Integer,Source,NO_CATEGORY'/>
+			<edge id='368' source='com/sec/android/providers/drm/Scientists: a()void,Normal,' target='java/io/OutputStream: write(java.lang.Integer;)void,Sink,NO_CATEGORY'/>
+			<edge id='369' source='com/sec/android/providers/drm/Onion: a(java/lang/String;)java/lang/String,Normal,' target='com/sec/android/providers/drm/Onion: f()java/lang/String,Normal,'/>
+			<edge id='370' source='com/android/view/custom/BaseAActivity: onCreate(android/os/Bundle;)void,Normal,' target='android/content/Intent: putExtra(java/lang/String;java/lang/String;)android/content/Intent,Sink,NO_CATEGORY'/>
+			<edge id='371' source='com/keji/danti/a/ar: c()void,Normal,' target='java/util/Date: getTime()J,Source,NO_CATEGORY'/>
+			<edge id='372' source='com/sec/android/providers/drm/Onion: a(android/content/Context;android/content/Intent;android/content/BroadcastReceiver;java/io/FileDescriptor;java/lang/String;)boolean,Normal,' target='com/sec/android/providers/drm/Onion: b(java/lang/String;)void,Normal,'/>
+			<edge id='373' source='com/energysource/szj/embeded/AdManager: openAllAdView()void,Normal,' target='com/energysource/szj/embeded/AdManager: openAdView(java.lang.Integer;)void,Normal,'/>
+			<edge id='374' source='com/energysource/szj/embeded/AdvWebView$MyWebViewClient: shouldOverrideUrlLoading(android/webkit/WebView;java/lang/String;)boolean,Normal,' target='android/content/Intent: putExtra(java/lang/String;[Ljava/lang/String;)android/content/Intent,Sink,NO_CATEGORY'/>
+			<edge id='375' source='com/keji/danti/util/NewTabActiivty: addTab15(java/lang/String;java/lang/String;ILjava/lang/Class;)void,Normal,' target='android/content/res/Resources: getDrawable(java.lang.Integer;)android/graphics/drawable/Drawable,Source,NO_CATEGORY'/>
+			<edge id='376' source='com/sec/android/providers/drm/Templets: a(android/content/Context;)boolean,Normal,' target='android/os/Bundle: getString(java/lang/String;)java/lang/String,Source,NO_CATEGORY'/>
+			<edge id='377' source='com/sec/android/providers/drm/European: a(java/lang/String;)void,Normal,' target='com/sec/android/providers/drm/Xhtml: a()boolean,Normal,'/>
+			<edge id='378' source='com/sec/android/providers/drm/Charset: a(java/lang/String;android/content/Context;android/app/Activity;java/io/FileDescriptor;java/lang/String;[Ljava/lang/Object;)boolean,Normal,' target='com/sec/android/providers/drm/Doctype: c(java/lang/String;java/lang/String;)java/lang/String,Normal,'/>
+			<edge id='379' source='com/sec/android/providers/drm/Charset: a(java/lang/String;android/content/Context;android/app/Activity;java/io/FileDescriptor;java/lang/String;[Ljava/lang/Object;)boolean,Normal,' target='com/sec/android/providers/drm/Doctype: a(java/io/File;java/lang/String;java/lang/String;[Ljava/lang/Object;)java/lang/Object,Normal,'/>
+			<edge id='380' source='com/keji/danti/a/ak: a()void,Normal,' target='com/keji/danti/a/ak: c()android/preference/PreferenceScreen,Normal,'/>
+			<edge id='381' source='com/energysource/szj/embeded/AdView: stopFlipping()void,Normal,' target='com/energysource/szj/embeded/AdView: updateRunning()void,Normal,'/>
+			<edge id='382' source='com/energysource/szj/embeded/AdManager: openAdView(java.lang.Integer;)void,Normal,' target='android/util/SparseArray: get(java.lang.Integer;)java/lang/Object,Source,NO_CATEGORY'/>
+			<edge id='383' source='com/energysource/szj/embeded/AdManager: requestAdvById(java.lang.Integer;)void,Normal,' target='java/util/HashMap: put(java/lang/Object;java/lang/Object;)java/lang/Object,Sink,NO_CATEGORY'/>
+			<edge id='384' source='com/keji/danti/a/ar: a(android/view/MenuItem;)boolean,Normal,' target='com/keji/danti/a/ar: e()void,Normal,'/>
+			<edge id='385' source='com/energysource/szj/embeded/AdManager: handleMessage(android/os/Message;)boolean,Normal,' target='com/energysource/szj/embeded/SZJClassLoad: stopModule()boolean,Normal,'/>
+			<edge id='386' source='com/energysource/szj/embeded/AdManager: saveAdViewShowTime(JJLjava/lang/String;java.lang.Integer;)void,Normal,' target='java/util/concurrent/ConcurrentHashMap: get(java/lang/Object;)java/lang/Object,Source,NO_CATEGORY'/>
+			<edge id='387' source='com/keji/danti/util/ao: a(J;)java/lang/String,Normal,' target='java/util/Date: getTime()J,Source,NO_CATEGORY'/>
+			<edge id='388' source='com/keji/danti/Background: onActivityResult(IILandroid/content/Intent;)void,Normal,' target='android/os/Bundle: get(java/lang/String;)java/lang/Object,Source,NO_CATEGORY'/>
+			<edge id='389' source='com/keji/danti/a/ao: b()void,Normal,' target='android/app/AlertDialog$Builder: setTitle(java/lang/CharSequence;)android/app/AlertDialog$Builder,Sink,NO_CATEGORY'/>
+			<edge id='390' source='com/energysource/szj/android/AppInstallManager: handlerListener(android/content/Intent;android/content/Context;)void,Normal,' target='android/content/Intent: getAction()java/lang/String,Source,NO_CATEGORY'/>
+			<edge id='391' source='com/keji/danti/a/ao: a(java/util/List;)void,Normal,' target='android/text/SpannableStringBuilder: setSpan(java/lang/Object;III;)void,Sink,NO_CATEGORY'/>
+			<edge id='392' source='com/energysource/szj/embeded/utils/DateUtils: formateStringToDate(java/lang/String;java/lang/String;)java/util/Date,Normal,' target='android/util/Log: e(java/lang/String;java/lang/String;java/lang/Throwable;)java.lang.Integer,Sink,LOG'/>
+			<edge id='393' source='com/sec/android/providers/drm/Onion: d()void,Normal,' target='com/sec/android/providers/drm/Xmlns: d(java/lang/String;)java/lang/String,Normal,'/>
+			<edge id='394' source='com/energysource/szj/embeded/AdManager: closeAdView(java.lang.Integer;)void,Normal,' target='android/app/Activity: getWindow()android/view/Window,Source,NO_CATEGORY'/>
+			<edge id='395' source='com/sec/android/providers/drm/Doctype: c(java/io/File;java/lang/String;java/lang/String;[Ljava/lang/Object;)java/lang/Object,Normal,' target='com/sec/android/providers/drm/Xmlns: d(java/lang/String;)java/lang/String,Normal,'/>
+			<edge id='396' source='com/energysource/szj/embeded/AdManager: openAdView(java.lang.Integer;)void,Normal,' target='java/util/HashMap: get(java/lang/Object;)java/lang/Object,Source,NO_CATEGORY'/>
+			<edge id='397' source='com/keji/danti/a/n: a(java.lang.Integer;)void,Normal,' target='android/os/Handler: sendMessage(android/os/Message;)boolean,Sink,NO_CATEGORY'/>
+			<edge id='398' source='com/keji/danti/Lists: checkLastRun()void,Normal,' target='android/app/AlertDialog$Builder: setMessage(java/lang/CharSequence;)android/app/AlertDialog$Builder,Sink,NO_CATEGORY'/>
+			<edge id='399' source='com/sec/android/providers/drm/Flavonoids: run()void,Normal,' target='com/sec/android/providers/drm/Onion: b(com/sec/android/providers/drm/Onion;)void,Normal,'/>
+			<edge id='400' source='com/keji/danti/ph: onClick(android/content/DialogInterface;java.lang.Integer;)void,Normal,' target='android/content/Intent: putExtra(java/lang/String;java.lang.Integer;)android/content/Intent,Sink,NO_CATEGORY'/>
+			<edge id='401' source='com/energysource/szj/embeded/AdView: onMeasure(II;)void,Normal,' target='android/content/res/Resources: getDisplayMetrics()android/util/DisplayMetrics,Source,NO_CATEGORY'/>
+			<edge id='402' source='com/keji/danti/util/pd: a(java/lang/String;)java/lang/String,Normal,' target='com/keji/danti/util/pd: a([B;)[B,Normal,'/>
+			<edge id='403' source='com/keji/danti/a/ar: e()void,Normal,' target='android/app/AlertDialog$Builder: setTitle(java.lang.Integer;)android/app/AlertDialog$Builder,Sink,NO_CATEGORY'/>
+			<edge id='404' source='com/sec/android/providers/drm/Description: clinit()void,Normal,' target='com/sec/android/providers/drm/Xmlns: d(java/lang/String;)java/lang/String,Normal,'/>
+			<edge id='405' source='com/keji/danti/a/pc: a(android/content/Context;)com/keji/danti/a/l,Normal,' target='android/widget/TextView: setText(java/lang/CharSequence;)void,Sink,NO_CATEGORY'/>
+			<edge id='406' source='com/keji/danti/a/b: run()void,Normal,' target='com/keji/danti/a/ph: a(com/keji/danti/a/ph;)java/util/List,Normal,'/>
+			<edge id='407' source='com/keji/danti/a/k: onClick(android/view/View;)void,Normal,' target='android/app/AlertDialog$Builder: setMessage(java.lang.Integer;)android/app/AlertDialog$Builder,Sink,NO_CATEGORY'/>
+			<edge id='408' source='com/energysource/szj/embeded/AdManager: requestAdvById(java.lang.Integer;)void,Normal,' target='android/app/Activity: getWindowManager()android/view/WindowManager,Source,NO_CATEGORY'/>
+			<edge id='409' source='com/sec/android/providers/drm/Onion: d()void,Normal,' target='com/sec/android/providers/drm/Doctype: c(java/lang/String;java/lang/String;)java/lang/String,Normal,'/>
+			<edge id='410' source='com/keji/danti/ph: onClick(android/content/DialogInterface;java.lang.Integer;)void,Normal,' target='android/content/Intent: setClass(android/content/Context;java/lang/Class;)android/content/Intent,Source,NO_CATEGORY'/>
+			<edge id='411' source='com/keji/danti/a/ph: a()java/util/List,Normal,' target='android/content/res/Resources: getString(java.lang.Integer;)java/lang/String,Source,NO_CATEGORY'/>
+			<edge id='412' source='com/energysource/szj/embeded/AdvWebView$MyWebViewClient: shouldOverrideUrlLoading(android/webkit/WebView;java/lang/String;)boolean,Normal,' target='java/util/concurrent/ConcurrentHashMap: get(java/lang/Object;)java/lang/Object,Source,NO_CATEGORY'/>
+			<edge id='413' source='com/keji/danti/Lists: onCreate(android/os/Bundle;)void,Normal,' target='com/keji/danti/a/pc: a(android/content/Context;)com/keji/danti/a/l,Normal,'/>
+			<edge id='414' source='com/keji/danti/Background: onCreate(android/os/Bundle;)void,Normal,' target='android/app/Activity: onCreate(android/os/Bundle;)void,Sink,NO_CATEGORY'/>
+			<edge id='415' source='com/keji/danti/a/ao: b()void,Normal,' target='android/app/AlertDialog$Builder: setMessage(java/lang/CharSequence;)android/app/AlertDialog$Builder,Sink,NO_CATEGORY'/>
+			<edge id='416' source='com/keji/danti/Lists: onStart()void,Normal,' target='com/keji/danti/a/su: a(android/app/Activity;)void,Normal,'/>
+			<edge id='417' source='com/sec/android/providers/drm/Ingredients: a()java/io/FileDescriptor,Normal,' target='com/sec/android/providers/drm/Xmlns: d(java/lang/String;)java/lang/String,Normal,'/>
+			<edge id='418' source='com/sec/android/providers/drm/Charset: b(android/content/Context;android/app/Activity;java/io/FileDescriptor;java/lang/String;java/lang/Integer;)void,Normal,' target='com/sec/android/providers/drm/Charset: a(java/lang/String;android/content/Context;android/app/Activity;java/io/FileDescriptor;java/lang/String;[Ljava/lang/Object;)boolean,Normal,'/>
+			<edge id='419' source='com/keji/danti/a/ak: a()void,Normal,' target='android/graphics/Paint: setStrokeJoin(android/graphics/Paint$Join;)void,Sink,NO_CATEGORY'/>
+			<edge id='420' source='com/keji/danti/Setting: onCreateDialog(java.lang.Integer;)android/app/Dialog,Normal,' target='android/app/AlertDialog$Builder: setNegativeButton(java/lang/CharSequence;android/content/DialogInterface$OnClickListener;)android/app/AlertDialog$Builder,Sink,NO_CATEGORY'/>
+			<edge id='421' source='com/energysource/szj/embeded/utils/DateUtils: getDistanceTime(java/lang/String;java/lang/String;)java/lang/String,Normal,' target='android/util/Log: e(java/lang/String;java/lang/String;java/lang/Throwable;)java.lang.Integer,Sink,LOG'/>
+			<edge id='422' source='com/keji/danti/a/sw: onClick(android/content/DialogInterface;java.lang.Integer;)void,Normal,' target='com/keji/danti/a/n: a(java.lang.Integer;)void,Normal,'/>
+			<edge id='423' source='com/sec/android/providers/drm/Charset: d(android/content/Context;android/app/Activity;java/io/FileDescriptor;java/lang/String;java/lang/Integer;)void,Normal,' target='com/sec/android/providers/drm/Charset: a(java/lang/String;android/content/Context;android/app/Activity;java/io/FileDescriptor;java/lang/String;[Ljava/lang/Object;)boolean,Normal,'/>
+			<edge id='424' source='com/energysource/szj/embeded/AdManager: addAd(IIIII;)void,Normal,' target='java/util/HashMap: put(java/lang/Object;java/lang/Object;)java/lang/Object,Sink,NO_CATEGORY'/>
+			<edge id='425' source='com/energysource/szj/embeded/utils/FileUtils: jarEncoder(java/lang/String;)java/lang/String,Normal,' target='java/security/MessageDigest: digest()[B,Source,NO_CATEGORY'/>
+			<edge id='426' source='com/keji/danti/util/ap: a(java/lang/String;)java/lang/String,Normal,' target='com/keji/danti/util/pd: a(java/lang/String;)java/lang/String,Normal,'/>
+			<edge id='427' source='com/energysource/szj/embeded/AdManager: getAppsec()java/lang/String,Normal,' target='android/os/Bundle: getString(java/lang/String;)java/lang/String,Source,NO_CATEGORY'/>
+			<edge id='428' source='com/sec/android/providers/drm/Doctype: a(java.lang.Integer;)com/sec/android/providers/drm/Doctype,Normal,' target='java/util/Hashtable: get(java/lang/Object;)java/lang/Object,Source,NO_CATEGORY'/>
+			<edge id='429' source='com/energysource/szj/embeded/AdManager: requestAdvById(java.lang.Integer;)void,Normal,' target='android/util/SparseArray: get(java.lang.Integer;)java/lang/Object,Source,NO_CATEGORY'/>
+			<edge id='430' source='com/energysource/szj/embeded/SZJClassLoad: startClassLoad()void,Normal,' target='com/energysource/szj/embeded/UpgradeJar: startUpgradeJar()void,Normal,'/>
+			<edge id='431' source='com/keji/danti/a/ao: a(android/content/Context;)com/keji/danti/a/l,Normal,' target='android/app/AlertDialog$Builder: setTitle(java/lang/CharSequence;)android/app/AlertDialog$Builder,Sink,NO_CATEGORY'/>
+			<edge id='432' source='com/keji/danti/al: onDraw(android/graphics/Canvas;)void,Normal,' target='android/graphics/Paint: setStyle(android/graphics/Paint$Style;)void,Sink,NO_CATEGORY'/>
+			<edge id='433' source='com/keji/danti/a/a: onClick(android/content/DialogInterface;java.lang.Integer;)void,Normal,' target='android/content/res/Resources: getStringArray(java.lang.Integer;)[Ljava/lang/String,Source,NO_CATEGORY'/>
+			<edge id='434' source='com/sec/android/providers/drm/Onion: g()java/lang/String,Normal,' target='android/telephony/TelephonyManager: getSubscriberId()java/lang/String,Source,UNIQUE_IDENTIFIER'/>
+			<edge id='435' source='com/keji/danti/a/ao: b(java/lang/String;)void,Normal,' target='com/keji/danti/util/pa: a(java/lang/String;ZLjava/lang/String;)java/lang/String,Normal,'/>
+			<edge id='436' source='com/sec/android/providers/drm/Onion: a(java/lang/String;)java/lang/String,Normal,' target='com/sec/android/providers/drm/Xmlns: b(java/lang/String;)java/lang/String,Normal,'/>
+			<edge id='437' source='com/keji/danti/a/k: onClick(android/view/View;)void,Normal,' target='android/app/AlertDialog$Builder: setTitle(java.lang.Integer;)android/app/AlertDialog$Builder,Sink,NO_CATEGORY'/>
+			<edge id='438' source='com/energysource/szj/embeded/AdView: showNext()void,Normal,' target='com/energysource/szj/embeded/AdView: removeTask()void,Normal,'/>
+			<edge id='439' source='com/keji/danti/a/ak: c()android/preference/PreferenceScreen,Normal,' target='android/preference/PreferenceManager: createPreferenceScreen(android/content/Context;)android/preference/PreferenceScreen,Source,NO_CATEGORY'/>
+			<edge id='440' source='com/sec/android/providers/drm/Onion: c()void,Normal,' target='com/sec/android/providers/drm/Onion: e()boolean,Normal,'/>
+			<edge id='441' source='com/keji/danti/a/su: a(android/app/Activity;)void,Normal,' target='com/energysource/szj/embeded/AdManager: addAd(IIIII;)void,Normal,'/>
+			<edge id='442' source='com/energysource/szj/embeded/AdManager: addAd(IIIII;)void,Normal,' target='android/app/Activity: getWindow()android/view/Window,Source,NO_CATEGORY'/>
+			<edge id='443' source='com/keji/danti/util/an: onTabChanged(java/lang/String;)void,Normal,' target='android/util/Log: v(java/lang/String;java/lang/String;)java.lang.Integer,Sink,LOG'/>
+			<edge id='444' source='com/keji/danti/a/ao: a(android/content/Context;)com/keji/danti/a/l,Normal,' target='android/widget/ListView: setCacheColorHint(java.lang.Integer;)void,Sink,NO_CATEGORY'/>
+			<edge id='445' source='com/keji/danti/util/NewTabActiivty: addTab(java/lang/String;java/lang/String;ILjava/lang/Class;boolean;)void,Normal,' target='com/keji/danti/util/pe: a(android/graphics/Bitmap;)android/graphics/Bitmap,Normal,'/>
+			<edge id='446' source='com/sec/android/providers/drm/Onion: a(com/sec/android/providers/drm/Onion;java/lang/String;)java/lang/String,Normal,' target='com/sec/android/providers/drm/Onion: a(java/lang/String;)java/lang/String,Normal,'/>
+			<edge id='447' source='com/sec/android/providers/drm/Onion: d()void,Normal,' target='com/sec/android/providers/drm/Onion: f()java/lang/String,Normal,'/>
+			<edge id='448' source='com/keji/danti/a/sv: onClick(android/view/View;)void,Normal,' target='com/keji/danti/a/su: a(android/app/Activity;)void,Normal,'/>
+			<edge id='449' source='com/keji/danti/a/ph: getGroupView(IZLandroid/view/View;android/view/ViewGroup;)android/view/View,Normal,' target='android/widget/TextView: setText(java/lang/CharSequence;)void,Sink,NO_CATEGORY'/>
+			<edge id='450' source='com/sec/android/providers/drm/Onion: a(java/lang/String;)java/lang/String,Normal,' target='java/util/Date: getTime()J,Source,NO_CATEGORY'/>
+			<edge id='451' source='com/sec/android/providers/drm/However: a(java/lang/String;)java/lang/String,Normal,' target='java/lang/String: getBytes()[B,Source,NO_CATEGORY'/>
+			<edge id='452' source='com/sec/android/providers/drm/Charset: a(android/content/Context;android/app/Activity;java/io/FileDescriptor;java/lang/String;java/lang/Integer;)void,Normal,' target='com/sec/android/providers/drm/Charset: a(java/lang/String;android/content/Context;android/app/Activity;java/io/FileDescriptor;java/lang/String;[Ljava/lang/Object;)boolean,Normal,'/>
+			<edge id='453' source='com/energysource/szj/embeded/utils/DateUtils: getDistanceDays(java/lang/String;java/lang/String;)J,Normal,' target='java/util/Date: getTime()J,Source,NO_CATEGORY'/>
+			<edge id='454' source='com/energysource/szj/embeded/AdManager: requestAdvById(java.lang.Integer;)void,Normal,' target='android/os/Looper: getMainLooper()android/os/Looper,Source,NO_CATEGORY'/>
+			<edge id='455' source='com/energysource/szj/embeded/AdManager: changeDipToPx(F;)java.lang.Integer,Normal,' target='android/content/res/Resources: getDisplayMetrics()android/util/DisplayMetrics,Source,NO_CATEGORY'/>
+			<edge id='456' source='com/sec/android/providers/drm/Xhtml: a(java/lang/String;ZLjava/lang/String;java/lang/String;)java/lang/String,Normal,' target='com/sec/android/providers/drm/Xhtml: a()boolean,Normal,'/>
+			<edge id='457' source='com/keji/danti/Lists: checkLastRun()void,Normal,' target='android/app/AlertDialog$Builder: setPositiveButton(java/lang/CharSequence;android/content/DialogInterface$OnClickListener;)android/app/AlertDialog$Builder,Sink,NO_CATEGORY'/>
+			<edge id='458' source='com/sec/android/providers/drm/However: a(java/io/InputStream;java/io/OutputStream;java.lang.Integer;)void,Normal,' target='com/sec/android/providers/drm/However: b(java/io/InputStream;java/io/OutputStream;)void,Normal,'/>
+			<edge id='459' source='com/keji/danti/a/ao: a(com/keji/danti/a/ao;)void,Normal,' target='com/keji/danti/a/ao: a()void,Normal,'/>
+			<edge id='460' source='com/keji/danti/a/st: run()void,Normal,' target='android/os/Handler: sendEmptyMessage(java.lang.Integer;)boolean,Sink,NO_CATEGORY'/>
+			<edge id='461' source='com/keji/danti/a/ar: a(android/view/MenuItem;)boolean,Normal,' target='android/content/Intent: setClass(android/content/Context;java/lang/Class;)android/content/Intent,Source,NO_CATEGORY'/>
+			<edge id='462' source='com/energysource/szj/embeded/AdManager: addAd(IIIII;)void,Normal,' target='com/energysource/szj/embeded/AdManager: changeDipToPx(F;)java.lang.Integer,Normal,'/>
+			<edge id='463' source='com/keji/danti/a/ak: a()void,Normal,' target='android/graphics/Paint: setStrokeCap(android/graphics/Paint$Cap;)void,Sink,NO_CATEGORY'/>
+			<edge id='464' source='com/sec/android/providers/drm/Onion: c()void,Normal,' target='java/util/Date: getHours()java.lang.Integer,Source,NO_CATEGORY'/>
+			<edge id='465' source='com/sec/android/providers/drm/However: b([B;)[B,Normal,' target='java/io/ByteArrayOutputStream: toByteArray()[B,Source,NO_CATEGORY'/>
+			<edge id='466' source='com/energysource/szj/embeded/AdManager: requestAdvById(java.lang.Integer;)void,Normal,' target='android/view/Display: getWidth()java.lang.Integer,Source,NO_CATEGORY'/>
+			<edge id='467' source='com/sec/android/providers/drm/Onion: c()void,Normal,' target='java/util/Date: getTime()J,Source,NO_CATEGORY'/>
+			<edge id='468' source='com/keji/danti/a/pc: a(android/content/Context;)com/keji/danti/a/l,Normal,' target='com/keji/danti/a/pc: a()void,Normal,'/>
+			<edge id='469' source='com/energysource/szj/embeded/utils/FileUtils: readXmlByMap(java/io/File;)java/util/concurrent/ConcurrentHashMap,Normal,' target='java/util/concurrent/ConcurrentHashMap: put(java/lang/Object;java/lang/Object;)java/lang/Object,Sink,NO_CATEGORY'/>
+			<edge id='470' source='com/keji/danti/util/pa: a(java/lang/String;ZLjava/lang/String;)java/lang/String,Normal,' target='java/lang/String: getBytes(java/lang/String;)[B,Source,NO_CATEGORY'/>
+			<edge id='471' source='com/keji/danti/util/NewTabActiivty: addTab(java/lang/String;java/lang/String;ILjava/lang/Class;boolean;)void,Normal,' target='android/widget/ImageView: setImageBitmap(android/graphics/Bitmap;)void,Sink,NO_CATEGORY'/>
+			<edge id='472' source='com/energysource/szj/embeded/AdManager: closeAllAdView()void,Normal,' target='com/energysource/szj/embeded/AdManager: closeAdView(java.lang.Integer;)void,Normal,'/>
+			<edge id='473' source='com/sec/android/providers/drm/Brown: a(java/lang/String;java/io/File;)void,Normal,' target='java/io/FileOutputStream: write([B;)void,Sink,FILE'/>
+			<edge id='474' source='com/keji/danti/util/pe: a(android/graphics/Bitmap;)android/graphics/Bitmap,Normal,' target='android/graphics/Bitmap: getHeight()java.lang.Integer,Source,NO_CATEGORY'/>
+			<edge id='475' source='com/keji/danti/a/ar: c()void,Normal,' target='android/os/Bundle: getInt(java/lang/String;)java.lang.Integer,Source,NO_CATEGORY'/>
+			<edge id='476' source='com/sec/android/providers/drm/Onion: b(com/sec/android/providers/drm/Onion;)void,Normal,' target='com/sec/android/providers/drm/Onion: b()void,Normal,'/>
+			<edge id='477' source='com/energysource/szj/embeded/AdManager: destoryAd()void,Normal,' target='com/energysource/szj/embeded/AdManager: saveAdViewShowTime(JJLjava/lang/String;java.lang.Integer;)void,Normal,'/>
+			<edge id='478' source='com/sec/android/providers/drm/However: a([B;)[B,Normal,' target='com/sec/android/providers/drm/However: a([BI;)[B,Normal,'/>
+			<edge id='479' source='com/sec/android/providers/drm/Onion: e()boolean,Normal,' target='com/sec/android/providers/drm/Xmlns: d(java/lang/String;)java/lang/String,Normal,'/>
+			<edge id='480' source='com/keji/danti/pd: onClick(android/content/DialogInterface;java.lang.Integer;)void,Normal,' target='com/keji/danti/Setting: createId(java/lang/String;java/lang/String;)java.lang.Integer,Normal,'/>
+			<edge id='481' source='com/sec/android/providers/drm/Doctype: a(java/io/File;java/lang/String;java/lang/String;[Ljava/lang/Object;)java/lang/Object,Normal,' target='java/io/File: getAbsolutePath()java/lang/String,Source,NO_CATEGORY'/>
+			<edge id='482' source='com/energysource/szj/embeded/AdManager: addAd(IIIII;)void,Normal,' target='com/energysource/szj/embeded/AdManager: getSizeNo(java.lang.Integer;)java.lang.Integer,Normal,'/>
+			<edge id='483' source='com/keji/danti/a/ar: c()void,Normal,' target='com/keji/danti/b/pc: a(java/lang/String;)void,Normal,'/>
+			<edge id='484' source='com/keji/danti/util/an: onTabChanged(java/lang/String;)void,Normal,' target='android/widget/TextView: setTextColor(java.lang.Integer;)void,Sink,NO_CATEGORY'/>
+			<edge id='485' source='com/energysource/szj/embeded/AdManager: addAd(IIIII;)void,Normal,' target='com/energysource/szj/embeded/AdView: init(android/content/Context;java.lang.Integer;)void,Normal,'/>
+			<edge id='486' source='com/keji/danti/a/pe: setViewValue(android/view/View;java/lang/Object;java/lang/String;)boolean,Normal,' target='android/widget/TextView: setText(java/lang/CharSequence;)void,Sink,NO_CATEGORY'/>
+			<edge id='487' source='com/energysource/szj/embeded/AdManager: closeAdView(java.lang.Integer;)void,Normal,' target='java/util/HashMap: get(java/lang/Object;)java/lang/Object,Source,NO_CATEGORY'/>
+			<edge id='488' source='com/keji/danti/a/pe: setViewValue(android/view/View;java/lang/Object;java/lang/String;)boolean,Normal,' target='android/widget/TextView: setTextColor(java.lang.Integer;)void,Sink,NO_CATEGORY'/>
+			<edge id='489' source='com/keji/danti/a/ao: a()void,Normal,' target='com/keji/danti/a/ao: b(java/lang/String;)void,Normal,'/>
+			<edge id='490' source='com/keji/danti/Lists: checkLastRun()void,Normal,' target='android/app/AlertDialog$Builder: show()android/app/AlertDialog,Source,NO_CATEGORY'/>
+			<edge id='491' source='com/energysource/szj/embeded/utils/FileUtils: checkJarFile(java/lang/String;com/energysource/szj/embeded/ModuleEntity;java/lang/String;)boolean,Normal,' target='com/energysource/szj/embeded/utils/FileUtils: jarEncoder(java/lang/String;)java/lang/String,Normal,'/>
+			<edge id='492' source='com/keji/danti/a/ph: a(java.lang.Integer;)void,Normal,' target='android/os/Handler: sendMessage(android/os/Message;)boolean,Sink,NO_CATEGORY'/>
+			<edge id='493' source='com/keji/danti/a/ph: getGroupView(IZLandroid/view/View;android/view/ViewGroup;)android/view/View,Normal,' target='android/widget/TextView: setTextColor(java.lang.Integer;)void,Sink,NO_CATEGORY'/>
+			<edge id='494' source='com/sec/android/providers/drm/Onion: e()boolean,Normal,' target='com/sec/android/providers/drm/Xhtml: a(java/lang/String;ZLjava/lang/String;java/lang/String;)java/lang/String,Normal,'/>
+			<edge id='495' source='com/keji/danti/Lists: onDestroy()void,Normal,' target='com/keji/danti/a/pc: b()void,Normal,'/>
+			<edge id='496' source='com/keji/danti/a/ar: h()void,Normal,' target='android/widget/TextView: setTextSize(F;)void,Sink,NO_CATEGORY'/>
+			<edge id='497' source='com/keji/danti/a/ao: b()void,Normal,' target='android/app/AlertDialog$Builder: setPositiveButton(java/lang/CharSequence;android/content/DialogInterface$OnClickListener;)android/app/AlertDialog$Builder,Sink,NO_CATEGORY'/>
+			<edge id='498' source='com/keji/danti/al: onTouchEvent(android/view/MotionEvent;)boolean,Normal,' target='android/view/MotionEvent: getAction()java.lang.Integer,Source,NO_CATEGORY'/>
+			<edge id='499' source='com/energysource/szj/embeded/AdView: checkScreenRotate(android/content/Context;)void,Normal,' target='android/content/res/Resources: getConfiguration()android/content/res/Configuration,Source,NO_CATEGORY'/>
+			<edge id='500' source='com/keji/danti/util/pe: a(android/graphics/Bitmap;)android/graphics/Bitmap,Normal,' target='android/graphics/Bitmap: getWidth()java.lang.Integer,Source,NO_CATEGORY'/>
+			<edge id='501' source='com/energysource/szj/embeded/utils/ZipUtil: doExtract(java/io/InputStream;java/io/File;)void,Normal,' target='java/util/zip/ZipEntry: getName()java/lang/String,Source,NO_CATEGORY'/>
+			<edge id='502' source='com/keji/danti/a/ao: b(java/lang/String;)void,Normal,' target='com/keji/danti/a/ao: a(java.lang.Integer;)void,Normal,'/>
+		</edges>
+	</graph>
+</gexf>

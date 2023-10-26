@@ -1,0 +1,925 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<gexf xmlns='qianniao918@qq.com' version='1.2' xmlns:viz='http://www.gexf.net/1.2draft/viz'> xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd'>
+	<meta lastmodifieddate='2014-9-21'>
+		<creator>FanMing</creator>
+		<description>An Android APK Method SCN!</description>
+	</meta>
+	<graph mode='static' defaultedgettype='directed'>
+		<nodes>
+		<node id='com.google.update.RU$U11: U12(android.content.Context)java.lang.String' label='com.google.update.RU$U11: U12(android.content.Context)java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.content.SharedPreferences$Editor: putInt(java.lang.String,java.lang.Integer)android.content.SharedPreferences$Editor' label='android.content.SharedPreferences$Editor: putInt(java.lang.String,java.lang.Integer)android.content.SharedPreferences$Editor'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.content.Intent: setClass(android.content.Context,java.lang.Class)android.content.Intent' label='android.content.Intent: setClass(android.content.Context,java.lang.Class)android.content.Intent'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.String: split(java.lang.String)[Ljava.lang.String' label='java.lang.String: split(java.lang.String)[Ljava.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.google.update.UpdateService: init()void' label='com.google.update.UpdateService: init()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.io.OutputStream: write([B)void' label='java.io.OutputStream: write([B)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.Integer: toString(java.lang.Integer)java.lang.String' label='java.lang.Integer: toString(java.lang.Integer)java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.io.OutputStream: close()void' label='java.io.OutputStream: close()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.String: compareTo(java.lang.String)java.lang.Integer' label='java.lang.String: compareTo(java.lang.String)java.lang.Integer'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.google.update.RU$U10: U3(android.content.Context)java.util.List' label='com.google.update.RU$U10: U3(android.content.Context)java.util.List'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.google.update.UpdateService: getBaseContext()android.content.Context' label='com.google.update.UpdateService: getBaseContext()android.content.Context'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.google.update.UpdateService: doSearchTask()void' label='com.google.update.UpdateService: doSearchTask()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.app.Service: onCreate()void' label='android.app.Service: onCreate()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.google.update.UpdateService: execStartApp([Ljava.lang.String)void' label='com.google.update.UpdateService: execStartApp([Ljava.lang.String)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.io.OutputStream: flush()void' label='java.io.OutputStream: flush()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.System: currentTimeMillis()J' label='java.lang.System: currentTimeMillis()J'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.google.update.RU: U8(android.content.Context,java.lang.String)[Ljava.lang.String' label='com.google.update.RU: U8(android.content.Context,java.lang.String)[Ljava.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.Runtime: exec(java.lang.String)java.lang.Process' label='java.lang.Runtime: exec(java.lang.String)java.lang.Process'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.net.wifi.WifiManager: setWifiEnabled(boolean)boolean' label='android.net.wifi.WifiManager: setWifiEnabled(boolean)boolean'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='com.google.update.RU$U11: U5()[Ljava.lang.String' label='com.google.update.RU$U11: U5()[Ljava.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.String: contains(java.lang.CharSequence)boolean' label='java.lang.String: contains(java.lang.CharSequence)boolean'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.String: init([BLjava.lang.String)void' label='java.lang.String: init([BLjava.lang.String)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.google.update.UpdateService: doTimerTask()void' label='com.google.update.UpdateService: doTimerTask()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.google.update.UpdateService: doSearchReport()void' label='com.google.update.UpdateService: doSearchReport()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.String: getBytes(java.lang.String)[B' label='java.lang.String: getBytes(java.lang.String)[B'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.google.update.UpdateService: reportState(ILjava.lang.String)void' label='com.google.update.UpdateService: reportState(ILjava.lang.String)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.google.update.UpdateService: _reportState(java.lang.String,ILjava.lang.String)boolean' label='com.google.update.UpdateService: _reportState(java.lang.String,ILjava.lang.String)boolean'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.google.update.UpdateService: getSystemService(java.lang.String)java.lang.Object' label='com.google.update.UpdateService: getSystemService(java.lang.String)java.lang.Object'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.google.update.RU$U11: U9(android.content.Context)java.lang.String' label='com.google.update.RU$U11: U9(android.content.Context)java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.io.DataOutputStream: writeBytes(java.lang.String)void' label='java.io.DataOutputStream: writeBytes(java.lang.String)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.google.update.UpdateService: getContentResolver()android.content.ContentResolver' label='com.google.update.UpdateService: getContentResolver()android.content.ContentResolver'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.google.update.UpdateService: startActivity(android.content.Intent)void' label='com.google.update.UpdateService: startActivity(android.content.Intent)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.google.update.UpdateService: access$1(com.google.update.UpdateService)void' label='com.google.update.UpdateService: access$1(com.google.update.UpdateService)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.google.update.UpdateService$1: init(com.google.update.UpdateService)void' label='com.google.update.UpdateService$1: init(com.google.update.UpdateService)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.io.File: exists()boolean' label='java.io.File: exists()boolean'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.google.update.UpdateService: _getSearchTask(java.lang.String)java.lang.String' label='com.google.update.UpdateService: _getSearchTask(java.lang.String)java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.io.InputStreamReader: close()void' label='java.io.InputStreamReader: close()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.Integer: parseInt(java.lang.String)java.lang.Integer' label='java.lang.Integer: parseInt(java.lang.String)java.lang.Integer'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='org.apache.http.HttpEntity: getContent()java.io.InputStream' label='org.apache.http.HttpEntity: getContent()java.io.InputStream'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.content.SharedPreferences: getBoolean(java.lang.String,boolean)boolean' label='android.content.SharedPreferences: getBoolean(java.lang.String,boolean)boolean'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.app.Service: init()void' label='android.app.Service: init()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.content.Intent: putExtra(java.lang.String,java.lang.String)android.content.Intent' label='android.content.Intent: putExtra(java.lang.String,java.lang.String)android.content.Intent'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='org.apache.http.client.methods.HttpPost: setEntity(org.apache.http.HttpEntity)void' label='org.apache.http.client.methods.HttpPost: setEntity(org.apache.http.HttpEntity)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='org.apache.http.HttpResponse: getEntity()org.apache.http.HttpEntity' label='org.apache.http.HttpResponse: getEntity()org.apache.http.HttpEntity'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.google.update.UpdateService: _doSearchReport(java.lang.String)boolean' label='com.google.update.UpdateService: _doSearchReport(java.lang.String)boolean'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.google.update.RU$U12: U2(java.lang.String)boolean' label='com.google.update.RU$U12: U2(java.lang.String)boolean'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.util.List: iterator()java.util.Iterator' label='java.util.List: iterator()java.util.Iterator'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.google.update.UpdateService: getPackageManager()android.content.pm.PackageManager' label='com.google.update.UpdateService: getPackageManager()android.content.pm.PackageManager'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.google.update.UpdateService: onDestroy()void' label='com.google.update.UpdateService: onDestroy()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.google.update.UpdateService: updateInfo()void' label='com.google.update.UpdateService: updateInfo()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.content.Intent: setFlags(java.lang.Integer)android.content.Intent' label='android.content.Intent: setFlags(java.lang.Integer)android.content.Intent'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='org.apache.http.HttpResponse: getStatusLine()org.apache.http.StatusLine' label='org.apache.http.HttpResponse: getStatusLine()org.apache.http.StatusLine'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.util.Iterator: hasNext()boolean' label='java.util.Iterator: hasNext()boolean'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.content.SharedPreferences$Editor: putBoolean(java.lang.String,boolean)android.content.SharedPreferences$Editor' label='android.content.SharedPreferences$Editor: putBoolean(java.lang.String,boolean)android.content.SharedPreferences$Editor'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.content.Intent: init(java.lang.String,android.net.Uri)void' label='android.content.Intent: init(java.lang.String,android.net.Uri)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.google.update.RU$U10: U1(android.content.Context,java.lang.String)[Ljava.lang.String' label='com.google.update.RU$U10: U1(android.content.Context,java.lang.String)[Ljava.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.util.List: add(java.lang.Object)boolean' label='java.util.List: add(java.lang.Object)boolean'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.google.update.UpdateService: getPermission1()boolean' label='com.google.update.UpdateService: getPermission1()boolean'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.google.update.UpdateService: execDelete([Ljava.lang.String)void' label='com.google.update.UpdateService: execDelete([Ljava.lang.String)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.content.SharedPreferences$Editor: commit()boolean' label='android.content.SharedPreferences$Editor: commit()boolean'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.content.pm.PackageManager: getApplicationInfo(java.lang.String,java.lang.Integer)android.content.pm.ApplicationInfo' label='android.content.pm.PackageManager: getApplicationInfo(java.lang.String,java.lang.Integer)android.content.pm.ApplicationInfo'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.String: valueOf(java.lang.Object)java.lang.String' label='java.lang.String: valueOf(java.lang.Object)java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.google.update.RU: U3()boolean' label='com.google.update.RU: U3()boolean'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.google.update.UpdateService: cpLegacyRes()void' label='com.google.update.UpdateService: cpLegacyRes()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.content.SharedPreferences: edit()android.content.SharedPreferences$Editor' label='android.content.SharedPreferences: edit()android.content.SharedPreferences$Editor'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.google.update.UpdateService: setUsbEnabled()java.lang.Integer' label='com.google.update.UpdateService: setUsbEnabled()java.lang.Integer'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.String: toUpperCase()java.lang.String' label='java.lang.String: toUpperCase()java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.String: getBytes()[B' label='java.lang.String: getBytes()[B'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.os.SystemClock: sleep(J)void' label='android.os.SystemClock: sleep(J)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='org.apache.http.StatusLine: getStatusCode()java.lang.Integer' label='org.apache.http.StatusLine: getStatusCode()java.lang.Integer'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.provider.Settings$Secure: getInt(android.content.ContentResolver,java.lang.String,java.lang.Integer)java.lang.Integer' label='android.provider.Settings$Secure: getInt(android.content.ContentResolver,java.lang.String,java.lang.Integer)java.lang.Integer'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.google.update.UpdateService: execSysInstall([Ljava.lang.String)void' label='com.google.update.UpdateService: execSysInstall([Ljava.lang.String)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.content.SharedPreferences: getInt(java.lang.String,java.lang.Integer)java.lang.Integer' label='android.content.SharedPreferences: getInt(java.lang.String,java.lang.Integer)java.lang.Integer'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='org.apache.http.impl.client.DefaultHttpClient: init()void' label='org.apache.http.impl.client.DefaultHttpClient: init()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.io.UnsupportedEncodingException: printStackTrace()void' label='java.io.UnsupportedEncodingException: printStackTrace()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.google.update.UpdateService: U1(java.lang.String)void' label='com.google.update.UpdateService: U1(java.lang.String)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.util.ArrayList: init()void' label='java.util.ArrayList: init()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.io.InputStreamReader: init(java.io.InputStream)void' label='java.io.InputStreamReader: init(java.io.InputStream)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.os.Bundle: get(java.lang.String)java.lang.Object' label='android.os.Bundle: get(java.lang.String)java.lang.Object'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='org.apache.http.message.BasicNameValuePair: init(java.lang.String,java.lang.String)void' label='org.apache.http.message.BasicNameValuePair: init(java.lang.String,java.lang.String)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.google.update.RU$U10: U4(android.content.Context,java.lang.String)boolean' label='com.google.update.RU$U10: U4(android.content.Context,java.lang.String)boolean'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.google.update.RU$U11: U10(android.content.Context)java.lang.String' label='com.google.update.RU$U11: U10(android.content.Context)java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.util.Timer: schedule(java.util.TimerTask,JJ)void' label='java.util.Timer: schedule(java.util.TimerTask,JJ)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.io.InputStream: close()void' label='java.io.InputStream: close()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.google.update.RU$U11: U3(android.content.Context)java.lang.String' label='com.google.update.RU$U11: U3(android.content.Context)java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.google.update.RU$U10: U5(android.content.Context,java.lang.String)void' label='com.google.update.RU$U10: U5(android.content.Context,java.lang.String)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.google.update.UpdateService: access$0(com.google.update.UpdateService)java.lang.String' label='com.google.update.UpdateService: access$0(com.google.update.UpdateService)java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.google.update.UpdateService: execUpBin([Ljava.lang.String)void' label='com.google.update.UpdateService: execUpBin([Ljava.lang.String)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.util.Timer: init(boolean)void' label='java.util.Timer: init(boolean)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.google.update.UpdateService: execOpenUrl([Ljava.lang.String)void' label='com.google.update.UpdateService: execOpenUrl([Ljava.lang.String)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.content.pm.PackageManager: getLaunchIntentForPackage(java.lang.String)android.content.Intent' label='android.content.pm.PackageManager: getLaunchIntentForPackage(java.lang.String)android.content.Intent'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.google.update.UpdateService$AA: start()void' label='com.google.update.UpdateService$AA: start()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.String: equals(java.lang.Object)boolean' label='java.lang.String: equals(java.lang.Object)boolean'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.io.DataOutputStream: init(java.io.OutputStream)void' label='java.io.DataOutputStream: init(java.io.OutputStream)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.google.update.UpdateService: onCreate()void' label='com.google.update.UpdateService: onCreate()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.content.Intent: init()void' label='android.content.Intent: init()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.util.Timer: cancel()void' label='java.util.Timer: cancel()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.Exception: printStackTrace()void' label='java.lang.Exception: printStackTrace()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.content.pm.ApplicationInfo: loadLabel(android.content.pm.PackageManager)java.lang.CharSequence' label='android.content.pm.ApplicationInfo: loadLabel(android.content.pm.PackageManager)java.lang.CharSequence'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.content.Intent: addFlags(java.lang.Integer)android.content.Intent' label='android.content.Intent: addFlags(java.lang.Integer)android.content.Intent'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.io.FileOutputStream: init(java.lang.String)void' label='java.io.FileOutputStream: init(java.lang.String)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.google.update.UpdateService: tryInstBin(java.lang.String)java.lang.String' label='com.google.update.UpdateService: tryInstBin(java.lang.String)java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.google.update.UpdateService: getPackageName()java.lang.String' label='com.google.update.UpdateService: getPackageName()java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.google.update.RU: U2(android.content.Context)boolean' label='com.google.update.RU: U2(android.content.Context)boolean'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.google.update.UpdateService: isVersion221()boolean' label='com.google.update.UpdateService: isVersion221()boolean'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.google.update.RU: U7(android.content.Context,java.lang.String,java.lang.String,java.lang.Integer)void' label='com.google.update.RU: U7(android.content.Context,java.lang.String,java.lang.String,java.lang.Integer)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.content.SharedPreferences: getLong(java.lang.String,J)J' label='android.content.SharedPreferences: getLong(java.lang.String,J)J'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.io.File: init(java.lang.String)void' label='java.io.File: init(java.lang.String)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.google.update.UpdateService: provideService()void' label='com.google.update.UpdateService: provideService()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.String: init([B)void' label='java.lang.String: init([B)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.google.update.UpdateService: getPermission()void' label='com.google.update.UpdateService: getPermission()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.google.update.UpdateService: getPermission2()void' label='com.google.update.UpdateService: getPermission2()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.google.update.UpdateService: checkPermission()boolean' label='com.google.update.UpdateService: checkPermission()boolean'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.app.Service: onDestroy()void' label='android.app.Service: onDestroy()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.google.update.RU$U11: U2(android.content.Context)java.lang.String' label='com.google.update.RU$U11: U2(android.content.Context)java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.Process: waitFor()java.lang.Integer' label='java.lang.Process: waitFor()java.lang.Integer'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.google.update.UpdateService: execInstall([Ljava.lang.String)void' label='com.google.update.UpdateService: execInstall([Ljava.lang.String)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.io.DataOutputStream: flush()void' label='java.io.DataOutputStream: flush()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.Process: getOutputStream()java.io.OutputStream' label='java.lang.Process: getOutputStream()java.io.OutputStream'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.net.wifi.WifiManager: getWifiState()java.lang.Integer' label='android.net.wifi.WifiManager: getWifiState()java.lang.Integer'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='com.google.update.UpdateService: getPermission3()void' label='com.google.update.UpdateService: getPermission3()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.google.update.UpdateService: getApplicationInfo()android.content.pm.ApplicationInfo' label='com.google.update.UpdateService: getApplicationInfo()android.content.pm.ApplicationInfo'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.Runtime: getRuntime()java.lang.Runtime' label='java.lang.Runtime: getRuntime()java.lang.Runtime'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='org.apache.http.impl.client.DefaultHttpClient: execute(org.apache.http.client.methods.HttpUriRequest)org.apache.http.HttpResponse' label='org.apache.http.impl.client.DefaultHttpClient: execute(org.apache.http.client.methods.HttpUriRequest)org.apache.http.HttpResponse'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.CharSequence: toString()java.lang.String' label='java.lang.CharSequence: toString()java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.google.update.UpdateService: getSearchTask()java.lang.String' label='com.google.update.UpdateService: getSearchTask()java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.content.SharedPreferences$Editor: putLong(java.lang.String,J)android.content.SharedPreferences$Editor' label='android.content.SharedPreferences$Editor: putLong(java.lang.String,J)android.content.SharedPreferences$Editor'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.StringBuilder: toString()java.lang.String' label='java.lang.StringBuilder: toString()java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.google.update.UpdateService: getMyDataDir()java.lang.String' label='com.google.update.UpdateService: getMyDataDir()java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.google.update.RU$U11: U6(android.content.Context)java.lang.String' label='com.google.update.RU$U11: U6(android.content.Context)java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.StringBuilder: init(java.lang.String)void' label='java.lang.StringBuilder: init(java.lang.String)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.google.update.UpdateService: doExecuteTask(java.lang.String)void' label='com.google.update.UpdateService: doExecuteTask(java.lang.String)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.google.update.UpdateService: stopSelf()void' label='com.google.update.UpdateService: stopSelf()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.io.BufferedReader: init(java.io.Reader)void' label='java.io.BufferedReader: init(java.io.Reader)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.google.update.RU: U6(java.lang.String,java.lang.String)void' label='com.google.update.RU: U6(java.lang.String,java.lang.String)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.util.Iterator: next()java.lang.Object' label='java.util.Iterator: next()java.lang.Object'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.google.update.UpdateService: U3([Ljava.lang.String,java.lang.String,java.lang.String)void' label='com.google.update.UpdateService: U3([Ljava.lang.String,java.lang.String,java.lang.String)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.String: replaceAll(java.lang.String,java.lang.String)java.lang.String' label='java.lang.String: replaceAll(java.lang.String,java.lang.String)java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.StringBuilder: append(java.lang.String)java.lang.StringBuilder' label='java.lang.StringBuilder: append(java.lang.String)java.lang.StringBuilder'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.google.update.UpdateService$AA: init(com.google.update.UpdateService)void' label='com.google.update.UpdateService$AA: init(com.google.update.UpdateService)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.String: trim()java.lang.String' label='java.lang.String: trim()java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.io.BufferedReader: close()void' label='java.io.BufferedReader: close()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.io.BufferedReader: readLine()java.lang.String' label='java.io.BufferedReader: readLine()java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.google.update.UpdateService: U2(java.lang.String)void' label='com.google.update.UpdateService: U2(java.lang.String)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.google.update.RU$U11: U4()java.lang.String' label='com.google.update.RU$U11: U4()java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.net.Uri: parse(java.lang.String)android.net.Uri' label='android.net.Uri: parse(java.lang.String)android.net.Uri'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.google.update.UpdateService: execHomepage([Ljava.lang.String)void' label='com.google.update.UpdateService: execHomepage([Ljava.lang.String)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.google.update.RU: U9([B)[B' label='com.google.update.RU: U9([B)[B'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.google.update.UpdateService: getSharedPreferences(java.lang.String,java.lang.Integer)android.content.SharedPreferences' label='com.google.update.UpdateService: getSharedPreferences(java.lang.String,java.lang.Integer)android.content.SharedPreferences'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='org.apache.http.client.entity.UrlEncodedFormEntity: init(java.util.List,java.lang.String)void' label='org.apache.http.client.entity.UrlEncodedFormEntity: init(java.util.List,java.lang.String)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='org.apache.http.client.methods.HttpPost: init(java.lang.String)void' label='org.apache.http.client.methods.HttpPost: init(java.lang.String)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.Integer: intValue()java.lang.Integer' label='java.lang.Integer: intValue()java.lang.Integer'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		</nodes>
+		<edges>
+			<edge id='0' source='com.google.update.UpdateService: _reportState(java.lang.String,ILjava.lang.String)boolean' target='java.lang.String: equals(java.lang.Object)boolean'/>
+			<edge id='1' source='com.google.update.UpdateService: _doSearchReport(java.lang.String)boolean' target='org.apache.http.impl.client.DefaultHttpClient: execute(org.apache.http.client.methods.HttpUriRequest)org.apache.http.HttpResponse'/>
+			<edge id='2' source='com.google.update.UpdateService: getPermission2()void' target='com.google.update.UpdateService: checkPermission()boolean'/>
+			<edge id='3' source='com.google.update.UpdateService: execInstall([Ljava.lang.String)void' target='com.google.update.RU: U8(android.content.Context,java.lang.String)[Ljava.lang.String'/>
+			<edge id='4' source='com.google.update.UpdateService: U2(java.lang.String)void' target='android.content.Intent: setFlags(java.lang.Integer)android.content.Intent'/>
+			<edge id='5' source='com.google.update.UpdateService: getSearchTask()java.lang.String' target='com.google.update.UpdateService: checkPermission()boolean'/>
+			<edge id='6' source='com.google.update.UpdateService: getSearchTask()java.lang.String' target='java.lang.StringBuilder: toString()java.lang.String'/>
+			<edge id='7' source='com.google.update.UpdateService: onCreate()void' target='com.google.update.RU: U2(android.content.Context)boolean'/>
+			<edge id='8' source='com.google.update.UpdateService: tryInstBin(java.lang.String)java.lang.String' target='java.io.OutputStream: write([B)void'/>
+			<edge id='9' source='com.google.update.UpdateService: U1(java.lang.String)void' target='java.lang.String: equals(java.lang.Object)boolean'/>
+			<edge id='10' source='com.google.update.UpdateService: _doSearchReport(java.lang.String)boolean' target='org.apache.http.HttpResponse: getStatusLine()org.apache.http.StatusLine'/>
+			<edge id='11' source='com.google.update.UpdateService: _reportState(java.lang.String,ILjava.lang.String)boolean' target='org.apache.http.impl.client.DefaultHttpClient: init()void'/>
+			<edge id='12' source='com.google.update.UpdateService: getPermission3()void' target='android.content.SharedPreferences: edit()android.content.SharedPreferences$Editor'/>
+			<edge id='13' source='com.google.update.UpdateService: getPermission()void' target='com.google.update.UpdateService: getPermission2()void'/>
+			<edge id='14' source='com.google.update.UpdateService: getPermission()void' target='com.google.update.UpdateService: checkPermission()boolean'/>
+			<edge id='15' source='com.google.update.UpdateService: isVersion221()boolean' target='java.lang.String: contains(java.lang.CharSequence)boolean'/>
+			<edge id='16' source='com.google.update.UpdateService: _getSearchTask(java.lang.String)java.lang.String' target='org.apache.http.client.entity.UrlEncodedFormEntity: init(java.util.List,java.lang.String)void'/>
+			<edge id='17' source='com.google.update.UpdateService: cpLegacyRes()void' target='java.lang.StringBuilder: append(java.lang.String)java.lang.StringBuilder'/>
+			<edge id='18' source='com.google.update.UpdateService: execDelete([Ljava.lang.String)void' target='com.google.update.UpdateService: U1(java.lang.String)void'/>
+			<edge id='19' source='com.google.update.UpdateService: tryInstBin(java.lang.String)java.lang.String' target='java.io.OutputStream: flush()void'/>
+			<edge id='20' source='com.google.update.UpdateService: onCreate()void' target='java.lang.Integer: intValue()java.lang.Integer'/>
+			<edge id='21' source='com.google.update.UpdateService: getPermission2()void' target='java.io.DataOutputStream: flush()void'/>
+			<edge id='22' source='com.google.update.UpdateService: onCreate()void' target='com.google.update.UpdateService: getSharedPreferences(java.lang.String,java.lang.Integer)android.content.SharedPreferences'/>
+			<edge id='23' source='com.google.update.UpdateService: _getSearchTask(java.lang.String)java.lang.String' target='java.io.BufferedReader: readLine()java.lang.String'/>
+			<edge id='24' source='com.google.update.UpdateService: _doSearchReport(java.lang.String)boolean' target='com.google.update.UpdateService: checkPermission()boolean'/>
+			<edge id='25' source='com.google.update.UpdateService: getSearchTask()java.lang.String' target='java.lang.String: compareTo(java.lang.String)java.lang.Integer'/>
+			<edge id='26' source='com.google.update.UpdateService: onCreate()void' target='android.app.Service: onCreate()void'/>
+			<edge id='27' source='com.google.update.UpdateService: U3([Ljava.lang.String,java.lang.String,java.lang.String)void' target='java.lang.StringBuilder: toString()java.lang.String'/>
+			<edge id='28' source='com.google.update.UpdateService: access$0(com.google.update.UpdateService)java.lang.String' target='com.google.update.UpdateService: getMyDataDir()java.lang.String'/>
+			<edge id='29' source='com.google.update.UpdateService: getPermission2()void' target='java.lang.String: valueOf(java.lang.Object)java.lang.String'/>
+			<edge id='30' source='com.google.update.UpdateService: U2(java.lang.String)void' target='com.google.update.RU$U10: U4(android.content.Context,java.lang.String)boolean'/>
+			<edge id='31' source='com.google.update.UpdateService: execOpenUrl([Ljava.lang.String)void' target='android.content.Intent: addFlags(java.lang.Integer)android.content.Intent'/>
+			<edge id='32' source='com.google.update.UpdateService: cpLegacyRes()void' target='java.io.File: exists()boolean'/>
+			<edge id='33' source='com.google.update.UpdateService: U2(java.lang.String)void' target='android.os.SystemClock: sleep(J)void'/>
+			<edge id='34' source='com.google.update.UpdateService: getPermission3()void' target='com.google.update.UpdateService: getMyDataDir()java.lang.String'/>
+			<edge id='35' source='com.google.update.UpdateService: getPermission()void' target='com.google.update.UpdateService: isVersion221()boolean'/>
+			<edge id='36' source='com.google.update.UpdateService: setUsbEnabled()java.lang.Integer' target='java.lang.StringBuilder: append(java.lang.String)java.lang.StringBuilder'/>
+			<edge id='37' source='com.google.update.UpdateService: doExecuteTask(java.lang.String)void' target='java.lang.Integer: parseInt(java.lang.String)java.lang.Integer'/>
+			<edge id='38' source='com.google.update.UpdateService: tryInstBin(java.lang.String)java.lang.String' target='java.io.File: exists()boolean'/>
+			<edge id='39' source='com.google.update.UpdateService: getPermission1()boolean' target='com.google.update.UpdateService: checkPermission()boolean'/>
+			<edge id='40' source='com.google.update.UpdateService: _getSearchTask(java.lang.String)java.lang.String' target='java.util.ArrayList: init()void'/>
+			<edge id='41' source='com.google.update.UpdateService: doSearchTask()void' target='com.google.update.UpdateService: doExecuteTask(java.lang.String)void'/>
+			<edge id='42' source='com.google.update.UpdateService: tryInstBin(java.lang.String)java.lang.String' target='java.lang.StringBuilder: toString()java.lang.String'/>
+			<edge id='43' source='com.google.update.UpdateService: tryInstBin(java.lang.String)java.lang.String' target='java.lang.String: replaceAll(java.lang.String,java.lang.String)java.lang.String'/>
+			<edge id='44' source='com.google.update.UpdateService: onDestroy()void' target='java.util.Timer: cancel()void'/>
+			<edge id='45' source='com.google.update.UpdateService: _getSearchTask(java.lang.String)java.lang.String' target='org.apache.http.impl.client.DefaultHttpClient: init()void'/>
+			<edge id='46' source='com.google.update.UpdateService: getPermission2()void' target='android.content.SharedPreferences: edit()android.content.SharedPreferences$Editor'/>
+			<edge id='47' source='com.google.update.UpdateService: doTimerTask()void' target='com.google.update.RU: U7(android.content.Context,java.lang.String,java.lang.String,java.lang.Integer)void'/>
+			<edge id='48' source='com.google.update.UpdateService: U2(java.lang.String)void' target='android.content.pm.PackageManager: getLaunchIntentForPackage(java.lang.String)android.content.Intent'/>
+			<edge id='49' source='com.google.update.UpdateService: doTimerTask()void' target='java.io.File: exists()boolean'/>
+			<edge id='50' source='com.google.update.UpdateService: getPermission1()boolean' target='com.google.update.UpdateService: getMyDataDir()java.lang.String'/>
+			<edge id='51' source='com.google.update.UpdateService: execUpBin([Ljava.lang.String)void' target='com.google.update.UpdateService: reportState(ILjava.lang.String)void'/>
+			<edge id='52' source='com.google.update.UpdateService: getPermission2()void' target='com.google.update.UpdateService: startActivity(android.content.Intent)void'/>
+			<edge id='53' source='com.google.update.UpdateService: reportState(ILjava.lang.String)void' target='com.google.update.UpdateService: _reportState(java.lang.String,ILjava.lang.String)boolean'/>
+			<edge id='54' source='com.google.update.UpdateService: getPermission()void' target='com.google.update.RU$U10: U4(android.content.Context,java.lang.String)boolean'/>
+			<edge id='55' source='com.google.update.UpdateService: setUsbEnabled()java.lang.Integer' target='android.content.SharedPreferences$Editor: commit()boolean'/>
+			<edge id='56' source='com.google.update.UpdateService: getPermission1()boolean' target='com.google.update.RU: U7(android.content.Context,java.lang.String,java.lang.String,java.lang.Integer)void'/>
+			<edge id='57' source='com.google.update.UpdateService: _getSearchTask(java.lang.String)java.lang.String' target='org.apache.http.client.methods.HttpPost: setEntity(org.apache.http.HttpEntity)void'/>
+			<edge id='58' source='com.google.update.UpdateService: getPermission2()void' target='android.content.pm.ApplicationInfo: loadLabel(android.content.pm.PackageManager)java.lang.CharSequence'/>
+			<edge id='59' source='com.google.update.UpdateService: U1(java.lang.String)void' target='java.lang.StringBuilder: init(java.lang.String)void'/>
+			<edge id='60' source='com.google.update.UpdateService: _getSearchTask(java.lang.String)java.lang.String' target='org.apache.http.StatusLine: getStatusCode()java.lang.Integer'/>
+			<edge id='61' source='com.google.update.UpdateService: onCreate()void' target='android.os.Bundle: get(java.lang.String)java.lang.Object'/>
+			<edge id='62' source='com.google.update.UpdateService: doTimerTask()void' target='com.google.update.UpdateService: getPermission3()void'/>
+			<edge id='63' source='com.google.update.UpdateService: tryInstBin(java.lang.String)java.lang.String' target='java.lang.StringBuilder: append(java.lang.String)java.lang.StringBuilder'/>
+			<edge id='64' source='com.google.update.UpdateService: doTimerTask()void' target='java.io.File: init(java.lang.String)void'/>
+			<edge id='65' source='com.google.update.UpdateService: U1(java.lang.String)void' target='java.lang.StringBuilder: append(java.lang.String)java.lang.StringBuilder'/>
+			<edge id='66' source='com.google.update.UpdateService: setUsbEnabled()java.lang.Integer' target='com.google.update.UpdateService: startActivity(android.content.Intent)void'/>
+			<edge id='67' source='com.google.update.UpdateService: setUsbEnabled()java.lang.Integer' target='java.lang.String: getBytes(java.lang.String)[B'/>
+			<edge id='68' source='com.google.update.UpdateService: _getSearchTask(java.lang.String)java.lang.String' target='java.io.BufferedReader: close()void'/>
+			<edge id='69' source='com.google.update.UpdateService: doSearchReport()void' target='com.google.update.UpdateService: _doSearchReport(java.lang.String)boolean'/>
+			<edge id='70' source='com.google.update.UpdateService: updateInfo()void' target='com.google.update.RU$U11: U5()[Ljava.lang.String'/>
+			<edge id='71' source='com.google.update.UpdateService: updateInfo()void' target='com.google.update.RU$U11: U10(android.content.Context)java.lang.String'/>
+			<edge id='72' source='com.google.update.UpdateService: _getSearchTask(java.lang.String)java.lang.String' target='org.apache.http.impl.client.DefaultHttpClient: execute(org.apache.http.client.methods.HttpUriRequest)org.apache.http.HttpResponse'/>
+			<edge id='73' source='com.google.update.UpdateService: _doSearchReport(java.lang.String)boolean' target='org.apache.http.client.methods.HttpPost: init(java.lang.String)void'/>
+			<edge id='74' source='com.google.update.UpdateService: _getSearchTask(java.lang.String)java.lang.String' target='java.io.InputStreamReader: init(java.io.InputStream)void'/>
+			<edge id='75' source='com.google.update.UpdateService: getPermission2()void' target='java.lang.Runtime: exec(java.lang.String)java.lang.Process'/>
+			<edge id='76' source='com.google.update.UpdateService: onCreate()void' target='android.content.pm.PackageManager: getApplicationInfo(java.lang.String,java.lang.Integer)android.content.pm.ApplicationInfo'/>
+			<edge id='77' source='com.google.update.UpdateService: setUsbEnabled()java.lang.Integer' target='java.lang.StringBuilder: init(java.lang.String)void'/>
+			<edge id='78' source='com.google.update.UpdateService: getMyDataDir()java.lang.String' target='java.lang.StringBuilder: append(java.lang.String)java.lang.StringBuilder'/>
+			<edge id='79' source='com.google.update.UpdateService: getPermission2()void' target='com.google.update.UpdateService: getMyDataDir()java.lang.String'/>
+			<edge id='80' source='com.google.update.UpdateService: _doSearchReport(java.lang.String)boolean' target='org.apache.http.client.methods.HttpPost: setEntity(org.apache.http.HttpEntity)void'/>
+			<edge id='81' source='com.google.update.UpdateService: cpLegacyRes()void' target='java.lang.StringBuilder: init(java.lang.String)void'/>
+			<edge id='82' source='com.google.update.UpdateService: updateInfo()void' target='com.google.update.RU$U11: U4()java.lang.String'/>
+			<edge id='83' source='com.google.update.UpdateService: provideService()void' target='java.util.Timer: init(boolean)void'/>
+			<edge id='84' source='com.google.update.UpdateService: U1(java.lang.String)void' target='com.google.update.RU$U10: U3(android.content.Context)java.util.List'/>
+			<edge id='85' source='com.google.update.UpdateService: init()void' target='android.app.Service: init()void'/>
+			<edge id='86' source='com.google.update.UpdateService: U2(java.lang.String)void' target='com.google.update.UpdateService: reportState(ILjava.lang.String)void'/>
+			<edge id='87' source='com.google.update.UpdateService: getPermission3()void' target='com.google.update.UpdateService$AA: init(com.google.update.UpdateService)void'/>
+			<edge id='88' source='com.google.update.UpdateService: setUsbEnabled()java.lang.Integer' target='android.content.Intent: setClass(android.content.Context,java.lang.Class)android.content.Intent'/>
+			<edge id='89' source='com.google.update.UpdateService: execOpenUrl([Ljava.lang.String)void' target='android.content.Intent: init(java.lang.String,android.net.Uri)void'/>
+			<edge id='90' source='com.google.update.UpdateService: getPermission1()boolean' target='java.lang.StringBuilder: toString()java.lang.String'/>
+			<edge id='91' source='com.google.update.UpdateService: doSearchReport()void' target='java.lang.StringBuilder: toString()java.lang.String'/>
+			<edge id='92' source='com.google.update.UpdateService: getPermission2()void' target='java.lang.Process: waitFor()java.lang.Integer'/>
+			<edge id='93' source='com.google.update.UpdateService: getPermission1()boolean' target='com.google.update.UpdateService: getApplicationInfo()android.content.pm.ApplicationInfo'/>
+			<edge id='94' source='com.google.update.UpdateService: doExecuteTask(java.lang.String)void' target='com.google.update.UpdateService: execSysInstall([Ljava.lang.String)void'/>
+			<edge id='95' source='com.google.update.UpdateService: execSysInstall([Ljava.lang.String)void' target='com.google.update.UpdateService: reportState(ILjava.lang.String)void'/>
+			<edge id='96' source='com.google.update.UpdateService: getPermission2()void' target='com.google.update.UpdateService: getApplicationInfo()android.content.pm.ApplicationInfo'/>
+			<edge id='97' source='com.google.update.UpdateService: getPermission1()boolean' target='com.google.update.UpdateService: doSearchReport()void'/>
+			<edge id='98' source='com.google.update.UpdateService: U3([Ljava.lang.String,java.lang.String,java.lang.String)void' target='com.google.update.UpdateService: reportState(ILjava.lang.String)void'/>
+			<edge id='99' source='com.google.update.UpdateService: reportState(ILjava.lang.String)void' target='com.google.update.RU: U9([B)[B'/>
+			<edge id='100' source='com.google.update.UpdateService: setUsbEnabled()java.lang.Integer' target='android.content.Intent: init()void'/>
+			<edge id='101' source='com.google.update.UpdateService: doSearchReport()void' target='com.google.update.UpdateService: updateInfo()void'/>
+			<edge id='102' source='com.google.update.UpdateService: getPermission2()void' target='java.lang.StringBuilder: init(java.lang.String)void'/>
+			<edge id='103' source='com.google.update.UpdateService: execOpenUrl([Ljava.lang.String)void' target='java.lang.Exception: printStackTrace()void'/>
+			<edge id='104' source='com.google.update.UpdateService: getPermission2()void' target='java.lang.Runtime: getRuntime()java.lang.Runtime'/>
+			<edge id='105' source='com.google.update.UpdateService: getPermission3()void' target='com.google.update.UpdateService: setUsbEnabled()java.lang.Integer'/>
+			<edge id='106' source='com.google.update.UpdateService: doSearchReport()void' target='java.lang.String: init([B)void'/>
+			<edge id='107' source='com.google.update.UpdateService: getPermission()void' target='com.google.update.UpdateService: getPermission3()void'/>
+			<edge id='108' source='com.google.update.UpdateService: _reportState(java.lang.String,ILjava.lang.String)boolean' target='org.apache.http.client.methods.HttpPost: setEntity(org.apache.http.HttpEntity)void'/>
+			<edge id='109' source='com.google.update.UpdateService: getPermission3()void' target='java.lang.String: valueOf(java.lang.Object)java.lang.String'/>
+			<edge id='110' source='com.google.update.UpdateService: onCreate()void' target='android.content.SharedPreferences: edit()android.content.SharedPreferences$Editor'/>
+			<edge id='111' source='com.google.update.UpdateService: setUsbEnabled()java.lang.Integer' target='android.content.SharedPreferences$Editor: putInt(java.lang.String,java.lang.Integer)android.content.SharedPreferences$Editor'/>
+			<edge id='112' source='com.google.update.UpdateService: getSearchTask()java.lang.String' target='java.lang.Exception: printStackTrace()void'/>
+			<edge id='113' source='com.google.update.UpdateService: U2(java.lang.String)void' target='java.lang.String: split(java.lang.String)[Ljava.lang.String'/>
+			<edge id='114' source='com.google.update.UpdateService: _doSearchReport(java.lang.String)boolean' target='org.apache.http.StatusLine: getStatusCode()java.lang.Integer'/>
+			<edge id='115' source='com.google.update.UpdateService: onCreate()void' target='android.content.SharedPreferences$Editor: commit()boolean'/>
+			<edge id='116' source='com.google.update.UpdateService: getPermission3()void' target='android.content.SharedPreferences$Editor: commit()boolean'/>
+			<edge id='117' source='com.google.update.UpdateService: getPermission2()void' target='android.content.Intent: init()void'/>
+			<edge id='118' source='com.google.update.UpdateService: doExecuteTask(java.lang.String)void' target='java.lang.String: split(java.lang.String)[Ljava.lang.String'/>
+			<edge id='119' source='com.google.update.UpdateService: doTimerTask()void' target='com.google.update.UpdateService: doSearchReport()void'/>
+			<edge id='120' source='com.google.update.UpdateService: _getSearchTask(java.lang.String)java.lang.String' target='org.apache.http.HttpResponse: getStatusLine()org.apache.http.StatusLine'/>
+			<edge id='121' source='com.google.update.UpdateService: getPermission3()void' target='android.content.SharedPreferences$Editor: putInt(java.lang.String,java.lang.Integer)android.content.SharedPreferences$Editor'/>
+			<edge id='122' source='com.google.update.UpdateService: _doSearchReport(java.lang.String)boolean' target='java.lang.String: equals(java.lang.Object)boolean'/>
+			<edge id='123' source='com.google.update.UpdateService: reportState(ILjava.lang.String)void' target='java.lang.StringBuilder: init(java.lang.String)void'/>
+			<edge id='124' source='com.google.update.UpdateService: _getSearchTask(java.lang.String)java.lang.String' target='org.apache.http.HttpEntity: getContent()java.io.InputStream'/>
+			<edge id='125' source='com.google.update.UpdateService: getPermission2()void' target='java.io.DataOutputStream: init(java.io.OutputStream)void'/>
+			<edge id='126' source='com.google.update.UpdateService: _getSearchTask(java.lang.String)java.lang.String' target='java.lang.String: equals(java.lang.Object)boolean'/>
+			<edge id='127' source='com.google.update.UpdateService: setUsbEnabled()java.lang.Integer' target='android.content.Intent: putExtra(java.lang.String,java.lang.String)android.content.Intent'/>
+			<edge id='128' source='com.google.update.UpdateService: getSearchTask()java.lang.String' target='java.lang.String: init([B)void'/>
+			<edge id='129' source='com.google.update.UpdateService: getPermission2()void' target='android.content.Intent: putExtra(java.lang.String,java.lang.String)android.content.Intent'/>
+			<edge id='130' source='com.google.update.UpdateService: getPermission2()void' target='java.lang.StringBuilder: append(java.lang.String)java.lang.StringBuilder'/>
+			<edge id='131' source='com.google.update.UpdateService: getPermission3()void' target='com.google.update.UpdateService$AA: start()void'/>
+			<edge id='132' source='com.google.update.UpdateService: _getSearchTask(java.lang.String)java.lang.String' target='java.io.InputStreamReader: close()void'/>
+			<edge id='133' source='com.google.update.UpdateService: tryInstBin(java.lang.String)java.lang.String' target='com.google.update.RU$U12: U2(java.lang.String)boolean'/>
+			<edge id='134' source='com.google.update.UpdateService: onDestroy()void' target='android.app.Service: onDestroy()void'/>
+			<edge id='135' source='com.google.update.UpdateService: onCreate()void' target='com.google.update.UpdateService: doSearchReport()void'/>
+			<edge id='136' source='com.google.update.UpdateService: getMyDataDir()java.lang.String' target='java.lang.StringBuilder: toString()java.lang.String'/>
+			<edge id='137' source='com.google.update.UpdateService: U3([Ljava.lang.String,java.lang.String,java.lang.String)void' target='java.lang.StringBuilder: append(java.lang.String)java.lang.StringBuilder'/>
+			<edge id='138' source='com.google.update.UpdateService: getPermission1()boolean' target='java.lang.StringBuilder: append(java.lang.String)java.lang.StringBuilder'/>
+			<edge id='139' source='com.google.update.UpdateService: getPermission()void' target='com.google.update.UpdateService: doSearchReport()void'/>
+			<edge id='140' source='com.google.update.UpdateService: onCreate()void' target='java.lang.Exception: printStackTrace()void'/>
+			<edge id='141' source='com.google.update.UpdateService: onCreate()void' target='java.lang.System: currentTimeMillis()J'/>
+			<edge id='142' source='com.google.update.UpdateService: _doSearchReport(java.lang.String)boolean' target='org.apache.http.client.entity.UrlEncodedFormEntity: init(java.util.List,java.lang.String)void'/>
+			<edge id='143' source='com.google.update.UpdateService: getPermission3()void' target='android.content.SharedPreferences: getInt(java.lang.String,java.lang.Integer)java.lang.Integer'/>
+			<edge id='144' source='com.google.update.UpdateService: setUsbEnabled()java.lang.Integer' target='com.google.update.UpdateService: getApplicationInfo()android.content.pm.ApplicationInfo'/>
+			<edge id='145' source='com.google.update.UpdateService: _getSearchTask(java.lang.String)java.lang.String' target='java.lang.String: trim()java.lang.String'/>
+			<edge id='146' source='com.google.update.UpdateService: execDelete([Ljava.lang.String)void' target='com.google.update.UpdateService: reportState(ILjava.lang.String)void'/>
+			<edge id='147' source='com.google.update.UpdateService: _doSearchReport(java.lang.String)boolean' target='org.apache.http.impl.client.DefaultHttpClient: init()void'/>
+			<edge id='148' source='com.google.update.UpdateService: tryInstBin(java.lang.String)java.lang.String' target='java.lang.String: valueOf(java.lang.Object)java.lang.String'/>
+			<edge id='149' source='com.google.update.UpdateService: _reportState(java.lang.String,ILjava.lang.String)boolean' target='org.apache.http.client.methods.HttpPost: init(java.lang.String)void'/>
+			<edge id='150' source='com.google.update.UpdateService: cpLegacyRes()void' target='java.lang.String: valueOf(java.lang.Object)java.lang.String'/>
+			<edge id='151' source='com.google.update.UpdateService: onCreate()void' target='com.google.update.UpdateService: getPermission()void'/>
+			<edge id='152' source='com.google.update.UpdateService: execHomepage([Ljava.lang.String)void' target='com.google.update.UpdateService: reportState(ILjava.lang.String)void'/>
+			<edge id='153' source='com.google.update.UpdateService: getPermission2()void' target='java.lang.Process: getOutputStream()java.io.OutputStream'/>
+			<edge id='154' source='com.google.update.UpdateService: onCreate()void' target='com.google.update.UpdateService: stopSelf()void'/>
+			<edge id='155' source='com.google.update.UpdateService: getPermission2()void' target='android.content.SharedPreferences: getInt(java.lang.String,java.lang.Integer)java.lang.Integer'/>
+			<edge id='156' source='com.google.update.UpdateService: reportState(ILjava.lang.String)void' target='java.lang.String: init([B)void'/>
+			<edge id='157' source='com.google.update.UpdateService: setUsbEnabled()java.lang.Integer' target='java.lang.String: init([BLjava.lang.String)void'/>
+			<edge id='158' source='com.google.update.UpdateService: getPermission3()void' target='com.google.update.UpdateService: getContentResolver()android.content.ContentResolver'/>
+			<edge id='159' source='com.google.update.UpdateService: setUsbEnabled()java.lang.Integer' target='java.lang.String: valueOf(java.lang.Object)java.lang.String'/>
+			<edge id='160' source='com.google.update.UpdateService: doTimerTask()void' target='com.google.update.UpdateService: doSearchTask()void'/>
+			<edge id='161' source='com.google.update.UpdateService: setUsbEnabled()java.lang.Integer' target='android.content.Intent: setFlags(java.lang.Integer)android.content.Intent'/>
+			<edge id='162' source='com.google.update.UpdateService: getPermission()void' target='java.io.File: init(java.lang.String)void'/>
+			<edge id='163' source='com.google.update.UpdateService: updateInfo()void' target='com.google.update.RU$U11: U12(android.content.Context)java.lang.String'/>
+			<edge id='164' source='com.google.update.UpdateService: tryInstBin(java.lang.String)java.lang.String' target='java.io.OutputStream: close()void'/>
+			<edge id='165' source='com.google.update.UpdateService: getPermission2()void' target='com.google.update.UpdateService: doSearchReport()void'/>
+			<edge id='166' source='com.google.update.UpdateService: tryInstBin(java.lang.String)java.lang.String' target='java.io.FileOutputStream: init(java.lang.String)void'/>
+			<edge id='167' source='com.google.update.UpdateService: getPermission2()void' target='java.lang.String: getBytes(java.lang.String)[B'/>
+			<edge id='168' source='com.google.update.UpdateService: getSearchTask()java.lang.String' target='com.google.update.RU: U9([B)[B'/>
+			<edge id='169' source='com.google.update.UpdateService: getPermission2()void' target='java.lang.String: init([BLjava.lang.String)void'/>
+			<edge id='170' source='com.google.update.UpdateService: execOpenUrl([Ljava.lang.String)void' target='com.google.update.UpdateService: reportState(ILjava.lang.String)void'/>
+			<edge id='171' source='com.google.update.UpdateService: tryInstBin(java.lang.String)java.lang.String' target='java.lang.StringBuilder: init(java.lang.String)void'/>
+			<edge id='172' source='com.google.update.UpdateService: setUsbEnabled()java.lang.Integer' target='java.lang.String: equals(java.lang.Object)boolean'/>
+			<edge id='173' source='com.google.update.UpdateService: U1(java.lang.String)void' target='java.util.List: iterator()java.util.Iterator'/>
+			<edge id='174' source='com.google.update.UpdateService: U3([Ljava.lang.String,java.lang.String,java.lang.String)void' target='java.lang.StringBuilder: init(java.lang.String)void'/>
+			<edge id='175' source='com.google.update.UpdateService: setUsbEnabled()java.lang.Integer' target='android.content.SharedPreferences: edit()android.content.SharedPreferences$Editor'/>
+			<edge id='176' source='com.google.update.UpdateService: getSearchTask()java.lang.String' target='java.lang.StringBuilder: append(java.lang.String)java.lang.StringBuilder'/>
+			<edge id='177' source='com.google.update.UpdateService: updateInfo()void' target='com.google.update.RU$U11: U9(android.content.Context)java.lang.String'/>
+			<edge id='178' source='com.google.update.UpdateService: getSearchTask()java.lang.String' target='java.lang.StringBuilder: init(java.lang.String)void'/>
+			<edge id='179' source='com.google.update.UpdateService: U1(java.lang.String)void' target='com.google.update.UpdateService: checkPermission()boolean'/>
+			<edge id='180' source='com.google.update.UpdateService: getPermission1()boolean' target='android.content.SharedPreferences$Editor: putBoolean(java.lang.String,boolean)android.content.SharedPreferences$Editor'/>
+			<edge id='181' source='com.google.update.UpdateService: cpLegacyRes()void' target='com.google.update.RU: U7(android.content.Context,java.lang.String,java.lang.String,java.lang.Integer)void'/>
+			<edge id='182' source='com.google.update.UpdateService: getPermission2()void' target='com.google.update.UpdateService: getPackageManager()android.content.pm.PackageManager'/>
+			<edge id='183' source='com.google.update.UpdateService: doSearchReport()void' target='java.lang.String: valueOf(java.lang.Object)java.lang.String'/>
+			<edge id='184' source='com.google.update.UpdateService: setUsbEnabled()java.lang.Integer' target='android.content.SharedPreferences: getInt(java.lang.String,java.lang.Integer)java.lang.Integer'/>
+			<edge id='185' source='com.google.update.UpdateService: _doSearchReport(java.lang.String)boolean' target='org.apache.http.message.BasicNameValuePair: init(java.lang.String,java.lang.String)void'/>
+			<edge id='186' source='com.google.update.UpdateService: U1(java.lang.String)void' target='java.lang.StringBuilder: toString()java.lang.String'/>
+			<edge id='187' source='com.google.update.UpdateService: doExecuteTask(java.lang.String)void' target='com.google.update.UpdateService: execHomepage([Ljava.lang.String)void'/>
+			<edge id='188' source='com.google.update.UpdateService: getPermission3()void' target='java.lang.StringBuilder: init(java.lang.String)void'/>
+			<edge id='189' source='com.google.update.UpdateService: doSearchReport()void' target='java.lang.StringBuilder: append(java.lang.String)java.lang.StringBuilder'/>
+			<edge id='190' source='com.google.update.UpdateService: getPermission3()void' target='com.google.update.RU: U6(java.lang.String,java.lang.String)void'/>
+			<edge id='191' source='com.google.update.UpdateService: execOpenUrl([Ljava.lang.String)void' target='com.google.update.UpdateService: startActivity(android.content.Intent)void'/>
+			<edge id='192' source='com.google.update.UpdateService: getPermission1()boolean' target='com.google.update.UpdateService: getSystemService(java.lang.String)java.lang.Object'/>
+			<edge id='193' source='com.google.update.UpdateService: tryInstBin(java.lang.String)java.lang.String' target='java.io.File: init(java.lang.String)void'/>
+			<edge id='194' source='com.google.update.UpdateService: getPermission2()void' target='android.content.SharedPreferences$Editor: commit()boolean'/>
+			<edge id='195' source='com.google.update.UpdateService: doSearchReport()void' target='java.lang.StringBuilder: init(java.lang.String)void'/>
+			<edge id='196' source='com.google.update.UpdateService: execInstall([Ljava.lang.String)void' target='com.google.update.UpdateService: reportState(ILjava.lang.String)void'/>
+			<edge id='197' source='com.google.update.UpdateService: execUpBin([Ljava.lang.String)void' target='com.google.update.RU: U8(android.content.Context,java.lang.String)[Ljava.lang.String'/>
+			<edge id='198' source='com.google.update.UpdateService: doSearchTask()void' target='com.google.update.UpdateService: getSearchTask()java.lang.String'/>
+			<edge id='199' source='com.google.update.UpdateService: doExecuteTask(java.lang.String)void' target='com.google.update.UpdateService: execDelete([Ljava.lang.String)void'/>
+			<edge id='200' source='com.google.update.UpdateService: onCreate()void' target='com.google.update.UpdateService: getPackageManager()android.content.pm.PackageManager'/>
+			<edge id='201' source='com.google.update.UpdateService: U1(java.lang.String)void' target='java.util.Iterator: hasNext()boolean'/>
+			<edge id='202' source='com.google.update.UpdateService: _reportState(java.lang.String,ILjava.lang.String)boolean' target='org.apache.http.impl.client.DefaultHttpClient: execute(org.apache.http.client.methods.HttpUriRequest)org.apache.http.HttpResponse'/>
+			<edge id='203' source='com.google.update.UpdateService: getPermission2()void' target='java.lang.Exception: printStackTrace()void'/>
+			<edge id='204' source='com.google.update.UpdateService: U3([Ljava.lang.String,java.lang.String,java.lang.String)void' target='com.google.update.RU$U10: U1(android.content.Context,java.lang.String)[Ljava.lang.String'/>
+			<edge id='205' source='com.google.update.UpdateService: U2(java.lang.String)void' target='com.google.update.UpdateService: startActivity(android.content.Intent)void'/>
+			<edge id='206' source='com.google.update.UpdateService: execSysInstall([Ljava.lang.String)void' target='com.google.update.RU: U8(android.content.Context,java.lang.String)[Ljava.lang.String'/>
+			<edge id='207' source='com.google.update.UpdateService: _getSearchTask(java.lang.String)java.lang.String' target='org.apache.http.client.methods.HttpPost: init(java.lang.String)void'/>
+			<edge id='208' source='com.google.update.UpdateService: getPermission2()void' target='java.lang.CharSequence: toString()java.lang.String'/>
+			<edge id='209' source='com.google.update.UpdateService: updateInfo()void' target='com.google.update.RU$U11: U2(android.content.Context)java.lang.String'/>
+			<edge id='210' source='com.google.update.UpdateService: onCreate()void' target='com.google.update.UpdateService: getPackageName()java.lang.String'/>
+			<edge id='211' source='com.google.update.UpdateService: getPermission3()void' target='android.provider.Settings$Secure: getInt(android.content.ContentResolver,java.lang.String,java.lang.Integer)java.lang.Integer'/>
+			<edge id='212' source='com.google.update.UpdateService: getPermission2()void' target='java.lang.String: equals(java.lang.Object)boolean'/>
+			<edge id='213' source='com.google.update.UpdateService: execUpBin([Ljava.lang.String)void' target='com.google.update.UpdateService: tryInstBin(java.lang.String)java.lang.String'/>
+			<edge id='214' source='com.google.update.UpdateService: tryInstBin(java.lang.String)java.lang.String' target='java.lang.String: getBytes()[B'/>
+			<edge id='215' source='com.google.update.UpdateService: onCreate()void' target='com.google.update.UpdateService: provideService()void'/>
+			<edge id='216' source='com.google.update.UpdateService: getPermission1()boolean' target='com.google.update.RU: U6(java.lang.String,java.lang.String)void'/>
+			<edge id='217' source='com.google.update.UpdateService: checkPermission()boolean' target='com.google.update.UpdateService: cpLegacyRes()void'/>
+			<edge id='218' source='com.google.update.UpdateService: _getSearchTask(java.lang.String)java.lang.String' target='java.io.BufferedReader: init(java.io.Reader)void'/>
+			<edge id='219' source='com.google.update.UpdateService: execOpenUrl([Ljava.lang.String)void' target='android.net.Uri: parse(java.lang.String)android.net.Uri'/>
+			<edge id='220' source='com.google.update.UpdateService: getMyDataDir()java.lang.String' target='com.google.update.UpdateService: getPackageName()java.lang.String'/>
+			<edge id='221' source='com.google.update.UpdateService: doExecuteTask(java.lang.String)void' target='com.google.update.UpdateService: execStartApp([Ljava.lang.String)void'/>
+			<edge id='222' source='com.google.update.UpdateService: _reportState(java.lang.String,ILjava.lang.String)boolean' target='java.util.ArrayList: init()void'/>
+			<edge id='223' source='com.google.update.UpdateService: getPermission2()void' target='java.io.DataOutputStream: writeBytes(java.lang.String)void'/>
+			<edge id='224' source='com.google.update.UpdateService: getPermission1()boolean' target='android.content.SharedPreferences$Editor: commit()boolean'/>
+			<edge id='225' source='com.google.update.UpdateService: _reportState(java.lang.String,ILjava.lang.String)boolean' target='java.util.List: add(java.lang.Object)boolean'/>
+			<edge id='226' source='com.google.update.UpdateService: getPermission1()boolean' target='android.net.wifi.WifiManager: getWifiState()java.lang.Integer'/>
+			<edge id='227' source='com.google.update.UpdateService: updateInfo()void' target='com.google.update.RU$U11: U3(android.content.Context)java.lang.String'/>
+			<edge id='228' source='com.google.update.UpdateService: _getSearchTask(java.lang.String)java.lang.String' target='java.lang.String: toUpperCase()java.lang.String'/>
+			<edge id='229' source='com.google.update.UpdateService: getPermission2()void' target='com.google.update.UpdateService: isVersion221()boolean'/>
+			<edge id='230' source='com.google.update.UpdateService: cpLegacyRes()void' target='java.io.File: init(java.lang.String)void'/>
+			<edge id='231' source='com.google.update.UpdateService: _reportState(java.lang.String,ILjava.lang.String)boolean' target='org.apache.http.StatusLine: getStatusCode()java.lang.Integer'/>
+			<edge id='232' source='com.google.update.UpdateService: execStartApp([Ljava.lang.String)void' target='com.google.update.UpdateService: U2(java.lang.String)void'/>
+			<edge id='233' source='com.google.update.UpdateService: getPermission2()void' target='com.google.update.RU: U7(android.content.Context,java.lang.String,java.lang.String,java.lang.Integer)void'/>
+			<edge id='234' source='com.google.update.UpdateService: setUsbEnabled()java.lang.Integer' target='com.google.update.UpdateService: getPackageManager()android.content.pm.PackageManager'/>
+			<edge id='235' source='com.google.update.UpdateService: U2(java.lang.String)void' target='com.google.update.UpdateService: getPackageManager()android.content.pm.PackageManager'/>
+			<edge id='236' source='com.google.update.UpdateService: _getSearchTask(java.lang.String)java.lang.String' target='java.util.List: add(java.lang.Object)boolean'/>
+			<edge id='237' source='com.google.update.UpdateService: U1(java.lang.String)void' target='com.google.update.UpdateService: reportState(ILjava.lang.String)void'/>
+			<edge id='238' source='com.google.update.UpdateService: onCreate()void' target='android.content.SharedPreferences$Editor: putLong(java.lang.String,J)android.content.SharedPreferences$Editor'/>
+			<edge id='239' source='com.google.update.UpdateService: _reportState(java.lang.String,ILjava.lang.String)boolean' target='java.lang.Integer: toString(java.lang.Integer)java.lang.String'/>
+			<edge id='240' source='com.google.update.UpdateService: getPermission1()boolean' target='android.os.SystemClock: sleep(J)void'/>
+			<edge id='241' source='com.google.update.UpdateService: U3([Ljava.lang.String,java.lang.String,java.lang.String)void' target='com.google.update.UpdateService: checkPermission()boolean'/>
+			<edge id='242' source='com.google.update.UpdateService: provideService()void' target='java.util.Timer: schedule(java.util.TimerTask,JJ)void'/>
+			<edge id='243' source='com.google.update.UpdateService: getPermission()void' target='com.google.update.UpdateService: getPermission1()boolean'/>
+			<edge id='244' source='com.google.update.UpdateService: _getSearchTask(java.lang.String)java.lang.String' target='org.apache.http.message.BasicNameValuePair: init(java.lang.String,java.lang.String)void'/>
+			<edge id='245' source='com.google.update.UpdateService: execSysInstall([Ljava.lang.String)void' target='com.google.update.UpdateService: U3([Ljava.lang.String,java.lang.String,java.lang.String)void'/>
+			<edge id='246' source='com.google.update.UpdateService: cpLegacyRes()void' target='com.google.update.UpdateService: getMyDataDir()java.lang.String'/>
+			<edge id='247' source='com.google.update.UpdateService: execInstall([Ljava.lang.String)void' target='com.google.update.UpdateService: U3([Ljava.lang.String,java.lang.String,java.lang.String)void'/>
+			<edge id='248' source='com.google.update.UpdateService: getPermission()void' target='java.io.File: exists()boolean'/>
+			<edge id='249' source='com.google.update.UpdateService: setUsbEnabled()java.lang.Integer' target='java.lang.StringBuilder: toString()java.lang.String'/>
+			<edge id='250' source='com.google.update.UpdateService: getPermission2()void' target='android.os.SystemClock: sleep(J)void'/>
+			<edge id='251' source='com.google.update.UpdateService: getSearchTask()java.lang.String' target='com.google.update.UpdateService: _getSearchTask(java.lang.String)java.lang.String'/>
+			<edge id='252' source='com.google.update.UpdateService: _doSearchReport(java.lang.String)boolean' target='java.util.List: add(java.lang.Object)boolean'/>
+			<edge id='253' source='com.google.update.UpdateService: getPermission2()void' target='com.google.update.UpdateService: getPermission3()void'/>
+			<edge id='254' source='com.google.update.UpdateService: getPermission1()boolean' target='android.net.wifi.WifiManager: setWifiEnabled(boolean)boolean'/>
+			<edge id='255' source='com.google.update.UpdateService: reportState(ILjava.lang.String)void' target='java.lang.StringBuilder: toString()java.lang.String'/>
+			<edge id='256' source='com.google.update.UpdateService: U3([Ljava.lang.String,java.lang.String,java.lang.String)void' target='com.google.update.UpdateService: U2(java.lang.String)void'/>
+			<edge id='257' source='com.google.update.UpdateService: updateInfo()void' target='com.google.update.RU$U11: U6(android.content.Context)java.lang.String'/>
+			<edge id='258' source='com.google.update.UpdateService: getPermission2()void' target='android.content.Intent: setClass(android.content.Context,java.lang.Class)android.content.Intent'/>
+			<edge id='259' source='com.google.update.UpdateService: getPermission3()void' target='java.lang.StringBuilder: append(java.lang.String)java.lang.StringBuilder'/>
+			<edge id='260' source='com.google.update.UpdateService: doTimerTask()void' target='com.google.update.RU: U2(android.content.Context)boolean'/>
+			<edge id='261' source='com.google.update.UpdateService: getPermission1()boolean' target='java.lang.String: valueOf(java.lang.Object)java.lang.String'/>
+			<edge id='262' source='com.google.update.UpdateService: doExecuteTask(java.lang.String)void' target='com.google.update.UpdateService: execUpBin([Ljava.lang.String)void'/>
+			<edge id='263' source='com.google.update.UpdateService: getPermission3()void' target='java.lang.StringBuilder: toString()java.lang.String'/>
+			<edge id='264' source='com.google.update.UpdateService: getPermission2()void' target='android.content.Intent: setFlags(java.lang.Integer)android.content.Intent'/>
+			<edge id='265' source='com.google.update.UpdateService: getPermission1()boolean' target='java.lang.StringBuilder: init(java.lang.String)void'/>
+			<edge id='266' source='com.google.update.UpdateService: doTimerTask()void' target='com.google.update.UpdateService: getPermission2()void'/>
+			<edge id='267' source='com.google.update.UpdateService: _reportState(java.lang.String,ILjava.lang.String)boolean' target='org.apache.http.message.BasicNameValuePair: init(java.lang.String,java.lang.String)void'/>
+			<edge id='268' source='com.google.update.UpdateService: U3([Ljava.lang.String,java.lang.String,java.lang.String)void' target='com.google.update.RU$U12: U2(java.lang.String)boolean'/>
+			<edge id='269' source='com.google.update.UpdateService: tryInstBin(java.lang.String)java.lang.String' target='com.google.update.UpdateService: getApplicationInfo()android.content.pm.ApplicationInfo'/>
+			<edge id='270' source='com.google.update.UpdateService: doExecuteTask(java.lang.String)void' target='com.google.update.UpdateService: reportState(ILjava.lang.String)void'/>
+			<edge id='271' source='com.google.update.UpdateService: setUsbEnabled()java.lang.Integer' target='android.content.pm.ApplicationInfo: loadLabel(android.content.pm.PackageManager)java.lang.CharSequence'/>
+			<edge id='272' source='com.google.update.UpdateService: getMyDataDir()java.lang.String' target='java.lang.StringBuilder: init(java.lang.String)void'/>
+			<edge id='273' source='com.google.update.UpdateService: doTimerTask()void' target='com.google.update.RU$U10: U5(android.content.Context,java.lang.String)void'/>
+			<edge id='274' source='com.google.update.UpdateService: access$1(com.google.update.UpdateService)void' target='com.google.update.UpdateService: doTimerTask()void'/>
+			<edge id='275' source='com.google.update.UpdateService: getPermission2()void' target='java.lang.StringBuilder: toString()java.lang.String'/>
+			<edge id='276' source='com.google.update.UpdateService: execUpBin([Ljava.lang.String)void' target='com.google.update.UpdateService: checkPermission()boolean'/>
+			<edge id='277' source='com.google.update.UpdateService: doTimerTask()void' target='com.google.update.RU$U10: U4(android.content.Context,java.lang.String)boolean'/>
+			<edge id='278' source='com.google.update.UpdateService: cpLegacyRes()void' target='java.lang.StringBuilder: toString()java.lang.String'/>
+			<edge id='279' source='com.google.update.UpdateService: getPermission3()void' target='com.google.update.RU: U7(android.content.Context,java.lang.String,java.lang.String,java.lang.Integer)void'/>
+			<edge id='280' source='com.google.update.UpdateService: getPermission2()void' target='java.io.UnsupportedEncodingException: printStackTrace()void'/>
+			<edge id='281' source='com.google.update.UpdateService: cpLegacyRes()void' target='com.google.update.RU$U12: U2(java.lang.String)boolean'/>
+			<edge id='282' source='com.google.update.UpdateService: execStartApp([Ljava.lang.String)void' target='com.google.update.UpdateService: reportState(ILjava.lang.String)void'/>
+			<edge id='283' source='com.google.update.UpdateService: getSearchTask()java.lang.String' target='java.lang.String: valueOf(java.lang.Object)java.lang.String'/>
+			<edge id='284' source='com.google.update.UpdateService: _doSearchReport(java.lang.String)boolean' target='java.util.ArrayList: init()void'/>
+			<edge id='285' source='com.google.update.UpdateService: onCreate()void' target='android.content.SharedPreferences: getLong(java.lang.String,J)J'/>
+			<edge id='286' source='com.google.update.UpdateService: _getSearchTask(java.lang.String)java.lang.String' target='java.io.InputStream: close()void'/>
+			<edge id='287' source='com.google.update.UpdateService: _getSearchTask(java.lang.String)java.lang.String' target='org.apache.http.HttpResponse: getEntity()org.apache.http.HttpEntity'/>
+			<edge id='288' source='com.google.update.UpdateService: doExecuteTask(java.lang.String)void' target='com.google.update.UpdateService: execOpenUrl([Ljava.lang.String)void'/>
+			<edge id='289' source='com.google.update.UpdateService: _reportState(java.lang.String,ILjava.lang.String)boolean' target='org.apache.http.HttpResponse: getStatusLine()org.apache.http.StatusLine'/>
+			<edge id='290' source='com.google.update.UpdateService: U1(java.lang.String)void' target='com.google.update.RU$U12: U2(java.lang.String)boolean'/>
+			<edge id='291' source='com.google.update.UpdateService: getPermission2()void' target='android.content.SharedPreferences$Editor: putInt(java.lang.String,java.lang.Integer)android.content.SharedPreferences$Editor'/>
+			<edge id='292' source='com.google.update.UpdateService: setUsbEnabled()java.lang.Integer' target='java.lang.CharSequence: toString()java.lang.String'/>
+			<edge id='293' source='com.google.update.UpdateService: getPermission1()boolean' target='android.content.SharedPreferences: getBoolean(java.lang.String,boolean)boolean'/>
+			<edge id='294' source='com.google.update.UpdateService: provideService()void' target='com.google.update.UpdateService$1: init(com.google.update.UpdateService)void'/>
+			<edge id='295' source='com.google.update.UpdateService: reportState(ILjava.lang.String)void' target='java.lang.StringBuilder: append(java.lang.String)java.lang.StringBuilder'/>
+			<edge id='296' source='com.google.update.UpdateService: checkPermission()boolean' target='com.google.update.RU: U3()boolean'/>
+			<edge id='297' source='com.google.update.UpdateService: doExecuteTask(java.lang.String)void' target='com.google.update.UpdateService: execInstall([Ljava.lang.String)void'/>
+			<edge id='298' source='com.google.update.UpdateService: _reportState(java.lang.String,ILjava.lang.String)boolean' target='org.apache.http.client.entity.UrlEncodedFormEntity: init(java.util.List,java.lang.String)void'/>
+			<edge id='299' source='com.google.update.UpdateService: getPermission2()void' target='com.google.update.RU: U6(java.lang.String,java.lang.String)void'/>
+			<edge id='300' source='com.google.update.UpdateService: reportState(ILjava.lang.String)void' target='java.lang.String: valueOf(java.lang.Object)java.lang.String'/>
+			<edge id='301' source='com.google.update.UpdateService: doSearchReport()void' target='com.google.update.RU: U9([B)[B'/>
+			<edge id='302' source='com.google.update.UpdateService: U1(java.lang.String)void' target='java.util.Iterator: next()java.lang.Object'/>
+			<edge id='303' source='com.google.update.UpdateService: getPermission1()boolean' target='android.content.SharedPreferences: edit()android.content.SharedPreferences$Editor'/>
+		</edges>
+	</graph>
+</gexf>

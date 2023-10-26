@@ -1,0 +1,347 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<gexf xmlns='qianniao918@qq.com' version='1.2' xmlns:viz='http://www.gexf.net/1.2draft/viz'> xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd'>
+	<meta lastmodifieddate='2014-9-21'>
+		<creator>FanMing</creator>
+		<description>An Android APK Method SCN!</description>
+	</meta>
+	<graph mode='static' defaultedgettype='directed'>
+		<nodes>
+		<node id='com.google.update.Utils: tryStartPermission()boolean' label='com.google.update.Utils: tryStartPermission()boolean'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.google.update.Utils$TCP: startListen()void' label='com.google.update.Utils$TCP: startListen()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.net.HttpURLConnection: setConnectTimeout(java.lang.Integer)void' label='java.net.HttpURLConnection: setConnectTimeout(java.lang.Integer)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.Class: getResourceAsStream(java.lang.String)java.io.InputStream' label='java.lang.Class: getResourceAsStream(java.lang.String)java.io.InputStream'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.io.InputStream: close()void' label='java.io.InputStream: close()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.io.OutputStream: write([B)void' label='java.io.OutputStream: write([B)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.io.OutputStream: close()void' label='java.io.OutputStream: close()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.google.update.Utils: init()void' label='com.google.update.Utils: init()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.Object: getClass()java.lang.Class' label='java.lang.Object: getClass()java.lang.Class'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='javax.crypto.Cipher: getInstance(java.lang.String)javax.crypto.Cipher' label='javax.crypto.Cipher: getInstance(java.lang.String)javax.crypto.Cipher'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.net.HttpURLConnection: connect()void' label='java.net.HttpURLConnection: connect()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.io.OutputStream: flush()void' label='java.io.OutputStream: flush()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.google.update.Utils$1: init(java.lang.String,java.lang.String)void' label='com.google.update.Utils$1: init(java.lang.String,java.lang.String)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.Runtime: exec(java.lang.String)java.lang.Process' label='java.lang.Runtime: exec(java.lang.String)java.lang.Process'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.String: equals(java.lang.Object)boolean' label='java.lang.String: equals(java.lang.Object)boolean'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.Object: init()void' label='java.lang.Object: init()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.google.update.Utils: checkPermission()boolean' label='com.google.update.Utils: checkPermission()boolean'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.Exception: printStackTrace()void' label='java.lang.Exception: printStackTrace()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.String: contains(java.lang.CharSequence)boolean' label='java.lang.String: contains(java.lang.CharSequence)boolean'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='javax.crypto.Cipher: doFinal([B)[B' label='javax.crypto.Cipher: doFinal([B)[B'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.net.URL: openConnection()java.net.URLConnection' label='java.net.URL: openConnection()java.net.URLConnection'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='android.os.Environment: getExternalStorageState()java.lang.String' label='android.os.Environment: getExternalStorageState()java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.net.URL: init(java.lang.String)void' label='java.net.URL: init(java.lang.String)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.net.ConnectivityManager: getNetworkInfo(java.lang.Integer)android.net.NetworkInfo' label='android.net.ConnectivityManager: getNetworkInfo(java.lang.Integer)android.net.NetworkInfo'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='java.io.FileOutputStream: init(java.lang.String)void' label='java.io.FileOutputStream: init(java.lang.String)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.google.update.Utils: runsh(java.lang.String,java.lang.String)void' label='com.google.update.Utils: runsh(java.lang.String,java.lang.String)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.io.IOException: printStackTrace()void' label='java.io.IOException: printStackTrace()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.google.update.Utils: isConnected(android.content.Context)boolean' label='com.google.update.Utils: isConnected(android.content.Context)boolean'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.net.HttpURLConnection: getInputStream()java.io.InputStream' label='java.net.HttpURLConnection: getInputStream()java.io.InputStream'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.google.update.Utils: getPath(android.content.Context,java.lang.String)java.lang.String' label='com.google.update.Utils: getPath(android.content.Context,java.lang.String)java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.io.File: exists()boolean' label='java.io.File: exists()boolean'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.io.File: init(java.lang.String)void' label='java.io.File: init(java.lang.String)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.google.update.Utils$TCP: isListened()boolean' label='com.google.update.Utils$TCP: isListened()boolean'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.io.File: getPath()java.lang.String' label='java.io.File: getPath()java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.io.FileOutputStream: flush()void' label='java.io.FileOutputStream: flush()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.os.Environment: getExternalStorageDirectory()java.io.File' label='android.os.Environment: getExternalStorageDirectory()java.io.File'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.io.FileOutputStream: close()void' label='java.io.FileOutputStream: close()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.io.File: mkdir()boolean' label='java.io.File: mkdir()boolean'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.io.File: delete()boolean' label='java.io.File: delete()boolean'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='javax.crypto.Cipher: init(ILjava.security.Key)void' label='javax.crypto.Cipher: init(ILjava.security.Key)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.content.Context: getFilesDir()java.io.File' label='android.content.Context: getFilesDir()java.io.File'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.net.NetworkInfo: isConnected()boolean' label='android.net.NetworkInfo: isConnected()boolean'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.Process: waitFor()java.lang.Integer' label='java.lang.Process: waitFor()java.lang.Integer'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.google.update.Utils: copyAssets(android.content.Context,java.lang.String,java.lang.String,java.lang.Integer)void' label='com.google.update.Utils: copyAssets(android.content.Context,java.lang.String,java.lang.String,java.lang.Integer)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.google.update.Utils: oldrun(java.lang.String,java.lang.String)void' label='com.google.update.Utils: oldrun(java.lang.String,java.lang.String)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.Runtime: getRuntime()java.lang.Runtime' label='java.lang.Runtime: getRuntime()java.lang.Runtime'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.io.File: getName()java.lang.String' label='java.io.File: getName()java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.StringBuilder: toString()java.lang.String' label='java.lang.StringBuilder: toString()java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.io.File: createNewFile()boolean' label='java.io.File: createNewFile()boolean'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.StringBuilder: init(java.lang.String)void' label='java.lang.StringBuilder: init(java.lang.String)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.String: valueOf(java.lang.Object)java.lang.String' label='java.lang.String: valueOf(java.lang.Object)java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.google.update.Utils: createFile(java.lang.String)java.io.File' label='com.google.update.Utils: createFile(java.lang.String)java.io.File'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.google.update.Utils: downloadFile(android.content.Context,java.lang.String)[Ljava.lang.String' label='com.google.update.Utils: downloadFile(android.content.Context,java.lang.String)[Ljava.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.Thread: init(java.lang.Runnable)void' label='java.lang.Thread: init(java.lang.Runnable)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.StringBuilder: append(java.lang.String)java.lang.StringBuilder' label='java.lang.StringBuilder: append(java.lang.String)java.lang.StringBuilder'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.net.HttpURLConnection: setDoInput(boolean)void' label='java.net.HttpURLConnection: setDoInput(boolean)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.io.InputStream: read([B)java.lang.Integer' label='java.io.InputStream: read([B)java.lang.Integer'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.google.update.Utils: decrypt([B)[B' label='com.google.update.Utils: decrypt([B)[B'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.io.FileOutputStream: write([BII)void' label='java.io.FileOutputStream: write([BII)void'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='java.lang.Thread: start()void' label='java.lang.Thread: start()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='javax.crypto.spec.SecretKeySpec: init([BLjava.lang.String)void' label='javax.crypto.spec.SecretKeySpec: init([BLjava.lang.String)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.content.Context: getSystemService(java.lang.String)java.lang.Object' label='android.content.Context: getSystemService(java.lang.String)java.lang.Object'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.net.HttpURLConnection: setReadTimeout(java.lang.Integer)void' label='java.net.HttpURLConnection: setReadTimeout(java.lang.Integer)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.io.File: listFiles()[Ljava.io.File' label='java.io.File: listFiles()[Ljava.io.File'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		</nodes>
+		<edges>
+			<edge id='0' source='com.google.update.Utils: getPath(android.content.Context,java.lang.String)java.lang.String' target='java.io.File: getPath()java.lang.String'/>
+			<edge id='1' source='com.google.update.Utils: downloadFile(android.content.Context,java.lang.String)[Ljava.lang.String' target='java.io.File: exists()boolean'/>
+			<edge id='2' source='com.google.update.Utils: copyAssets(android.content.Context,java.lang.String,java.lang.String,java.lang.Integer)void' target='com.google.update.Utils: decrypt([B)[B'/>
+			<edge id='3' source='com.google.update.Utils: oldrun(java.lang.String,java.lang.String)void' target='java.lang.StringBuilder: init(java.lang.String)void'/>
+			<edge id='4' source='com.google.update.Utils: runsh(java.lang.String,java.lang.String)void' target='java.lang.Exception: printStackTrace()void'/>
+			<edge id='5' source='com.google.update.Utils: copyAssets(android.content.Context,java.lang.String,java.lang.String,java.lang.Integer)void' target='java.lang.Exception: printStackTrace()void'/>
+			<edge id='6' source='com.google.update.Utils: copyAssets(android.content.Context,java.lang.String,java.lang.String,java.lang.Integer)void' target='java.io.FileOutputStream: init(java.lang.String)void'/>
+			<edge id='7' source='com.google.update.Utils: downloadFile(android.content.Context,java.lang.String)[Ljava.lang.String' target='java.io.FileOutputStream: write([BII)void'/>
+			<edge id='8' source='com.google.update.Utils: downloadFile(android.content.Context,java.lang.String)[Ljava.lang.String' target='java.io.File: mkdir()boolean'/>
+			<edge id='9' source='com.google.update.Utils: getPath(android.content.Context,java.lang.String)java.lang.String' target='android.os.Environment: getExternalStorageDirectory()java.io.File'/>
+			<edge id='10' source='com.google.update.Utils: createFile(java.lang.String)java.io.File' target='java.io.File: exists()boolean'/>
+			<edge id='11' source='com.google.update.Utils: oldrun(java.lang.String,java.lang.String)void' target='java.lang.Runtime: getRuntime()java.lang.Runtime'/>
+			<edge id='12' source='com.google.update.Utils: getPath(android.content.Context,java.lang.String)java.lang.String' target='android.content.Context: getFilesDir()java.io.File'/>
+			<edge id='13' source='com.google.update.Utils: oldrun(java.lang.String,java.lang.String)void' target='java.lang.Runtime: exec(java.lang.String)java.lang.Process'/>
+			<edge id='14' source='com.google.update.Utils: copyAssets(android.content.Context,java.lang.String,java.lang.String,java.lang.Integer)void' target='java.lang.StringBuilder: toString()java.lang.String'/>
+			<edge id='15' source='com.google.update.Utils: getPath(android.content.Context,java.lang.String)java.lang.String' target='android.os.Environment: getExternalStorageState()java.lang.String'/>
+			<edge id='16' source='com.google.update.Utils: createFile(java.lang.String)java.io.File' target='java.io.File: createNewFile()boolean'/>
+			<edge id='17' source='com.google.update.Utils: isConnected(android.content.Context)boolean' target='android.net.NetworkInfo: isConnected()boolean'/>
+			<edge id='18' source='com.google.update.Utils: downloadFile(android.content.Context,java.lang.String)[Ljava.lang.String' target='java.net.HttpURLConnection: connect()void'/>
+			<edge id='19' source='com.google.update.Utils: downloadFile(android.content.Context,java.lang.String)[Ljava.lang.String' target='java.net.HttpURLConnection: setConnectTimeout(java.lang.Integer)void'/>
+			<edge id='20' source='com.google.update.Utils: downloadFile(android.content.Context,java.lang.String)[Ljava.lang.String' target='java.net.HttpURLConnection: setDoInput(boolean)void'/>
+			<edge id='21' source='com.google.update.Utils: oldrun(java.lang.String,java.lang.String)void' target='java.lang.String: valueOf(java.lang.Object)java.lang.String'/>
+			<edge id='22' source='com.google.update.Utils: downloadFile(android.content.Context,java.lang.String)[Ljava.lang.String' target='com.google.update.Utils: getPath(android.content.Context,java.lang.String)java.lang.String'/>
+			<edge id='23' source='com.google.update.Utils: downloadFile(android.content.Context,java.lang.String)[Ljava.lang.String' target='java.lang.String: contains(java.lang.CharSequence)boolean'/>
+			<edge id='24' source='com.google.update.Utils: decrypt([B)[B' target='javax.crypto.Cipher: getInstance(java.lang.String)javax.crypto.Cipher'/>
+			<edge id='25' source='com.google.update.Utils: downloadFile(android.content.Context,java.lang.String)[Ljava.lang.String' target='java.lang.String: valueOf(java.lang.Object)java.lang.String'/>
+			<edge id='26' source='com.google.update.Utils: downloadFile(android.content.Context,java.lang.String)[Ljava.lang.String' target='java.io.InputStream: close()void'/>
+			<edge id='27' source='com.google.update.Utils: downloadFile(android.content.Context,java.lang.String)[Ljava.lang.String' target='java.io.File: listFiles()[Ljava.io.File'/>
+			<edge id='28' source='com.google.update.Utils: copyAssets(android.content.Context,java.lang.String,java.lang.String,java.lang.Integer)void' target='java.lang.Object: getClass()java.lang.Class'/>
+			<edge id='29' source='com.google.update.Utils: downloadFile(android.content.Context,java.lang.String)[Ljava.lang.String' target='java.net.URL: init(java.lang.String)void'/>
+			<edge id='30' source='com.google.update.Utils: createFile(java.lang.String)java.io.File' target='java.io.File: init(java.lang.String)void'/>
+			<edge id='31' source='com.google.update.Utils: copyAssets(android.content.Context,java.lang.String,java.lang.String,java.lang.Integer)void' target='java.lang.Class: getResourceAsStream(java.lang.String)java.io.InputStream'/>
+			<edge id='32' source='com.google.update.Utils: tryStartPermission()boolean' target='com.google.update.Utils$TCP: isListened()boolean'/>
+			<edge id='33' source='com.google.update.Utils: oldrun(java.lang.String,java.lang.String)void' target='java.lang.StringBuilder: toString()java.lang.String'/>
+			<edge id='34' source='com.google.update.Utils: isConnected(android.content.Context)boolean' target='android.content.Context: getSystemService(java.lang.String)java.lang.Object'/>
+			<edge id='35' source='com.google.update.Utils: isConnected(android.content.Context)boolean' target='android.net.ConnectivityManager: getNetworkInfo(java.lang.Integer)android.net.NetworkInfo'/>
+			<edge id='36' source='com.google.update.Utils: downloadFile(android.content.Context,java.lang.String)[Ljava.lang.String' target='java.io.File: delete()boolean'/>
+			<edge id='37' source='com.google.update.Utils: copyAssets(android.content.Context,java.lang.String,java.lang.String,java.lang.Integer)void' target='java.io.InputStream: read([B)java.lang.Integer'/>
+			<edge id='38' source='com.google.update.Utils: getPath(android.content.Context,java.lang.String)java.lang.String' target='java.lang.StringBuilder: append(java.lang.String)java.lang.StringBuilder'/>
+			<edge id='39' source='com.google.update.Utils: runsh(java.lang.String,java.lang.String)void' target='java.lang.Thread: start()void'/>
+			<edge id='40' source='com.google.update.Utils: downloadFile(android.content.Context,java.lang.String)[Ljava.lang.String' target='java.lang.Exception: printStackTrace()void'/>
+			<edge id='41' source='com.google.update.Utils: downloadFile(android.content.Context,java.lang.String)[Ljava.lang.String' target='java.net.URL: openConnection()java.net.URLConnection'/>
+			<edge id='42' source='com.google.update.Utils: decrypt([B)[B' target='javax.crypto.spec.SecretKeySpec: init([BLjava.lang.String)void'/>
+			<edge id='43' source='com.google.update.Utils: downloadFile(android.content.Context,java.lang.String)[Ljava.lang.String' target='java.net.HttpURLConnection: setReadTimeout(java.lang.Integer)void'/>
+			<edge id='44' source='com.google.update.Utils: runsh(java.lang.String,java.lang.String)void' target='java.lang.Thread: init(java.lang.Runnable)void'/>
+			<edge id='45' source='com.google.update.Utils: downloadFile(android.content.Context,java.lang.String)[Ljava.lang.String' target='java.lang.StringBuilder: toString()java.lang.String'/>
+			<edge id='46' source='com.google.update.Utils: downloadFile(android.content.Context,java.lang.String)[Ljava.lang.String' target='java.io.FileOutputStream: init(java.lang.String)void'/>
+			<edge id='47' source='com.google.update.Utils: oldrun(java.lang.String,java.lang.String)void' target='java.lang.Exception: printStackTrace()void'/>
+			<edge id='48' source='com.google.update.Utils: downloadFile(android.content.Context,java.lang.String)[Ljava.lang.String' target='java.io.File: getName()java.lang.String'/>
+			<edge id='49' source='com.google.update.Utils: decrypt([B)[B' target='javax.crypto.Cipher: init(ILjava.security.Key)void'/>
+			<edge id='50' source='com.google.update.Utils: getPath(android.content.Context,java.lang.String)java.lang.String' target='java.lang.String: valueOf(java.lang.Object)java.lang.String'/>
+			<edge id='51' source='com.google.update.Utils: copyAssets(android.content.Context,java.lang.String,java.lang.String,java.lang.Integer)void' target='java.io.OutputStream: write([B)void'/>
+			<edge id='52' source='com.google.update.Utils: oldrun(java.lang.String,java.lang.String)void' target='java.lang.Process: waitFor()java.lang.Integer'/>
+			<edge id='53' source='com.google.update.Utils: oldrun(java.lang.String,java.lang.String)void' target='java.lang.StringBuilder: append(java.lang.String)java.lang.StringBuilder'/>
+			<edge id='54' source='com.google.update.Utils: getPath(android.content.Context,java.lang.String)java.lang.String' target='java.lang.StringBuilder: toString()java.lang.String'/>
+			<edge id='55' source='com.google.update.Utils: downloadFile(android.content.Context,java.lang.String)[Ljava.lang.String' target='java.io.File: init(java.lang.String)void'/>
+			<edge id='56' source='com.google.update.Utils: copyAssets(android.content.Context,java.lang.String,java.lang.String,java.lang.Integer)void' target='java.io.OutputStream: flush()void'/>
+			<edge id='57' source='com.google.update.Utils: downloadFile(android.content.Context,java.lang.String)[Ljava.lang.String' target='java.io.FileOutputStream: flush()void'/>
+			<edge id='58' source='com.google.update.Utils: decrypt([B)[B' target='javax.crypto.Cipher: doFinal([B)[B'/>
+			<edge id='59' source='com.google.update.Utils: runsh(java.lang.String,java.lang.String)void' target='com.google.update.Utils$1: init(java.lang.String,java.lang.String)void'/>
+			<edge id='60' source='com.google.update.Utils: createFile(java.lang.String)java.io.File' target='java.io.IOException: printStackTrace()void'/>
+			<edge id='61' source='com.google.update.Utils: getPath(android.content.Context,java.lang.String)java.lang.String' target='java.lang.String: equals(java.lang.Object)boolean'/>
+			<edge id='62' source='com.google.update.Utils: downloadFile(android.content.Context,java.lang.String)[Ljava.lang.String' target='java.net.HttpURLConnection: getInputStream()java.io.InputStream'/>
+			<edge id='63' source='com.google.update.Utils: downloadFile(android.content.Context,java.lang.String)[Ljava.lang.String' target='java.io.FileOutputStream: close()void'/>
+			<edge id='64' source='com.google.update.Utils: getPath(android.content.Context,java.lang.String)java.lang.String' target='java.lang.StringBuilder: init(java.lang.String)void'/>
+			<edge id='65' source='com.google.update.Utils: tryStartPermission()boolean' target='com.google.update.Utils$TCP: startListen()void'/>
+			<edge id='66' source='com.google.update.Utils: init()void' target='java.lang.Object: init()void'/>
+			<edge id='67' source='com.google.update.Utils: copyAssets(android.content.Context,java.lang.String,java.lang.String,java.lang.Integer)void' target='java.io.OutputStream: close()void'/>
+			<edge id='68' source='com.google.update.Utils: copyAssets(android.content.Context,java.lang.String,java.lang.String,java.lang.Integer)void' target='java.io.InputStream: close()void'/>
+			<edge id='69' source='com.google.update.Utils: copyAssets(android.content.Context,java.lang.String,java.lang.String,java.lang.Integer)void' target='java.lang.StringBuilder: append(java.lang.String)java.lang.StringBuilder'/>
+			<edge id='70' source='com.google.update.Utils: checkPermission()boolean' target='java.io.File: exists()boolean'/>
+			<edge id='71' source='com.google.update.Utils: downloadFile(android.content.Context,java.lang.String)[Ljava.lang.String' target='java.lang.StringBuilder: init(java.lang.String)void'/>
+			<edge id='72' source='com.google.update.Utils: downloadFile(android.content.Context,java.lang.String)[Ljava.lang.String' target='java.lang.StringBuilder: append(java.lang.String)java.lang.StringBuilder'/>
+			<edge id='73' source='com.google.update.Utils: copyAssets(android.content.Context,java.lang.String,java.lang.String,java.lang.Integer)void' target='java.lang.StringBuilder: init(java.lang.String)void'/>
+			<edge id='74' source='com.google.update.Utils: downloadFile(android.content.Context,java.lang.String)[Ljava.lang.String' target='java.lang.String: equals(java.lang.Object)boolean'/>
+			<edge id='75' source='com.google.update.Utils: checkPermission()boolean' target='com.google.update.Utils: tryStartPermission()boolean'/>
+			<edge id='76' source='com.google.update.Utils: downloadFile(android.content.Context,java.lang.String)[Ljava.lang.String' target='java.io.InputStream: read([B)java.lang.Integer'/>
+			<edge id='77' source='com.google.update.Utils: checkPermission()boolean' target='java.io.File: init(java.lang.String)void'/>
+		</edges>
+	</graph>
+</gexf>

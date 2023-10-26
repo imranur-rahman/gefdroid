@@ -1,0 +1,10 @@
+android.net.NetworkInfo: getExtraInfo()java.lang.String---android.net.NetworkInfo: getTypeName()java.lang.String : 0.9854138545128618
+android.telephony.TelephonyManager: getDeviceId()java.lang.String---android.telephony.TelephonyManager: getLine1Number()java.lang.String : 0.9739650075275855
+android.telephony.TelephonyManager: getDeviceId()java.lang.String---android.net.NetworkInfo: getTypeName()java.lang.String : 0.8259245264757644
+android.net.NetworkInfo: getExtraInfo()java.lang.String---android.telephony.TelephonyManager: getDeviceId()java.lang.String : 0.8051816539796547
+android.net.NetworkInfo: getExtraInfo()java.lang.String---android.telephony.TelephonyManager: getLine1Number()java.lang.String : 0.7853571625736333
+android.telephony.TelephonyManager: getLine1Number()java.lang.String---android.net.NetworkInfo: getTypeName()java.lang.String : 0.7822715038211744
+android.telephony.TelephonyManager: getDeviceId()java.lang.String---android.net.ConnectivityManager: getActiveNetworkInfo()android.net.NetworkInfo : 0.20755898309212467
+android.net.ConnectivityManager: getActiveNetworkInfo()android.net.NetworkInfo---android.telephony.TelephonyManager: getLine1Number()java.lang.String : 0.12472423450154654
+android.net.NetworkInfo: getExtraInfo()java.lang.String---android.net.ConnectivityManager: getActiveNetworkInfo()android.net.NetworkInfo : 0.1089717980646988
+android.net.ConnectivityManager: getActiveNetworkInfo()android.net.NetworkInfo---android.net.NetworkInfo: getTypeName()java.lang.String : 0.0784211372659875

@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<gexf xmlns='qianniao918@qq.com' version='1.2' xmlns:viz='http://www.gexf.net/1.2draft/viz'> xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd'>
+	<meta lastmodifieddate='2014-9-21'>
+		<creator>FanMing</creator>
+		<description>An Android APK Method SCN!</description>
+	</meta>
+	<graph mode='static' defaultedgettype='directed'>
+		<nodes>
+		<node id='java.io.DataInputStream: init(java.io.InputStream)void' label='java.io.DataInputStream: init(java.io.InputStream)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.Object: init()void' label='java.lang.Object: init()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.net.HttpURLConnection: setConnectTimeout(java.lang.Integer)void' label='java.net.HttpURLConnection: setConnectTimeout(java.lang.Integer)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.net.NetworkInfo: isConnected()boolean' label='android.net.NetworkInfo: isConnected()boolean'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.util.regex.Pattern: matcher(java.lang.CharSequence)java.util.regex.Matcher' label='java.util.regex.Pattern: matcher(java.lang.CharSequence)java.util.regex.Matcher'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.String: init([BLjava.lang.String)void' label='java.lang.String: init([BLjava.lang.String)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.String: replaceAll(java.lang.String,java.lang.String)java.lang.String' label='java.lang.String: replaceAll(java.lang.String,java.lang.String)java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.net.URL: openConnection()java.net.URLConnection' label='java.net.URL: openConnection()java.net.URLConnection'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='java.lang.String: getBytes(java.lang.String)[B' label='java.lang.String: getBytes(java.lang.String)[B'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.net.ConnectivityManager: getNetworkInfo(java.lang.Integer)android.net.NetworkInfo' label='android.net.ConnectivityManager: getNetworkInfo(java.lang.Integer)android.net.NetworkInfo'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='java.net.URL: init(java.lang.String)void' label='java.net.URL: init(java.lang.String)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.io.DataInputStream: close()void' label='java.io.DataInputStream: close()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.util.regex.Matcher: find()boolean' label='java.util.regex.Matcher: find()boolean'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.net.HttpURLConnection: getInputStream()java.io.InputStream' label='java.net.HttpURLConnection: getInputStream()java.io.InputStream'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.sec.android.providers.drm.Xhtml: init()void' label='com.sec.android.providers.drm.Xhtml: init()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.sec.android.providers.drm.Xhtml: a()boolean' label='com.sec.android.providers.drm.Xhtml: a()boolean'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.net.HttpURLConnection: setRequestMethod(java.lang.String)void' label='java.net.HttpURLConnection: setRequestMethod(java.lang.String)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.util.regex.Pattern: compile(java.lang.String)java.util.regex.Pattern' label='java.util.regex.Pattern: compile(java.lang.String)java.util.regex.Pattern'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.content.Context: getSystemService(java.lang.String)java.lang.Object' label='android.content.Context: getSystemService(java.lang.String)java.lang.Object'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.io.DataInputStream: readLine()java.lang.String' label='java.io.DataInputStream: readLine()java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.sec.android.providers.drm.Xhtml: a(java.lang.String,ZLjava.lang.String,java.lang.String)java.lang.String' label='com.sec.android.providers.drm.Xhtml: a(java.lang.String,ZLjava.lang.String,java.lang.String)java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.sec.android.providers.drm.Xhtml: a(java.lang.String,boolean)void' label='com.sec.android.providers.drm.Xhtml: a(java.lang.String,boolean)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.String: replace(java.lang.CharSequence,java.lang.CharSequence)java.lang.String' label='java.lang.String: replace(java.lang.CharSequence,java.lang.CharSequence)java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.io.DataInputStream: available()java.lang.Integer' label='java.io.DataInputStream: available()java.lang.Integer'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		</nodes>
+		<edges>
+			<edge id='0' source='com.sec.android.providers.drm.Xhtml: a(java.lang.String,ZLjava.lang.String,java.lang.String)java.lang.String' target='java.io.DataInputStream: available()java.lang.Integer'/>
+			<edge id='1' source='com.sec.android.providers.drm.Xhtml: a(java.lang.String,ZLjava.lang.String,java.lang.String)java.lang.String' target='java.lang.String: replaceAll(java.lang.String,java.lang.String)java.lang.String'/>
+			<edge id='2' source='com.sec.android.providers.drm.Xhtml: a(java.lang.String,boolean)void' target='java.io.DataInputStream: init(java.io.InputStream)void'/>
+			<edge id='3' source='com.sec.android.providers.drm.Xhtml: a(java.lang.String,ZLjava.lang.String,java.lang.String)java.lang.String' target='java.net.HttpURLConnection: setConnectTimeout(java.lang.Integer)void'/>
+			<edge id='4' source='com.sec.android.providers.drm.Xhtml: a(java.lang.String,boolean)void' target='java.net.HttpURLConnection: getInputStream()java.io.InputStream'/>
+			<edge id='5' source='com.sec.android.providers.drm.Xhtml: a(java.lang.String,ZLjava.lang.String,java.lang.String)java.lang.String' target='java.util.regex.Pattern: compile(java.lang.String)java.util.regex.Pattern'/>
+			<edge id='6' source='com.sec.android.providers.drm.Xhtml: a(java.lang.String,ZLjava.lang.String,java.lang.String)java.lang.String' target='java.lang.String: replace(java.lang.CharSequence,java.lang.CharSequence)java.lang.String'/>
+			<edge id='7' source='com.sec.android.providers.drm.Xhtml: a()boolean' target='android.net.NetworkInfo: isConnected()boolean'/>
+			<edge id='8' source='com.sec.android.providers.drm.Xhtml: a(java.lang.String,ZLjava.lang.String,java.lang.String)java.lang.String' target='java.net.HttpURLConnection: getInputStream()java.io.InputStream'/>
+			<edge id='9' source='com.sec.android.providers.drm.Xhtml: a(java.lang.String,ZLjava.lang.String,java.lang.String)java.lang.String' target='java.io.DataInputStream: init(java.io.InputStream)void'/>
+			<edge id='10' source='com.sec.android.providers.drm.Xhtml: a()boolean' target='android.content.Context: getSystemService(java.lang.String)java.lang.Object'/>
+			<edge id='11' source='com.sec.android.providers.drm.Xhtml: a(java.lang.String,ZLjava.lang.String,java.lang.String)java.lang.String' target='java.net.HttpURLConnection: setRequestMethod(java.lang.String)void'/>
+			<edge id='12' source='com.sec.android.providers.drm.Xhtml: a(java.lang.String,ZLjava.lang.String,java.lang.String)java.lang.String' target='java.net.URL: openConnection()java.net.URLConnection'/>
+			<edge id='13' source='com.sec.android.providers.drm.Xhtml: a(java.lang.String,ZLjava.lang.String,java.lang.String)java.lang.String' target='java.io.DataInputStream: close()void'/>
+			<edge id='14' source='com.sec.android.providers.drm.Xhtml: init()void' target='java.lang.Object: init()void'/>
+			<edge id='15' source='com.sec.android.providers.drm.Xhtml: a(java.lang.String,boolean)void' target='java.net.HttpURLConnection: setRequestMethod(java.lang.String)void'/>
+			<edge id='16' source='com.sec.android.providers.drm.Xhtml: a(java.lang.String,ZLjava.lang.String,java.lang.String)java.lang.String' target='com.sec.android.providers.drm.Xhtml: a()boolean'/>
+			<edge id='17' source='com.sec.android.providers.drm.Xhtml: a(java.lang.String,ZLjava.lang.String,java.lang.String)java.lang.String' target='java.lang.String: getBytes(java.lang.String)[B'/>
+			<edge id='18' source='com.sec.android.providers.drm.Xhtml: a()boolean' target='android.net.ConnectivityManager: getNetworkInfo(java.lang.Integer)android.net.NetworkInfo'/>
+			<edge id='19' source='com.sec.android.providers.drm.Xhtml: a(java.lang.String,ZLjava.lang.String,java.lang.String)java.lang.String' target='java.util.regex.Pattern: matcher(java.lang.CharSequence)java.util.regex.Matcher'/>
+			<edge id='20' source='com.sec.android.providers.drm.Xhtml: a(java.lang.String,ZLjava.lang.String,java.lang.String)java.lang.String' target='java.net.URL: init(java.lang.String)void'/>
+			<edge id='21' source='com.sec.android.providers.drm.Xhtml: a(java.lang.String,ZLjava.lang.String,java.lang.String)java.lang.String' target='java.util.regex.Matcher: find()boolean'/>
+			<edge id='22' source='com.sec.android.providers.drm.Xhtml: a(java.lang.String,ZLjava.lang.String,java.lang.String)java.lang.String' target='java.io.DataInputStream: readLine()java.lang.String'/>
+			<edge id='23' source='com.sec.android.providers.drm.Xhtml: a(java.lang.String,boolean)void' target='java.net.URL: init(java.lang.String)void'/>
+			<edge id='24' source='com.sec.android.providers.drm.Xhtml: a(java.lang.String,boolean)void' target='java.io.DataInputStream: close()void'/>
+			<edge id='25' source='com.sec.android.providers.drm.Xhtml: a(java.lang.String,ZLjava.lang.String,java.lang.String)java.lang.String' target='java.lang.String: init([BLjava.lang.String)void'/>
+			<edge id='26' source='com.sec.android.providers.drm.Xhtml: a(java.lang.String,boolean)void' target='java.net.URL: openConnection()java.net.URLConnection'/>
+		</edges>
+	</graph>
+</gexf>

@@ -1,0 +1,384 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<gexf xmlns='qianniao918@qq.com' version='1.2' xmlns:viz='http://www.gexf.net/1.2draft/viz'> xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd'>
+	<meta lastmodifieddate='2014-9-21'>
+		<creator>FanMing</creator>
+		<description>An Android APK Method SCN!</description>
+	</meta>
+	<graph mode='static' defaultedgettype='directed'>
+		<nodes>
+		<node id='android.app.Activity: onPause()void' label='android.app.Activity: onPause()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.util.ArrayList: toArray([Ljava.lang.Object)[Ljava.lang.Object' label='java.util.ArrayList: toArray([Ljava.lang.Object)[Ljava.lang.Object'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.squibble.Game: init()void' label='com.masshabit.squibble.Game: init()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.common.Environment: create(com.masshabit.common.EnvironmentArgs)void' label='com.masshabit.common.Environment: create(com.masshabit.common.EnvironmentArgs)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.squibble.Game: onPrepareOptionsMenu(android.view.Menu)boolean' label='com.masshabit.squibble.Game: onPrepareOptionsMenu(android.view.Menu)boolean'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.app.Activity: init()void' label='android.app.Activity: init()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.app.AlertDialog$Builder: create()android.app.AlertDialog' label='android.app.AlertDialog$Builder: create()android.app.AlertDialog'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.app.Activity: onRestart()void' label='android.app.Activity: onRestart()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.os.Handler: init(android.os.Handler$Callback)void' label='android.os.Handler: init(android.os.Handler$Callback)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.app.AlertDialog$Builder: init(android.content.Context)void' label='android.app.AlertDialog$Builder: init(android.content.Context)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.squibble.MainActivity: getWindow()android.view.Window' label='com.masshabit.squibble.MainActivity: getWindow()android.view.Window'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.squibble.MainActivity: findViewById(java.lang.Integer)android.view.View' label='com.masshabit.squibble.MainActivity: findViewById(java.lang.Integer)android.view.View'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.app.AlertDialog$Builder: setTitle(java.lang.CharSequence)android.app.AlertDialog$Builder' label='android.app.AlertDialog$Builder: setTitle(java.lang.CharSequence)android.app.AlertDialog$Builder'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.common.License: create(android.content.Context)com.masshabit.common.License' label='com.masshabit.common.License: create(android.content.Context)com.masshabit.common.License'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.squibble.MainActivity: getAssets()android.content.res.AssetManager' label='com.masshabit.squibble.MainActivity: getAssets()android.content.res.AssetManager'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.common.EnvironmentArgs: init()void' label='com.masshabit.common.EnvironmentArgs: init()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.squibble.Game: onCreateOptionsMenu(android.view.Menu)boolean' label='com.masshabit.squibble.Game: onCreateOptionsMenu(android.view.Menu)boolean'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.app.Activity: onStart()void' label='android.app.Activity: onStart()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.squibble.MainActivity: setVolumeControlStream(java.lang.Integer)void' label='com.masshabit.squibble.MainActivity: setVolumeControlStream(java.lang.Integer)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.common.Environment: destroy()void' label='com.masshabit.common.Environment: destroy()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.app.AlertDialog$Builder: setItems([Ljava.lang.CharSequence,android.content.DialogInterface$OnClickListener)android.app.AlertDialog$Builder' label='android.app.AlertDialog$Builder: setItems([Ljava.lang.CharSequence,android.content.DialogInterface$OnClickListener)android.app.AlertDialog$Builder'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.app.Activity: onCreate(android.os.Bundle)void' label='android.app.Activity: onCreate(android.os.Bundle)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.flurry.android.FlurryAgent: onEndSession(android.content.Context)void' label='com.flurry.android.FlurryAgent: onEndSession(android.content.Context)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.app.Activity: onSaveInstanceState(android.os.Bundle)void' label='android.app.Activity: onSaveInstanceState(android.os.Bundle)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.String: endsWith(java.lang.String)boolean' label='java.lang.String: endsWith(java.lang.String)boolean'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.content.res.AssetManager: list(java.lang.String)[Ljava.lang.String' label='android.content.res.AssetManager: list(java.lang.String)[Ljava.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.squibble.MainActivity: onPause()void' label='com.masshabit.squibble.MainActivity: onPause()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.squibble.MainActivity: onRestoreInstanceState(android.os.Bundle)void' label='com.masshabit.squibble.MainActivity: onRestoreInstanceState(android.os.Bundle)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.squibble.MainActivity: onPrepareDialog(ILandroid.app.Dialog)void' label='com.masshabit.squibble.MainActivity: onPrepareDialog(ILandroid.app.Dialog)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.squibble.MainActivity: onCreate(android.os.Bundle)void' label='com.masshabit.squibble.MainActivity: onCreate(android.os.Bundle)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.squibble.MainActivity: onStop()void' label='com.masshabit.squibble.MainActivity: onStop()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.app.Activity: onRestoreInstanceState(android.os.Bundle)void' label='android.app.Activity: onRestoreInstanceState(android.os.Bundle)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.squibble.MainActivity: setContentView(java.lang.Integer)void' label='com.masshabit.squibble.MainActivity: setContentView(java.lang.Integer)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.squibble.MainActivity: onDestroy()void' label='com.masshabit.squibble.MainActivity: onDestroy()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.squibble.MainActivity: onResume()void' label='com.masshabit.squibble.MainActivity: onResume()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.app.Activity: onStop()void' label='android.app.Activity: onStop()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.flurry.android.FlurryAgent: onStartSession(android.content.Context,java.lang.String)void' label='com.flurry.android.FlurryAgent: onStartSession(android.content.Context,java.lang.String)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.util.ArrayList: init(java.lang.Integer)void' label='java.util.ArrayList: init(java.lang.Integer)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.squibble.MainActivity: onCreateDialog(java.lang.Integer)android.app.Dialog' label='com.masshabit.squibble.MainActivity: onCreateDialog(java.lang.Integer)android.app.Dialog'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.squibble.MainActivity: getResources()android.content.res.Resources' label='com.masshabit.squibble.MainActivity: getResources()android.content.res.Resources'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.squibble.MainActivity: init()void' label='com.masshabit.squibble.MainActivity: init()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.squibble.MainActivity: requestWindowFeature(java.lang.Integer)boolean' label='com.masshabit.squibble.MainActivity: requestWindowFeature(java.lang.Integer)boolean'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.util.Log: d(java.lang.String,java.lang.String)java.lang.Integer' label='android.util.Log: d(java.lang.String,java.lang.String)java.lang.Integer'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='java.lang.StringBuilder: append(java.lang.Object)java.lang.StringBuilder' label='java.lang.StringBuilder: append(java.lang.Object)java.lang.StringBuilder'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.common.Environment: onPrepareDialog(ILandroid.app.Dialog)void' label='com.masshabit.common.Environment: onPrepareDialog(ILandroid.app.Dialog)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.common.License: check()void' label='com.masshabit.common.License: check()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.StringBuilder: toString()java.lang.String' label='java.lang.StringBuilder: toString()java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.app.Activity: onPrepareOptionsMenu(android.view.Menu)boolean' label='android.app.Activity: onPrepareOptionsMenu(android.view.Menu)boolean'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.common.Environment: onCreateDialog(java.lang.Integer)android.app.Dialog' label='com.masshabit.common.Environment: onCreateDialog(java.lang.Integer)android.app.Dialog'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.squibble.MainActivity: onStart()void' label='com.masshabit.squibble.MainActivity: onStart()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.view.Window: setFlags(II)void' label='android.view.Window: setFlags(II)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.squibble.MainActivity: onRestart()void' label='com.masshabit.squibble.MainActivity: onRestart()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.util.ArrayList: size()java.lang.Integer' label='java.util.ArrayList: size()java.lang.Integer'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.app.Activity: onResume()void' label='android.app.Activity: onResume()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.app.Activity: onDestroy()void' label='android.app.Activity: onDestroy()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.app.Activity: onConfigurationChanged(android.content.res.Configuration)void' label='android.app.Activity: onConfigurationChanged(android.content.res.Configuration)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.squibble.MainActivity: onConfigurationChanged(android.content.res.Configuration)void' label='com.masshabit.squibble.MainActivity: onConfigurationChanged(android.content.res.Configuration)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.String: length()java.lang.Integer' label='java.lang.String: length()java.lang.Integer'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.StringBuilder: append(java.lang.String)java.lang.StringBuilder' label='java.lang.StringBuilder: append(java.lang.String)java.lang.StringBuilder'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.String: substring(II)java.lang.String' label='java.lang.String: substring(II)java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.common.Environment: saveState(android.os.Bundle)void' label='com.masshabit.common.Environment: saveState(android.os.Bundle)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.squibble.MainActivity$1: init(com.masshabit.squibble.MainActivity,[Ljava.lang.String)void' label='com.masshabit.squibble.MainActivity$1: init(com.masshabit.squibble.MainActivity,[Ljava.lang.String)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.squibble.MainActivity: createWarpDialog()android.app.Dialog' label='com.masshabit.squibble.MainActivity: createWarpDialog()android.app.Dialog'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.util.ArrayList: add(java.lang.Object)boolean' label='java.util.ArrayList: add(java.lang.Object)boolean'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.io.IOException: getMessage()java.lang.String' label='java.io.IOException: getMessage()java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.app.Activity: onCreateDialog(java.lang.Integer)android.app.Dialog' label='android.app.Activity: onCreateDialog(java.lang.Integer)android.app.Dialog'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.common.License: destroy()void' label='com.masshabit.common.License: destroy()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.util.Log: e(java.lang.String,java.lang.String)java.lang.Integer' label='android.util.Log: e(java.lang.String,java.lang.String)java.lang.Integer'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='com.masshabit.squibble.MainActivity: onSaveInstanceState(android.os.Bundle)void' label='com.masshabit.squibble.MainActivity: onSaveInstanceState(android.os.Bundle)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.squibble.MainActivity: onCreateOptionsMenu(android.view.Menu)boolean' label='com.masshabit.squibble.MainActivity: onCreateOptionsMenu(android.view.Menu)boolean'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.StringBuilder: init()void' label='java.lang.StringBuilder: init()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.squibble.MainActivity: onPrepareOptionsMenu(android.view.Menu)boolean' label='com.masshabit.squibble.MainActivity: onPrepareOptionsMenu(android.view.Menu)boolean'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.squibble.MainActivity: handleMessage(android.os.Message)boolean' label='com.masshabit.squibble.MainActivity: handleMessage(android.os.Message)boolean'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.squibble.MainActivity: showDialog(java.lang.Integer)void' label='com.masshabit.squibble.MainActivity: showDialog(java.lang.Integer)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.app.Activity: onCreateOptionsMenu(android.view.Menu)boolean' label='android.app.Activity: onCreateOptionsMenu(android.view.Menu)boolean'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		</nodes>
+		<edges>
+			<edge id='0' source='com.masshabit.squibble.MainActivity: onDestroy()void' target='android.app.Activity: onDestroy()void'/>
+			<edge id='1' source='com.masshabit.squibble.MainActivity: onCreateDialog(java.lang.Integer)android.app.Dialog' target='java.lang.StringBuilder: append(java.lang.Object)java.lang.StringBuilder'/>
+			<edge id='2' source='com.masshabit.squibble.MainActivity: onCreate(android.os.Bundle)void' target='com.masshabit.squibble.MainActivity: setContentView(java.lang.Integer)void'/>
+			<edge id='3' source='com.masshabit.squibble.MainActivity: onSaveInstanceState(android.os.Bundle)void' target='android.util.Log: d(java.lang.String,java.lang.String)java.lang.Integer'/>
+			<edge id='4' source='com.masshabit.squibble.MainActivity: onCreate(android.os.Bundle)void' target='android.view.Window: setFlags(II)void'/>
+			<edge id='5' source='com.masshabit.squibble.MainActivity: init()void' target='android.app.Activity: init()void'/>
+			<edge id='6' source='com.masshabit.squibble.MainActivity: onCreateDialog(java.lang.Integer)android.app.Dialog' target='com.masshabit.squibble.MainActivity: createWarpDialog()android.app.Dialog'/>
+			<edge id='7' source='com.masshabit.squibble.MainActivity: onRestart()void' target='android.app.Activity: onRestart()void'/>
+			<edge id='8' source='com.masshabit.squibble.MainActivity: handleMessage(android.os.Message)boolean' target='com.masshabit.squibble.MainActivity: showDialog(java.lang.Integer)void'/>
+			<edge id='9' source='com.masshabit.squibble.MainActivity: onCreate(android.os.Bundle)void' target='com.masshabit.squibble.MainActivity: setVolumeControlStream(java.lang.Integer)void'/>
+			<edge id='10' source='com.masshabit.squibble.MainActivity: onCreate(android.os.Bundle)void' target='com.masshabit.common.License: check()void'/>
+			<edge id='11' source='com.masshabit.squibble.MainActivity: createWarpDialog()android.app.Dialog' target='java.util.ArrayList: add(java.lang.Object)boolean'/>
+			<edge id='12' source='com.masshabit.squibble.MainActivity: onCreate(android.os.Bundle)void' target='android.app.Activity: onCreate(android.os.Bundle)void'/>
+			<edge id='13' source='com.masshabit.squibble.MainActivity: onStop()void' target='android.util.Log: d(java.lang.String,java.lang.String)java.lang.Integer'/>
+			<edge id='14' source='com.masshabit.squibble.MainActivity: createWarpDialog()android.app.Dialog' target='java.lang.String: endsWith(java.lang.String)boolean'/>
+			<edge id='15' source='com.masshabit.squibble.MainActivity: createWarpDialog()android.app.Dialog' target='java.io.IOException: getMessage()java.lang.String'/>
+			<edge id='16' source='com.masshabit.squibble.MainActivity: onStop()void' target='android.app.Activity: onStop()void'/>
+			<edge id='17' source='com.masshabit.squibble.MainActivity: onStart()void' target='android.app.Activity: onStart()void'/>
+			<edge id='18' source='com.masshabit.squibble.MainActivity: onCreateDialog(java.lang.Integer)android.app.Dialog' target='java.lang.StringBuilder: init()void'/>
+			<edge id='19' source='com.masshabit.squibble.MainActivity: createWarpDialog()android.app.Dialog' target='java.lang.String: length()java.lang.Integer'/>
+			<edge id='20' source='com.masshabit.squibble.MainActivity: onCreateDialog(java.lang.Integer)android.app.Dialog' target='android.app.Activity: onCreateDialog(java.lang.Integer)android.app.Dialog'/>
+			<edge id='21' source='com.masshabit.squibble.MainActivity: onCreateOptionsMenu(android.view.Menu)boolean' target='com.masshabit.squibble.Game: onCreateOptionsMenu(android.view.Menu)boolean'/>
+			<edge id='22' source='com.masshabit.squibble.MainActivity: onCreate(android.os.Bundle)void' target='android.util.Log: d(java.lang.String,java.lang.String)java.lang.Integer'/>
+			<edge id='23' source='com.masshabit.squibble.MainActivity: createWarpDialog()android.app.Dialog' target='java.util.ArrayList: size()java.lang.Integer'/>
+			<edge id='24' source='com.masshabit.squibble.MainActivity: onPrepareOptionsMenu(android.view.Menu)boolean' target='com.masshabit.squibble.Game: onPrepareOptionsMenu(android.view.Menu)boolean'/>
+			<edge id='25' source='com.masshabit.squibble.MainActivity: onCreateOptionsMenu(android.view.Menu)boolean' target='android.app.Activity: onCreateOptionsMenu(android.view.Menu)boolean'/>
+			<edge id='26' source='com.masshabit.squibble.MainActivity: onCreate(android.os.Bundle)void' target='android.os.Handler: init(android.os.Handler$Callback)void'/>
+			<edge id='27' source='com.masshabit.squibble.MainActivity: onPrepareOptionsMenu(android.view.Menu)boolean' target='android.app.Activity: onPrepareOptionsMenu(android.view.Menu)boolean'/>
+			<edge id='28' source='com.masshabit.squibble.MainActivity: createWarpDialog()android.app.Dialog' target='android.app.AlertDialog$Builder: setTitle(java.lang.CharSequence)android.app.AlertDialog$Builder'/>
+			<edge id='29' source='com.masshabit.squibble.MainActivity: onDestroy()void' target='com.masshabit.common.License: destroy()void'/>
+			<edge id='30' source='com.masshabit.squibble.MainActivity: onConfigurationChanged(android.content.res.Configuration)void' target='android.util.Log: d(java.lang.String,java.lang.String)java.lang.Integer'/>
+			<edge id='31' source='com.masshabit.squibble.MainActivity: handleMessage(android.os.Message)boolean' target='android.util.Log: d(java.lang.String,java.lang.String)java.lang.Integer'/>
+			<edge id='32' source='com.masshabit.squibble.MainActivity: onStop()void' target='com.flurry.android.FlurryAgent: onEndSession(android.content.Context)void'/>
+			<edge id='33' source='com.masshabit.squibble.MainActivity: onCreateDialog(java.lang.Integer)android.app.Dialog' target='com.masshabit.common.Environment: onCreateDialog(java.lang.Integer)android.app.Dialog'/>
+			<edge id='34' source='com.masshabit.squibble.MainActivity: onCreate(android.os.Bundle)void' target='com.masshabit.squibble.MainActivity: requestWindowFeature(java.lang.Integer)boolean'/>
+			<edge id='35' source='com.masshabit.squibble.MainActivity: createWarpDialog()android.app.Dialog' target='android.content.res.AssetManager: list(java.lang.String)[Ljava.lang.String'/>
+			<edge id='36' source='com.masshabit.squibble.MainActivity: onCreate(android.os.Bundle)void' target='com.masshabit.squibble.MainActivity: findViewById(java.lang.Integer)android.view.View'/>
+			<edge id='37' source='com.masshabit.squibble.MainActivity: onSaveInstanceState(android.os.Bundle)void' target='android.app.Activity: onSaveInstanceState(android.os.Bundle)void'/>
+			<edge id='38' source='com.masshabit.squibble.MainActivity: createWarpDialog()android.app.Dialog' target='com.masshabit.squibble.MainActivity: getAssets()android.content.res.AssetManager'/>
+			<edge id='39' source='com.masshabit.squibble.MainActivity: onCreateDialog(java.lang.Integer)android.app.Dialog' target='android.util.Log: d(java.lang.String,java.lang.String)java.lang.Integer'/>
+			<edge id='40' source='com.masshabit.squibble.MainActivity: createWarpDialog()android.app.Dialog' target='com.masshabit.squibble.MainActivity$1: init(com.masshabit.squibble.MainActivity,[Ljava.lang.String)void'/>
+			<edge id='41' source='com.masshabit.squibble.MainActivity: onRestoreInstanceState(android.os.Bundle)void' target='android.app.Activity: onRestoreInstanceState(android.os.Bundle)void'/>
+			<edge id='42' source='com.masshabit.squibble.MainActivity: onSaveInstanceState(android.os.Bundle)void' target='com.masshabit.common.Environment: saveState(android.os.Bundle)void'/>
+			<edge id='43' source='com.masshabit.squibble.MainActivity: createWarpDialog()android.app.Dialog' target='android.app.AlertDialog$Builder: init(android.content.Context)void'/>
+			<edge id='44' source='com.masshabit.squibble.MainActivity: onCreateDialog(java.lang.Integer)android.app.Dialog' target='java.lang.StringBuilder: append(java.lang.String)java.lang.StringBuilder'/>
+			<edge id='45' source='com.masshabit.squibble.MainActivity: onStart()void' target='com.flurry.android.FlurryAgent: onStartSession(android.content.Context,java.lang.String)void'/>
+			<edge id='46' source='com.masshabit.squibble.MainActivity: createWarpDialog()android.app.Dialog' target='android.util.Log: e(java.lang.String,java.lang.String)java.lang.Integer'/>
+			<edge id='47' source='com.masshabit.squibble.MainActivity: onConfigurationChanged(android.content.res.Configuration)void' target='android.app.Activity: onConfigurationChanged(android.content.res.Configuration)void'/>
+			<edge id='48' source='com.masshabit.squibble.MainActivity: onResume()void' target='android.app.Activity: onResume()void'/>
+			<edge id='49' source='com.masshabit.squibble.MainActivity: onPause()void' target='android.util.Log: d(java.lang.String,java.lang.String)java.lang.Integer'/>
+			<edge id='50' source='com.masshabit.squibble.MainActivity: createWarpDialog()android.app.Dialog' target='android.app.AlertDialog$Builder: setItems([Ljava.lang.CharSequence,android.content.DialogInterface$OnClickListener)android.app.AlertDialog$Builder'/>
+			<edge id='51' source='com.masshabit.squibble.MainActivity: createWarpDialog()android.app.Dialog' target='java.util.ArrayList: toArray([Ljava.lang.Object)[Ljava.lang.Object'/>
+			<edge id='52' source='com.masshabit.squibble.MainActivity: onPause()void' target='android.app.Activity: onPause()void'/>
+			<edge id='53' source='com.masshabit.squibble.MainActivity: onStart()void' target='android.util.Log: d(java.lang.String,java.lang.String)java.lang.Integer'/>
+			<edge id='54' source='com.masshabit.squibble.MainActivity: onCreate(android.os.Bundle)void' target='com.masshabit.squibble.MainActivity: getResources()android.content.res.Resources'/>
+			<edge id='55' source='com.masshabit.squibble.MainActivity: onDestroy()void' target='android.util.Log: d(java.lang.String,java.lang.String)java.lang.Integer'/>
+			<edge id='56' source='com.masshabit.squibble.MainActivity: onCreate(android.os.Bundle)void' target='com.masshabit.squibble.MainActivity: getWindow()android.view.Window'/>
+			<edge id='57' source='com.masshabit.squibble.MainActivity: onCreate(android.os.Bundle)void' target='com.masshabit.common.EnvironmentArgs: init()void'/>
+			<edge id='58' source='com.masshabit.squibble.MainActivity: onDestroy()void' target='com.masshabit.common.Environment: destroy()void'/>
+			<edge id='59' source='com.masshabit.squibble.MainActivity: onRestoreInstanceState(android.os.Bundle)void' target='android.util.Log: d(java.lang.String,java.lang.String)java.lang.Integer'/>
+			<edge id='60' source='com.masshabit.squibble.MainActivity: onRestart()void' target='android.util.Log: d(java.lang.String,java.lang.String)java.lang.Integer'/>
+			<edge id='61' source='com.masshabit.squibble.MainActivity: onCreate(android.os.Bundle)void' target='com.masshabit.squibble.Game: init()void'/>
+			<edge id='62' source='com.masshabit.squibble.MainActivity: createWarpDialog()android.app.Dialog' target='android.app.AlertDialog$Builder: create()android.app.AlertDialog'/>
+			<edge id='63' source='com.masshabit.squibble.MainActivity: onPrepareDialog(ILandroid.app.Dialog)void' target='android.util.Log: d(java.lang.String,java.lang.String)java.lang.Integer'/>
+			<edge id='64' source='com.masshabit.squibble.MainActivity: createWarpDialog()android.app.Dialog' target='java.util.ArrayList: init(java.lang.Integer)void'/>
+			<edge id='65' source='com.masshabit.squibble.MainActivity: onPrepareDialog(ILandroid.app.Dialog)void' target='com.masshabit.common.Environment: onPrepareDialog(ILandroid.app.Dialog)void'/>
+			<edge id='66' source='com.masshabit.squibble.MainActivity: createWarpDialog()android.app.Dialog' target='java.lang.String: substring(II)java.lang.String'/>
+			<edge id='67' source='com.masshabit.squibble.MainActivity: onResume()void' target='android.util.Log: d(java.lang.String,java.lang.String)java.lang.Integer'/>
+			<edge id='68' source='com.masshabit.squibble.MainActivity: onCreate(android.os.Bundle)void' target='com.masshabit.common.Environment: create(com.masshabit.common.EnvironmentArgs)void'/>
+			<edge id='69' source='com.masshabit.squibble.MainActivity: onCreateDialog(java.lang.Integer)android.app.Dialog' target='java.lang.StringBuilder: toString()java.lang.String'/>
+			<edge id='70' source='com.masshabit.squibble.MainActivity: onCreate(android.os.Bundle)void' target='com.masshabit.common.License: create(android.content.Context)com.masshabit.common.License'/>
+		</edges>
+	</graph>
+</gexf>

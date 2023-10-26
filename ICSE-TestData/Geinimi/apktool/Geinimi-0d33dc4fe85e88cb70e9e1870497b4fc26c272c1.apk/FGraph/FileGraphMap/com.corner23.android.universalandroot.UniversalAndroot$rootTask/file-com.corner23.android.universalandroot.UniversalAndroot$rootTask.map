@@ -1,0 +1,2 @@
+5 ---> android.net.wifi.WifiManager: getWifiState()java.lang.Integer
+18 ---> android.net.wifi.WifiManager: setWifiEnabled(boolean)boolean

@@ -1,0 +1,2 @@
+7 ---> android.util.Log: d(java.lang.String,java.lang.String)java.lang.Integer
+17 ---> android.net.wifi.WifiManager: setWifiEnabled(boolean)boolean

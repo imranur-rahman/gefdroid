@@ -1,0 +1,591 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<gexf xmlns='qianniao918@qq.com' version='1.2' xmlns:viz='http://www.gexf.net/1.2draft/viz'> xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd'>
+	<meta lastmodifieddate='2014-9-21'>
+		<creator>FanMing</creator>
+		<description>An Android APK Method SCN!</description>
+	</meta>
+	<graph mode='static' defaultedgettype='directed'>
+		<nodes>
+		<node id='android.net.NetworkInfo: getType()java.lang.Integer' label='android.net.NetworkInfo: getType()java.lang.Integer'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='android.telephony.TelephonyManager: getSimSerialNumber()java.lang.String' label='android.telephony.TelephonyManager: getSimSerialNumber()java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='android.location.Location: getLatitude()D' label='android.location.Location: getLatitude()D'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='com.ju6.AdManager: isAdFinish()boolean' label='com.ju6.AdManager: isAdFinish()boolean'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.ju6.AdManager: getGenderAsString()java.lang.String' label='com.ju6.AdManager: getGenderAsString()java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.ju6.a: a(java.lang.Integer)void' label='com.ju6.a: a(java.lang.Integer)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.net.HttpURLConnection: connect()void' label='java.net.HttpURLConnection: connect()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.content.ContentValues: init()void' label='android.content.ContentValues: init()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.String: valueOf(java.lang.Integer)java.lang.String' label='java.lang.String: valueOf(java.lang.Integer)java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.System: currentTimeMillis()J' label='java.lang.System: currentTimeMillis()J'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.ju6.a: start()void' label='com.ju6.a: start()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.StringBuilder: append(C)java.lang.StringBuilder' label='java.lang.StringBuilder: append(C)java.lang.StringBuilder'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.ju6.a: a(java.lang.StringBuilder,java.lang.String,java.lang.String)void' label='com.ju6.a: a(java.lang.StringBuilder,java.lang.String,java.lang.String)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.util.List: get(java.lang.Integer)java.lang.Object' label='java.util.List: get(java.lang.Integer)java.lang.Object'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='org.json.JSONArray: length()java.lang.Integer' label='org.json.JSONArray: length()java.lang.Integer'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.net.InetSocketAddress: init(java.lang.String,java.lang.Integer)void' label='java.net.InetSocketAddress: init(java.lang.String,java.lang.Integer)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.net.HttpURLConnection: getInputStream()java.io.InputStream' label='java.net.HttpURLConnection: getInputStream()java.io.InputStream'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.String: toLowerCase()java.lang.String' label='java.lang.String: toLowerCase()java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.String: format(java.lang.String,[Ljava.lang.Object)java.lang.String' label='java.lang.String: format(java.lang.String,[Ljava.lang.Object)java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.StringBuilder: append(J)java.lang.StringBuilder' label='java.lang.StringBuilder: append(J)java.lang.StringBuilder'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.ju6.a: a(java.net.URL,java.lang.Integer)java.net.HttpURLConnection' label='com.ju6.a: a(java.net.URL,java.lang.Integer)java.net.HttpURLConnection'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.util.Locale: getCountry()java.lang.String' label='java.util.Locale: getCountry()java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.net.ConnectivityManager: getActiveNetworkInfo()android.net.NetworkInfo' label='android.net.ConnectivityManager: getActiveNetworkInfo()android.net.NetworkInfo'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='java.net.HttpURLConnection: setDoOutput(boolean)void' label='java.net.HttpURLConnection: setDoOutput(boolean)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.util.Log: d(java.lang.String,java.lang.String)java.lang.Integer' label='android.util.Log: d(java.lang.String,java.lang.String)java.lang.Integer'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='android.net.NetworkInfo: getExtraInfo()java.lang.String' label='android.net.NetworkInfo: getExtraInfo()java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='java.net.Proxy: init(java.net.Proxy$Type,java.net.SocketAddress)void' label='java.net.Proxy: init(java.net.Proxy$Type,java.net.SocketAddress)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.util.List: add(java.lang.Object)boolean' label='java.util.List: add(java.lang.Object)boolean'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.io.BufferedWriter: close()void' label='java.io.BufferedWriter: close()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.ju6.AdListener: onConnectFailed()void' label='com.ju6.AdListener: onConnectFailed()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.telephony.gsm.GsmCellLocation: getLac()java.lang.Integer' label='android.telephony.gsm.GsmCellLocation: getLac()java.lang.Integer'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='java.lang.String: valueOf(java.lang.Object)java.lang.String' label='java.lang.String: valueOf(java.lang.Object)java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.Thread: init()void' label='java.lang.Thread: init()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.util.Locale: getLanguage()java.lang.String' label='java.util.Locale: getLanguage()java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.util.List: size()java.lang.Integer' label='java.util.List: size()java.lang.Integer'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.ju6.AdManager: getAdTimestamp()J' label='com.ju6.AdManager: getAdTimestamp()J'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.String: substring(II)java.lang.String' label='java.lang.String: substring(II)java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.io.BufferedWriter: init(java.io.Writer)void' label='java.io.BufferedWriter: init(java.io.Writer)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.net.HttpURLConnection: setRequestMethod(java.lang.String)void' label='java.net.HttpURLConnection: setRequestMethod(java.lang.String)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.String: getBytes()[B' label='java.lang.String: getBytes()[B'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.StringBuilder: init()void' label='java.lang.StringBuilder: init()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.content.Context: getSystemService(java.lang.String)java.lang.Object' label='android.content.Context: getSystemService(java.lang.String)java.lang.Object'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.location.Location: getLongitude()D' label='android.location.Location: getLongitude()D'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='java.net.HttpURLConnection: setReadTimeout(java.lang.Integer)void' label='java.net.HttpURLConnection: setReadTimeout(java.lang.Integer)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.provider.Settings$System: getString(android.content.ContentResolver,java.lang.String)java.lang.String' label='android.provider.Settings$System: getString(android.content.ContentResolver,java.lang.String)java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.net.HttpURLConnection: setConnectTimeout(java.lang.Integer)void' label='java.net.HttpURLConnection: setConnectTimeout(java.lang.Integer)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.io.InputStreamReader: init(java.io.InputStream)void' label='java.io.InputStreamReader: init(java.io.InputStream)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.util.ArrayList: init()void' label='java.util.ArrayList: init()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='org.json.JSONObject: getString(java.lang.String)java.lang.String' label='org.json.JSONObject: getString(java.lang.String)java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.content.ContentResolver: insert(android.net.Uri,android.content.ContentValues)android.net.Uri' label='android.content.ContentResolver: insert(android.net.Uri,android.content.ContentValues)android.net.Uri'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.location.Location: getAccuracy()F' label='android.location.Location: getAccuracy()F'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='android.location.LocationManager: getLastKnownLocation(java.lang.String)android.location.Location' label='android.location.LocationManager: getLastKnownLocation(java.lang.String)android.location.Location'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='com.ju6.a: b(java.lang.String)java.util.List' label='com.ju6.a: b(java.lang.String)java.util.List'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.String: indexOf(java.lang.String)java.lang.Integer' label='java.lang.String: indexOf(java.lang.String)java.lang.Integer'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='org.json.JSONObject: getJSONArray(java.lang.String)org.json.JSONArray' label='org.json.JSONObject: getJSONArray(java.lang.String)org.json.JSONArray'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.security.MessageDigest: update([BII)void' label='java.security.MessageDigest: update([BII)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.String: equals(java.lang.Object)boolean' label='java.lang.String: equals(java.lang.Object)boolean'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.telephony.TelephonyManager: getCellLocation()android.telephony.CellLocation' label='android.telephony.TelephonyManager: getCellLocation()android.telephony.CellLocation'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='java.lang.Exception: printStackTrace()void' label='java.lang.Exception: printStackTrace()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.net.URL: openConnection(java.net.Proxy)java.net.URLConnection' label='java.net.URL: openConnection(java.net.Proxy)java.net.URLConnection'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='com.ju6.AdManager: isTestmode()boolean' label='com.ju6.AdManager: isTestmode()boolean'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.net.URL: openConnection()java.net.URLConnection' label='java.net.URL: openConnection()java.net.URLConnection'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='java.net.URL: init(java.lang.String)void' label='java.net.URL: init(java.lang.String)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.ju6.AdManager: getAppid()java.lang.String' label='com.ju6.AdManager: getAppid()java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.ju6.AdManager: getBirthdayAsString()java.lang.String' label='com.ju6.AdManager: getBirthdayAsString()java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.io.OutputStreamWriter: init(java.io.OutputStream)void' label='java.io.OutputStreamWriter: init(java.io.OutputStream)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.telephony.TelephonyManager: getNetworkOperator()java.lang.String' label='android.telephony.TelephonyManager: getNetworkOperator()java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='java.lang.StringBuffer: append(java.lang.String)java.lang.StringBuffer' label='java.lang.StringBuffer: append(java.lang.String)java.lang.StringBuffer'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.StringBuffer: init()void' label='java.lang.StringBuffer: init()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.ju6.a: b()boolean' label='com.ju6.a: b()boolean'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.net.HttpURLConnection: addRequestProperty(java.lang.String,java.lang.String)void' label='java.net.HttpURLConnection: addRequestProperty(java.lang.String,java.lang.String)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.ju6.b: init()void' label='com.ju6.b: init()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.net.HttpURLConnection: getOutputStream()java.io.OutputStream' label='java.net.HttpURLConnection: getOutputStream()java.io.OutputStream'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.content.Context: checkCallingOrSelfPermission(java.lang.String)java.lang.Integer' label='android.content.Context: checkCallingOrSelfPermission(java.lang.String)java.lang.Integer'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.String: valueOf(boolean)java.lang.String' label='java.lang.String: valueOf(boolean)java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.content.ContentValues: put(java.lang.String,java.lang.String)void' label='android.content.ContentValues: put(java.lang.String,java.lang.String)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.net.URLEncoder: encode(java.lang.String,java.lang.String)java.lang.String' label='java.net.URLEncoder: encode(java.lang.String,java.lang.String)java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.security.MessageDigest: digest()[B' label='java.security.MessageDigest: digest()[B'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.util.Log: e(java.lang.String,java.lang.String,java.lang.Throwable)java.lang.Integer' label='android.util.Log: e(java.lang.String,java.lang.String,java.lang.Throwable)java.lang.Integer'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='com.ju6.AdListener: onReceiveAd(java.lang.Integer)void' label='com.ju6.AdListener: onReceiveAd(java.lang.Integer)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.ju6.a: a(java.lang.String)java.lang.String' label='com.ju6.a: a(java.lang.String)java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.ju6.AdManager: setAdFinish()void' label='com.ju6.AdManager: setAdFinish()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='org.json.JSONObject: init(java.lang.String)void' label='org.json.JSONObject: init(java.lang.String)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.String: valueOf(D)java.lang.String' label='java.lang.String: valueOf(D)java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.ju6.a: a()java.lang.String' label='com.ju6.a: a()java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.StringBuilder: toString()java.lang.String' label='java.lang.StringBuilder: toString()java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.Integer: valueOf(java.lang.String)java.lang.Integer' label='java.lang.Integer: valueOf(java.lang.String)java.lang.Integer'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.util.Locale: getDefault()java.util.Locale' label='java.util.Locale: getDefault()java.util.Locale'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.StringBuilder: init(java.lang.String)void' label='java.lang.StringBuilder: init(java.lang.String)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.io.BufferedReader: init(java.io.Reader)void' label='java.io.BufferedReader: init(java.io.Reader)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.net.NetworkInfo: isAvailable()boolean' label='android.net.NetworkInfo: isAvailable()boolean'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.StringBuilder: append(java.lang.String)java.lang.StringBuilder' label='java.lang.StringBuilder: append(java.lang.String)java.lang.StringBuilder'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.String: length()java.lang.Integer' label='java.lang.String: length()java.lang.Integer'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.math.BigInteger: init(I[B)void' label='java.math.BigInteger: init(I[B)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.telephony.gsm.GsmCellLocation: getCid()java.lang.Integer' label='android.telephony.gsm.GsmCellLocation: getCid()java.lang.Integer'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='android.location.Location: getTime()J' label='android.location.Location: getTime()J'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='java.lang.String: trim()java.lang.String' label='java.lang.String: trim()java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.io.BufferedReader: close()void' label='java.io.BufferedReader: close()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.io.BufferedReader: readLine()java.lang.String' label='java.io.BufferedReader: readLine()java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.telephony.TelephonyManager: getSubscriberId()java.lang.String' label='android.telephony.TelephonyManager: getSubscriberId()java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='android.util.Log: e(java.lang.String,java.lang.String)java.lang.Integer' label='android.util.Log: e(java.lang.String,java.lang.String)java.lang.Integer'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='android.net.Uri: parse(java.lang.String)android.net.Uri' label='android.net.Uri: parse(java.lang.String)android.net.Uri'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.ju6.AdManager: getPwd()java.lang.String' label='com.ju6.AdManager: getPwd()java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.telephony.TelephonyManager: getDeviceId()java.lang.String' label='android.telephony.TelephonyManager: getDeviceId()java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='java.security.MessageDigest: getInstance(java.lang.String)java.security.MessageDigest' label='java.security.MessageDigest: getInstance(java.lang.String)java.security.MessageDigest'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='org.json.JSONArray: getJSONObject(java.lang.Integer)org.json.JSONObject' label='org.json.JSONArray: getJSONObject(java.lang.Integer)org.json.JSONObject'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.content.Context: getContentResolver()android.content.ContentResolver' label='android.content.Context: getContentResolver()android.content.ContentResolver'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.ju6.a: run()void' label='com.ju6.a: run()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.ju6.AdManager: setAdTimestamp()void' label='com.ju6.AdManager: setAdTimestamp()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.ju6.a: init(android.content.Context,com.ju6.AdListener)void' label='com.ju6.a: init(android.content.Context,com.ju6.AdListener)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.Integer: intValue()java.lang.Integer' label='java.lang.Integer: intValue()java.lang.Integer'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.String: valueOf(J)java.lang.String' label='java.lang.String: valueOf(J)java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		</nodes>
+		<edges>
+			<edge id='0' source='com.ju6.a: run()void' target='android.util.Log: d(java.lang.String,java.lang.String)java.lang.Integer'/>
+			<edge id='1' source='com.ju6.a: b()boolean' target='java.lang.StringBuilder: append(C)java.lang.StringBuilder'/>
+			<edge id='2' source='com.ju6.a: run()void' target='java.lang.String: equals(java.lang.Object)boolean'/>
+			<edge id='3' source='com.ju6.a: run()void' target='android.provider.Settings$System: getString(android.content.ContentResolver,java.lang.String)java.lang.String'/>
+			<edge id='4' source='com.ju6.a: b()boolean' target='java.io.BufferedWriter: close()void'/>
+			<edge id='5' source='com.ju6.a: a(java.lang.Integer)void' target='com.ju6.AdListener: onReceiveAd(java.lang.Integer)void'/>
+			<edge id='6' source='com.ju6.a: a(java.net.URL,java.lang.Integer)java.net.HttpURLConnection' target='java.net.InetSocketAddress: init(java.lang.String,java.lang.Integer)void'/>
+			<edge id='7' source='com.ju6.a: b()boolean' target='java.lang.StringBuilder: append(java.lang.String)java.lang.StringBuilder'/>
+			<edge id='8' source='com.ju6.a: b(java.lang.String)java.util.List' target='org.json.JSONArray: length()java.lang.Integer'/>
+			<edge id='9' source='com.ju6.a: b()boolean' target='java.lang.String: valueOf(java.lang.Integer)java.lang.String'/>
+			<edge id='10' source='com.ju6.a: run()void' target='android.location.Location: getLongitude()D'/>
+			<edge id='11' source='com.ju6.a: run()void' target='java.lang.StringBuilder: toString()java.lang.String'/>
+			<edge id='12' source='com.ju6.a: b()boolean' target='java.net.HttpURLConnection: getOutputStream()java.io.OutputStream'/>
+			<edge id='13' source='com.ju6.a: run()void' target='java.lang.StringBuilder: append(java.lang.String)java.lang.StringBuilder'/>
+			<edge id='14' source='com.ju6.a: b()boolean' target='java.io.BufferedReader: readLine()java.lang.String'/>
+			<edge id='15' source='com.ju6.a: b()boolean' target='com.ju6.AdManager: getAppid()java.lang.String'/>
+			<edge id='16' source='com.ju6.a: run()void' target='android.location.Location: getLatitude()D'/>
+			<edge id='17' source='com.ju6.a: b(java.lang.String)java.util.List' target='org.json.JSONArray: getJSONObject(java.lang.Integer)org.json.JSONObject'/>
+			<edge id='18' source='com.ju6.a: run()void' target='java.lang.Exception: printStackTrace()void'/>
+			<edge id='19' source='com.ju6.a: run()void' target='java.lang.String: toLowerCase()java.lang.String'/>
+			<edge id='20' source='com.ju6.a: a()java.lang.String' target='java.util.Locale: getDefault()java.util.Locale'/>
+			<edge id='21' source='com.ju6.a: a(java.lang.String)java.lang.String' target='java.lang.String: substring(II)java.lang.String'/>
+			<edge id='22' source='com.ju6.a: a()java.lang.String' target='java.lang.String: length()java.lang.Integer'/>
+			<edge id='23' source='com.ju6.a: b(java.lang.String)java.util.List' target='java.lang.String: trim()java.lang.String'/>
+			<edge id='24' source='com.ju6.a: b()boolean' target='java.lang.StringBuilder: init()void'/>
+			<edge id='25' source='com.ju6.a: b()boolean' target='java.net.HttpURLConnection: addRequestProperty(java.lang.String,java.lang.String)void'/>
+			<edge id='26' source='com.ju6.a: b()boolean' target='com.ju6.AdManager: getPwd()java.lang.String'/>
+			<edge id='27' source='com.ju6.a: a(java.lang.String)java.lang.String' target='java.math.BigInteger: init(I[B)void'/>
+			<edge id='28' source='com.ju6.a: b()boolean' target='java.util.List: size()java.lang.Integer'/>
+			<edge id='29' source='com.ju6.a: run()void' target='java.lang.StringBuilder: init(java.lang.String)void'/>
+			<edge id='30' source='com.ju6.a: b()boolean' target='java.io.BufferedWriter: init(java.io.Writer)void'/>
+			<edge id='31' source='com.ju6.a: run()void' target='android.telephony.gsm.GsmCellLocation: getCid()java.lang.Integer'/>
+			<edge id='32' source='com.ju6.a: b()boolean' target='android.content.ContentResolver: insert(android.net.Uri,android.content.ContentValues)android.net.Uri'/>
+			<edge id='33' source='com.ju6.a: b()boolean' target='com.ju6.AdManager: isTestmode()boolean'/>
+			<edge id='34' source='com.ju6.a: a(java.net.URL,java.lang.Integer)java.net.HttpURLConnection' target='java.net.Proxy: init(java.net.Proxy$Type,java.net.SocketAddress)void'/>
+			<edge id='35' source='com.ju6.a: run()void' target='com.ju6.AdManager: isTestmode()boolean'/>
+			<edge id='36' source='com.ju6.a: run()void' target='com.ju6.AdManager: setAdFinish()void'/>
+			<edge id='37' source='com.ju6.a: b(java.lang.String)java.util.List' target='org.json.JSONObject: getJSONArray(java.lang.String)org.json.JSONArray'/>
+			<edge id='38' source='com.ju6.a: a(java.lang.String)java.lang.String' target='java.lang.String: length()java.lang.Integer'/>
+			<edge id='39' source='com.ju6.a: b()boolean' target='android.content.Context: getContentResolver()android.content.ContentResolver'/>
+			<edge id='40' source='com.ju6.a: b(java.lang.String)java.util.List' target='org.json.JSONObject: init(java.lang.String)void'/>
+			<edge id='41' source='com.ju6.a: a(java.lang.StringBuilder,java.lang.String,java.lang.String)void' target='java.net.URLEncoder: encode(java.lang.String,java.lang.String)java.lang.String'/>
+			<edge id='42' source='com.ju6.a: b(java.lang.String)java.util.List' target='com.ju6.b: init()void'/>
+			<edge id='43' source='com.ju6.a: run()void' target='android.telephony.TelephonyManager: getDeviceId()java.lang.String'/>
+			<edge id='44' source='com.ju6.a: run()void' target='android.net.NetworkInfo: getType()java.lang.Integer'/>
+			<edge id='45' source='com.ju6.a: a()java.lang.String' target='java.lang.String: toLowerCase()java.lang.String'/>
+			<edge id='46' source='com.ju6.a: b()boolean' target='com.ju6.a: a(java.lang.String)java.lang.String'/>
+			<edge id='47' source='com.ju6.a: b()boolean' target='android.util.Log: d(java.lang.String,java.lang.String)java.lang.Integer'/>
+			<edge id='48' source='com.ju6.a: a(java.lang.String)java.lang.String' target='java.lang.String: getBytes()[B'/>
+			<edge id='49' source='com.ju6.a: run()void' target='com.ju6.AdManager: isAdFinish()boolean'/>
+			<edge id='50' source='com.ju6.a: a()java.lang.String' target='java.lang.String: format(java.lang.String,[Ljava.lang.Object)java.lang.String'/>
+			<edge id='51' source='com.ju6.a: b()boolean' target='java.net.HttpURLConnection: setReadTimeout(java.lang.Integer)void'/>
+			<edge id='52' source='com.ju6.a: a(java.lang.StringBuilder,java.lang.String,java.lang.String)void' target='java.lang.String: length()java.lang.Integer'/>
+			<edge id='53' source='com.ju6.a: a()java.lang.String' target='java.util.Locale: getCountry()java.lang.String'/>
+			<edge id='54' source='com.ju6.a: b()boolean' target='java.net.HttpURLConnection: getInputStream()java.io.InputStream'/>
+			<edge id='55' source='com.ju6.a: run()void' target='java.lang.String: trim()java.lang.String'/>
+			<edge id='56' source='com.ju6.a: b()boolean' target='com.ju6.AdManager: getBirthdayAsString()java.lang.String'/>
+			<edge id='57' source='com.ju6.a: run()void' target='android.net.NetworkInfo: getExtraInfo()java.lang.String'/>
+			<edge id='58' source='com.ju6.a: b()boolean' target='java.net.HttpURLConnection: setRequestMethod(java.lang.String)void'/>
+			<edge id='59' source='com.ju6.a: b()boolean' target='java.io.OutputStreamWriter: init(java.io.OutputStream)void'/>
+			<edge id='60' source='com.ju6.a: a()java.lang.String' target='java.lang.StringBuffer: append(java.lang.String)java.lang.StringBuffer'/>
+			<edge id='61' source='com.ju6.a: run()void' target='java.lang.System: currentTimeMillis()J'/>
+			<edge id='62' source='com.ju6.a: a(java.lang.String)java.lang.String' target='java.security.MessageDigest: update([BII)void'/>
+			<edge id='63' source='com.ju6.a: b()boolean' target='java.net.HttpURLConnection: setConnectTimeout(java.lang.Integer)void'/>
+			<edge id='64' source='com.ju6.a: b()boolean' target='java.net.HttpURLConnection: connect()void'/>
+			<edge id='65' source='com.ju6.a: b()boolean' target='android.net.Uri: parse(java.lang.String)android.net.Uri'/>
+			<edge id='66' source='com.ju6.a: b()boolean' target='android.content.ContentValues: init()void'/>
+			<edge id='67' source='com.ju6.a: b()boolean' target='com.ju6.a: a(java.net.URL,java.lang.Integer)java.net.HttpURLConnection'/>
+			<edge id='68' source='com.ju6.a: b()boolean' target='java.net.URL: init(java.lang.String)void'/>
+			<edge id='69' source='com.ju6.a: b()boolean' target='com.ju6.a: a()java.lang.String'/>
+			<edge id='70' source='com.ju6.a: b()boolean' target='java.lang.System: currentTimeMillis()J'/>
+			<edge id='71' source='com.ju6.a: run()void' target='com.ju6.AdManager: setAdTimestamp()void'/>
+			<edge id='72' source='com.ju6.a: run()void' target='android.content.Context: checkCallingOrSelfPermission(java.lang.String)java.lang.Integer'/>
+			<edge id='73' source='com.ju6.a: run()void' target='android.net.NetworkInfo: isAvailable()boolean'/>
+			<edge id='74' source='com.ju6.a: run()void' target='java.lang.String: length()java.lang.Integer'/>
+			<edge id='75' source='com.ju6.a: run()void' target='android.telephony.TelephonyManager: getNetworkOperator()java.lang.String'/>
+			<edge id='76' source='com.ju6.a: a(java.lang.String)java.lang.String' target='java.security.MessageDigest: digest()[B'/>
+			<edge id='77' source='com.ju6.a: run()void' target='com.ju6.AdManager: getAdTimestamp()J'/>
+			<edge id='78' source='com.ju6.a: b()boolean' target='java.lang.String: indexOf(java.lang.String)java.lang.Integer'/>
+			<edge id='79' source='com.ju6.a: b()boolean' target='java.net.HttpURLConnection: setDoOutput(boolean)void'/>
+			<edge id='80' source='com.ju6.a: b(java.lang.String)java.util.List' target='java.util.List: add(java.lang.Object)boolean'/>
+			<edge id='81' source='com.ju6.a: a(java.lang.String)java.lang.String' target='java.lang.String: format(java.lang.String,[Ljava.lang.Object)java.lang.String'/>
+			<edge id='82' source='com.ju6.a: b()boolean' target='java.io.InputStreamReader: init(java.io.InputStream)void'/>
+			<edge id='83' source='com.ju6.a: a()java.lang.String' target='java.lang.StringBuffer: init()void'/>
+			<edge id='84' source='com.ju6.a: run()void' target='android.location.LocationManager: getLastKnownLocation(java.lang.String)android.location.Location'/>
+			<edge id='85' source='com.ju6.a: a()java.lang.String' target='java.lang.Exception: printStackTrace()void'/>
+			<edge id='86' source='com.ju6.a: b(java.lang.String)java.util.List' target='java.lang.Integer: valueOf(java.lang.String)java.lang.Integer'/>
+			<edge id='87' source='com.ju6.a: run()void' target='com.ju6.AdManager: getAppid()java.lang.String'/>
+			<edge id='88' source='com.ju6.a: run()void' target='android.telephony.TelephonyManager: getSubscriberId()java.lang.String'/>
+			<edge id='89' source='com.ju6.a: a()java.lang.String' target='java.util.Locale: getLanguage()java.lang.String'/>
+			<edge id='90' source='com.ju6.a: b()boolean' target='java.lang.StringBuilder: append(J)java.lang.StringBuilder'/>
+			<edge id='91' source='com.ju6.a: run()void' target='java.lang.Integer: intValue()java.lang.Integer'/>
+			<edge id='92' source='com.ju6.a: a(java.lang.String)java.lang.String' target='java.security.MessageDigest: getInstance(java.lang.String)java.security.MessageDigest'/>
+			<edge id='93' source='com.ju6.a: b()boolean' target='java.lang.String: valueOf(boolean)java.lang.String'/>
+			<edge id='94' source='com.ju6.a: b(java.lang.String)java.util.List' target='java.util.ArrayList: init()void'/>
+			<edge id='95' source='com.ju6.a: b()boolean' target='java.lang.StringBuilder: toString()java.lang.String'/>
+			<edge id='96' source='com.ju6.a: b()boolean' target='android.content.ContentValues: put(java.lang.String,java.lang.String)void'/>
+			<edge id='97' source='com.ju6.a: run()void' target='android.telephony.TelephonyManager: getCellLocation()android.telephony.CellLocation'/>
+			<edge id='98' source='com.ju6.a: b(java.lang.String)java.util.List' target='org.json.JSONObject: getString(java.lang.String)java.lang.String'/>
+			<edge id='99' source='com.ju6.a: run()void' target='java.lang.String: substring(II)java.lang.String'/>
+			<edge id='100' source='com.ju6.a: b()boolean' target='com.ju6.AdListener: onConnectFailed()void'/>
+			<edge id='101' source='com.ju6.a: run()void' target='android.telephony.TelephonyManager: getSimSerialNumber()java.lang.String'/>
+			<edge id='102' source='com.ju6.a: run()void' target='android.location.Location: getAccuracy()F'/>
+			<edge id='103' source='com.ju6.a: run()void' target='android.net.ConnectivityManager: getActiveNetworkInfo()android.net.NetworkInfo'/>
+			<edge id='104' source='com.ju6.a: run()void' target='android.telephony.gsm.GsmCellLocation: getLac()java.lang.Integer'/>
+			<edge id='105' source='com.ju6.a: b()boolean' target='com.ju6.a: a(java.lang.Integer)void'/>
+			<edge id='106' source='com.ju6.a: run()void' target='android.util.Log: e(java.lang.String,java.lang.String)java.lang.Integer'/>
+			<edge id='107' source='com.ju6.a: b()boolean' target='com.ju6.a: b(java.lang.String)java.util.List'/>
+			<edge id='108' source='com.ju6.a: b()boolean' target='java.lang.Exception: printStackTrace()void'/>
+			<edge id='109' source='com.ju6.a: b()boolean' target='java.util.List: get(java.lang.Integer)java.lang.Object'/>
+			<edge id='110' source='com.ju6.a: b()boolean' target='java.io.BufferedReader: init(java.io.Reader)void'/>
+			<edge id='111' source='com.ju6.a: b()boolean' target='java.io.BufferedReader: close()void'/>
+			<edge id='112' source='com.ju6.a: a(java.net.URL,java.lang.Integer)java.net.HttpURLConnection' target='java.net.URL: openConnection()java.net.URLConnection'/>
+			<edge id='113' source='com.ju6.a: a(java.lang.StringBuilder,java.lang.String,java.lang.String)void' target='java.lang.StringBuilder: append(java.lang.String)java.lang.StringBuilder'/>
+			<edge id='114' source='com.ju6.a: b()boolean' target='com.ju6.AdManager: getGenderAsString()java.lang.String'/>
+			<edge id='115' source='com.ju6.a: b()boolean' target='java.lang.String: valueOf(java.lang.Object)java.lang.String'/>
+			<edge id='116' source='com.ju6.a: b()boolean' target='java.lang.StringBuilder: init(java.lang.String)void'/>
+			<edge id='117' source='com.ju6.a: a(java.lang.StringBuilder,java.lang.String,java.lang.String)void' target='android.util.Log: e(java.lang.String,java.lang.String,java.lang.Throwable)java.lang.Integer'/>
+			<edge id='118' source='com.ju6.a: b()boolean' target='java.lang.String: valueOf(D)java.lang.String'/>
+			<edge id='119' source='com.ju6.a: run()void' target='com.ju6.AdManager: getPwd()java.lang.String'/>
+			<edge id='120' source='com.ju6.a: b(java.lang.String)java.util.List' target='java.lang.Integer: intValue()java.lang.Integer'/>
+			<edge id='121' source='com.ju6.a: run()void' target='android.content.Context: getContentResolver()android.content.ContentResolver'/>
+			<edge id='122' source='com.ju6.a: b()boolean' target='java.lang.String: valueOf(J)java.lang.String'/>
+			<edge id='123' source='com.ju6.a: run()void' target='com.ju6.a: b()boolean'/>
+			<edge id='124' source='com.ju6.a: b()boolean' target='com.ju6.a: a(java.lang.StringBuilder,java.lang.String,java.lang.String)void'/>
+			<edge id='125' source='com.ju6.a: run()void' target='android.location.Location: getTime()J'/>
+			<edge id='126' source='com.ju6.a: run()void' target='java.lang.Integer: valueOf(java.lang.String)java.lang.Integer'/>
+			<edge id='127' source='com.ju6.a: run()void' target='android.content.Context: getSystemService(java.lang.String)java.lang.Object'/>
+			<edge id='128' source='com.ju6.a: init(android.content.Context,com.ju6.AdListener)void' target='java.lang.Thread: init()void'/>
+			<edge id='129' source='com.ju6.a: a(java.net.URL,java.lang.Integer)java.net.HttpURLConnection' target='java.net.URL: openConnection(java.net.Proxy)java.net.URLConnection'/>
+		</edges>
+	</graph>
+</gexf>

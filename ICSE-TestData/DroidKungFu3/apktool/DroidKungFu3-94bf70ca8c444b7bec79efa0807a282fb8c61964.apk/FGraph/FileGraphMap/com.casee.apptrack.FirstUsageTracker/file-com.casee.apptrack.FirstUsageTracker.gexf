@@ -1,0 +1,182 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<gexf xmlns='qianniao918@qq.com' version='1.2' xmlns:viz='http://www.gexf.net/1.2draft/viz'> xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd'>
+	<meta lastmodifieddate='2014-9-21'>
+		<creator>FanMing</creator>
+		<description>An Android APK Method SCN!</description>
+	</meta>
+	<graph mode='static' defaultedgettype='directed'>
+		<nodes>
+		<node id='com.casee.apptrack.FirstUsageTracker: init(android.content.Context,com.casee.apptrack.FirstUsageTracker$TrackerListener)void' label='com.casee.apptrack.FirstUsageTracker: init(android.content.Context,com.casee.apptrack.FirstUsageTracker$TrackerListener)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.util.HashMap: init(java.lang.Integer)void' label='java.util.HashMap: init(java.lang.Integer)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.util.Log: e(java.lang.String,java.lang.String,java.lang.Throwable)java.lang.Integer' label='android.util.Log: e(java.lang.String,java.lang.String,java.lang.Throwable)java.lang.Integer'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='com.casee.apptrack.FirstUsageTracker: init(android.content.Context)void' label='com.casee.apptrack.FirstUsageTracker: init(android.content.Context)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.util.Map: put(java.lang.Object,java.lang.Object)java.lang.Object' label='java.util.Map: put(java.lang.Object,java.lang.Object)java.lang.Object'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.util.Properties: getProperty(java.lang.String)java.lang.String' label='java.util.Properties: getProperty(java.lang.String)java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.casee.apptrack.FirstUsageTracker: access$000(com.casee.apptrack.FirstUsageTracker)com.casee.apptrack.FirstUsageTracker$TrackerListener' label='com.casee.apptrack.FirstUsageTracker: access$000(com.casee.apptrack.FirstUsageTracker)com.casee.apptrack.FirstUsageTracker$TrackerListener'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.text.SimpleDateFormat: init(java.lang.String)void' label='java.text.SimpleDateFormat: init(java.lang.String)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.casee.apptrack.FirstUsageTracker$1: start()void' label='com.casee.apptrack.FirstUsageTracker$1: start()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.casee.apptrack.FirstUsageTracker$1: init(com.casee.apptrack.FirstUsageTracker)void' label='com.casee.apptrack.FirstUsageTracker$1: init(com.casee.apptrack.FirstUsageTracker)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.casee.apptrack.FirstUsageTracker$TrackerListener: onSuccess()void' label='com.casee.apptrack.FirstUsageTracker$TrackerListener: onSuccess()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.StringBuilder: toString()java.lang.String' label='java.lang.StringBuilder: toString()java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.casee.apptrack.NotifyUtil: sendNotify(java.lang.String,java.util.Map)boolean' label='com.casee.apptrack.NotifyUtil: sendNotify(java.lang.String,java.util.Map)boolean'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.casee.adsdk.AdFetcher: getDeviceId(android.content.Context)java.lang.String' label='com.casee.adsdk.AdFetcher: getDeviceId(android.content.Context)java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.String: equals(java.lang.Object)boolean' label='java.lang.String: equals(java.lang.Object)boolean'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.Object: init()void' label='java.lang.Object: init()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.casee.apptrack.NotifyUtil: saveCaseeProperties(java.lang.String,java.util.Properties)void' label='com.casee.apptrack.NotifyUtil: saveCaseeProperties(java.lang.String,java.util.Properties)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.util.Date: init()void' label='java.util.Date: init()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.StringBuilder: append(java.lang.String)java.lang.StringBuilder' label='java.lang.StringBuilder: append(java.lang.String)java.lang.StringBuilder'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.casee.apptrack.NotifyUtil: getPropertiesFromAsset(java.lang.String)java.util.Properties' label='com.casee.apptrack.NotifyUtil: getPropertiesFromAsset(java.lang.String)java.util.Properties'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.casee.apptrack.NotifyUtil: getCaseeProperties(java.lang.String)java.util.Properties' label='com.casee.apptrack.NotifyUtil: getCaseeProperties(java.lang.String)java.util.Properties'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.Throwable: getMessage()java.lang.String' label='java.lang.Throwable: getMessage()java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.casee.apptrack.FirstUsageTracker: doTrack(com.casee.apptrack.FirstUsageTracker$TrackerListener)void' label='com.casee.apptrack.FirstUsageTracker: doTrack(com.casee.apptrack.FirstUsageTracker$TrackerListener)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.String: trim()java.lang.String' label='java.lang.String: trim()java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.casee.apptrack.FirstUsageTracker: isEmpty(java.lang.String)boolean' label='com.casee.apptrack.FirstUsageTracker: isEmpty(java.lang.String)boolean'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.util.Properties: setProperty(java.lang.String,java.lang.String)java.lang.Object' label='java.util.Properties: setProperty(java.lang.String,java.lang.String)java.lang.Object'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.casee.apptrack.FirstUsageTracker: prepareData(java.util.Properties)java.util.Map' label='com.casee.apptrack.FirstUsageTracker: prepareData(java.util.Properties)java.util.Map'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.casee.apptrack.NotifyUtil: init(android.content.Context)void' label='com.casee.apptrack.NotifyUtil: init(android.content.Context)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.util.Log: e(java.lang.String,java.lang.String)java.lang.Integer' label='android.util.Log: e(java.lang.String,java.lang.String)java.lang.Integer'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='com.casee.apptrack.FirstUsageTracker$TrackerListener: onFailed()void' label='com.casee.apptrack.FirstUsageTracker$TrackerListener: onFailed()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.util.Properties: init()void' label='java.util.Properties: init()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.StringBuilder: init()void' label='java.lang.StringBuilder: init()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.text.SimpleDateFormat: format(java.util.Date)java.lang.String' label='java.text.SimpleDateFormat: format(java.util.Date)java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.casee.apptrack.FirstUsageTracker: doTrackASync()void' label='com.casee.apptrack.FirstUsageTracker: doTrackASync()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		</nodes>
+		<edges>
+			<edge id='0' source='com.casee.apptrack.FirstUsageTracker: doTrack(com.casee.apptrack.FirstUsageTracker$TrackerListener)void' target='java.lang.Throwable: getMessage()java.lang.String'/>
+			<edge id='1' source='com.casee.apptrack.FirstUsageTracker: doTrackASync()void' target='com.casee.apptrack.FirstUsageTracker$1: start()void'/>
+			<edge id='2' source='com.casee.apptrack.FirstUsageTracker: doTrack(com.casee.apptrack.FirstUsageTracker$TrackerListener)void' target='com.casee.apptrack.NotifyUtil: saveCaseeProperties(java.lang.String,java.util.Properties)void'/>
+			<edge id='3' source='com.casee.apptrack.FirstUsageTracker: isEmpty(java.lang.String)boolean' target='java.lang.String: trim()java.lang.String'/>
+			<edge id='4' source='com.casee.apptrack.FirstUsageTracker: init(android.content.Context)void' target='com.casee.apptrack.NotifyUtil: init(android.content.Context)void'/>
+			<edge id='5' source='com.casee.apptrack.FirstUsageTracker: prepareData(java.util.Properties)java.util.Map' target='com.casee.apptrack.FirstUsageTracker: isEmpty(java.lang.String)boolean'/>
+			<edge id='6' source='com.casee.apptrack.FirstUsageTracker: doTrack(com.casee.apptrack.FirstUsageTracker$TrackerListener)void' target='java.util.Properties: setProperty(java.lang.String,java.lang.String)java.lang.Object'/>
+			<edge id='7' source='com.casee.apptrack.FirstUsageTracker: prepareData(java.util.Properties)java.util.Map' target='java.util.Map: put(java.lang.Object,java.lang.Object)java.lang.Object'/>
+			<edge id='8' source='com.casee.apptrack.FirstUsageTracker: doTrack(com.casee.apptrack.FirstUsageTracker$TrackerListener)void' target='java.util.Properties: getProperty(java.lang.String)java.lang.String'/>
+			<edge id='9' source='com.casee.apptrack.FirstUsageTracker: prepareData(java.util.Properties)java.util.Map' target='java.lang.StringBuilder: toString()java.lang.String'/>
+			<edge id='10' source='com.casee.apptrack.FirstUsageTracker: prepareData(java.util.Properties)java.util.Map' target='java.util.Date: init()void'/>
+			<edge id='11' source='com.casee.apptrack.FirstUsageTracker: doTrack(com.casee.apptrack.FirstUsageTracker$TrackerListener)void' target='java.util.Properties: init()void'/>
+			<edge id='12' source='com.casee.apptrack.FirstUsageTracker: doTrack(com.casee.apptrack.FirstUsageTracker$TrackerListener)void' target='com.casee.apptrack.NotifyUtil: sendNotify(java.lang.String,java.util.Map)boolean'/>
+			<edge id='13' source='com.casee.apptrack.FirstUsageTracker: doTrack(com.casee.apptrack.FirstUsageTracker$TrackerListener)void' target='com.casee.apptrack.FirstUsageTracker$TrackerListener: onSuccess()void'/>
+			<edge id='14' source='com.casee.apptrack.FirstUsageTracker: prepareData(java.util.Properties)java.util.Map' target='java.text.SimpleDateFormat: init(java.lang.String)void'/>
+			<edge id='15' source='com.casee.apptrack.FirstUsageTracker: init(android.content.Context,com.casee.apptrack.FirstUsageTracker$TrackerListener)void' target='com.casee.apptrack.NotifyUtil: init(android.content.Context)void'/>
+			<edge id='16' source='com.casee.apptrack.FirstUsageTracker: init(android.content.Context,com.casee.apptrack.FirstUsageTracker$TrackerListener)void' target='java.lang.Object: init()void'/>
+			<edge id='17' source='com.casee.apptrack.FirstUsageTracker: doTrack(com.casee.apptrack.FirstUsageTracker$TrackerListener)void' target='java.lang.String: equals(java.lang.Object)boolean'/>
+			<edge id='18' source='com.casee.apptrack.FirstUsageTracker: doTrack(com.casee.apptrack.FirstUsageTracker$TrackerListener)void' target='com.casee.apptrack.FirstUsageTracker: prepareData(java.util.Properties)java.util.Map'/>
+			<edge id='19' source='com.casee.apptrack.FirstUsageTracker: doTrack(com.casee.apptrack.FirstUsageTracker$TrackerListener)void' target='android.util.Log: e(java.lang.String,java.lang.String)java.lang.Integer'/>
+			<edge id='20' source='com.casee.apptrack.FirstUsageTracker: isEmpty(java.lang.String)boolean' target='java.lang.String: equals(java.lang.Object)boolean'/>
+			<edge id='21' source='com.casee.apptrack.FirstUsageTracker: doTrack(com.casee.apptrack.FirstUsageTracker$TrackerListener)void' target='com.casee.apptrack.FirstUsageTracker$TrackerListener: onFailed()void'/>
+			<edge id='22' source='com.casee.apptrack.FirstUsageTracker: doTrack(com.casee.apptrack.FirstUsageTracker$TrackerListener)void' target='com.casee.apptrack.NotifyUtil: getCaseeProperties(java.lang.String)java.util.Properties'/>
+			<edge id='23' source='com.casee.apptrack.FirstUsageTracker: doTrack(com.casee.apptrack.FirstUsageTracker$TrackerListener)void' target='android.util.Log: e(java.lang.String,java.lang.String,java.lang.Throwable)java.lang.Integer'/>
+			<edge id='24' source='com.casee.apptrack.FirstUsageTracker: prepareData(java.util.Properties)java.util.Map' target='java.lang.StringBuilder: append(java.lang.String)java.lang.StringBuilder'/>
+			<edge id='25' source='com.casee.apptrack.FirstUsageTracker: prepareData(java.util.Properties)java.util.Map' target='com.casee.adsdk.AdFetcher: getDeviceId(android.content.Context)java.lang.String'/>
+			<edge id='26' source='com.casee.apptrack.FirstUsageTracker: doTrackASync()void' target='com.casee.apptrack.FirstUsageTracker$1: init(com.casee.apptrack.FirstUsageTracker)void'/>
+			<edge id='27' source='com.casee.apptrack.FirstUsageTracker: prepareData(java.util.Properties)java.util.Map' target='java.util.HashMap: init(java.lang.Integer)void'/>
+			<edge id='28' source='com.casee.apptrack.FirstUsageTracker: doTrack(com.casee.apptrack.FirstUsageTracker$TrackerListener)void' target='com.casee.apptrack.NotifyUtil: getPropertiesFromAsset(java.lang.String)java.util.Properties'/>
+			<edge id='29' source='com.casee.apptrack.FirstUsageTracker: prepareData(java.util.Properties)java.util.Map' target='java.lang.StringBuilder: init()void'/>
+			<edge id='30' source='com.casee.apptrack.FirstUsageTracker: prepareData(java.util.Properties)java.util.Map' target='java.util.Properties: getProperty(java.lang.String)java.lang.String'/>
+			<edge id='31' source='com.casee.apptrack.FirstUsageTracker: prepareData(java.util.Properties)java.util.Map' target='java.text.SimpleDateFormat: format(java.util.Date)java.lang.String'/>
+			<edge id='32' source='com.casee.apptrack.FirstUsageTracker: init(android.content.Context)void' target='java.lang.Object: init()void'/>
+		</edges>
+	</graph>
+</gexf>

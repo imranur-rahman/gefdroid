@@ -1,0 +1,521 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<gexf xmlns='qianniao918@qq.com' version='1.2' xmlns:viz='http://www.gexf.net/1.2draft/viz'> xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd'>
+	<meta lastmodifieddate='2014-9-21'>
+		<creator>FanMing</creator>
+		<description>An Android APK Method SCN!</description>
+	</meta>
+	<graph mode='static' defaultedgettype='directed'>
+		<nodes>
+		<node id='com.masshabit.squibble.Game: init()void' label='com.masshabit.squibble.Game: init()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.squibble.Screen: onMutedChanged(boolean)void' label='com.masshabit.squibble.Screen: onMutedChanged(boolean)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.squibble.Screen: saveState(android.os.Bundle)void' label='com.masshabit.squibble.Screen: saveState(android.os.Bundle)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.squibble.Game: onPrepareOptionsMenu(android.view.Menu)boolean' label='com.masshabit.squibble.Game: onPrepareOptionsMenu(android.view.Menu)boolean'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.os.Bundle: putInt(java.lang.String,java.lang.Integer)void' label='android.os.Bundle: putInt(java.lang.String,java.lang.Integer)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.squibble.Game: tweenComplete(java.lang.Object)void' label='com.masshabit.squibble.Game: tweenComplete(java.lang.Object)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.common.Delay: init(com.masshabit.common.Delay$IDelayCompleteListener)void' label='com.masshabit.common.Delay: init(com.masshabit.common.Delay$IDelayCompleteListener)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.squibble.Game$ShowCommandEventPool: init(com.masshabit.squibble.Game,java.lang.Integer)void' label='com.masshabit.squibble.Game$ShowCommandEventPool: init(com.masshabit.squibble.Game,java.lang.Integer)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.common.License: instance()com.masshabit.common.License' label='com.masshabit.common.License: instance()com.masshabit.common.License'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.squibble.Game: onCreateOptionsMenu(android.view.Menu)boolean' label='com.masshabit.squibble.Game: onCreateOptionsMenu(android.view.Menu)boolean'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.common.physics.Physics: draw(android.graphics.Canvas,android.graphics.Paint)void' label='com.masshabit.common.physics.Physics: draw(android.graphics.Canvas,android.graphics.Paint)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.squibble.Game: nextScreen()void' label='com.masshabit.squibble.Game: nextScreen()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.view.Menu: add(java.lang.CharSequence)android.view.MenuItem' label='android.view.Menu: add(java.lang.CharSequence)android.view.MenuItem'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.squibble.CreditsScreen: init()void' label='com.masshabit.squibble.CreditsScreen: init()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.view.Menu: add(IIILjava.lang.CharSequence)android.view.MenuItem' label='android.view.Menu: add(IIILjava.lang.CharSequence)android.view.MenuItem'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.Object: init()void' label='java.lang.Object: init()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.common.Environment: setMuted(boolean)void' label='com.masshabit.common.Environment: setMuted(boolean)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.squibble.Game: mutedChanged(boolean)void' label='com.masshabit.squibble.Game: mutedChanged(boolean)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.graphics.Canvas: drawColor(java.lang.Integer)void' label='android.graphics.Canvas: drawColor(java.lang.Integer)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.io.IOException: printStackTrace()void' label='java.io.IOException: printStackTrace()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.common.Delay: start(F)void' label='com.masshabit.common.Delay: start(F)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.squibble.Game$2: init(com.masshabit.squibble.Game)void' label='com.masshabit.squibble.Game$2: init(com.masshabit.squibble.Game)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.content.res.Resources: getAssets()android.content.res.AssetManager' label='android.content.res.Resources: getAssets()android.content.res.AssetManager'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.StringBuilder: append(java.lang.Integer)java.lang.StringBuilder' label='java.lang.StringBuilder: append(java.lang.Integer)java.lang.StringBuilder'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.squibble.Game$3: init(com.masshabit.squibble.Game)void' label='com.masshabit.squibble.Game$3: init(com.masshabit.squibble.Game)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.squibble.Game: onInputEvent(com.masshabit.common.InputEvent)void' label='com.masshabit.squibble.Game: onInputEvent(com.masshabit.common.InputEvent)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.graphics.Bitmap: getWidth()java.lang.Integer' label='android.graphics.Bitmap: getWidth()java.lang.Integer'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.squibble.GameScreen: init()void' label='com.masshabit.squibble.GameScreen: init()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.squibble.Game: changeScreen(java.lang.Integer)void' label='com.masshabit.squibble.Game: changeScreen(java.lang.Integer)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.squibble.Game: saveState(android.os.Bundle)void' label='com.masshabit.squibble.Game: saveState(android.os.Bundle)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.content.SharedPreferences: getBoolean(java.lang.String,boolean)boolean' label='android.content.SharedPreferences: getBoolean(java.lang.String,boolean)boolean'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.squibble.Game: pushScreen(java.lang.Integer)void' label='com.masshabit.squibble.Game: pushScreen(java.lang.Integer)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.squibble.UpsellScreen: init()void' label='com.masshabit.squibble.UpsellScreen: init()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.view.MenuItem: setOnMenuItemClickListener(android.view.MenuItem$OnMenuItemClickListener)android.view.MenuItem' label='android.view.MenuItem: setOnMenuItemClickListener(android.view.MenuItem$OnMenuItemClickListener)android.view.MenuItem'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.squibble.Screen: showLoading()boolean' label='com.masshabit.squibble.Screen: showLoading()boolean'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.squibble.Screen: update(F)void' label='com.masshabit.squibble.Screen: update(F)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.common.Delay: update(F)void' label='com.masshabit.common.Delay: update(F)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.graphics.Canvas: setMatrix(android.graphics.Matrix)void' label='android.graphics.Canvas: setMatrix(android.graphics.Matrix)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.squibble.Game: pushScreen(IF)void' label='com.masshabit.squibble.Game: pushScreen(IF)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.util.Log: d(java.lang.String,java.lang.String)java.lang.Integer' label='android.util.Log: d(java.lang.String,java.lang.String)java.lang.Integer'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='android.content.SharedPreferences$Editor: putBoolean(java.lang.String,boolean)android.content.SharedPreferences$Editor' label='android.content.SharedPreferences$Editor: putBoolean(java.lang.String,boolean)android.content.SharedPreferences$Editor'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.os.Bundle: putBoolean(java.lang.String,boolean)void' label='android.os.Bundle: putBoolean(java.lang.String,boolean)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.content.SharedPreferences$Editor: commit()boolean' label='android.content.SharedPreferences$Editor: commit()boolean'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.graphics.Paint: setColor(java.lang.Integer)void' label='android.graphics.Paint: setColor(java.lang.Integer)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.squibble.Game: threadedInit()void' label='com.masshabit.squibble.Game: threadedInit()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.graphics.Bitmap: getHeight()java.lang.Integer' label='android.graphics.Bitmap: getHeight()java.lang.Integer'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.common.tween.Tween: init(FFF)void' label='com.masshabit.common.tween.Tween: init(FFF)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.content.SharedPreferences: edit()android.content.SharedPreferences$Editor' label='android.content.SharedPreferences: edit()android.content.SharedPreferences$Editor'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.squibble.Screen: draw(android.graphics.Canvas)void' label='com.masshabit.squibble.Screen: draw(android.graphics.Canvas)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.squibble.Screen: init()void' label='com.masshabit.squibble.Screen: init()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.StringBuilder: init()void' label='java.lang.StringBuilder: init()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.squibble.Screen: onPrepareDialog(ILandroid.app.Dialog)void' label='com.masshabit.squibble.Screen: onPrepareDialog(ILandroid.app.Dialog)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.squibble.MenuScreen: init()void' label='com.masshabit.squibble.MenuScreen: init()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.squibble.SplashScreen: init()void' label='com.masshabit.squibble.SplashScreen: init()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.squibble.Screen: onCreateDialog(java.lang.Integer)android.app.Dialog' label='com.masshabit.squibble.Screen: onCreateDialog(java.lang.Integer)android.app.Dialog'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.squibble.Game$ShowCommandEventPool: allocate()java.lang.Object' label='com.masshabit.squibble.Game$ShowCommandEventPool: allocate()java.lang.Object'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.os.Bundle: getInt(java.lang.String,java.lang.Integer)java.lang.Integer' label='android.os.Bundle: getInt(java.lang.String,java.lang.Integer)java.lang.Integer'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.util.ArrayList: remove(java.lang.Integer)java.lang.Object' label='java.util.ArrayList: remove(java.lang.Integer)java.lang.Object'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.graphics.Paint: setAlpha(java.lang.Integer)void' label='android.graphics.Paint: setAlpha(java.lang.Integer)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.squibble.Game: draw(android.graphics.Canvas)void' label='com.masshabit.squibble.Game: draw(android.graphics.Canvas)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.common.physics.Physics: reset()void' label='com.masshabit.common.physics.Physics: reset()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.squibble.StoryScreen: init()void' label='com.masshabit.squibble.StoryScreen: init()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.graphics.Canvas: drawBitmap(android.graphics.Bitmap,FFLandroid.graphics.Paint)void' label='android.graphics.Canvas: drawBitmap(android.graphics.Bitmap,FFLandroid.graphics.Paint)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.os.Bundle: putString(java.lang.String,java.lang.String)void' label='android.os.Bundle: putString(java.lang.String,java.lang.String)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.graphics.Canvas: drawRect(FFFFLandroid.graphics.Paint)void' label='android.graphics.Canvas: drawRect(FFFFLandroid.graphics.Paint)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.squibble.Game: newScreen(java.lang.Integer)com.masshabit.squibble.Screen' label='com.masshabit.squibble.Game: newScreen(java.lang.Integer)com.masshabit.squibble.Screen'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.squibble.Game$1: init(com.masshabit.squibble.Game)void' label='com.masshabit.squibble.Game$1: init(com.masshabit.squibble.Game)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.squibble.WorldMapScreen: init()void' label='com.masshabit.squibble.WorldMapScreen: init()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.squibble.Screen: onInputEvent(com.masshabit.common.InputEvent)void' label='com.masshabit.squibble.Screen: onInputEvent(com.masshabit.common.InputEvent)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.squibble.Game$5: init(com.masshabit.squibble.Game)void' label='com.masshabit.squibble.Game$5: init(com.masshabit.squibble.Game)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.squibble.Screen: destroy()void' label='com.masshabit.squibble.Screen: destroy()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.squibble.Game$4: init(com.masshabit.squibble.Game)void' label='com.masshabit.squibble.Game$4: init(com.masshabit.squibble.Game)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.squibble.CheckingLicenseScreen: init()void' label='com.masshabit.squibble.CheckingLicenseScreen: init()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.util.ArrayList: init(java.lang.Integer)void' label='java.util.ArrayList: init(java.lang.Integer)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.squibble.Game$ShowCommandEventPool: release(java.lang.Object)void' label='com.masshabit.squibble.Game$ShowCommandEventPool: release(java.lang.Object)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.content.Context: getSharedPreferences(java.lang.String,java.lang.Integer)android.content.SharedPreferences' label='android.content.Context: getSharedPreferences(java.lang.String,java.lang.Integer)android.content.SharedPreferences'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.os.Bundle: getString(java.lang.String)java.lang.String' label='android.os.Bundle: getString(java.lang.String)java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.squibble.Game: changeScreen(IF)void' label='com.masshabit.squibble.Game: changeScreen(IF)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.common.Environment: setMutedChangedListener(com.masshabit.common.Environment$IMutedChangedListener)void' label='com.masshabit.common.Environment: setMutedChangedListener(com.masshabit.common.Environment$IMutedChangedListener)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.os.Bundle: getBoolean(java.lang.String,boolean)boolean' label='android.os.Bundle: getBoolean(java.lang.String,boolean)boolean'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.StringBuilder: toString()java.lang.String' label='java.lang.StringBuilder: toString()java.lang.String'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='junit.framework.Assert: assertTrue(boolean)void' label='junit.framework.Assert: assertTrue(boolean)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.common.tween.Tween: init(com.masshabit.common.tween.ITweenCompleteListener,com.masshabit.common.tween.Ease$EaseBase)void' label='com.masshabit.common.tween.Tween: init(com.masshabit.common.tween.ITweenCompleteListener,com.masshabit.common.tween.Ease$EaseBase)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.common.License: notReadyOrBad()boolean' label='com.masshabit.common.License: notReadyOrBad()boolean'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.graphics.Paint: setStyle(android.graphics.Paint$Style)void' label='android.graphics.Paint: setStyle(android.graphics.Paint$Style)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.common.Globals: init()void' label='com.masshabit.common.Globals: init()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.squibble.Game: update(F)void' label='com.masshabit.squibble.Game: update(F)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.util.ArrayList: size()java.lang.Integer' label='java.util.ArrayList: size()java.lang.Integer'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.Thread: init(java.lang.Runnable)void' label='java.lang.Thread: init(java.lang.Runnable)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.StringBuilder: append(java.lang.String)java.lang.StringBuilder' label='java.lang.StringBuilder: append(java.lang.String)java.lang.StringBuilder'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.squibble.Game: onPrepareDialog(ILandroid.app.Dialog)void' label='com.masshabit.squibble.Game: onPrepareDialog(ILandroid.app.Dialog)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.common.tween.Tween: update(F)void' label='com.masshabit.common.tween.Tween: update(F)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.graphics.BitmapFactory: decodeStream(java.io.InputStream)android.graphics.Bitmap' label='android.graphics.BitmapFactory: decodeStream(java.io.InputStream)android.graphics.Bitmap'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.squibble.HowToScreen: init()void' label='com.masshabit.squibble.HowToScreen: init()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.squibble.Game$ShowCommand: set(IF)void' label='com.masshabit.squibble.Game$ShowCommand: set(IF)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.util.ArrayList: add(java.lang.Object)boolean' label='java.util.ArrayList: add(java.lang.Object)boolean'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.Thread: start()void' label='java.lang.Thread: start()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='android.util.Log: e(java.lang.String,java.lang.String)java.lang.Integer' label='android.util.Log: e(java.lang.String,java.lang.String)java.lang.Integer'>
+			<attvalues></attvalues>
+			<viz:color r='255' g='0' b='0'></viz:color>
+			</node>
+		<node id='android.content.res.AssetManager: open(java.lang.String)java.io.InputStream' label='android.content.res.AssetManager: open(java.lang.String)java.io.InputStream'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.squibble.Game: onCreateDialog(java.lang.Integer)android.app.Dialog' label='com.masshabit.squibble.Game: onCreateDialog(java.lang.Integer)android.app.Dialog'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='java.lang.System: gc()void' label='java.lang.System: gc()void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		<node id='com.masshabit.squibble.Game: delayComplete(com.masshabit.common.Delay)void' label='com.masshabit.squibble.Game: delayComplete(com.masshabit.common.Delay)void'>
+			<attvalues></attvalues>
+			<viz:color r='30' g='144' b='255'></viz:color>
+			</node>
+		</nodes>
+		<edges>
+			<edge id='0' source='com.masshabit.squibble.Game: update(F)void' target='com.masshabit.common.Delay: update(F)void'/>
+			<edge id='1' source='com.masshabit.squibble.Game: delayComplete(com.masshabit.common.Delay)void' target='android.util.Log: d(java.lang.String,java.lang.String)java.lang.Integer'/>
+			<edge id='2' source='com.masshabit.squibble.Game: nextScreen()void' target='java.util.ArrayList: remove(java.lang.Integer)java.lang.Object'/>
+			<edge id='3' source='com.masshabit.squibble.Game: pushScreen(IF)void' target='com.masshabit.squibble.Game$ShowCommandEventPool: allocate()java.lang.Object'/>
+			<edge id='4' source='com.masshabit.squibble.Game: onCreateOptionsMenu(android.view.Menu)boolean' target='com.masshabit.squibble.Game$3: init(com.masshabit.squibble.Game)void'/>
+			<edge id='5' source='com.masshabit.squibble.Game: mutedChanged(boolean)void' target='android.content.Context: getSharedPreferences(java.lang.String,java.lang.Integer)android.content.SharedPreferences'/>
+			<edge id='6' source='com.masshabit.squibble.Game: init()void' target='com.masshabit.squibble.Game: newScreen(java.lang.Integer)com.masshabit.squibble.Screen'/>
+			<edge id='7' source='com.masshabit.squibble.Game: draw(android.graphics.Canvas)void' target='android.graphics.Canvas: setMatrix(android.graphics.Matrix)void'/>
+			<edge id='8' source='com.masshabit.squibble.Game: init()void' target='com.masshabit.common.License: notReadyOrBad()boolean'/>
+			<edge id='9' source='com.masshabit.squibble.Game: newScreen(java.lang.Integer)com.masshabit.squibble.Screen' target='com.masshabit.squibble.CreditsScreen: init()void'/>
+			<edge id='10' source='com.masshabit.squibble.Game: newScreen(java.lang.Integer)com.masshabit.squibble.Screen' target='com.masshabit.squibble.CheckingLicenseScreen: init()void'/>
+			<edge id='11' source='com.masshabit.squibble.Game: init()void' target='android.graphics.BitmapFactory: decodeStream(java.io.InputStream)android.graphics.Bitmap'/>
+			<edge id='12' source='com.masshabit.squibble.Game: update(F)void' target='java.lang.StringBuilder: toString()java.lang.String'/>
+			<edge id='13' source='com.masshabit.squibble.Game: onInputEvent(com.masshabit.common.InputEvent)void' target='com.masshabit.squibble.Screen: onInputEvent(com.masshabit.common.InputEvent)void'/>
+			<edge id='14' source='com.masshabit.squibble.Game: init()void' target='android.content.res.AssetManager: open(java.lang.String)java.io.InputStream'/>
+			<edge id='15' source='com.masshabit.squibble.Game: onPrepareDialog(ILandroid.app.Dialog)void' target='com.masshabit.squibble.Screen: onPrepareDialog(ILandroid.app.Dialog)void'/>
+			<edge id='16' source='com.masshabit.squibble.Game: tweenComplete(java.lang.Object)void' target='java.lang.System: gc()void'/>
+			<edge id='17' source='com.masshabit.squibble.Game: mutedChanged(boolean)void' target='android.content.SharedPreferences$Editor: commit()boolean'/>
+			<edge id='18' source='com.masshabit.squibble.Game: mutedChanged(boolean)void' target='com.masshabit.squibble.Screen: onMutedChanged(boolean)void'/>
+			<edge id='19' source='com.masshabit.squibble.Game: pushScreen(java.lang.Integer)void' target='com.masshabit.squibble.Game: pushScreen(IF)void'/>
+			<edge id='20' source='com.masshabit.squibble.Game: draw(android.graphics.Canvas)void' target='android.graphics.Bitmap: getHeight()java.lang.Integer'/>
+			<edge id='21' source='com.masshabit.squibble.Game: newScreen(java.lang.Integer)com.masshabit.squibble.Screen' target='com.masshabit.squibble.SplashScreen: init()void'/>
+			<edge id='22' source='com.masshabit.squibble.Game: threadedInit()void' target='com.masshabit.squibble.Game$1: init(com.masshabit.squibble.Game)void'/>
+			<edge id='23' source='com.masshabit.squibble.Game: onCreateOptionsMenu(android.view.Menu)boolean' target='android.view.Menu: add(java.lang.CharSequence)android.view.MenuItem'/>
+			<edge id='24' source='com.masshabit.squibble.Game: init()void' target='com.masshabit.squibble.Screen: init()void'/>
+			<edge id='25' source='com.masshabit.squibble.Game: init()void' target='android.content.res.Resources: getAssets()android.content.res.AssetManager'/>
+			<edge id='26' source='com.masshabit.squibble.Game: onCreateDialog(java.lang.Integer)android.app.Dialog' target='com.masshabit.squibble.Screen: onCreateDialog(java.lang.Integer)android.app.Dialog'/>
+			<edge id='27' source='com.masshabit.squibble.Game: onCreateOptionsMenu(android.view.Menu)boolean' target='com.masshabit.squibble.Game$4: init(com.masshabit.squibble.Game)void'/>
+			<edge id='28' source='com.masshabit.squibble.Game: draw(android.graphics.Canvas)void' target='android.graphics.Bitmap: getWidth()java.lang.Integer'/>
+			<edge id='29' source='com.masshabit.squibble.Game: update(F)void' target='java.lang.StringBuilder: append(java.lang.String)java.lang.StringBuilder'/>
+			<edge id='30' source='com.masshabit.squibble.Game: saveState(android.os.Bundle)void' target='android.os.Bundle: putInt(java.lang.String,java.lang.Integer)void'/>
+			<edge id='31' source='com.masshabit.squibble.Game: changeScreen(IF)void' target='com.masshabit.squibble.Game: pushScreen(IF)void'/>
+			<edge id='32' source='com.masshabit.squibble.Game: delayComplete(com.masshabit.common.Delay)void' target='com.masshabit.common.tween.Tween: init(FFF)void'/>
+			<edge id='33' source='com.masshabit.squibble.Game: update(F)void' target='com.masshabit.common.tween.Tween: update(F)void'/>
+			<edge id='34' source='com.masshabit.squibble.Game: newScreen(java.lang.Integer)com.masshabit.squibble.Screen' target='com.masshabit.squibble.WorldMapScreen: init()void'/>
+			<edge id='35' source='com.masshabit.squibble.Game: init()void' target='java.io.IOException: printStackTrace()void'/>
+			<edge id='36' source='com.masshabit.squibble.Game: pushScreen(IF)void' target='java.util.ArrayList: add(java.lang.Object)boolean'/>
+			<edge id='37' source='com.masshabit.squibble.Game: threadedInit()void' target='java.lang.Thread: init(java.lang.Runnable)void'/>
+			<edge id='38' source='com.masshabit.squibble.Game: onCreateOptionsMenu(android.view.Menu)boolean' target='android.view.MenuItem: setOnMenuItemClickListener(android.view.MenuItem$OnMenuItemClickListener)android.view.MenuItem'/>
+			<edge id='39' source='com.masshabit.squibble.Game: tweenComplete(java.lang.Object)void' target='com.masshabit.squibble.Game: threadedInit()void'/>
+			<edge id='40' source='com.masshabit.squibble.Game: update(F)void' target='android.util.Log: d(java.lang.String,java.lang.String)java.lang.Integer'/>
+			<edge id='41' source='com.masshabit.squibble.Game: tweenComplete(java.lang.Object)void' target='com.masshabit.squibble.Screen: destroy()void'/>
+			<edge id='42' source='com.masshabit.squibble.Game: update(F)void' target='com.masshabit.squibble.Screen: update(F)void'/>
+			<edge id='43' source='com.masshabit.squibble.Game: init()void' target='android.os.Bundle: getBoolean(java.lang.String,boolean)boolean'/>
+			<edge id='44' source='com.masshabit.squibble.Game: tweenComplete(java.lang.Object)void' target='com.masshabit.common.physics.Physics: reset()void'/>
+			<edge id='45' source='com.masshabit.squibble.Game: newScreen(java.lang.Integer)com.masshabit.squibble.Screen' target='com.masshabit.squibble.UpsellScreen: init()void'/>
+			<edge id='46' source='com.masshabit.squibble.Game: init()void' target='android.os.Bundle: getString(java.lang.String)java.lang.String'/>
+			<edge id='47' source='com.masshabit.squibble.Game: nextScreen()void' target='com.masshabit.squibble.Game$ShowCommandEventPool: release(java.lang.Object)void'/>
+			<edge id='48' source='com.masshabit.squibble.Game: changeScreen(IF)void' target='com.masshabit.squibble.Game: nextScreen()void'/>
+			<edge id='49' source='com.masshabit.squibble.Game: nextScreen()void' target='com.masshabit.common.Delay: start(F)void'/>
+			<edge id='50' source='com.masshabit.squibble.Game: draw(android.graphics.Canvas)void' target='android.graphics.Paint: setStyle(android.graphics.Paint$Style)void'/>
+			<edge id='51' source='com.masshabit.squibble.Game: draw(android.graphics.Canvas)void' target='android.graphics.Canvas: drawBitmap(android.graphics.Bitmap,FFLandroid.graphics.Paint)void'/>
+			<edge id='52' source='com.masshabit.squibble.Game: tweenComplete(java.lang.Object)void' target='junit.framework.Assert: assertTrue(boolean)void'/>
+			<edge id='53' source='com.masshabit.squibble.Game: tweenComplete(java.lang.Object)void' target='com.masshabit.squibble.Screen: showLoading()boolean'/>
+			<edge id='54' source='com.masshabit.squibble.Game: init()void' target='android.os.Bundle: getInt(java.lang.String,java.lang.Integer)java.lang.Integer'/>
+			<edge id='55' source='com.masshabit.squibble.Game: onCreateOptionsMenu(android.view.Menu)boolean' target='com.masshabit.squibble.Game$5: init(com.masshabit.squibble.Game)void'/>
+			<edge id='56' source='com.masshabit.squibble.Game: init()void' target='android.util.Log: d(java.lang.String,java.lang.String)java.lang.Integer'/>
+			<edge id='57' source='com.masshabit.squibble.Game: update(F)void' target='java.lang.StringBuilder: init()void'/>
+			<edge id='58' source='com.masshabit.squibble.Game: pushScreen(IF)void' target='com.masshabit.squibble.Game$ShowCommand: set(IF)void'/>
+			<edge id='59' source='com.masshabit.squibble.Game: init()void' target='com.masshabit.common.Globals: init()void'/>
+			<edge id='60' source='com.masshabit.squibble.Game: saveState(android.os.Bundle)void' target='android.os.Bundle: putBoolean(java.lang.String,boolean)void'/>
+			<edge id='61' source='com.masshabit.squibble.Game: onCreateOptionsMenu(android.view.Menu)boolean' target='com.masshabit.squibble.Game$2: init(com.masshabit.squibble.Game)void'/>
+			<edge id='62' source='com.masshabit.squibble.Game: nextScreen()void' target='com.masshabit.common.tween.Tween: init(FFF)void'/>
+			<edge id='63' source='com.masshabit.squibble.Game: init()void' target='com.masshabit.common.Delay: init(com.masshabit.common.Delay$IDelayCompleteListener)void'/>
+			<edge id='64' source='com.masshabit.squibble.Game: draw(android.graphics.Canvas)void' target='com.masshabit.squibble.Screen: draw(android.graphics.Canvas)void'/>
+			<edge id='65' source='com.masshabit.squibble.Game: init()void' target='java.lang.Object: init()void'/>
+			<edge id='66' source='com.masshabit.squibble.Game: init()void' target='com.masshabit.common.Environment: setMuted(boolean)void'/>
+			<edge id='67' source='com.masshabit.squibble.Game: draw(android.graphics.Canvas)void' target='android.graphics.Canvas: drawRect(FFFFLandroid.graphics.Paint)void'/>
+			<edge id='68' source='com.masshabit.squibble.Game: init()void' target='android.content.Context: getSharedPreferences(java.lang.String,java.lang.Integer)android.content.SharedPreferences'/>
+			<edge id='69' source='com.masshabit.squibble.Game: update(F)void' target='java.lang.System: gc()void'/>
+			<edge id='70' source='com.masshabit.squibble.Game: init()void' target='java.util.ArrayList: init(java.lang.Integer)void'/>
+			<edge id='71' source='com.masshabit.squibble.Game: newScreen(java.lang.Integer)com.masshabit.squibble.Screen' target='com.masshabit.squibble.MenuScreen: init()void'/>
+			<edge id='72' source='com.masshabit.squibble.Game: init()void' target='android.content.SharedPreferences: getBoolean(java.lang.String,boolean)boolean'/>
+			<edge id='73' source='com.masshabit.squibble.Game: saveState(android.os.Bundle)void' target='android.os.Bundle: putString(java.lang.String,java.lang.String)void'/>
+			<edge id='74' source='com.masshabit.squibble.Game: newScreen(java.lang.Integer)com.masshabit.squibble.Screen' target='com.masshabit.squibble.HowToScreen: init()void'/>
+			<edge id='75' source='com.masshabit.squibble.Game: init()void' target='com.masshabit.common.tween.Tween: init(com.masshabit.common.tween.ITweenCompleteListener,com.masshabit.common.tween.Ease$EaseBase)void'/>
+			<edge id='76' source='com.masshabit.squibble.Game: init()void' target='com.masshabit.common.License: instance()com.masshabit.common.License'/>
+			<edge id='77' source='com.masshabit.squibble.Game: init()void' target='com.masshabit.squibble.Game$ShowCommandEventPool: init(com.masshabit.squibble.Game,java.lang.Integer)void'/>
+			<edge id='78' source='com.masshabit.squibble.Game: newScreen(java.lang.Integer)com.masshabit.squibble.Screen' target='com.masshabit.squibble.StoryScreen: init()void'/>
+			<edge id='79' source='com.masshabit.squibble.Game: onCreateOptionsMenu(android.view.Menu)boolean' target='android.view.Menu: add(IIILjava.lang.CharSequence)android.view.MenuItem'/>
+			<edge id='80' source='com.masshabit.squibble.Game: init()void' target='com.masshabit.squibble.Game: pushScreen(java.lang.Integer)void'/>
+			<edge id='81' source='com.masshabit.squibble.Game: newScreen(java.lang.Integer)com.masshabit.squibble.Screen' target='com.masshabit.squibble.GameScreen: init()void'/>
+			<edge id='82' source='com.masshabit.squibble.Game: nextScreen()void' target='java.util.ArrayList: size()java.lang.Integer'/>
+			<edge id='83' source='com.masshabit.squibble.Game: draw(android.graphics.Canvas)void' target='android.graphics.Canvas: drawColor(java.lang.Integer)void'/>
+			<edge id='84' source='com.masshabit.squibble.Game: update(F)void' target='com.masshabit.common.tween.Tween: init(FFF)void'/>
+			<edge id='85' source='com.masshabit.squibble.Game: threadedInit()void' target='java.lang.Thread: start()void'/>
+			<edge id='86' source='com.masshabit.squibble.Game: init()void' target='com.masshabit.common.tween.Tween: init(FFF)void'/>
+			<edge id='87' source='com.masshabit.squibble.Game: tweenComplete(java.lang.Object)void' target='android.util.Log: d(java.lang.String,java.lang.String)java.lang.Integer'/>
+			<edge id='88' source='com.masshabit.squibble.Game: nextScreen()void' target='android.util.Log: d(java.lang.String,java.lang.String)java.lang.Integer'/>
+			<edge id='89' source='com.masshabit.squibble.Game: draw(android.graphics.Canvas)void' target='com.masshabit.common.physics.Physics: draw(android.graphics.Canvas,android.graphics.Paint)void'/>
+			<edge id='90' source='com.masshabit.squibble.Game: changeScreen(java.lang.Integer)void' target='com.masshabit.squibble.Game: changeScreen(IF)void'/>
+			<edge id='91' source='com.masshabit.squibble.Game: mutedChanged(boolean)void' target='android.content.SharedPreferences$Editor: putBoolean(java.lang.String,boolean)android.content.SharedPreferences$Editor'/>
+			<edge id='92' source='com.masshabit.squibble.Game: saveState(android.os.Bundle)void' target='com.masshabit.squibble.Screen: saveState(android.os.Bundle)void'/>
+			<edge id='93' source='com.masshabit.squibble.Game: init()void' target='com.masshabit.common.Environment: setMutedChangedListener(com.masshabit.common.Environment$IMutedChangedListener)void'/>
+			<edge id='94' source='com.masshabit.squibble.Game: draw(android.graphics.Canvas)void' target='android.graphics.Paint: setAlpha(java.lang.Integer)void'/>
+			<edge id='95' source='com.masshabit.squibble.Game: update(F)void' target='android.util.Log: e(java.lang.String,java.lang.String)java.lang.Integer'/>
+			<edge id='96' source='com.masshabit.squibble.Game: tweenComplete(java.lang.Object)void' target='com.masshabit.squibble.Game: newScreen(java.lang.Integer)com.masshabit.squibble.Screen'/>
+			<edge id='97' source='com.masshabit.squibble.Game: update(F)void' target='java.lang.StringBuilder: append(java.lang.Integer)java.lang.StringBuilder'/>
+			<edge id='98' source='com.masshabit.squibble.Game: draw(android.graphics.Canvas)void' target='android.graphics.Paint: setColor(java.lang.Integer)void'/>
+			<edge id='99' source='com.masshabit.squibble.Game: mutedChanged(boolean)void' target='android.content.SharedPreferences: edit()android.content.SharedPreferences$Editor'/>
+		</edges>
+	</graph>
+</gexf>

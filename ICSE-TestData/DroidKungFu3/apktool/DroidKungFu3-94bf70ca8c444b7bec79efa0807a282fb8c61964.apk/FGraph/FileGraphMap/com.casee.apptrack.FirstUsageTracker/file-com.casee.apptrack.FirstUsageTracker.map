@@ -1,0 +1,2 @@
+3 ---> android.util.Log: e(java.lang.String,java.lang.String,java.lang.Throwable)java.lang.Integer
+28 ---> android.util.Log: e(java.lang.String,java.lang.String)java.lang.Integer
