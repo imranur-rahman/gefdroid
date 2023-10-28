@@ -1,1 +1,1 @@
-android.util.Log: d(java.lang.String,java.lang.String)java.lang.Integer---android.util.Log: e(java.lang.String,java.lang.String)java.lang.Integer : 0.07383188659008805
+android.util.Log: d(java.lang.String,java.lang.String)java.lang.Integer---android.util.Log: e(java.lang.String,java.lang.String)java.lang.Integer : 0.0

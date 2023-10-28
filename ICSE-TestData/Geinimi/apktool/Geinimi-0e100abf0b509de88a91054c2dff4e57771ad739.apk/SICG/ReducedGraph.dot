@@ -3,7 +3,6 @@ digraph G{
 	"android/util/Log: e(java/lang/String;java/lang/String;)java.lang.Integer,Sink,LOG";
 	"android/telephony/TelephonyManager: getSubscriberId()java/lang/String,Source,UNIQUE_IDENTIFIER";
 	"javax/crypto/Cipher: doFinal([B;)[B,Source,NO_CATEGORY";
-	"android/widget/ArrayAdapter: getItem(java.lang.Integer;)java/lang/Object,Source,NO_CATEGORY";
 	"com/masshabit/squibble/free/activity/e/a: clinit()void,Normal,";
 	"com/masshabit/squibble/free/activity/e/k: clinit()void,Normal,";
 	"com/masshabit/common/Environment: enqueueKeyEvent(android/view/KeyEvent;)void,Normal,";
@@ -86,7 +85,6 @@ digraph G{
 	"com/masshabit/squibble/WorldMapGraph: checkTap(FF;)com/masshabit/squibble/WorldMapNode,Normal,";
 	"android/widget/EditText: getText()android/text/Editable,Source,NO_CATEGORY";
 	"com/android/vending/licensing/util/Base64: decode(java/lang/String;)[B,Normal,";
-	"com/masshabit/squibble/free/activity/A: getView(ILandroid/view/View;android/view/ViewGroup;)android/view/View,Normal,";
 	"com/masshabit/squibble/free/activity/e/q: a(com/masshabit/squibble/free/activity/Pushable;)void,Normal,";
 	"android/app/AlertDialog$Builder: setPositiveButton(ILandroid/content/DialogInterface$OnClickListener;)android/app/AlertDialog$Builder,Sink,NO_CATEGORY";
 	"com/android/vending/licensing/LicenseChecker$ResultListener: startTimeout()void,Normal,";
@@ -302,7 +300,6 @@ digraph G{
 	"com/masshabit/squibble/free/activity/e/l: a(java/lang/String;)boolean,Normal,";
 	"com/masshabit/common/Delay: restoreState(java/lang/String;android/os/Bundle;)void,Normal,";
 	"com/masshabit/squibble/MainActivity: onResume()void,Normal,";
-	"android/widget/ArrayAdapter: getView(ILandroid/view/View;android/view/ViewGroup;)android/view/View,Source,NO_CATEGORY";
 	"com/masshabit/common/InputEvent: setEvent(android/view/MotionEvent;java.lang.Integer;)void,Normal,";
 	"android/view/MotionEvent: getEventTime()J,Source,NO_CATEGORY";
 	"com/flurry/android/d: init()void,Normal,";
@@ -504,7 +501,6 @@ digraph G{
 	"java/util/zip/ZipEntry: getName()java/lang/String,Source,NO_CATEGORY";
 	"com/masshabit/squibble/free/activity/d: createFromParcel(android/os/Parcel;)java/lang/Object,Normal,";
 	"com/masshabit/squibble/free/activity/a/c: c()boolean,Normal,";
-	"com/masshabit/squibble/free/activity/B: onItemClick(android/widget/AdapterView;android/view/View;IJ;)void,Normal,";
 	"com/masshabit/squibble/free/activity/a/d: c()boolean,Normal,";
 	"com/flurry/android/FlurryAgent: a(java/lang/Throwable;)void,Normal,";
 	"android/app/AlertDialog: getButton(java.lang.Integer;)android/widget/Button,Source,NO_CATEGORY";
@@ -759,8 +755,8 @@ digraph G{
 	"com/masshabit/common/physics/Physics: rayCastQuery([Lcom/masshabit/common/physics/CollisionGroup;FFFFLcom/masshabit/common/physics/Physics$RayCastResult;)void,Normal,"->"com/masshabit/common/physics/Physics: rayCastQuery(com/masshabit/common/physics/CollisionGroup;FFFFLcom/masshabit/common/physics/Physics$RayCastResult;)void,Normal,"[label="com/masshabit/common/physics/Physics"];
 	"com/masshabit/squibble/Game: newScreen(java.lang.Integer;)com/masshabit/squibble/Screen,Normal,"->"com/masshabit/squibble/CreditsScreen: init()void,Normal,"[label="com/masshabit/squibble/Game"];
 	"com/masshabit/squibble/free/activity/Pushable: init(java/util/HashMap;)void,Normal,"->"com/masshabit/squibble/free/activity/Pushable: a(java/util/HashMap;)void,Normal,"[label="com/masshabit/squibble/free/activity/Pushable"];
-	"com/masshabit/squibble/free/activity/e/k: a(android/content/Context;java/lang/String;)void,Normal,"->"android/preference/PreferenceManager: getDefaultSharedPreferences(android/content/Context;)android/content/SharedPreferences,Source,NO_CATEGORY"[label="com/masshabit/squibble/free/activity/e/k"];
 	"com/masshabit/squibble/free/activity/a/m: d()void,Normal,"->"java/lang/String: substring(java.lang.Integer;)java/lang/String,Sink,NO_CATEGORY"[label="com/masshabit/squibble/free/activity/a/m"];
+	"com/masshabit/squibble/free/activity/e/k: a(android/content/Context;java/lang/String;)void,Normal,"->"android/preference/PreferenceManager: getDefaultSharedPreferences(android/content/Context;)android/content/SharedPreferences,Source,NO_CATEGORY"[label="com/masshabit/squibble/free/activity/e/k"];
 	"com/masshabit/squibble/free/activity/e/o: b(java/lang/String;java/lang/String;)boolean,Normal,"->"com/masshabit/squibble/free/activity/e/k: e()java/lang/String,Normal,"[label="com/masshabit/squibble/free/activity/e/o"];
 	"com/masshabit/squibble/free/activity/e/k: init(com/masshabit/squibble/free/activity/e;)void,Normal,"->"android/telephony/TelephonyManager: getSimCountryIso()java/lang/String,Source,NETWORK_INFORMATION"[label="com/masshabit/squibble/free/activity/e/k"];
 	"com/masshabit/squibble/free/activity/h: a(com/masshabit/squibble/free/activity/c;)void,Normal,"->"android/webkit/WebView: setWebViewClient(android/webkit/WebViewClient;)void,Sink,NO_CATEGORY"[label="com/masshabit/squibble/free/activity/h"];
@@ -913,8 +909,8 @@ digraph G{
 	"com/masshabit/squibble/free/activity/e/n: a(java/lang/String;java/lang/String;)void,Normal,"->"java/io/DataOutputStream: write([B;)void,Sink,NO_CATEGORY"[label="com/masshabit/squibble/free/activity/e/n"];
 	"com/masshabit/squibble/WorldMapGraph: init(com/masshabit/squibble/WorldMapNode;)void,Normal,"->"com/masshabit/squibble/WorldMapNode: resolveConnections()void,Normal,"[label="com/masshabit/squibble/WorldMapGraph"];
 	"com/masshabit/squibble/free/activity/e/o: a()void,Normal,"->"com/masshabit/squibble/free/activity/e/k: a(android/content/Context;java/lang/String;)void,Normal,"[label="com/masshabit/squibble/free/activity/e/o"];
-	"com/masshabit/squibble/Player: draw(android/graphics/Canvas;)void,Normal,"->"android/graphics/Bitmap: getHeight()java.lang.Integer,Source,NO_CATEGORY"[label="com/masshabit/squibble/Player"];
 	"com/masshabit/squibble/MainActivity: onCreateDialog(java.lang.Integer;)android/app/Dialog,Normal,"->"android/util/Log: d(java/lang/String;java/lang/String;)java.lang.Integer,Sink,LOG"[label="com/masshabit/squibble/MainActivity"];
+	"com/masshabit/squibble/Player: draw(android/graphics/Canvas;)void,Normal,"->"android/graphics/Bitmap: getHeight()java.lang.Integer,Source,NO_CATEGORY"[label="com/masshabit/squibble/Player"];
 	"com/masshabit/squibble/WorldMapNode: lockChildren()void,Normal,"->"java/util/ArrayList: get(java.lang.Integer;)java/lang/Object,Source,NO_CATEGORY"[label="com/masshabit/squibble/WorldMapNode"];
 	"com/masshabit/squibble/free/activity/e/k: init(com/masshabit/squibble/free/activity/e;)void,Normal,"->"android/telephony/TelephonyManager: getNetworkOperator()java/lang/String,Source,NETWORK_INFORMATION"[label="com/masshabit/squibble/free/activity/e/k"];
 	"com/masshabit/common/Environment: dispatchEvents()void,Normal,"->"java/util/ArrayList: get(java.lang.Integer;)java/lang/Object,Source,NO_CATEGORY"[label="com/masshabit/common/Environment"];
@@ -994,8 +990,8 @@ digraph G{
 	"com/masshabit/squibble/Game: draw(android/graphics/Canvas;)void,Normal,"->"android/graphics/Bitmap: getHeight()java.lang.Integer,Source,NO_CATEGORY"[label="com/masshabit/squibble/Game"];
 	"com/masshabit/squibble/free/activity/a/b: b(java/lang/String;)void,Normal,"->"com/masshabit/squibble/free/activity/e/q: a(java/io/File;java/lang/String;)void,Normal,"[label="com/masshabit/squibble/free/activity/a/b"];
 	"com/masshabit/squibble/free/activity/e: b()java/lang/String,Normal,"->"android/os/Bundle: getString(java/lang/String;)java/lang/String,Source,NO_CATEGORY"[label="com/masshabit/squibble/free/activity/e"];
-	"com/masshabit/squibble/free/activity/e/k: init(com/masshabit/squibble/free/activity/e;)void,Normal,"->"android/telephony/TelephonyManager: getSimOperator()java/lang/String,Source,NETWORK_INFORMATION"[label="com/masshabit/squibble/free/activity/e/k"];
 	"com/masshabit/common/License$MyCallback: applicationError(com/android/vending/licensing/LicenseCheckerCallback$ApplicationErrorCode;)void,Normal,"->"android/util/Log: d(java/lang/String;java/lang/String;)java.lang.Integer,Sink,LOG"[label="com/masshabit/common/License$MyCallback"];
+	"com/masshabit/squibble/free/activity/e/k: init(com/masshabit/squibble/free/activity/e;)void,Normal,"->"android/telephony/TelephonyManager: getSimOperator()java/lang/String,Source,NETWORK_INFORMATION"[label="com/masshabit/squibble/free/activity/e/k"];
 	"com/masshabit/squibble/MenuScreen: update(F;)void,Normal,"->"com/masshabit/common/Camera: update(F;)void,Normal,"[label="com/masshabit/squibble/MenuScreen"];
 	"com/masshabit/squibble/free/activity/a/q: c()boolean,Normal,"->"com/masshabit/squibble/free/activity/e/k: j()void,Normal,"[label="com/masshabit/squibble/free/activity/a/q"];
 	"com/masshabit/squibble/free/activity/e/k: j()void,Normal,"->"com/masshabit/squibble/free/activity/e/c: a()java/util/Vector,Normal,"[label="com/masshabit/squibble/free/activity/e/k"];
@@ -1138,8 +1134,8 @@ digraph G{
 	"com/masshabit/squibble/free/activity/b/m: b()void,Normal,"->"com/masshabit/squibble/free/activity/e/i: a(java/lang/String;java/lang/String;)void,Normal,"[label="com/masshabit/squibble/free/activity/b/m"];
 	"com/masshabit/common/Environment: surfaceReady(android/view/SurfaceHolder;FF;)void,Normal,"->"android/util/Log: d(java/lang/String;java/lang/String;)java.lang.Integer,Sink,LOG"[label="com/masshabit/common/Environment"];
 	"com/masshabit/squibble/free/activity/e/b: a(java/lang/String;)void,Normal,"->"com/masshabit/squibble/free/activity/e/k: b()java/lang/String,Normal,"[label="com/masshabit/squibble/free/activity/e/b"];
-	"com/masshabit/squibble/free/activity/g: a(com/masshabit/squibble/free/activity/c;)void,Normal,"->"com/masshabit/squibble/free/activity/e: b()java/lang/String,Normal,"[label="com/masshabit/squibble/free/activity/g"];
 	"com/masshabit/common/LevelLoader: load(java/lang/String;)void,Normal,"->"javax/xml/parsers/DocumentBuilder: parse(java/io/InputStream;)org/w3c/dom/Document,Source,NO_CATEGORY"[label="com/masshabit/common/LevelLoader"];
+	"com/masshabit/squibble/free/activity/g: a(com/masshabit/squibble/free/activity/c;)void,Normal,"->"com/masshabit/squibble/free/activity/e: b()java/lang/String,Normal,"[label="com/masshabit/squibble/free/activity/g"];
 	"com/masshabit/squibble/free/activity/b/l: c()boolean,Normal,"->"java/text/SimpleDateFormat: parse(java/lang/String;)java/util/Date,Source,NO_CATEGORY"[label="com/masshabit/squibble/free/activity/b/l"];
 	"com/masshabit/squibble/CheckingLicenseScreen: onCreateDialog(java.lang.Integer;)android/app/Dialog,Normal,"->"android/app/AlertDialog$Builder: setPositiveButton(ILandroid/content/DialogInterface$OnClickListener;)android/app/AlertDialog$Builder,Sink,NO_CATEGORY"[label="com/masshabit/squibble/CheckingLicenseScreen"];
 	"com/masshabit/squibble/UpsellScreen: onInputEvent(com/masshabit/common/InputEvent;)void,Normal,"->"com/masshabit/squibble/Game: changeScreen(java.lang.Integer;)void,Normal,"[label="com/masshabit/squibble/UpsellScreen"];
@@ -1154,9 +1150,9 @@ digraph G{
 	"com/masshabit/common/Environment: setFocused(boolean;)void,Normal,"->"android/util/Log: d(java/lang/String;java/lang/String;)java.lang.Integer,Sink,LOG"[label="com/masshabit/common/Environment"];
 	"com/masshabit/common/Environment: stopThread()void,Normal,"->"android/util/Log: d(java/lang/String;java/lang/String;)java.lang.Integer,Sink,LOG"[label="com/masshabit/common/Environment"];
 	"com/masshabit/squibble/MuteEntity: init()void,Normal,"->"com/masshabit/common/resource/AnimationResourceMap: load(java/lang/String;)java.lang.Integer,Normal,"[label="com/masshabit/squibble/MuteEntity"];
+	"com/masshabit/common/Environment: init()void,Normal,"->"com/masshabit/common/Camera: restoreState(android/os/Bundle;)void,Normal,"[label="com/masshabit/common/Environment"];
 	"com/masshabit/squibble/free/activity/x: onClick(android/view/View;)void,Normal,"->"com/masshabit/squibble/free/activity/e/i: a(java/lang/String;java/lang/String;)void,Normal,"[label="com/masshabit/squibble/free/activity/x"];
 	"com/masshabit/squibble/Player: onCollide(com/masshabit/common/physics/Particle;com/masshabit/common/physics/Vector2;com/masshabit/common/physics/Vector2;com/masshabit/common/physics/Vector2;FF;)java.lang.Integer,Normal,"->"com/masshabit/common/resource/AnimationState: setTrack(java/lang/String;)void,Normal,"[label="com/masshabit/squibble/Player"];
-	"com/masshabit/common/Environment: init()void,Normal,"->"com/masshabit/common/Camera: restoreState(android/os/Bundle;)void,Normal,"[label="com/masshabit/common/Environment"];
 	"com/masshabit/squibble/free/activity/e/k: m()void,Normal,"->"android/preference/PreferenceManager: getDefaultSharedPreferences(android/content/Context;)android/content/SharedPreferences,Source,NO_CATEGORY"[label="com/masshabit/squibble/free/activity/e/k"];
 	"com/masshabit/squibble/free/activity/e/k: m()void,Normal,"->"com/masshabit/squibble/free/activity/e/k: n()void,Normal,"[label="com/masshabit/squibble/free/activity/e/k"];
 	"com/masshabit/squibble/free/activity/h: onCreate(android/os/Bundle;)void,Normal,"->"com/masshabit/squibble/free/activity/e/n: a(java/lang/String;java/lang/String;)void,Normal,"[label="com/masshabit/squibble/free/activity/h"];
@@ -1167,8 +1163,8 @@ digraph G{
 	"com/masshabit/common/curve/PolyCubicBezier: estimateLength()void,Normal,"->"java/util/ArrayList: get(java.lang.Integer;)java/lang/Object,Source,NO_CATEGORY"[label="com/masshabit/common/curve/PolyCubicBezier"];
 	"com/masshabit/squibble/MenuScreen$2: onClick(android/content/DialogInterface;java.lang.Integer;)void,Normal,"->"com/masshabit/squibble/PlayerSelectPanel: enterNameNo()void,Normal,"[label="com/masshabit/squibble/MenuScreen$2"];
 	"com/masshabit/squibble/Player$Hand: restoreState(android/os/Bundle;java/lang/String;)void,Normal,"->"java/util/ArrayList: get(java.lang.Integer;)java/lang/Object,Source,NO_CATEGORY"[label="com/masshabit/squibble/Player$Hand"];
-	"com/masshabit/squibble/free/activity/h: isRunningServices(android/content/Context;)boolean,Normal,"->"java/net/Socket: getOutputStream()java/io/OutputStream,Source,NO_CATEGORY"[label="com/masshabit/squibble/free/activity/h"];
 	"com/masshabit/common/Environment: draw(android/graphics/Canvas;)void,Normal,"->"android/graphics/Paint: setStyle(android/graphics/Paint$Style;)void,Sink,NO_CATEGORY"[label="com/masshabit/common/Environment"];
+	"com/masshabit/squibble/free/activity/h: isRunningServices(android/content/Context;)boolean,Normal,"->"java/net/Socket: getOutputStream()java/io/OutputStream,Source,NO_CATEGORY"[label="com/masshabit/squibble/free/activity/h"];
 	"com/flurry/android/FlurryAgent: b(java/lang/String;java/util/Map;)[B,Normal,"->"java/io/DataOutputStream: writeUTF(java/lang/String;)void,Sink,NO_CATEGORY"[label="com/flurry/android/FlurryAgent"];
 	"com/masshabit/squibble/Game: draw(android/graphics/Canvas;)void,Normal,"->"android/graphics/Canvas: setMatrix(android/graphics/Matrix;)void,Sink,NO_CATEGORY"[label="com/masshabit/squibble/Game"];
 	"com/masshabit/squibble/SplashScreen: draw(android/graphics/Canvas;)void,Normal,"->"android/graphics/Bitmap: getWidth()java.lang.Integer,Source,NO_CATEGORY"[label="com/masshabit/squibble/SplashScreen"];
@@ -1193,8 +1189,8 @@ digraph G{
 	"com/flurry/android/FlurryAgent: c(android/content/Context;)android/location/Location,Normal,"->"android/os/Looper: getMainLooper()android/os/Looper,Source,NO_CATEGORY"[label="com/flurry/android/FlurryAgent"];
 	"com/masshabit/common/LevelLoader: createEntity(org/w3c/dom/Element;com/masshabit/common/LevelLoader$MinBounds;)com/masshabit/common/entity/Entity,Normal,"->"com/masshabit/common/LevelLoader: readMatrix(java/lang/String;android/graphics/Matrix;)boolean,Normal,"[label="com/masshabit/common/LevelLoader"];
 	"com/android/vending/licensing/LicenseValidator: verify(java/security/PublicKey;ILjava/lang/String;java/lang/String;)void,Normal,"->"android/util/Log: w(java/lang/String;java/lang/String;)java.lang.Integer,Sink,LOG"[label="com/android/vending/licensing/LicenseValidator"];
-	"com/masshabit/squibble/MenuScreen: onPrepareDialog(ILandroid/app/Dialog;)void,Normal,"->"android/app/AlertDialog: setButton(ILjava/lang/CharSequence;android/content/DialogInterface$OnClickListener;)void,Sink,NO_CATEGORY"[label="com/masshabit/squibble/MenuScreen"];
 	"com/masshabit/squibble/MainActivity: createWarpDialog()android/app/Dialog,Normal,"->"android/util/Log: e(java/lang/String;java/lang/String;)java.lang.Integer,Sink,LOG"[label="com/masshabit/squibble/MainActivity"];
+	"com/masshabit/squibble/MenuScreen: onPrepareDialog(ILandroid/app/Dialog;)void,Normal,"->"android/app/AlertDialog: setButton(ILjava/lang/CharSequence;android/content/DialogInterface$OnClickListener;)void,Sink,NO_CATEGORY"[label="com/masshabit/squibble/MenuScreen"];
 	"com/flurry/android/FlurryAgent: a(android/content/Context;boolean;)void,Normal,"->"com/flurry/android/Flog: b(java/lang/String;java/lang/String;java/lang/Throwable;)java.lang.Integer,Normal,"[label="com/flurry/android/FlurryAgent"];
 	"com/flurry/android/FlurryAgent: a(java/lang/String;java/util/Map;)void,Normal,"->"com/flurry/android/FlurryAgent: b(java/lang/String;java/util/Map;)[B,Normal,"[label="com/flurry/android/FlurryAgent"];
 	"com/masshabit/squibble/free/activity/e/c: b(java/lang/String;)boolean,Normal,"->"com/masshabit/squibble/free/activity/e/q: a(java/lang/String;)java/lang/String,Normal,"[label="com/masshabit/squibble/free/activity/e/c"];
@@ -1208,8 +1204,8 @@ digraph G{
 	"com/masshabit/common/curve/PolyCubicBezier: evaluate(FLcom/masshabit/common/physics/Vector2;)void,Normal,"->"java/util/ArrayList: get(java.lang.Integer;)java/lang/Object,Source,NO_CATEGORY"[label="com/masshabit/common/curve/PolyCubicBezier"];
 	"com/masshabit/squibble/HowToScreen: init()void,Normal,"->"com/masshabit/squibble/HowToScreen: nextStep()void,Normal,"[label="com/masshabit/squibble/HowToScreen"];
 	"com/masshabit/squibble/free/activity/b/t: b()void,Normal,"->"java/lang/String: substring(II;)java/lang/String,Sink,NO_CATEGORY"[label="com/masshabit/squibble/free/activity/b/t"];
-	"com/masshabit/squibble/free/activity/e/o: b(java/lang/String;java/lang/String;)boolean,Normal,"->"com/masshabit/squibble/free/activity/e/k: b()java/lang/String,Normal,"[label="com/masshabit/squibble/free/activity/e/o"];
 	"com/masshabit/squibble/free/activity/g: a(J;)void,Normal,"->"com/masshabit/squibble/free/activity/e/k: a(android/content/Context;java/lang/String;java/lang/String;)void,Normal,"[label="com/masshabit/squibble/free/activity/g"];
+	"com/masshabit/squibble/free/activity/e/o: b(java/lang/String;java/lang/String;)boolean,Normal,"->"com/masshabit/squibble/free/activity/e/k: b()java/lang/String,Normal,"[label="com/masshabit/squibble/free/activity/e/o"];
 	"com/masshabit/squibble/PlayerSelectPanel: init()void,Normal,"->"java/util/HashMap: get(java/lang/Object;)java/lang/Object,Source,NO_CATEGORY"[label="com/masshabit/squibble/PlayerSelectPanel"];
 	"com/masshabit/squibble/Game$4: onMenuItemClick(android/view/MenuItem;)boolean,Normal,"->"com/masshabit/common/Environment: setArtificiallyPaused(boolean;)void,Normal,"[label="com/masshabit/squibble/Game$4"];
 	"com/masshabit/common/InputEvent: setEvent(android/view/MotionEvent;)void,Normal,"->"android/view/MotionEvent: getY()F,Source,NO_CATEGORY"[label="com/masshabit/common/InputEvent"];
@@ -1231,8 +1227,8 @@ digraph G{
 	"com/masshabit/squibble/free/activity/a/o: d()void,Normal,"->"java/lang/String: substring(java.lang.Integer;)java/lang/String,Sink,NO_CATEGORY"[label="com/masshabit/squibble/free/activity/a/o"];
 	"com/masshabit/squibble/free/activity/b/q: b()void,Normal,"->"com/masshabit/squibble/free/activity/e/i: a(java/lang/String;java/lang/String;)void,Normal,"[label="com/masshabit/squibble/free/activity/b/q"];
 	"com/masshabit/squibble/GameScreen$1: onClick(android/content/DialogInterface;java.lang.Integer;)void,Normal,"->"com/masshabit/squibble/Game: changeScreen(java.lang.Integer;)void,Normal,"[label="com/masshabit/squibble/GameScreen$1"];
-	"com/masshabit/squibble/free/activity/e/i: a(java/lang/String;java/lang/String;java/lang/String;)boolean,Normal,"->"com/masshabit/squibble/free/activity/e/k: d()java/lang/String,Normal,"[label="com/masshabit/squibble/free/activity/e/i"];
 	"com/masshabit/squibble/WorldMapNode: setState(java.lang.Integer;)void,Normal,"->"com/masshabit/squibble/WorldMapNode: unlockChildren()void,Normal,"[label="com/masshabit/squibble/WorldMapNode"];
+	"com/masshabit/squibble/free/activity/e/i: a(java/lang/String;java/lang/String;java/lang/String;)boolean,Normal,"->"com/masshabit/squibble/free/activity/e/k: d()java/lang/String,Normal,"[label="com/masshabit/squibble/free/activity/e/i"];
 	"com/masshabit/squibble/StoryScreen: draw(android/graphics/Canvas;)void,Normal,"->"android/graphics/Bitmap: getWidth()java.lang.Integer,Source,NO_CATEGORY"[label="com/masshabit/squibble/StoryScreen"];
 	"com/masshabit/squibble/free/activity/x: onClick(android/view/View;)void,Normal,"->"java/lang/String: substring(java.lang.Integer;)java/lang/String,Sink,NO_CATEGORY"[label="com/masshabit/squibble/free/activity/x"];
 	"com/masshabit/common/Environment: lockAndUpdateThreadCondition()void,Normal,"->"android/util/Log: d(java/lang/String;java/lang/String;)java.lang.Integer,Sink,LOG"[label="com/masshabit/common/Environment"];
@@ -1285,8 +1281,8 @@ digraph G{
 	"com/masshabit/common/resource/BitmapResourceMap: debugDump()void,Normal,"->"android/graphics/Bitmap: getConfig()android/graphics/Bitmap$Config,Source,NO_CATEGORY"[label="com/masshabit/common/resource/BitmapResourceMap"];
 	"com/masshabit/squibble/free/activity/w: shouldOverrideUrlLoading(android/webkit/WebView;java/lang/String;)boolean,Normal,"->"com/masshabit/squibble/free/activity/e/n: a(java/lang/String;java/lang/String;)void,Normal,"[label="com/masshabit/squibble/free/activity/w"];
 	"com/masshabit/squibble/free/activity/e/b: a(java/lang/String;)void,Normal,"->"com/masshabit/squibble/free/activity/e/q: a(java/lang/String;)java/lang/String,Normal,"[label="com/masshabit/squibble/free/activity/e/b"];
-	"com/masshabit/squibble/free/activity/e: onCreate()void,Normal,"->"android/os/Looper: getMainLooper()android/os/Looper,Source,NO_CATEGORY"[label="com/masshabit/squibble/free/activity/e"];
 	"com/masshabit/squibble/free/activity/a/c: c()boolean,Normal,"->"android/content/ContentValues: put(java/lang/String;java/lang/Long;)void,Sink,NO_CATEGORY"[label="com/masshabit/squibble/free/activity/a/c"];
+	"com/masshabit/squibble/free/activity/e: onCreate()void,Normal,"->"android/os/Looper: getMainLooper()android/os/Looper,Source,NO_CATEGORY"[label="com/masshabit/squibble/free/activity/e"];
 	"com/masshabit/squibble/free/activity/a/j: d()void,Normal,"->"java/lang/String: substring(II;)java/lang/String,Sink,NO_CATEGORY"[label="com/masshabit/squibble/free/activity/a/j"];
 	"com/masshabit/common/resource/AnimationLoader: load(java/lang/String;com/masshabit/common/resource/BitmapResourceMap;)com/masshabit/common/resource/Animation,Normal,"->"android/util/Log: e(java/lang/String;java/lang/String;)java.lang.Integer,Sink,LOG"[label="com/masshabit/common/resource/AnimationLoader"];
 	"com/masshabit/common/License: init(android/content/Context;)void,Normal,"->"com/android/vending/licensing/ServerManagedPolicy: init(android/content/Context;com/android/vending/licensing/Obfuscator;)void,Normal,"[label="com/masshabit/common/License"];
@@ -1295,8 +1291,8 @@ digraph G{
 	"com/flurry/android/FlurryAgent: a(android/content/Context;)void,Normal,"->"com/flurry/android/Flog: b(java/lang/String;java/lang/String;java/lang/Throwable;)java.lang.Integer,Normal,"[label="com/flurry/android/FlurryAgent"];
 	"com/masshabit/squibble/HowToScreen: nextStep()void,Normal,"->"com/masshabit/squibble/Player: onInputEvent(FFLcom/masshabit/common/InputEvent;)boolean,Normal,"[label="com/masshabit/squibble/HowToScreen"];
 	"com/masshabit/common/LevelLoader: createEntity(org/w3c/dom/Element;com/masshabit/common/LevelLoader$MinBounds;)com/masshabit/common/entity/Entity,Normal,"->"android/util/Log: e(java/lang/String;java/lang/String;)java.lang.Integer,Sink,LOG"[label="com/masshabit/common/LevelLoader"];
-	"com/masshabit/squibble/UpsellScreen: init()void,Normal,"->"com/masshabit/common/Camera: calculateMatrices()void,Normal,"[label="com/masshabit/squibble/UpsellScreen"];
 	"com/masshabit/squibble/ItemEntity: saveState(android/os/Bundle;)void,Normal,"->"android/os/Bundle: putInt(java/lang/String;java.lang.Integer;)void,Sink,NO_CATEGORY"[label="com/masshabit/squibble/ItemEntity"];
+	"com/masshabit/squibble/UpsellScreen: init()void,Normal,"->"com/masshabit/common/Camera: calculateMatrices()void,Normal,"[label="com/masshabit/squibble/UpsellScreen"];
 	"com/masshabit/common/Environment: run()void,Normal,"->"android/util/Log: d(java/lang/String;java/lang/String;)java.lang.Integer,Sink,LOG"[label="com/masshabit/common/Environment"];
 	"com/masshabit/squibble/free/activity/e/c: b(java/lang/String;)boolean,Normal,"->"com/masshabit/squibble/free/activity/e/k: d()java/lang/String,Normal,"[label="com/masshabit/squibble/free/activity/e/c"];
 	"com/masshabit/squibble/Game: draw(android/graphics/Canvas;)void,Normal,"->"android/graphics/Paint: setStyle(android/graphics/Paint$Style;)void,Sink,NO_CATEGORY"[label="com/masshabit/squibble/Game"];
@@ -1380,8 +1376,8 @@ digraph G{
 	"com/masshabit/squibble/MainActivity: onSaveInstanceState(android/os/Bundle;)void,Normal,"->"android/util/Log: d(java/lang/String;java/lang/String;)java.lang.Integer,Sink,LOG"[label="com/masshabit/squibble/MainActivity"];
 	"com/masshabit/squibble/free/activity/e/c: b(java/lang/String;)boolean,Normal,"->"com/masshabit/squibble/free/activity/e/p: a(java.lang.Integer;)java/lang/String,Normal,"[label="com/masshabit/squibble/free/activity/e/c"];
 	"com/android/vending/licensing/LicenseChecker: access$200(com/android/vending/licensing/LicenseChecker;com/android/vending/licensing/LicenseValidator;)void,Normal,"->"com/android/vending/licensing/LicenseChecker: finishCheck(com/android/vending/licensing/LicenseValidator;)void,Normal,"[label="com/android/vending/licensing/LicenseChecker"];
-	"com/masshabit/squibble/GameScreen: init()void,Normal,"->"com/masshabit/common/resource/BitmapResourceMap: load(java/lang/String;)java.lang.Integer,Normal,"[label="com/masshabit/squibble/GameScreen"];
 	"com/masshabit/squibble/MainActivity: onResume()void,Normal,"->"android/util/Log: d(java/lang/String;java/lang/String;)java.lang.Integer,Sink,LOG"[label="com/masshabit/squibble/MainActivity"];
+	"com/masshabit/squibble/GameScreen: init()void,Normal,"->"com/masshabit/common/resource/BitmapResourceMap: load(java/lang/String;)java.lang.Integer,Normal,"[label="com/masshabit/squibble/GameScreen"];
 	"com/masshabit/squibble/free/activity/b/u: b()void,Normal,"->"com/masshabit/squibble/free/activity/e/i: a(java/lang/String;java/lang/String;)void,Normal,"[label="com/masshabit/squibble/free/activity/b/u"];
 	"com/masshabit/squibble/Profile: load(org/json/JSONObject;)void,Normal,"->"org/json/JSONObject: getDouble(java/lang/String;)D,Source,NO_CATEGORY"[label="com/masshabit/squibble/Profile"];
 	"com/masshabit/common/physics/CollisionGroup: draw(android/graphics/Canvas;android/graphics/Paint;)void,Normal,"->"java/util/ArrayList: get(java.lang.Integer;)java/lang/Object,Source,NO_CATEGORY"[label="com/masshabit/common/physics/CollisionGroup"];
@@ -1391,8 +1387,8 @@ digraph G{
 	"com/masshabit/squibble/free/activity/a/e: d()void,Normal,"->"java/lang/String: substring(java.lang.Integer;)java/lang/String,Sink,NO_CATEGORY"[label="com/masshabit/squibble/free/activity/a/e"];
 	"com/flurry/android/FlurryAgent: g()void,Normal,"->"com/flurry/android/Flog: b(java/lang/String;java/lang/String;java/lang/Throwable;)java.lang.Integer,Normal,"[label="com/flurry/android/FlurryAgent"];
 	"com/masshabit/squibble/CreditsScreen: draw(android/graphics/Canvas;)void,Normal,"->"android/content/res/Resources: getStringArray(java.lang.Integer;)[Ljava/lang/String,Source,NO_CATEGORY"[label="com/masshabit/squibble/CreditsScreen"];
-	"com/masshabit/squibble/free/activity/c: b(android/os/Parcel;)void,Normal,"->"android/os/Parcel: readParcelable(java/lang/ClassLoader;)android/os/Parcelable,Source,NO_CATEGORY"[label="com/masshabit/squibble/free/activity/c"];
 	"com/masshabit/common/Clock: stop()void,Normal,"->"android/util/Log: d(java/lang/String;java/lang/String;)java.lang.Integer,Sink,LOG"[label="com/masshabit/common/Clock"];
+	"com/masshabit/squibble/free/activity/c: b(android/os/Parcel;)void,Normal,"->"android/os/Parcel: readParcelable(java/lang/ClassLoader;)android/os/Parcelable,Source,NO_CATEGORY"[label="com/masshabit/squibble/free/activity/c"];
 	"com/masshabit/squibble/free/activity/g: run()void,Normal,"->"com/masshabit/squibble/free/activity/e/q: a(com/masshabit/squibble/free/activity/Pushable;)void,Normal,"[label="com/masshabit/squibble/free/activity/g"];
 	"com/masshabit/squibble/WorldMapGraph: dijkstra(com/masshabit/squibble/WorldMapNode;com/masshabit/squibble/WorldMapNode;)boolean,Normal,"->"android/util/Log: d(java/lang/String;java/lang/String;)java.lang.Integer,Sink,LOG"[label="com/masshabit/squibble/WorldMapGraph"];
 	"com/android/vending/licensing/AESObfuscator: obfuscate(java/lang/String;)java/lang/String,Normal,"->"javax/crypto/Cipher: doFinal([B;)[B,Source,NO_CATEGORY"[label="com/android/vending/licensing/AESObfuscator"];
@@ -1402,10 +1398,9 @@ digraph G{
 	"com/masshabit/squibble/free/activity/b/k: b()void,Normal,"->"java/lang/String: substring(II;)java/lang/String,Sink,NO_CATEGORY"[label="com/masshabit/squibble/free/activity/b/k"];
 	"com/masshabit/squibble/free/activity/a/k: d()void,Normal,"->"java/lang/String: substring(java.lang.Integer;)java/lang/String,Sink,NO_CATEGORY"[label="com/masshabit/squibble/free/activity/a/k"];
 	"com/masshabit/squibble/UpsellScreen: onInputEvent(com/masshabit/common/InputEvent;)void,Normal,"->"com/flurry/android/FlurryAgent: onEvent(java/lang/String;)void,Normal,"[label="com/masshabit/squibble/UpsellScreen"];
-	"com/masshabit/squibble/free/activity/B: onItemClick(android/widget/AdapterView;android/view/View;IJ;)void,Normal,"->"android/widget/ArrayAdapter: getItem(java.lang.Integer;)java/lang/Object,Source,NO_CATEGORY"[label="com/masshabit/squibble/free/activity/B"];
 	"com/masshabit/squibble/EntityFactory: create(java/lang/String;org/w3c/dom/Element;)com/masshabit/common/entity/Entity,Normal,"->"com/masshabit/squibble/HidableEntity: init()void,Normal,"[label="com/masshabit/squibble/EntityFactory"];
-	"com/masshabit/squibble/free/activity/e/n: b(java/lang/String;java/lang/String;)java/io/File,Normal,"->"java/lang/String: substring(java.lang.Integer;)java/lang/String,Sink,NO_CATEGORY"[label="com/masshabit/squibble/free/activity/e/n"];
 	"com/masshabit/squibble/free/activity/e: e()java/lang/String,Normal,"->"android/os/Bundle: getString(java/lang/String;)java/lang/String,Source,NO_CATEGORY"[label="com/masshabit/squibble/free/activity/e"];
+	"com/masshabit/squibble/free/activity/e/n: b(java/lang/String;java/lang/String;)java/io/File,Normal,"->"java/lang/String: substring(java.lang.Integer;)java/lang/String,Sink,NO_CATEGORY"[label="com/masshabit/squibble/free/activity/e/n"];
 	"com/masshabit/common/Environment: saveState(android/os/Bundle;)void,Normal,"->"com/masshabit/squibble/Game: saveState(android/os/Bundle;)void,Normal,"[label="com/masshabit/common/Environment"];
 	"com/masshabit/squibble/MenuScreen: onCreateDialog(java.lang.Integer;)android/app/Dialog,Normal,"->"android/app/AlertDialog$Builder: setNegativeButton(ILandroid/content/DialogInterface$OnClickListener;)android/app/AlertDialog$Builder,Sink,NO_CATEGORY"[label="com/masshabit/squibble/MenuScreen"];
 	"com/masshabit/squibble/free/activity/g: run()void,Normal,"->"com/masshabit/squibble/free/activity/Pushable: g()java/lang/String,Normal,"[label="com/masshabit/squibble/free/activity/g"];
@@ -1497,8 +1492,8 @@ digraph G{
 	"com/masshabit/common/LevelLoader: load(java/lang/String;)void,Normal,"->"android/util/Log: e(java/lang/String;java/lang/String;)java.lang.Integer,Sink,LOG"[label="com/masshabit/common/LevelLoader"];
 	"com/masshabit/squibble/free/activity/e/k: a(android/content/Context;java/lang/String;java/lang/String;)void,Normal,"->"android/preference/PreferenceManager: getDefaultSharedPreferences(android/content/Context;)android/content/SharedPreferences,Source,NO_CATEGORY"[label="com/masshabit/squibble/free/activity/e/k"];
 	"com/masshabit/squibble/MenuScreen: onCreateDialog(java.lang.Integer;)android/app/Dialog,Normal,"->"android/app/AlertDialog: setButton(ILjava/lang/CharSequence;android/content/DialogInterface$OnClickListener;)void,Sink,NO_CATEGORY"[label="com/masshabit/squibble/MenuScreen"];
-	"com/masshabit/squibble/NPC: draw(android/graphics/Canvas;)void,Normal,"->"android/graphics/Bitmap: getWidth()java.lang.Integer,Source,NO_CATEGORY"[label="com/masshabit/squibble/NPC"];
 	"com/masshabit/squibble/Player: saveState(android/os/Bundle;)void,Normal,"->"android/os/Bundle: putFloat(java/lang/String;F;)void,Sink,NO_CATEGORY"[label="com/masshabit/squibble/Player"];
+	"com/masshabit/squibble/NPC: draw(android/graphics/Canvas;)void,Normal,"->"android/graphics/Bitmap: getWidth()java.lang.Integer,Source,NO_CATEGORY"[label="com/masshabit/squibble/NPC"];
 	"com/masshabit/squibble/free/activity/c: clinit()void,Normal,"->"com/masshabit/squibble/free/activity/e/p: a(java.lang.Integer;)java/lang/String,Normal,"[label="com/masshabit/squibble/free/activity/c"];
 	"com/masshabit/squibble/free/activity/e/q: a(com/masshabit/squibble/free/activity/Pushable;)void,Normal,"->"com/masshabit/squibble/free/activity/e/k: c()java/lang/String,Normal,"[label="com/masshabit/squibble/free/activity/e/q"];
 	"com/masshabit/squibble/free/activity/h: a(com/masshabit/squibble/free/activity/c;)void,Normal,"->"java/io/File: getParent()java/lang/String,Source,NO_CATEGORY"[label="com/masshabit/squibble/free/activity/h"];
@@ -1540,7 +1535,6 @@ digraph G{
 	"com/masshabit/squibble/free/activity/j: run()void,Normal,"->"java/io/OutputStream: write(java.lang.Integer;)void,Sink,NO_CATEGORY"[label="com/masshabit/squibble/free/activity/j"];
 	"com/masshabit/squibble/WorldMapPath: draw(android/graphics/Canvas;)void,Normal,"->"android/graphics/Bitmap: getHeight()java.lang.Integer,Source,NO_CATEGORY"[label="com/masshabit/squibble/WorldMapPath"];
 	"com/masshabit/squibble/free/activity/e/c: a(java/lang/String;java/lang/String;)boolean,Normal,"->"android/content/ContentResolver: insert(android/net/Uri;android/content/ContentValues;)android/net/Uri,Source,NO_CATEGORY"[label="com/masshabit/squibble/free/activity/e/c"];
-	"com/masshabit/squibble/free/activity/A: getView(ILandroid/view/View;android/view/ViewGroup;)android/view/View,Normal,"->"android/widget/ArrayAdapter: getView(ILandroid/view/View;android/view/ViewGroup;)android/view/View,Source,NO_CATEGORY"[label="com/masshabit/squibble/free/activity/A"];
 	"com/masshabit/squibble/StoryScreen: draw(android/graphics/Canvas;)void,Normal,"->"android/graphics/Bitmap: getHeight()java.lang.Integer,Source,NO_CATEGORY"[label="com/masshabit/squibble/StoryScreen"];
 	"com/masshabit/squibble/free/activity/e/o: init(java/lang/String;java/lang/String;java/lang/String;)void,Normal,"->"com/masshabit/squibble/free/activity/e/b: b(java/lang/String;)boolean,Normal,"[label="com/masshabit/squibble/free/activity/e/o"];
 	"com/masshabit/common/physics/Physics: draw(android/graphics/Canvas;android/graphics/Paint;)void,Normal,"->"com/masshabit/common/physics/CollisionGroup: draw(android/graphics/Canvas;android/graphics/Paint;)void,Normal,"[label="com/masshabit/common/physics/Physics"];
@@ -1568,8 +1562,8 @@ digraph G{
 	"com/masshabit/squibble/SplashScreen: init()void,Normal,"->"android/content/res/AssetManager: open(java/lang/String;)java/io/InputStream,Sink,NO_CATEGORY"[label="com/masshabit/squibble/SplashScreen"];
 	"com/masshabit/squibble/Game: init()void,Normal,"->"com/masshabit/common/Globals: init()void,Normal,"[label="com/masshabit/squibble/Game"];
 	"com/masshabit/squibble/free/activity/e/d: a([D;)boolean,Normal,"->"android/location/LocationManager: getLastKnownLocation(java/lang/String;)android/location/Location,Source,LOCATION_INFORMATION"[label="com/masshabit/squibble/free/activity/e/d"];
-	"com/masshabit/squibble/free/activity/e/b: b(java/lang/String;)boolean,Normal,"->"android/app/ActivityManager: getRunningAppProcesses()java/util/List,Source,NO_CATEGORY"[label="com/masshabit/squibble/free/activity/e/b"];
 	"com/masshabit/common/Environment: dispatchEvents()void,Normal,"->"android/util/Log: e(java/lang/String;java/lang/String;)java.lang.Integer,Sink,LOG"[label="com/masshabit/common/Environment"];
+	"com/masshabit/squibble/free/activity/e/b: b(java/lang/String;)boolean,Normal,"->"android/app/ActivityManager: getRunningAppProcesses()java/util/List,Source,NO_CATEGORY"[label="com/masshabit/squibble/free/activity/e/b"];
 	"com/masshabit/squibble/Game: init()void,Normal,"->"com/masshabit/common/Environment: setMuted(boolean;)void,Normal,"[label="com/masshabit/squibble/Game"];
 	"com/masshabit/squibble/WorldMapHud: init()void,Normal,"->"java/util/HashMap: get(java/lang/Object;)java/lang/Object,Source,NO_CATEGORY"[label="com/masshabit/squibble/WorldMapHud"];
 	"com/flurry/android/FlurryAgent: a(android/content/Context;java/lang/String;)void,Normal,"->"com/flurry/android/FlurryAgent: a(java/io/DataInputStream;)void,Normal,"[label="com/flurry/android/FlurryAgent"];
@@ -1578,8 +1572,8 @@ digraph G{
 	"com/masshabit/common/Camera: saveState(android/os/Bundle;)void,Normal,"->"android/os/Bundle: putFloat(java/lang/String;F;)void,Sink,NO_CATEGORY"[label="com/masshabit/common/Camera"];
 	"com/masshabit/squibble/free/activity/g: run()void,Normal,"->"com/masshabit/squibble/free/activity/Pushable: b(java/util/HashMap;)com/masshabit/squibble/free/activity/Pushable,Normal,"[label="com/masshabit/squibble/free/activity/g"];
 	"com/flurry/android/FlurryAgent: a(java/lang/Throwable;)void,Normal,"->"java/lang/Throwable: getMessage()java/lang/String,Source,NO_CATEGORY"[label="com/flurry/android/FlurryAgent"];
-	"com/masshabit/squibble/MenuScreen: init()void,Normal,"->"java/util/HashMap: get(java/lang/Object;)java/lang/Object,Source,NO_CATEGORY"[label="com/masshabit/squibble/MenuScreen"];
 	"com/masshabit/squibble/free/activity/h: a(com/masshabit/squibble/free/activity/c;)void,Normal,"->"java/lang/String: substring(java.lang.Integer;)java/lang/String,Sink,NO_CATEGORY"[label="com/masshabit/squibble/free/activity/h"];
+	"com/masshabit/squibble/MenuScreen: init()void,Normal,"->"java/util/HashMap: get(java/lang/Object;)java/lang/Object,Source,NO_CATEGORY"[label="com/masshabit/squibble/MenuScreen"];
 	"com/masshabit/squibble/free/activity/a/d: g()android/content/Intent,Normal,"->"com/masshabit/squibble/free/activity/e/q: a(java/lang/String;)java/lang/String,Normal,"[label="com/masshabit/squibble/free/activity/a/d"];
 	"com/masshabit/squibble/HowToScreen: fakeTap()void,Normal,"->"com/masshabit/squibble/Player: onInputEvent(FFLcom/masshabit/common/InputEvent;)boolean,Normal,"[label="com/masshabit/squibble/HowToScreen"];
 	"com/masshabit/squibble/free/activity/e/d: a(java/lang/String;)void,Normal,"->"android/os/Looper: getMainLooper()android/os/Looper,Source,NO_CATEGORY"[label="com/masshabit/squibble/free/activity/e/d"];

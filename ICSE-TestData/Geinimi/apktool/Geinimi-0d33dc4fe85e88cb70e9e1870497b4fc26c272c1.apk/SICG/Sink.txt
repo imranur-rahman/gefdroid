@@ -18,12 +18,12 @@ android/content/Intent: putExtra(java/lang/String;[Ljava/lang/String;)android/co
 android/telephony/SmsManager: sendTextMessage(java/lang/String;java/lang/String;java/lang/String;android/app/PendingIntent;android/app/PendingIntent;)void,SMS_MMS
 android/webkit/WebSettings: setJavaScriptEnabled(boolean;)void,NO_CATEGORY
 android/webkit/WebView: setWebChromeClient(android/webkit/WebChromeClient;)void,NO_CATEGORY
-android/content/ContentValues: put(java/lang/String;java/lang/String;)void,NO_CATEGORY
 android/content/ContentValues: put(java/lang/String;java/lang/Long;)void,NO_CATEGORY
+android/content/ContentValues: put(java/lang/String;java/lang/String;)void,NO_CATEGORY
 java/net/HttpURLConnection: setRequestMethod(java/lang/String;)void,NO_CATEGORY
 android/widget/TextView: setText(java.lang.Integer;)void,NO_CATEGORY
-android/widget/ProgressBar: setProgress(java.lang.Integer;)void,NO_CATEGORY
 android/app/WallpaperManager: setBitmap(android/graphics/Bitmap;)void,LOG
+android/widget/ProgressBar: setProgress(java.lang.Integer;)void,NO_CATEGORY
 android/app/NotificationManager: notify(ILandroid/app/Notification;)void,NO_CATEGORY
 android/content/Intent: putExtras(android/os/Bundle;)android/content/Intent,NO_CATEGORY
 android/content/Intent: setAction(java/lang/String;)android/content/Intent,NO_CATEGORY
@@ -31,8 +31,8 @@ android/app/AlertDialog$Builder: setTitle(java.lang.Integer;)android/app/AlertDi
 java/io/FileOutputStream: write([BII;)void,FILE
 android/net/wifi/WifiManager: setWifiEnabled(boolean;)boolean,NETWORK
 android/webkit/WebView: setWebViewClient(android/webkit/WebViewClient;)void,NO_CATEGORY
-android/widget/Spinner: setEnabled(boolean;)void,NO_CATEGORY
 android/app/AlertDialog$Builder: setNegativeButton(ILandroid/content/DialogInterface$OnClickListener;)android/app/AlertDialog$Builder,NO_CATEGORY
+android/widget/Spinner: setEnabled(boolean;)void,NO_CATEGORY
 android/app/AlertDialog$Builder: setPositiveButton(ILandroid/content/DialogInterface$OnClickListener;)android/app/AlertDialog$Builder,NO_CATEGORY
 java/io/DataOutputStream: write([B;)void,NO_CATEGORY
 android/app/AlertDialog$Builder: setNegativeButton(java/lang/CharSequence;android/content/DialogInterface$OnClickListener;)android/app/AlertDialog$Builder,NO_CATEGORY

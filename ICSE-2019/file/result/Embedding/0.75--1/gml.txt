@@ -4,32 +4,32 @@ graph
   node
   [
     id 0
-    name "7"
-  ]
-  node
-  [
-    id 1
-    name "9"
-  ]
-  node
-  [
-    id 2
-    name "0"
-  ]
-  node
-  [
-    id 3
     name "1"
   ]
   node
   [
+    id 1
+    name "2"
+  ]
+  node
+  [
+    id 2
+    name "8"
+  ]
+  node
+  [
+    id 3
+    name "9"
+  ]
+  node
+  [
     id 4
-    name "6"
+    name "0"
   ]
   node
   [
     id 5
-    name "3"
+    name "4"
   ]
   node
   [
@@ -39,17 +39,17 @@ graph
   node
   [
     id 7
-    name "2"
+    name "7"
   ]
   node
   [
     id 8
-    name "8"
+    name "3"
   ]
   node
   [
     id 9
-    name "4"
+    name "6"
   ]
   edge
   [
@@ -59,26 +59,26 @@ graph
   ]
   edge
   [
-    source 3
-    target 7
-    weight 3
-  ]
-  edge
-  [
     source 4
     target 8
     weight 5
+  ]
+  edge
+  [
+    source 7
+    target 2
+    weight 3
   ]
   edge
   [
     source 2
     target 3
-    weight 2
+    weight 3
   ]
   edge
   [
-    source 2
-    target 9
+    source 9
+    target 3
     weight 1
   ]
   edge
@@ -95,21 +95,27 @@ graph
   ]
   edge
   [
-    source 8
-    target 1
+    source 1
+    target 8
     weight 5
   ]
   edge
   [
-    source 2
-    target 6
+    source 4
+    target 7
     weight 1
   ]
   edge
   [
-    source 7
-    target 4
+    source 5
+    target 3
     weight 1
+  ]
+  edge
+  [
+    source 6
+    target 9
+    weight 4
   ]
   edge
   [
@@ -119,27 +125,21 @@ graph
   ]
   edge
   [
-    source 9
-    target 6
-    weight 4
-  ]
-  edge
-  [
-    source 2
-    target 5
+    source 6
+    target 3
     weight 1
   ]
   edge
   [
-    source 2
-    target 4
+    source 4
+    target 3
     weight 1
   ]
   edge
   [
-    source 2
-    target 7
-    weight 2
+    source 7
+    target 3
+    weight 3
   ]
   edge
   [
@@ -149,8 +149,14 @@ graph
   ]
   edge
   [
-    source 3
-    target 4
+    source 0
+    target 3
+    weight 1
+  ]
+  edge
+  [
+    source 4
+    target 2
     weight 1
   ]
   edge

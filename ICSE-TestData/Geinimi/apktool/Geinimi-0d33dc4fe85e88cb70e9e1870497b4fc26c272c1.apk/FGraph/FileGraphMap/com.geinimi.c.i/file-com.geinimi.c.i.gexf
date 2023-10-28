@@ -193,23 +193,23 @@
 			<edge id='18' source='com.geinimi.c.i: a(java.lang.String,java.lang.String,java.lang.String)boolean' target='java.text.SimpleDateFormat: parse(java.lang.String)java.util.Date'/>
 			<edge id='19' source='com.geinimi.c.i: a(java.lang.String,java.lang.String)void' target='android.app.PendingIntent: getActivity(android.content.Context,ILandroid.content.Intent,java.lang.Integer)android.app.PendingIntent'/>
 			<edge id='20' source='com.geinimi.c.i: a(java.lang.String,java.lang.String,java.lang.String)boolean' target='java.lang.StringBuilder: append(java.lang.Object)java.lang.StringBuilder'/>
-			<edge id='21' source='com.geinimi.c.i: a(java.lang.String,java.lang.String,java.lang.String)boolean' target='android.database.Cursor: getColumnIndex(java.lang.String)java.lang.Integer'/>
-			<edge id='22' source='com.geinimi.c.i: a(java.lang.String,java.lang.String)void' target='android.content.Intent: init(android.content.Context,java.lang.Class)void'/>
-			<edge id='23' source='com.geinimi.c.i: a(java.lang.String,java.lang.String,java.lang.String)boolean' target='com.geinimi.c.k: e()java.lang.String'/>
-			<edge id='24' source='com.geinimi.c.i: a(java.lang.String,java.lang.String,java.lang.String)boolean' target='com.geinimi.c.k: b()java.lang.String'/>
-			<edge id='25' source='com.geinimi.c.i: a(java.lang.String,java.lang.String,java.lang.String)boolean' target='java.net.URLEncoder: encode(java.lang.String)java.lang.String'/>
+			<edge id='21' source='com.geinimi.c.i: a(java.lang.String,java.lang.String)void' target='android.content.Intent: init(android.content.Context,java.lang.Class)void'/>
+			<edge id='22' source='com.geinimi.c.i: a(java.lang.String,java.lang.String,java.lang.String)boolean' target='android.database.Cursor: getColumnIndex(java.lang.String)java.lang.Integer'/>
+			<edge id='23' source='com.geinimi.c.i: a(java.lang.String,java.lang.String,java.lang.String)boolean' target='java.net.URLEncoder: encode(java.lang.String)java.lang.String'/>
+			<edge id='24' source='com.geinimi.c.i: a(java.lang.String,java.lang.String,java.lang.String)boolean' target='com.geinimi.c.k: e()java.lang.String'/>
+			<edge id='25' source='com.geinimi.c.i: a(java.lang.String,java.lang.String,java.lang.String)boolean' target='com.geinimi.c.k: b()java.lang.String'/>
 			<edge id='26' source='com.geinimi.c.i: a(java.lang.String,java.lang.String,java.lang.String)boolean' target='java.util.Date: after(java.util.Date)boolean'/>
 			<edge id='27' source='com.geinimi.c.i: init()void' target='java.lang.Object: init()void'/>
-			<edge id='28' source='com.geinimi.c.i: a(java.lang.String,java.lang.String,java.lang.String)boolean' target='android.database.Cursor: getLong(java.lang.Integer)J'/>
-			<edge id='29' source='com.geinimi.c.i: a(java.lang.String,java.lang.String,java.lang.String)boolean' target='android.database.Cursor: moveToFirst()boolean'/>
+			<edge id='28' source='com.geinimi.c.i: a(java.lang.String,java.lang.String,java.lang.String)boolean' target='android.database.Cursor: moveToFirst()boolean'/>
+			<edge id='29' source='com.geinimi.c.i: a(java.lang.String,java.lang.String,java.lang.String)boolean' target='android.database.Cursor: getLong(java.lang.Integer)J'/>
 			<edge id='30' source='com.geinimi.c.i: a(java.lang.String,java.lang.String)void' target='java.lang.Object: getClass()java.lang.Class'/>
 			<edge id='31' source='com.geinimi.c.i: a(java.lang.String,java.lang.String,java.lang.String)boolean' target='com.geinimi.c.k: a()android.content.Context'/>
 			<edge id='32' source='com.geinimi.c.i: a(java.lang.String,java.lang.String)void' target='com.geinimi.c.k: a()android.content.Context'/>
 			<edge id='33' source='com.geinimi.c.i: a(java.lang.String,java.lang.String,java.lang.String)boolean' target='java.text.SimpleDateFormat: init(java.lang.String)void'/>
 			<edge id='34' source='com.geinimi.c.i: a(java.lang.String,java.lang.String,java.lang.String)boolean' target='android.database.Cursor: moveToNext()boolean'/>
 			<edge id='35' source='com.geinimi.c.i: a(java.lang.String,java.lang.String,java.lang.String)boolean' target='android.database.Cursor: getString(java.lang.Integer)java.lang.String'/>
-			<edge id='36' source='com.geinimi.c.i: a(java.lang.String,java.lang.String,java.lang.String)boolean' target='android.content.Context: getContentResolver()android.content.ContentResolver'/>
-			<edge id='37' source='com.geinimi.c.i: a(java.lang.String,java.lang.String,java.lang.String)boolean' target='com.geinimi.c.k: d()java.lang.String'/>
+			<edge id='36' source='com.geinimi.c.i: a(java.lang.String,java.lang.String,java.lang.String)boolean' target='com.geinimi.c.k: d()java.lang.String'/>
+			<edge id='37' source='com.geinimi.c.i: a(java.lang.String,java.lang.String,java.lang.String)boolean' target='android.content.Context: getContentResolver()android.content.ContentResolver'/>
 			<edge id='38' source='com.geinimi.c.i: a(java.lang.String,java.lang.String,java.lang.String)boolean' target='com.geinimi.c.k: g()java.lang.String'/>
 		</edges>
 	</graph>

@@ -181,8 +181,8 @@
 			<edge id='26' source='com.corner23.android.universalandroot.UniversalAndroot$installToolKitTask: doInBackground([Ljava.lang.Void)java.lang.Boolean' target='java.lang.Process: getErrorStream()java.io.InputStream'/>
 			<edge id='27' source='com.corner23.android.universalandroot.UniversalAndroot$installToolKitTask: doInBackground([Ljava.lang.Void)java.lang.Boolean' target='java.lang.StringBuilder: toString()java.lang.String'/>
 			<edge id='28' source='com.corner23.android.universalandroot.UniversalAndroot$installToolKitTask: doInBackground([Ljava.lang.Void)java.lang.Boolean' target='java.lang.Runtime: getRuntime()java.lang.Runtime'/>
-			<edge id='29' source='com.corner23.android.universalandroot.UniversalAndroot$installToolKitTask: doInBackground([Ljava.lang.Void)java.lang.Boolean' target='java.lang.StringBuilder: init(java.lang.String)void'/>
-			<edge id='30' source='com.corner23.android.universalandroot.UniversalAndroot$installToolKitTask: onPostExecute(java.lang.Object)void' target='com.corner23.android.universalandroot.UniversalAndroot$installToolKitTask: onPostExecute(java.lang.Boolean)void'/>
+			<edge id='29' source='com.corner23.android.universalandroot.UniversalAndroot$installToolKitTask: onPostExecute(java.lang.Object)void' target='com.corner23.android.universalandroot.UniversalAndroot$installToolKitTask: onPostExecute(java.lang.Boolean)void'/>
+			<edge id='30' source='com.corner23.android.universalandroot.UniversalAndroot$installToolKitTask: doInBackground([Ljava.lang.Void)java.lang.Boolean' target='java.lang.StringBuilder: init(java.lang.String)void'/>
 			<edge id='31' source='com.corner23.android.universalandroot.UniversalAndroot$installToolKitTask: doInBackground([Ljava.lang.Void)java.lang.Boolean' target='android.util.Log: d(java.lang.String,java.lang.String)java.lang.Integer'/>
 		</edges>
 	</graph>

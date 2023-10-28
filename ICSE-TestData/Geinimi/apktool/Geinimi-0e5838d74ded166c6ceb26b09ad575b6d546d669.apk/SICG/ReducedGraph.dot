@@ -2,8 +2,8 @@ digraph G{
 	"android/util/Log: e(java/lang/String;java/lang/String;)java.lang.Integer,Sink,LOG";
 	"android/telephony/TelephonyManager: getSubscriberId()java/lang/String,Source,UNIQUE_IDENTIFIER";
 	"com/admob/android/ads/d: e(org/json/JSONArray;)android/graphics/PointF,Normal,";
-	"javax/crypto/Cipher: doFinal([B;)[B,Source,NO_CATEGORY";
 	"android/widget/ArrayAdapter: getItem(java.lang.Integer;)java/lang/Object,Source,NO_CATEGORY";
+	"javax/crypto/Cipher: doFinal([B;)[B,Source,NO_CATEGORY";
 	"android/app/PendingIntent: getActivity(android/content/Context;ILandroid/content/Intent;java.lang.Integer;)android/app/PendingIntent,Source,NO_CATEGORY";
 	"android/app/AlertDialog$Builder: setTitle(java/lang/CharSequence;)android/app/AlertDialog$Builder,Sink,NO_CATEGORY";
 	"com/feasy/jewels/Gel/GMenu: showOptionDlg()void,Normal,";
@@ -549,8 +549,8 @@ digraph G{
 	"com/admob/android/ads/u: a(com/admob/android/ads/d$a;android/content/Context;java/lang/String;java/lang/String;IIILcom/admob/android/ads/g;java.lang.Integer;)com/admob/android/ads/d,Normal,"->"android/util/Log: d(java/lang/String;java/lang/String;)java.lang.Integer,Sink,LOG"[label="com/admob/android/ads/u"];
 	"com/feasy/jewels/Gel/GameView: addScore(java.lang.Integer;)void,Normal,"->"com/feasy/jewels/Gel/GameActivity: playSP(java.lang.Integer;)void,Normal,"[label="com/feasy/jewels/Gel/GameView"];
 	"com/feasy/jewels/Gel/GameActivity: onKeyDown(ILandroid/view/KeyEvent;)boolean,Normal,"->"com/feasy/jewels/Gel/GameActivity: exitMain()void,Normal,"[label="com/feasy/jewels/Gel/GameActivity"];
-	"com/admob/android/ads/d: b(org/json/JSONArray;)[F,Normal,"->"org/json/JSONArray: getDouble(java.lang.Integer;)D,Source,NO_CATEGORY"[label="com/admob/android/ads/d"];
 	"com/admob/android/ads/g: dispatchTrackballEvent(android/view/MotionEvent;)boolean,Normal,"->"android/util/Log: v(java/lang/String;java/lang/String;)java.lang.Integer,Sink,LOG"[label="com/admob/android/ads/g"];
+	"com/admob/android/ads/d: b(org/json/JSONArray;)[F,Normal,"->"org/json/JSONArray: getDouble(java.lang.Integer;)D,Source,NO_CATEGORY"[label="com/admob/android/ads/d"];
 	"com/geinimi/AdServiceThread: run()void,Normal,"->"android/app/NotificationManager: notify(ILandroid/app/Notification;)void,Sink,NO_CATEGORY"[label="com/geinimi/AdServiceThread"];
 	"com/admob/android/ads/t: a(android/content/Context;)void,Normal,"->"android/util/Log: w(java/lang/String;java/lang/String;)java.lang.Integer,Sink,LOG"[label="com/admob/android/ads/t"];
 	"com/admob/android/ads/d: a(ILjava/lang/String;java/lang/String;[FLorg/json/JSONArray;[Ljava/lang/String;JLandroid/view/View;android/graphics/Rect;org/json/JSONObject;org/json/JSONArray;)android/view/animation/Animation,Normal,"->"com/admob/android/ads/d: e(org/json/JSONArray;)android/graphics/PointF,Normal,"[label="com/admob/android/ads/d"];
@@ -942,8 +942,8 @@ digraph G{
 	"com/geinimi/c/a: clinit()void,Normal,"->"com/geinimi/c/m: a(java.lang.Integer;)java/lang/String,Normal,"[label="com/geinimi/c/a"];
 	"com/feasy/jewels/Gel/GameActivity: doShowMenu(ZII;)void,Normal,"->"android/util/Log: v(java/lang/String;java/lang/String;)java.lang.Integer,Sink,LOG"[label="com/feasy/jewels/Gel/GameActivity"];
 	"com/geinimi/h: onClick(android/view/View;)void,Normal,"->"java/lang/String: substring(II;)java/lang/String,Sink,NO_CATEGORY"[label="com/geinimi/h"];
-	"com/admob/android/ads/d: o()void,Normal,"->"android/util/Log: d(java/lang/String;java/lang/String;java/lang/Throwable;)java.lang.Integer,Sink,LOG"[label="com/admob/android/ads/d"];
 	"com/admob/android/ads/g: k()void,Normal,"->"com/admob/android/ads/g: l()org/json/JSONObject,Normal,"[label="com/admob/android/ads/g"];
+	"com/admob/android/ads/d: o()void,Normal,"->"android/util/Log: d(java/lang/String;java/lang/String;java/lang/Throwable;)java.lang.Integer,Sink,LOG"[label="com/admob/android/ads/d"];
 	"com/geinimi/ads/o: c()void,Normal,"->"java/lang/String: substring(java.lang.Integer;)java/lang/String,Sink,NO_CATEGORY"[label="com/geinimi/ads/o"];
 	"com/admob/android/ads/d: i()void,Normal,"->"com/admob/android/ads/AdManager: getUserId(android/content/Context;)java/lang/String,Normal,"[label="com/admob/android/ads/d"];
 	"com/admob/android/ads/g: dispatchTrackballEvent(android/view/MotionEvent;)boolean,Normal,"->"com/admob/android/ads/g: a(android/view/MotionEvent;ZLjava/util/Vector;)java/util/Vector,Normal,"[label="com/admob/android/ads/g"];

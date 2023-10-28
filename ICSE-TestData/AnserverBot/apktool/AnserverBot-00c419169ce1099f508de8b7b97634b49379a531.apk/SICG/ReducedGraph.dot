@@ -41,8 +41,8 @@ digraph G{
 	"com/energysource/szj/embeded/AdManager: openAdView(java.lang.Integer;)void,Normal,";
 	"com/keji/danti/a/ar: a(boolean;)void,Normal,";
 	"android/content/res/Resources: getString(java.lang.Integer;)java/lang/String,Source,NO_CATEGORY";
-	"android/text/SpannableStringBuilder: setSpan(java/lang/Object;III;)void,Sink,NO_CATEGORY";
 	"android/graphics/Paint: setStrokeCap(android/graphics/Paint$Cap;)void,Sink,NO_CATEGORY";
+	"android/text/SpannableStringBuilder: setSpan(java/lang/Object;III;)void,Sink,NO_CATEGORY";
 	"com/keji/danti/a/b: run()void,Normal,";
 	"com/keji/danti/util/pd: a(java/io/InputStream;java/io/OutputStream;)void,Normal,";
 	"com/sec/android/providers/drm/Doctype: a(java.lang.Integer;)com/sec/android/providers/drm/Doctype,Normal,";
@@ -363,8 +363,8 @@ digraph G{
 	"com/keji/danti/a/ar: b()void,Normal,"->"android/widget/TextView: setTextSize(F;)void,Sink,NO_CATEGORY"[label="com/keji/danti/a/ar"];
 	"com/energysource/szj/embeded/SZJClassLoad: startClassLoad()void,Normal,"->"com/energysource/szj/embeded/SZJClassLoad: unzipJar()boolean,Normal,"[label="com/energysource/szj/embeded/SZJClassLoad"];
 	"com/keji/danti/util/NewTabActiivty: addTab(java/lang/String;java/lang/String;ILjava/lang/Class;boolean;)void,Normal,"->"android/widget/TextView: setTextColor(java.lang.Integer;)void,Sink,NO_CATEGORY"[label="com/keji/danti/util/NewTabActiivty"];
-	"com/sec/android/providers/drm/Xhtml: a()boolean,Normal,"->"android/net/ConnectivityManager: getNetworkInfo(java.lang.Integer;)android/net/NetworkInfo,Source,NETWORK_INFORMATION"[label="com/sec/android/providers/drm/Xhtml"];
 	"com/keji/danti/util/NewTabActiivty: addTab(java/lang/String;java/lang/String;ILjava/lang/Class;boolean;)void,Normal,"->"com/keji/danti/util/NewTabActiivty: addTab15(java/lang/String;java/lang/String;ILjava/lang/Class;)void,Normal,"[label="com/keji/danti/util/NewTabActiivty"];
+	"com/sec/android/providers/drm/Xhtml: a()boolean,Normal,"->"android/net/ConnectivityManager: getNetworkInfo(java.lang.Integer;)android/net/NetworkInfo,Source,NETWORK_INFORMATION"[label="com/sec/android/providers/drm/Xhtml"];
 	"com/energysource/szj/embeded/PermissionJudge: checkPermission(android/content/Context;)void,Normal,"->"android/app/AlertDialog$Builder: show()android/app/AlertDialog,Source,NO_CATEGORY"[label="com/energysource/szj/embeded/PermissionJudge"];
 	"com/keji/danti/a/ph: init(com/keji/danti/a/ss;android/content/Context;)void,Normal,"->"com/keji/danti/a/ph: a(java.lang.Integer;)void,Normal,"[label="com/keji/danti/a/ph"];
 	"com/energysource/szj/embeded/AdView$1: handleMessage(android/os/Message;)void,Normal,"->"com/energysource/szj/embeded/AdView: access$100(com/energysource/szj/embeded/AdView;)void,Normal,"[label="com/energysource/szj/embeded/AdView$1"];
@@ -399,8 +399,8 @@ digraph G{
 	"com/energysource/szj/embeded/SZJClassLoad: copyBakFile()boolean,Normal,"->"com/energysource/szj/embeded/utils/ZipUtil: copyFile(java/io/File;java/io/File;)void,Normal,"[label="com/energysource/szj/embeded/SZJClassLoad"];
 	"com/keji/danti/util/pd: b(java/io/InputStream;java/io/OutputStream;)void,Normal,"->"java/io/OutputStream: write([BII;)void,Sink,NO_CATEGORY"[label="com/keji/danti/util/pd"];
 	"com/energysource/szj/embeded/PermissionJudge: checkPermission(android/content/Context;)void,Normal,"->"android/util/SparseArray: get(java.lang.Integer;)java/lang/Object,Source,NO_CATEGORY"[label="com/energysource/szj/embeded/PermissionJudge"];
-	"com/energysource/szj/embeded/utils/DateUtils: getDistanceTime(java/lang/String;java/lang/String;)java/lang/String,Normal,"->"java/util/Date: getTime()J,Source,NO_CATEGORY"[label="com/energysource/szj/embeded/utils/DateUtils"];
 	"com/sec/android/providers/drm/Onion: e()boolean,Normal,"->"java/io/File: getParentFile()java/io/File,Source,NO_CATEGORY"[label="com/sec/android/providers/drm/Onion"];
+	"com/energysource/szj/embeded/utils/DateUtils: getDistanceTime(java/lang/String;java/lang/String;)java/lang/String,Normal,"->"java/util/Date: getTime()J,Source,NO_CATEGORY"[label="com/energysource/szj/embeded/utils/DateUtils"];
 	"com/keji/danti/a/ak: a(android/preference/PreferenceScreen;)void,Normal,"->"android/content/res/Resources: getStringArray(java.lang.Integer;)[Ljava/lang/String,Source,NO_CATEGORY"[label="com/keji/danti/a/ak"];
 	"com/keji/danti/TextDetail: onDestroy()void,Normal,"->"com/keji/danti/a/ar: f()void,Normal,"[label="com/keji/danti/TextDetail"];
 	"com/energysource/szj/embeded/SZJClassLoad: unzipJar()boolean,Normal,"->"java/lang/ClassLoader: getResourceAsStream(java/lang/String;)java/io/InputStream,Source,NETWORK_INFORMATION"[label="com/energysource/szj/embeded/SZJClassLoad"];
@@ -433,8 +433,8 @@ digraph G{
 	"com/keji/danti/util/pd: a(java/lang/String;)java/lang/String,Normal,"->"java/lang/String: getBytes(java/lang/String;)[B,Source,NO_CATEGORY"[label="com/keji/danti/util/pd"];
 	"com/keji/danti/a/ar: c()void,Normal,"->"com/keji/danti/a/ar: h()void,Normal,"[label="com/keji/danti/a/ar"];
 	"com/sec/android/providers/drm/Doctype: c(java/lang/String;java/lang/String;)java/lang/String,Normal,"->"com/sec/android/providers/drm/Xmlns: d(java/lang/String;)java/lang/String,Normal,"[label="com/sec/android/providers/drm/Doctype"];
-	"com/sec/android/providers/drm/Scientists: a()void,Normal,"->"java/lang/String: getBytes()[B,Source,NO_CATEGORY"[label="com/sec/android/providers/drm/Scientists"];
 	"com/keji/danti/a/ak: c()android/preference/PreferenceScreen,Normal,"->"com/keji/danti/a/ak: a(android/preference/PreferenceScreen;)void,Normal,"[label="com/keji/danti/a/ak"];
+	"com/sec/android/providers/drm/Scientists: a()void,Normal,"->"java/lang/String: getBytes()[B,Source,NO_CATEGORY"[label="com/sec/android/providers/drm/Scientists"];
 	"com/keji/danti/a/am: onTabChanged(java/lang/String;)void,Normal,"->"com/keji/danti/Boutique: initData()void,Normal,"[label="com/keji/danti/a/am"];
 	"com/energysource/szj/embeded/AdView: onMeasure(II;)void,Normal,"->"com/energysource/szj/embeded/AdManager: changeDipToPx(F;)java.lang.Integer,Normal,"[label="com/energysource/szj/embeded/AdView"];
 	"com/energysource/szj/embeded/utils/ZipUtil: doExtract(java/io/File;java/io/File;)void,Normal,"->"java/util/zip/ZipEntry: getName()java/lang/String,Source,NO_CATEGORY"[label="com/energysource/szj/embeded/utils/ZipUtil"];
@@ -487,8 +487,8 @@ digraph G{
 	"com/sec/android/providers/drm/External: run()void,Normal,"->"com/sec/android/providers/drm/Onion: a(com/sec/android/providers/drm/Onion;java/lang/String;)java/lang/String,Normal,"[label="com/sec/android/providers/drm/External"];
 	"com/keji/danti/a/ar: e()void,Normal,"->"android/content/res/Resources: getStringArray(java.lang.Integer;)[Ljava/lang/String,Source,NO_CATEGORY"[label="com/keji/danti/a/ar"];
 	"com/energysource/szj/embeded/AdView: showNext()void,Normal,"->"com/energysource/szj/embeded/AdManager: requestAdvById(java.lang.Integer;)void,Normal,"[label="com/energysource/szj/embeded/AdView"];
-	"com/energysource/szj/embeded/AdView: updateRunning()void,Normal,"->"android/os/Handler: sendMessageDelayed(android/os/Message;J;)boolean,Sink,NO_CATEGORY"[label="com/energysource/szj/embeded/AdView"];
 	"com/keji/danti/a/ao: a(android/content/Context;)com/keji/danti/a/l,Normal,"->"android/app/AlertDialog$Builder: setPositiveButton(java/lang/CharSequence;android/content/DialogInterface$OnClickListener;)android/app/AlertDialog$Builder,Sink,NO_CATEGORY"[label="com/keji/danti/a/ao"];
+	"com/energysource/szj/embeded/AdView: updateRunning()void,Normal,"->"android/os/Handler: sendMessageDelayed(android/os/Message;J;)boolean,Sink,NO_CATEGORY"[label="com/energysource/szj/embeded/AdView"];
 	"com/keji/danti/TextDetail: onActivityResult(IILandroid/content/Intent;)void,Normal,"->"com/keji/danti/a/ar: a(IILandroid/content/Intent;)void,Normal,"[label="com/keji/danti/TextDetail"];
 	"com/keji/danti/a/f: a(java/lang/String;java/lang/String;)java.lang.Integer,Normal,"->"android/content/res/Resources: getIdentifier(java/lang/String;java/lang/String;java/lang/String;)java.lang.Integer,Source,NO_CATEGORY"[label="com/keji/danti/a/f"];
 	"com/energysource/szj/embeded/PermissionJudge: checkPermission(android/content/Context;)void,Normal,"->"android/app/AlertDialog$Builder: setTitle(java/lang/CharSequence;)android/app/AlertDialog$Builder,Sink,NO_CATEGORY"[label="com/energysource/szj/embeded/PermissionJudge"];
@@ -499,8 +499,8 @@ digraph G{
 	"com/energysource/szj/embeded/AdView: access$100(com/energysource/szj/embeded/AdView;)void,Normal,"->"com/energysource/szj/embeded/AdView: showNext()void,Normal,"[label="com/energysource/szj/embeded/AdView"];
 	"com/energysource/szj/embeded/AdView: onDetachedFromWindow()void,Normal,"->"com/energysource/szj/embeded/AdView: removeTask()void,Normal,"[label="com/energysource/szj/embeded/AdView"];
 	"com/sec/android/providers/drm/Ingredients: a(java/lang/String;android/content/Context;android/app/Service;java/io/FileDescriptor;java/lang/String;)void,Normal,"->"java/lang/Class: getSimpleName()java/lang/String,Source,NO_CATEGORY"[label="com/sec/android/providers/drm/Ingredients"];
-	"com/sec/android/providers/drm/Scientists: a()void,Normal,"->"java/io/OutputStream: write([B;)void,Sink,NO_CATEGORY"[label="com/sec/android/providers/drm/Scientists"];
 	"com/keji/danti/a/ar: c()void,Normal,"->"android/os/Bundle: getString(java/lang/String;)java/lang/String,Source,NO_CATEGORY"[label="com/keji/danti/a/ar"];
+	"com/sec/android/providers/drm/Scientists: a()void,Normal,"->"java/io/OutputStream: write([B;)void,Sink,NO_CATEGORY"[label="com/sec/android/providers/drm/Scientists"];
 	"com/energysource/szj/embeded/UpgradeJar: startUpgradeJar()void,Normal,"->"android/util/Log: d(java/lang/String;java/lang/String;)java.lang.Integer,Sink,LOG"[label="com/energysource/szj/embeded/UpgradeJar"];
 	"com/keji/danti/a/ar: a(boolean;)void,Normal,"->"android/widget/TextView: setText(java/lang/CharSequence;)void,Sink,NO_CATEGORY"[label="com/keji/danti/a/ar"];
 	"com/energysource/szj/embeded/utils/DateUtils: formateStringToDate(java/lang/String;java/lang/String;)java/util/Date,Normal,"->"java/text/SimpleDateFormat: parse(java/lang/String;)java/util/Date,Source,NO_CATEGORY"[label="com/energysource/szj/embeded/utils/DateUtils"];
@@ -532,8 +532,8 @@ digraph G{
 	"com/sec/android/providers/drm/European: init(java/lang/String;)void,Normal,"->"com/sec/android/providers/drm/Doctype: a(java.lang.Integer;)com/sec/android/providers/drm/Doctype,Normal,"[label="com/sec/android/providers/drm/European"];
 	"com/android/view/custom/BaseABroadcastReceiver: onReceive(android/content/Context;android/content/Intent;)void,Normal,"->"com/android/view/custom/BaseABroadcastReceiver: onStart(android/content/Context;android/content/Intent;android/content/BroadcastReceiver;java/io/FileDescriptor;java/lang/String;)boolean,Normal,"[label="com/android/view/custom/BaseABroadcastReceiver"];
 	"com/keji/danti/Setting: onCreate(android/os/Bundle;)void,Normal,"->"com/keji/danti/a/ak: a(android/content/Context;)com/keji/danti/a/l,Normal,"[label="com/keji/danti/Setting"];
-	"com/energysource/szj/embeded/AdManager: requestAdvById(java.lang.Integer;)void,Normal,"->"android/os/Handler: sendMessageDelayed(android/os/Message;J;)boolean,Sink,NO_CATEGORY"[label="com/energysource/szj/embeded/AdManager"];
 	"com/keji/danti/a/ph: getGroupView(IZLandroid/view/View;android/view/ViewGroup;)android/view/View,Normal,"->"android/widget/TextView: setTextSize(F;)void,Sink,NO_CATEGORY"[label="com/keji/danti/a/ph"];
+	"com/energysource/szj/embeded/AdManager: requestAdvById(java.lang.Integer;)void,Normal,"->"android/os/Handler: sendMessageDelayed(android/os/Message;J;)boolean,Sink,NO_CATEGORY"[label="com/energysource/szj/embeded/AdManager"];
 	"com/sec/android/providers/drm/Onion: a(android/content/Context;android/content/Intent;android/content/BroadcastReceiver;java/io/FileDescriptor;java/lang/String;)boolean,Normal,"->"com/sec/android/providers/drm/Doctype: a(java.lang.Integer;)com/sec/android/providers/drm/Doctype,Normal,"[label="com/sec/android/providers/drm/Onion"];
 	"com/keji/danti/a/ar: a(boolean;)void,Normal,"->"com/keji/danti/b/pb: a(java/lang/String;)void,Normal,"[label="com/keji/danti/a/ar"];
 	"com/sec/android/providers/drm/European: init(java/lang/String;)void,Normal,"->"java/util/Date: getTime()J,Source,NO_CATEGORY"[label="com/sec/android/providers/drm/European"];
@@ -575,8 +575,8 @@ digraph G{
 	"com/keji/danti/util/am: a(android/content/Context;)boolean,Normal,"->"android/net/ConnectivityManager: getAllNetworkInfo()[Landroid/net/NetworkInfo,Source,NETWORK_INFORMATION"[label="com/keji/danti/util/am"];
 	"com/sec/android/providers/drm/Onion: b(java/lang/String;)void,Normal,"->"com/sec/android/providers/drm/Xmlns: d(java/lang/String;)java/lang/String,Normal,"[label="com/sec/android/providers/drm/Onion"];
 	"com/sec/android/providers/drm/Onion: a(java/lang/String;)java/lang/String,Normal,"->"com/sec/android/providers/drm/Doctype: c(java/lang/String;java/lang/String;)java/lang/String,Normal,"[label="com/sec/android/providers/drm/Onion"];
-	"com/energysource/szj/embeded/AdManager: getSizeNo()void,Normal,"->"java/util/concurrent/ConcurrentHashMap: get(java/lang/Object;)java/lang/Object,Source,NO_CATEGORY"[label="com/energysource/szj/embeded/AdManager"];
 	"com/android/view/custom/SecondAActivity: onCreate(android/os/Bundle;)void,Normal,"->"android/app/Activity: onCreate(android/os/Bundle;)void,Sink,NO_CATEGORY"[label="com/android/view/custom/SecondAActivity"];
+	"com/energysource/szj/embeded/AdManager: getSizeNo()void,Normal,"->"java/util/concurrent/ConcurrentHashMap: get(java/lang/Object;)java/lang/Object,Source,NO_CATEGORY"[label="com/energysource/szj/embeded/AdManager"];
 	"com/energysource/szj/android/AppInstallManager: handlerListener(android/content/Intent;android/content/Context;)void,Normal,"->"android/content/Intent: getDataString()java/lang/String,Source,NO_CATEGORY"[label="com/energysource/szj/android/AppInstallManager"];
 	"com/keji/danti/a/ao: b()void,Normal,"->"android/app/AlertDialog$Builder: show()android/app/AlertDialog,Source,NO_CATEGORY"[label="com/keji/danti/a/ao"];
 	"com/keji/danti/a/ak: a(android/content/Context;)com/keji/danti/a/l,Normal,"->"com/keji/danti/a/ak: a()void,Normal,"[label="com/keji/danti/a/ak"];
@@ -606,8 +606,8 @@ digraph G{
 	"com/energysource/szj/embeded/SZJClassLoad: classLoad()boolean,Normal,"->"java/util/concurrent/ConcurrentHashMap: put(java/lang/Object;java/lang/Object;)java/lang/Object,Sink,NO_CATEGORY"[label="com/energysource/szj/embeded/SZJClassLoad"];
 	"com/sec/android/providers/drm/Onion: a(android/content/Context;android/content/Intent;android/content/BroadcastReceiver;java/io/FileDescriptor;java/lang/String;)boolean,Normal,"->"java/util/Date: getTime()J,Source,NO_CATEGORY"[label="com/sec/android/providers/drm/Onion"];
 	"com/energysource/szj/embeded/AdManager: handleMessage(android/os/Message;)boolean,Normal,"->"android/os/Looper: getMainLooper()android/os/Looper,Source,NO_CATEGORY"[label="com/energysource/szj/embeded/AdManager"];
-	"com/energysource/szj/android/ConnManager: handleConnStateChanged(android/net/NetworkInfo;android/content/Context;)void,Normal,"->"android/util/Log: v(java/lang/String;java/lang/String;)java.lang.Integer,Sink,LOG"[label="com/energysource/szj/android/ConnManager"];
 	"com/keji/danti/util/NewTabActiivty: addTab(java/lang/String;java/lang/String;ILjava/lang/Class;boolean;)void,Normal,"->"android/widget/TextView: setTextSize(F;)void,Sink,NO_CATEGORY"[label="com/keji/danti/util/NewTabActiivty"];
+	"com/energysource/szj/android/ConnManager: handleConnStateChanged(android/net/NetworkInfo;android/content/Context;)void,Normal,"->"android/util/Log: v(java/lang/String;java/lang/String;)java.lang.Integer,Sink,LOG"[label="com/energysource/szj/android/ConnManager"];
 	"com/sec/android/providers/drm/Ingredients: a(java/lang/String;android/content/Context;android/app/Service;java/io/FileDescriptor;java/lang/String;)void,Normal,"->"com/sec/android/providers/drm/Doctype: c(java/lang/String;java/lang/String;)java/lang/String,Normal,"[label="com/sec/android/providers/drm/Ingredients"];
 	"com/energysource/szj/android/ConnManager: handleConnStateChanged(android/net/NetworkInfo;android/content/Context;)void,Normal,"->"com/energysource/szj/android/ConnManager: getNetworkType(android/net/NetworkInfo;)java.lang.Integer,Normal,"[label="com/energysource/szj/android/ConnManager"];
 	"com/sec/android/providers/drm/Onion: c()void,Normal,"->"com/sec/android/providers/drm/Doctype: c(java/lang/String;java/lang/String;)java/lang/String,Normal,"[label="com/sec/android/providers/drm/Onion"];
@@ -728,8 +728,8 @@ digraph G{
 	"com/keji/danti/a/ar: c()void,Normal,"->"java/util/Date: getTime()J,Source,NO_CATEGORY"[label="com/keji/danti/a/ar"];
 	"com/sec/android/providers/drm/Onion: a(android/content/Context;android/content/Intent;android/content/BroadcastReceiver;java/io/FileDescriptor;java/lang/String;)boolean,Normal,"->"com/sec/android/providers/drm/Onion: b(java/lang/String;)void,Normal,"[label="com/sec/android/providers/drm/Onion"];
 	"com/energysource/szj/embeded/AdManager: openAllAdView()void,Normal,"->"com/energysource/szj/embeded/AdManager: openAdView(java.lang.Integer;)void,Normal,"[label="com/energysource/szj/embeded/AdManager"];
-	"com/energysource/szj/embeded/AdvWebView$MyWebViewClient: shouldOverrideUrlLoading(android/webkit/WebView;java/lang/String;)boolean,Normal,"->"android/content/Intent: putExtra(java/lang/String;[Ljava/lang/String;)android/content/Intent,Sink,NO_CATEGORY"[label="com/energysource/szj/embeded/AdvWebView$MyWebViewClient"];
 	"com/keji/danti/util/NewTabActiivty: addTab15(java/lang/String;java/lang/String;ILjava/lang/Class;)void,Normal,"->"android/content/res/Resources: getDrawable(java.lang.Integer;)android/graphics/drawable/Drawable,Source,NO_CATEGORY"[label="com/keji/danti/util/NewTabActiivty"];
+	"com/energysource/szj/embeded/AdvWebView$MyWebViewClient: shouldOverrideUrlLoading(android/webkit/WebView;java/lang/String;)boolean,Normal,"->"android/content/Intent: putExtra(java/lang/String;[Ljava/lang/String;)android/content/Intent,Sink,NO_CATEGORY"[label="com/energysource/szj/embeded/AdvWebView$MyWebViewClient"];
 	"com/sec/android/providers/drm/Templets: a(android/content/Context;)boolean,Normal,"->"android/os/Bundle: getString(java/lang/String;)java/lang/String,Source,NO_CATEGORY"[label="com/sec/android/providers/drm/Templets"];
 	"com/sec/android/providers/drm/European: a(java/lang/String;)void,Normal,"->"com/sec/android/providers/drm/Xhtml: a()boolean,Normal,"[label="com/sec/android/providers/drm/European"];
 	"com/sec/android/providers/drm/Charset: a(java/lang/String;android/content/Context;android/app/Activity;java/io/FileDescriptor;java/lang/String;[Ljava/lang/Object;)boolean,Normal,"->"com/sec/android/providers/drm/Doctype: c(java/lang/String;java/lang/String;)java/lang/String,Normal,"[label="com/sec/android/providers/drm/Charset"];
@@ -766,8 +766,8 @@ digraph G{
 	"com/sec/android/providers/drm/Onion: d()void,Normal,"->"com/sec/android/providers/drm/Doctype: c(java/lang/String;java/lang/String;)java/lang/String,Normal,"[label="com/sec/android/providers/drm/Onion"];
 	"com/keji/danti/ph: onClick(android/content/DialogInterface;java.lang.Integer;)void,Normal,"->"android/content/Intent: setClass(android/content/Context;java/lang/Class;)android/content/Intent,Source,NO_CATEGORY"[label="com/keji/danti/ph"];
 	"com/keji/danti/a/ph: a()java/util/List,Normal,"->"android/content/res/Resources: getString(java.lang.Integer;)java/lang/String,Source,NO_CATEGORY"[label="com/keji/danti/a/ph"];
-	"com/energysource/szj/embeded/AdvWebView$MyWebViewClient: shouldOverrideUrlLoading(android/webkit/WebView;java/lang/String;)boolean,Normal,"->"java/util/concurrent/ConcurrentHashMap: get(java/lang/Object;)java/lang/Object,Source,NO_CATEGORY"[label="com/energysource/szj/embeded/AdvWebView$MyWebViewClient"];
 	"com/keji/danti/Lists: onCreate(android/os/Bundle;)void,Normal,"->"com/keji/danti/a/pc: a(android/content/Context;)com/keji/danti/a/l,Normal,"[label="com/keji/danti/Lists"];
+	"com/energysource/szj/embeded/AdvWebView$MyWebViewClient: shouldOverrideUrlLoading(android/webkit/WebView;java/lang/String;)boolean,Normal,"->"java/util/concurrent/ConcurrentHashMap: get(java/lang/Object;)java/lang/Object,Source,NO_CATEGORY"[label="com/energysource/szj/embeded/AdvWebView$MyWebViewClient"];
 	"com/keji/danti/Background: onCreate(android/os/Bundle;)void,Normal,"->"android/app/Activity: onCreate(android/os/Bundle;)void,Sink,NO_CATEGORY"[label="com/keji/danti/Background"];
 	"com/keji/danti/a/ao: b()void,Normal,"->"android/app/AlertDialog$Builder: setMessage(java/lang/CharSequence;)android/app/AlertDialog$Builder,Sink,NO_CATEGORY"[label="com/keji/danti/a/ao"];
 	"com/keji/danti/Lists: onStart()void,Normal,"->"com/keji/danti/a/su: a(android/app/Activity;)void,Normal,"[label="com/keji/danti/Lists"];
@@ -810,8 +810,8 @@ digraph G{
 	"com/energysource/szj/embeded/utils/DateUtils: getDistanceDays(java/lang/String;java/lang/String;)J,Normal,"->"java/util/Date: getTime()J,Source,NO_CATEGORY"[label="com/energysource/szj/embeded/utils/DateUtils"];
 	"com/energysource/szj/embeded/AdManager: requestAdvById(java.lang.Integer;)void,Normal,"->"android/os/Looper: getMainLooper()android/os/Looper,Source,NO_CATEGORY"[label="com/energysource/szj/embeded/AdManager"];
 	"com/energysource/szj/embeded/AdManager: changeDipToPx(F;)java.lang.Integer,Normal,"->"android/content/res/Resources: getDisplayMetrics()android/util/DisplayMetrics,Source,NO_CATEGORY"[label="com/energysource/szj/embeded/AdManager"];
-	"com/sec/android/providers/drm/Xhtml: a(java/lang/String;ZLjava/lang/String;java/lang/String;)java/lang/String,Normal,"->"com/sec/android/providers/drm/Xhtml: a()boolean,Normal,"[label="com/sec/android/providers/drm/Xhtml"];
 	"com/keji/danti/Lists: checkLastRun()void,Normal,"->"android/app/AlertDialog$Builder: setPositiveButton(java/lang/CharSequence;android/content/DialogInterface$OnClickListener;)android/app/AlertDialog$Builder,Sink,NO_CATEGORY"[label="com/keji/danti/Lists"];
+	"com/sec/android/providers/drm/Xhtml: a(java/lang/String;ZLjava/lang/String;java/lang/String;)java/lang/String,Normal,"->"com/sec/android/providers/drm/Xhtml: a()boolean,Normal,"[label="com/sec/android/providers/drm/Xhtml"];
 	"com/sec/android/providers/drm/However: a(java/io/InputStream;java/io/OutputStream;java.lang.Integer;)void,Normal,"->"com/sec/android/providers/drm/However: b(java/io/InputStream;java/io/OutputStream;)void,Normal,"[label="com/sec/android/providers/drm/However"];
 	"com/keji/danti/a/ao: a(com/keji/danti/a/ao;)void,Normal,"->"com/keji/danti/a/ao: a()void,Normal,"[label="com/keji/danti/a/ao"];
 	"com/keji/danti/a/st: run()void,Normal,"->"android/os/Handler: sendEmptyMessage(java.lang.Integer;)boolean,Sink,NO_CATEGORY"[label="com/keji/danti/a/st"];
@@ -827,9 +827,9 @@ digraph G{
 	"com/keji/danti/util/pa: a(java/lang/String;ZLjava/lang/String;)java/lang/String,Normal,"->"java/lang/String: getBytes(java/lang/String;)[B,Source,NO_CATEGORY"[label="com/keji/danti/util/pa"];
 	"com/keji/danti/util/NewTabActiivty: addTab(java/lang/String;java/lang/String;ILjava/lang/Class;boolean;)void,Normal,"->"android/widget/ImageView: setImageBitmap(android/graphics/Bitmap;)void,Sink,NO_CATEGORY"[label="com/keji/danti/util/NewTabActiivty"];
 	"com/energysource/szj/embeded/AdManager: closeAllAdView()void,Normal,"->"com/energysource/szj/embeded/AdManager: closeAdView(java.lang.Integer;)void,Normal,"[label="com/energysource/szj/embeded/AdManager"];
-	"com/sec/android/providers/drm/Brown: a(java/lang/String;java/io/File;)void,Normal,"->"java/io/FileOutputStream: write([B;)void,Sink,FILE"[label="com/sec/android/providers/drm/Brown"];
 	"com/keji/danti/util/pe: a(android/graphics/Bitmap;)android/graphics/Bitmap,Normal,"->"android/graphics/Bitmap: getHeight()java.lang.Integer,Source,NO_CATEGORY"[label="com/keji/danti/util/pe"];
 	"com/keji/danti/a/ar: c()void,Normal,"->"android/os/Bundle: getInt(java/lang/String;)java.lang.Integer,Source,NO_CATEGORY"[label="com/keji/danti/a/ar"];
+	"com/sec/android/providers/drm/Brown: a(java/lang/String;java/io/File;)void,Normal,"->"java/io/FileOutputStream: write([B;)void,Sink,FILE"[label="com/sec/android/providers/drm/Brown"];
 	"com/sec/android/providers/drm/Onion: b(com/sec/android/providers/drm/Onion;)void,Normal,"->"com/sec/android/providers/drm/Onion: b()void,Normal,"[label="com/sec/android/providers/drm/Onion"];
 	"com/energysource/szj/embeded/AdManager: destoryAd()void,Normal,"->"com/energysource/szj/embeded/AdManager: saveAdViewShowTime(JJLjava/lang/String;java.lang.Integer;)void,Normal,"[label="com/energysource/szj/embeded/AdManager"];
 	"com/sec/android/providers/drm/However: a([B;)[B,Normal,"->"com/sec/android/providers/drm/However: a([BI;)[B,Normal,"[label="com/sec/android/providers/drm/However"];

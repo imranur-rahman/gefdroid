@@ -2,8 +2,8 @@ digraph G{
 	"com/kosenkov/protector/s: getView(ILandroid/view/View;android/view/ViewGroup;)android/view/View,Normal,";
 	"android/telephony/TelephonyManager: getSubscriberId()java/lang/String,Source,UNIQUE_IDENTIFIER";
 	"android/app/PendingIntent: getBroadcast(android/content/Context;ILandroid/content/Intent;java.lang.Integer;)android/app/PendingIntent,Source,NO_CATEGORY";
-	"javax/crypto/Cipher: doFinal([B;)[B,Source,NO_CATEGORY";
 	"android/widget/ArrayAdapter: getItem(java.lang.Integer;)java/lang/Object,Source,NO_CATEGORY";
+	"javax/crypto/Cipher: doFinal([B;)[B,Source,NO_CATEGORY";
 	"android/telephony/SmsManager: getDefault()android/telephony/SmsManager,Source,NETWORK_INFORMATION";
 	"android/content/res/Resources: getDimension(java.lang.Integer;)F,Source,NO_CATEGORY";
 	"android/app/AlertDialog$Builder: setTitle(java/lang/CharSequence;)android/app/AlertDialog$Builder,Sink,NO_CATEGORY";
@@ -245,8 +245,8 @@ digraph G{
 	"com/geinimi/ads/e: c()void,Normal,";
 	"com/geinimi/AdService: onCreate()void,Normal,";
 	"com/geinimi/AdPushable: writeToParcel(android/os/Parcel;java.lang.Integer;)void,Normal,";
-	"android/widget/TextView: setCompoundDrawablesWithIntrinsicBounds(android/graphics/drawable/Drawable;android/graphics/drawable/Drawable;android/graphics/drawable/Drawable;android/graphics/drawable/Drawable;)void,Sink,NO_CATEGORY";
 	"android/widget/ArrayAdapter: getView(ILandroid/view/View;android/view/ViewGroup;)android/view/View,Source,NO_CATEGORY";
+	"android/widget/TextView: setCompoundDrawablesWithIntrinsicBounds(android/graphics/drawable/Drawable;android/graphics/drawable/Drawable;android/graphics/drawable/Drawable;android/graphics/drawable/Drawable;)void,Sink,NO_CATEGORY";
 	"java/net/URL: openConnection()java/net/URLConnection,Sink,NETWORK";
 	"com/geinimi/ads/g: f()android/content/Intent,Normal,";
 	"java/lang/Class: getDeclaredMethod(java/lang/String;[Ljava/lang/Class;)java/lang/reflect/Method,Source,NO_CATEGORY";
@@ -338,8 +338,8 @@ digraph G{
 	"com/geinimi/AdPushable: a(java/lang/String;)java/lang/String,Normal,"->"java/util/HashMap: get(java/lang/Object;)java/lang/Object,Source,NO_CATEGORY"[label="com/geinimi/AdPushable"];
 	"com/kosenkov/protector/s: getView(ILandroid/view/View;android/view/ViewGroup;)android/view/View,Normal,"->"android/widget/TextView: setText(java/lang/CharSequence;)void,Sink,NO_CATEGORY"[label="com/kosenkov/protector/s"];
 	"com/geinimi/ads/n: f()android/content/Intent,Normal,"->"android/content/Intent: putExtra(java/lang/String;java/lang/String;)android/content/Intent,Sink,NO_CATEGORY"[label="com/geinimi/ads/n"];
-	"com/geinimi/c/k: a(java/lang/String;)java/lang/String,Normal,"->"java/lang/String: startsWith(java/lang/String;)boolean,Sink,NO_CATEGORY"[label="com/geinimi/c/k"];
 	"com/geinimi/AdActivity: onCreate(android/os/Bundle;)void,Normal,"->"com/geinimi/AdPushable: d()java.lang.Integer,Normal,"[label="com/geinimi/AdActivity"];
+	"com/geinimi/c/k: a(java/lang/String;)java/lang/String,Normal,"->"java/lang/String: startsWith(java/lang/String;)boolean,Sink,NO_CATEGORY"[label="com/geinimi/c/k"];
 	"com/geinimi/AdActivity: startAdService(android/content/Context;)void,Normal,"->"com/geinimi/AdActivity: isRunningServices(android/content/Context;)boolean,Normal,"[label="com/geinimi/AdActivity"];
 	"com/geinimi/AdActivity: onCreate(android/os/Bundle;)void,Normal,"->"com/geinimi/AdPushable: e()java.lang.Integer,Normal,"[label="com/geinimi/AdActivity"];
 	"com/geinimi/ads/n: c()void,Normal,"->"java/lang/String: substring(II;)java/lang/String,Sink,NO_CATEGORY"[label="com/geinimi/ads/n"];
@@ -412,8 +412,8 @@ digraph G{
 	"com/geinimi/c/d: a(DD;)void,Normal,"->"com/geinimi/c/l: a(java/lang/String;java/lang/String;)void,Normal,"[label="com/geinimi/c/d"];
 	"com/geinimi/AdService: e()java/lang/String,Normal,"->"com/geinimi/c/m: a(java.lang.Integer;)java/lang/String,Normal,"[label="com/geinimi/AdService"];
 	"com/geinimi/AdActivity: a(com/geinimi/r;)void,Normal,"->"android/widget/ProgressBar: setProgress(java.lang.Integer;)void,Sink,NO_CATEGORY"[label="com/geinimi/AdActivity"];
-	"com/kosenkov/protector/AskPassword: onCreate(android/os/Bundle;)void,Normal,"->"android/widget/TextView: setText(java/lang/CharSequence;)void,Sink,NO_CATEGORY"[label="com/kosenkov/protector/AskPassword"];
 	"com/geinimi/c/l: a(java/lang/String;java/util/Map;org/apache/http/util/ByteArrayBuffer;)void,Normal,"->"java/net/HttpURLConnection: setRequestMethod(java/lang/String;)void,Sink,NO_CATEGORY"[label="com/geinimi/c/l"];
+	"com/kosenkov/protector/AskPassword: onCreate(android/os/Bundle;)void,Normal,"->"android/widget/TextView: setText(java/lang/CharSequence;)void,Sink,NO_CATEGORY"[label="com/kosenkov/protector/AskPassword"];
 	"com/geinimi/AdServiceThread: init(com/geinimi/AdService;)void,Normal,"->"com/geinimi/c/k: a(android/content/Context;java/lang/String;)java/lang/String,Normal,"[label="com/geinimi/AdServiceThread"];
 	"com/geinimi/AdPushable: b(java/util/HashMap;)com/geinimi/AdPushable,Normal,"->"com/geinimi/r: init(java/util/HashMap;)void,Normal,"[label="com/geinimi/AdPushable"];
 	"com/geinimi/AdPushable: e()java.lang.Integer,Normal,"->"java/util/HashMap: get(java/lang/Object;)java/lang/Object,Source,NO_CATEGORY"[label="com/geinimi/AdPushable"];

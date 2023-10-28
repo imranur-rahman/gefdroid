@@ -37,8 +37,8 @@ java/io/DataOutputStream: write([B;)void,NO_CATEGORY
 org/json/JSONObject: toString(java.lang.Integer;)java/lang/String,NO_CATEGORY
 android/util/Log: w(java/lang/String;java/lang/String;)java.lang.Integer,LOG
 android/view/View: setBackgroundColor(java.lang.Integer;)void,NO_CATEGORY
-android/os/Bundle: putInt(java/lang/String;java.lang.Integer;)void,NO_CATEGORY
 android/webkit/WebSettings: setJavaScriptCanOpenWindowsAutomatically(boolean;)void,NO_CATEGORY
+android/os/Bundle: putInt(java/lang/String;java.lang.Integer;)void,NO_CATEGORY
 java/lang/String: startsWith(java/lang/String;)boolean,NO_CATEGORY
 android/util/Log: v(java/lang/String;java/lang/String;)java.lang.Integer,LOG
 android/webkit/WebSettings: setUserAgentString(java/lang/String;)void,NO_CATEGORY
@@ -65,8 +65,8 @@ android/content/ContentValues: put(java/lang/String;java/lang/Long;)void,NO_CATE
 android/widget/ProgressBar: setVisibility(java.lang.Integer;)void,NO_CATEGORY
 android/view/Window: setFlags(II;)void,NO_CATEGORY
 android/app/Activity: startActivity(android/content/Intent;)void,NO_CATEGORY
-android/os/Bundle: putBooleanArray(java/lang/String;[Z;)void,NO_CATEGORY
 android/webkit/WebSettings: setLoadsImagesAutomatically(boolean;)void,NO_CATEGORY
+android/os/Bundle: putBooleanArray(java/lang/String;[Z;)void,NO_CATEGORY
 android/graphics/Matrix: setSkew(FF;)void,NO_CATEGORY
 android/widget/ProgressBar: setProgress(java.lang.Integer;)void,NO_CATEGORY
 android/webkit/WebSettings: setSaveFormData(boolean;)void,NO_CATEGORY

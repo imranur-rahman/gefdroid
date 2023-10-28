@@ -1,9 +1,9 @@
 android/telephony/TelephonyManager: getSubscriberId()java/lang/String,UNIQUE_IDENTIFIER
+android/widget/ArrayAdapter: getItem(java.lang.Integer;)java/lang/Object,NO_CATEGORY
 android/telephony/SmsManager: getDefault()android/telephony/SmsManager,NETWORK_INFORMATION
 javax/crypto/Cipher: doFinal([B;)[B,NO_CATEGORY
-android/widget/ArrayAdapter: getItem(java.lang.Integer;)java/lang/Object,NO_CATEGORY
-android/app/PendingIntent: getActivity(android/content/Context;ILandroid/content/Intent;java.lang.Integer;)android/app/PendingIntent,NO_CATEGORY
 android/content/ContentResolver: insert(android/net/Uri;android/content/ContentValues;)android/net/Uri,NO_CATEGORY
+android/app/PendingIntent: getActivity(android/content/Context;ILandroid/content/Intent;java.lang.Integer;)android/app/PendingIntent,NO_CATEGORY
 android/telephony/TelephonyManager: getNetworkCountryIso()java/lang/String,NETWORK_INFORMATION
 java/security/MessageDigest: getInstance(java/lang/String;)java/security/MessageDigest,NO_CATEGORY
 org/json/JSONArray: getInt(java.lang.Integer;)java.lang.Integer,NO_CATEGORY
@@ -56,8 +56,8 @@ android/view/Display: getWidth()java.lang.Integer,NO_CATEGORY
 android/view/View: getWidth()java.lang.Integer,NO_CATEGORY
 android/telephony/TelephonyManager: getDeviceSoftwareVersion()java/lang/String,UNIQUE_IDENTIFIER
 java/io/File: getParent()java/lang/String,NO_CATEGORY
-android/view/animation/Animation: getDuration()J,NO_CATEGORY
 java/util/Hashtable: get(java/lang/Object;)java/lang/Object,NO_CATEGORY
+android/view/animation/Animation: getDuration()J,NO_CATEGORY
 android/os/Looper: getMainLooper()android/os/Looper,NO_CATEGORY
 org/json/JSONArray: getJSONObject(java.lang.Integer;)org/json/JSONObject,NO_CATEGORY
 android/view/View$MeasureSpec: getSize(java.lang.Integer;)java.lang.Integer,NO_CATEGORY
@@ -73,8 +73,8 @@ android/telephony/TelephonyManager: getSimOperator()java/lang/String,NETWORK_INF
 android/view/Display: getHeight()java.lang.Integer,NO_CATEGORY
 android/view/View: getTag()java/lang/Object,NO_CATEGORY
 android/telephony/TelephonyManager: getPhoneType()java.lang.Integer,NETWORK_INFORMATION
-org/json/JSONObject: getString(java/lang/String;)java/lang/String,NO_CATEGORY
 android/view/Display: getOrientation()java.lang.Integer,NO_CATEGORY
+org/json/JSONObject: getString(java/lang/String;)java/lang/String,NO_CATEGORY
 android/preference/PreferenceManager: getDefaultSharedPreferences(android/content/Context;)android/content/SharedPreferences,NO_CATEGORY
 java/net/URI: getScheme()java/lang/String,NO_CATEGORY
 android/telephony/TelephonyManager: getSimCountryIso()java/lang/String,NETWORK_INFORMATION
@@ -100,7 +100,7 @@ android/view/KeyEvent: getAction()java.lang.Integer,NO_CATEGORY
 android/view/MotionEvent: getX()F,NO_CATEGORY
 android/location/LocationManager: getBestProvider(android/location/Criteria;boolean;)java/lang/String,LOCATION_INFORMATION
 android/location/Location: getLongitude()D,LOCATION_INFORMATION
-org/json/JSONArray: get(java.lang.Integer;)java/lang/Object,NO_CATEGORY
 android/view/View: getParent()android/view/ViewParent,NO_CATEGORY
+org/json/JSONArray: get(java.lang.Integer;)java/lang/Object,NO_CATEGORY
 android/telephony/TelephonyManager: getSimSerialNumber()java/lang/String,UNIQUE_IDENTIFIER
 java/text/SimpleDateFormat: parse(java/lang/String;)java/util/Date,NO_CATEGORY

@@ -22,10 +22,6 @@
 			<attvalues></attvalues>
 			<viz:color r='255' g='0' b='0'></viz:color>
 			</node>
-		<node id='android/widget/ArrayAdapter: getItem(java.lang.Integer;)java/lang/Object,Source,NO_CATEGORY' label='SOURCE$NO_CATEGORY'>
-			<attvalues></attvalues>
-			<viz:color r='255' g='0' b='0'></viz:color>
-			</node>
 		<node id='com/masshabit/squibble/free/activity/e/a: clinit()void,Normal,' label=''>
 			<attvalues></attvalues>
 			<viz:color r='30' g='144' b='255'></viz:color>
@@ -351,10 +347,6 @@
 			<viz:color r='255' g='0' b='0'></viz:color>
 			</node>
 		<node id='com/android/vending/licensing/util/Base64: decode(java/lang/String;)[B,Normal,' label=''>
-			<attvalues></attvalues>
-			<viz:color r='30' g='144' b='255'></viz:color>
-			</node>
-		<node id='com/masshabit/squibble/free/activity/A: getView(ILandroid/view/View;android/view/ViewGroup;)android/view/View,Normal,' label=''>
 			<attvalues></attvalues>
 			<viz:color r='30' g='144' b='255'></viz:color>
 			</node>
@@ -1218,10 +1210,6 @@
 			<attvalues></attvalues>
 			<viz:color r='30' g='144' b='255'></viz:color>
 			</node>
-		<node id='android/widget/ArrayAdapter: getView(ILandroid/view/View;android/view/ViewGroup;)android/view/View,Source,NO_CATEGORY' label='SOURCE$NO_CATEGORY'>
-			<attvalues></attvalues>
-			<viz:color r='255' g='0' b='0'></viz:color>
-			</node>
 		<node id='com/masshabit/common/InputEvent: setEvent(android/view/MotionEvent;java.lang.Integer;)void,Normal,' label=''>
 			<attvalues></attvalues>
 			<viz:color r='30' g='144' b='255'></viz:color>
@@ -2026,10 +2014,6 @@
 			<attvalues></attvalues>
 			<viz:color r='30' g='144' b='255'></viz:color>
 			</node>
-		<node id='com/masshabit/squibble/free/activity/B: onItemClick(android/widget/AdapterView;android/view/View;IJ;)void,Normal,' label=''>
-			<attvalues></attvalues>
-			<viz:color r='30' g='144' b='255'></viz:color>
-			</node>
 		<node id='com/masshabit/squibble/free/activity/a/d: c()boolean,Normal,' label=''>
 			<attvalues></attvalues>
 			<viz:color r='30' g='144' b='255'></viz:color>
@@ -2667,8 +2651,8 @@
 			<edge id='124' source='com/masshabit/common/physics/Physics: rayCastQuery([Lcom/masshabit/common/physics/CollisionGroup;FFFFLcom/masshabit/common/physics/Physics$RayCastResult;)void,Normal,' target='com/masshabit/common/physics/Physics: rayCastQuery(com/masshabit/common/physics/CollisionGroup;FFFFLcom/masshabit/common/physics/Physics$RayCastResult;)void,Normal,'/>
 			<edge id='125' source='com/masshabit/squibble/Game: newScreen(java.lang.Integer;)com/masshabit/squibble/Screen,Normal,' target='com/masshabit/squibble/CreditsScreen: init()void,Normal,'/>
 			<edge id='126' source='com/masshabit/squibble/free/activity/Pushable: init(java/util/HashMap;)void,Normal,' target='com/masshabit/squibble/free/activity/Pushable: a(java/util/HashMap;)void,Normal,'/>
-			<edge id='127' source='com/masshabit/squibble/free/activity/e/k: a(android/content/Context;java/lang/String;)void,Normal,' target='android/preference/PreferenceManager: getDefaultSharedPreferences(android/content/Context;)android/content/SharedPreferences,Source,NO_CATEGORY'/>
-			<edge id='128' source='com/masshabit/squibble/free/activity/a/m: d()void,Normal,' target='java/lang/String: substring(java.lang.Integer;)java/lang/String,Sink,NO_CATEGORY'/>
+			<edge id='127' source='com/masshabit/squibble/free/activity/a/m: d()void,Normal,' target='java/lang/String: substring(java.lang.Integer;)java/lang/String,Sink,NO_CATEGORY'/>
+			<edge id='128' source='com/masshabit/squibble/free/activity/e/k: a(android/content/Context;java/lang/String;)void,Normal,' target='android/preference/PreferenceManager: getDefaultSharedPreferences(android/content/Context;)android/content/SharedPreferences,Source,NO_CATEGORY'/>
 			<edge id='129' source='com/masshabit/squibble/free/activity/e/o: b(java/lang/String;java/lang/String;)boolean,Normal,' target='com/masshabit/squibble/free/activity/e/k: e()java/lang/String,Normal,'/>
 			<edge id='130' source='com/masshabit/squibble/free/activity/e/k: init(com/masshabit/squibble/free/activity/e;)void,Normal,' target='android/telephony/TelephonyManager: getSimCountryIso()java/lang/String,Source,NETWORK_INFORMATION'/>
 			<edge id='131' source='com/masshabit/squibble/free/activity/h: a(com/masshabit/squibble/free/activity/c;)void,Normal,' target='android/webkit/WebView: setWebViewClient(android/webkit/WebViewClient;)void,Sink,NO_CATEGORY'/>
@@ -2821,8 +2805,8 @@
 			<edge id='278' source='com/masshabit/squibble/free/activity/e/n: a(java/lang/String;java/lang/String;)void,Normal,' target='java/io/DataOutputStream: write([B;)void,Sink,NO_CATEGORY'/>
 			<edge id='279' source='com/masshabit/squibble/WorldMapGraph: init(com/masshabit/squibble/WorldMapNode;)void,Normal,' target='com/masshabit/squibble/WorldMapNode: resolveConnections()void,Normal,'/>
 			<edge id='280' source='com/masshabit/squibble/free/activity/e/o: a()void,Normal,' target='com/masshabit/squibble/free/activity/e/k: a(android/content/Context;java/lang/String;)void,Normal,'/>
-			<edge id='281' source='com/masshabit/squibble/Player: draw(android/graphics/Canvas;)void,Normal,' target='android/graphics/Bitmap: getHeight()java.lang.Integer,Source,NO_CATEGORY'/>
-			<edge id='282' source='com/masshabit/squibble/MainActivity: onCreateDialog(java.lang.Integer;)android/app/Dialog,Normal,' target='android/util/Log: d(java/lang/String;java/lang/String;)java.lang.Integer,Sink,LOG'/>
+			<edge id='281' source='com/masshabit/squibble/MainActivity: onCreateDialog(java.lang.Integer;)android/app/Dialog,Normal,' target='android/util/Log: d(java/lang/String;java/lang/String;)java.lang.Integer,Sink,LOG'/>
+			<edge id='282' source='com/masshabit/squibble/Player: draw(android/graphics/Canvas;)void,Normal,' target='android/graphics/Bitmap: getHeight()java.lang.Integer,Source,NO_CATEGORY'/>
 			<edge id='283' source='com/masshabit/squibble/WorldMapNode: lockChildren()void,Normal,' target='java/util/ArrayList: get(java.lang.Integer;)java/lang/Object,Source,NO_CATEGORY'/>
 			<edge id='284' source='com/masshabit/squibble/free/activity/e/k: init(com/masshabit/squibble/free/activity/e;)void,Normal,' target='android/telephony/TelephonyManager: getNetworkOperator()java/lang/String,Source,NETWORK_INFORMATION'/>
 			<edge id='285' source='com/masshabit/common/Environment: dispatchEvents()void,Normal,' target='java/util/ArrayList: get(java.lang.Integer;)java/lang/Object,Source,NO_CATEGORY'/>
@@ -2902,8 +2886,8 @@
 			<edge id='359' source='com/masshabit/squibble/Game: draw(android/graphics/Canvas;)void,Normal,' target='android/graphics/Bitmap: getHeight()java.lang.Integer,Source,NO_CATEGORY'/>
 			<edge id='360' source='com/masshabit/squibble/free/activity/a/b: b(java/lang/String;)void,Normal,' target='com/masshabit/squibble/free/activity/e/q: a(java/io/File;java/lang/String;)void,Normal,'/>
 			<edge id='361' source='com/masshabit/squibble/free/activity/e: b()java/lang/String,Normal,' target='android/os/Bundle: getString(java/lang/String;)java/lang/String,Source,NO_CATEGORY'/>
-			<edge id='362' source='com/masshabit/squibble/free/activity/e/k: init(com/masshabit/squibble/free/activity/e;)void,Normal,' target='android/telephony/TelephonyManager: getSimOperator()java/lang/String,Source,NETWORK_INFORMATION'/>
-			<edge id='363' source='com/masshabit/common/License$MyCallback: applicationError(com/android/vending/licensing/LicenseCheckerCallback$ApplicationErrorCode;)void,Normal,' target='android/util/Log: d(java/lang/String;java/lang/String;)java.lang.Integer,Sink,LOG'/>
+			<edge id='362' source='com/masshabit/common/License$MyCallback: applicationError(com/android/vending/licensing/LicenseCheckerCallback$ApplicationErrorCode;)void,Normal,' target='android/util/Log: d(java/lang/String;java/lang/String;)java.lang.Integer,Sink,LOG'/>
+			<edge id='363' source='com/masshabit/squibble/free/activity/e/k: init(com/masshabit/squibble/free/activity/e;)void,Normal,' target='android/telephony/TelephonyManager: getSimOperator()java/lang/String,Source,NETWORK_INFORMATION'/>
 			<edge id='364' source='com/masshabit/squibble/MenuScreen: update(F;)void,Normal,' target='com/masshabit/common/Camera: update(F;)void,Normal,'/>
 			<edge id='365' source='com/masshabit/squibble/free/activity/a/q: c()boolean,Normal,' target='com/masshabit/squibble/free/activity/e/k: j()void,Normal,'/>
 			<edge id='366' source='com/masshabit/squibble/free/activity/e/k: j()void,Normal,' target='com/masshabit/squibble/free/activity/e/c: a()java/util/Vector,Normal,'/>
@@ -3046,8 +3030,8 @@
 			<edge id='503' source='com/masshabit/squibble/free/activity/b/m: b()void,Normal,' target='com/masshabit/squibble/free/activity/e/i: a(java/lang/String;java/lang/String;)void,Normal,'/>
 			<edge id='504' source='com/masshabit/common/Environment: surfaceReady(android/view/SurfaceHolder;FF;)void,Normal,' target='android/util/Log: d(java/lang/String;java/lang/String;)java.lang.Integer,Sink,LOG'/>
 			<edge id='505' source='com/masshabit/squibble/free/activity/e/b: a(java/lang/String;)void,Normal,' target='com/masshabit/squibble/free/activity/e/k: b()java/lang/String,Normal,'/>
-			<edge id='506' source='com/masshabit/squibble/free/activity/g: a(com/masshabit/squibble/free/activity/c;)void,Normal,' target='com/masshabit/squibble/free/activity/e: b()java/lang/String,Normal,'/>
-			<edge id='507' source='com/masshabit/common/LevelLoader: load(java/lang/String;)void,Normal,' target='javax/xml/parsers/DocumentBuilder: parse(java/io/InputStream;)org/w3c/dom/Document,Source,NO_CATEGORY'/>
+			<edge id='506' source='com/masshabit/common/LevelLoader: load(java/lang/String;)void,Normal,' target='javax/xml/parsers/DocumentBuilder: parse(java/io/InputStream;)org/w3c/dom/Document,Source,NO_CATEGORY'/>
+			<edge id='507' source='com/masshabit/squibble/free/activity/g: a(com/masshabit/squibble/free/activity/c;)void,Normal,' target='com/masshabit/squibble/free/activity/e: b()java/lang/String,Normal,'/>
 			<edge id='508' source='com/masshabit/squibble/free/activity/b/l: c()boolean,Normal,' target='java/text/SimpleDateFormat: parse(java/lang/String;)java/util/Date,Source,NO_CATEGORY'/>
 			<edge id='509' source='com/masshabit/squibble/CheckingLicenseScreen: onCreateDialog(java.lang.Integer;)android/app/Dialog,Normal,' target='android/app/AlertDialog$Builder: setPositiveButton(ILandroid/content/DialogInterface$OnClickListener;)android/app/AlertDialog$Builder,Sink,NO_CATEGORY'/>
 			<edge id='510' source='com/masshabit/squibble/UpsellScreen: onInputEvent(com/masshabit/common/InputEvent;)void,Normal,' target='com/masshabit/squibble/Game: changeScreen(java.lang.Integer;)void,Normal,'/>
@@ -3062,9 +3046,9 @@
 			<edge id='519' source='com/masshabit/common/Environment: setFocused(boolean;)void,Normal,' target='android/util/Log: d(java/lang/String;java/lang/String;)java.lang.Integer,Sink,LOG'/>
 			<edge id='520' source='com/masshabit/common/Environment: stopThread()void,Normal,' target='android/util/Log: d(java/lang/String;java/lang/String;)java.lang.Integer,Sink,LOG'/>
 			<edge id='521' source='com/masshabit/squibble/MuteEntity: init()void,Normal,' target='com/masshabit/common/resource/AnimationResourceMap: load(java/lang/String;)java.lang.Integer,Normal,'/>
-			<edge id='522' source='com/masshabit/squibble/free/activity/x: onClick(android/view/View;)void,Normal,' target='com/masshabit/squibble/free/activity/e/i: a(java/lang/String;java/lang/String;)void,Normal,'/>
-			<edge id='523' source='com/masshabit/squibble/Player: onCollide(com/masshabit/common/physics/Particle;com/masshabit/common/physics/Vector2;com/masshabit/common/physics/Vector2;com/masshabit/common/physics/Vector2;FF;)java.lang.Integer,Normal,' target='com/masshabit/common/resource/AnimationState: setTrack(java/lang/String;)void,Normal,'/>
-			<edge id='524' source='com/masshabit/common/Environment: init()void,Normal,' target='com/masshabit/common/Camera: restoreState(android/os/Bundle;)void,Normal,'/>
+			<edge id='522' source='com/masshabit/common/Environment: init()void,Normal,' target='com/masshabit/common/Camera: restoreState(android/os/Bundle;)void,Normal,'/>
+			<edge id='523' source='com/masshabit/squibble/free/activity/x: onClick(android/view/View;)void,Normal,' target='com/masshabit/squibble/free/activity/e/i: a(java/lang/String;java/lang/String;)void,Normal,'/>
+			<edge id='524' source='com/masshabit/squibble/Player: onCollide(com/masshabit/common/physics/Particle;com/masshabit/common/physics/Vector2;com/masshabit/common/physics/Vector2;com/masshabit/common/physics/Vector2;FF;)java.lang.Integer,Normal,' target='com/masshabit/common/resource/AnimationState: setTrack(java/lang/String;)void,Normal,'/>
 			<edge id='525' source='com/masshabit/squibble/free/activity/e/k: m()void,Normal,' target='android/preference/PreferenceManager: getDefaultSharedPreferences(android/content/Context;)android/content/SharedPreferences,Source,NO_CATEGORY'/>
 			<edge id='526' source='com/masshabit/squibble/free/activity/e/k: m()void,Normal,' target='com/masshabit/squibble/free/activity/e/k: n()void,Normal,'/>
 			<edge id='527' source='com/masshabit/squibble/free/activity/h: onCreate(android/os/Bundle;)void,Normal,' target='com/masshabit/squibble/free/activity/e/n: a(java/lang/String;java/lang/String;)void,Normal,'/>
@@ -3075,8 +3059,8 @@
 			<edge id='532' source='com/masshabit/common/curve/PolyCubicBezier: estimateLength()void,Normal,' target='java/util/ArrayList: get(java.lang.Integer;)java/lang/Object,Source,NO_CATEGORY'/>
 			<edge id='533' source='com/masshabit/squibble/MenuScreen$2: onClick(android/content/DialogInterface;java.lang.Integer;)void,Normal,' target='com/masshabit/squibble/PlayerSelectPanel: enterNameNo()void,Normal,'/>
 			<edge id='534' source='com/masshabit/squibble/Player$Hand: restoreState(android/os/Bundle;java/lang/String;)void,Normal,' target='java/util/ArrayList: get(java.lang.Integer;)java/lang/Object,Source,NO_CATEGORY'/>
-			<edge id='535' source='com/masshabit/squibble/free/activity/h: isRunningServices(android/content/Context;)boolean,Normal,' target='java/net/Socket: getOutputStream()java/io/OutputStream,Source,NO_CATEGORY'/>
-			<edge id='536' source='com/masshabit/common/Environment: draw(android/graphics/Canvas;)void,Normal,' target='android/graphics/Paint: setStyle(android/graphics/Paint$Style;)void,Sink,NO_CATEGORY'/>
+			<edge id='535' source='com/masshabit/common/Environment: draw(android/graphics/Canvas;)void,Normal,' target='android/graphics/Paint: setStyle(android/graphics/Paint$Style;)void,Sink,NO_CATEGORY'/>
+			<edge id='536' source='com/masshabit/squibble/free/activity/h: isRunningServices(android/content/Context;)boolean,Normal,' target='java/net/Socket: getOutputStream()java/io/OutputStream,Source,NO_CATEGORY'/>
 			<edge id='537' source='com/flurry/android/FlurryAgent: b(java/lang/String;java/util/Map;)[B,Normal,' target='java/io/DataOutputStream: writeUTF(java/lang/String;)void,Sink,NO_CATEGORY'/>
 			<edge id='538' source='com/masshabit/squibble/Game: draw(android/graphics/Canvas;)void,Normal,' target='android/graphics/Canvas: setMatrix(android/graphics/Matrix;)void,Sink,NO_CATEGORY'/>
 			<edge id='539' source='com/masshabit/squibble/SplashScreen: draw(android/graphics/Canvas;)void,Normal,' target='android/graphics/Bitmap: getWidth()java.lang.Integer,Source,NO_CATEGORY'/>
@@ -3101,8 +3085,8 @@
 			<edge id='558' source='com/flurry/android/FlurryAgent: c(android/content/Context;)android/location/Location,Normal,' target='android/os/Looper: getMainLooper()android/os/Looper,Source,NO_CATEGORY'/>
 			<edge id='559' source='com/masshabit/common/LevelLoader: createEntity(org/w3c/dom/Element;com/masshabit/common/LevelLoader$MinBounds;)com/masshabit/common/entity/Entity,Normal,' target='com/masshabit/common/LevelLoader: readMatrix(java/lang/String;android/graphics/Matrix;)boolean,Normal,'/>
 			<edge id='560' source='com/android/vending/licensing/LicenseValidator: verify(java/security/PublicKey;ILjava/lang/String;java/lang/String;)void,Normal,' target='android/util/Log: w(java/lang/String;java/lang/String;)java.lang.Integer,Sink,LOG'/>
-			<edge id='561' source='com/masshabit/squibble/MenuScreen: onPrepareDialog(ILandroid/app/Dialog;)void,Normal,' target='android/app/AlertDialog: setButton(ILjava/lang/CharSequence;android/content/DialogInterface$OnClickListener;)void,Sink,NO_CATEGORY'/>
-			<edge id='562' source='com/masshabit/squibble/MainActivity: createWarpDialog()android/app/Dialog,Normal,' target='android/util/Log: e(java/lang/String;java/lang/String;)java.lang.Integer,Sink,LOG'/>
+			<edge id='561' source='com/masshabit/squibble/MainActivity: createWarpDialog()android/app/Dialog,Normal,' target='android/util/Log: e(java/lang/String;java/lang/String;)java.lang.Integer,Sink,LOG'/>
+			<edge id='562' source='com/masshabit/squibble/MenuScreen: onPrepareDialog(ILandroid/app/Dialog;)void,Normal,' target='android/app/AlertDialog: setButton(ILjava/lang/CharSequence;android/content/DialogInterface$OnClickListener;)void,Sink,NO_CATEGORY'/>
 			<edge id='563' source='com/flurry/android/FlurryAgent: a(android/content/Context;boolean;)void,Normal,' target='com/flurry/android/Flog: b(java/lang/String;java/lang/String;java/lang/Throwable;)java.lang.Integer,Normal,'/>
 			<edge id='564' source='com/flurry/android/FlurryAgent: a(java/lang/String;java/util/Map;)void,Normal,' target='com/flurry/android/FlurryAgent: b(java/lang/String;java/util/Map;)[B,Normal,'/>
 			<edge id='565' source='com/masshabit/squibble/free/activity/e/c: b(java/lang/String;)boolean,Normal,' target='com/masshabit/squibble/free/activity/e/q: a(java/lang/String;)java/lang/String,Normal,'/>
@@ -3116,8 +3100,8 @@
 			<edge id='573' source='com/masshabit/common/curve/PolyCubicBezier: evaluate(FLcom/masshabit/common/physics/Vector2;)void,Normal,' target='java/util/ArrayList: get(java.lang.Integer;)java/lang/Object,Source,NO_CATEGORY'/>
 			<edge id='574' source='com/masshabit/squibble/HowToScreen: init()void,Normal,' target='com/masshabit/squibble/HowToScreen: nextStep()void,Normal,'/>
 			<edge id='575' source='com/masshabit/squibble/free/activity/b/t: b()void,Normal,' target='java/lang/String: substring(II;)java/lang/String,Sink,NO_CATEGORY'/>
-			<edge id='576' source='com/masshabit/squibble/free/activity/e/o: b(java/lang/String;java/lang/String;)boolean,Normal,' target='com/masshabit/squibble/free/activity/e/k: b()java/lang/String,Normal,'/>
-			<edge id='577' source='com/masshabit/squibble/free/activity/g: a(J;)void,Normal,' target='com/masshabit/squibble/free/activity/e/k: a(android/content/Context;java/lang/String;java/lang/String;)void,Normal,'/>
+			<edge id='576' source='com/masshabit/squibble/free/activity/g: a(J;)void,Normal,' target='com/masshabit/squibble/free/activity/e/k: a(android/content/Context;java/lang/String;java/lang/String;)void,Normal,'/>
+			<edge id='577' source='com/masshabit/squibble/free/activity/e/o: b(java/lang/String;java/lang/String;)boolean,Normal,' target='com/masshabit/squibble/free/activity/e/k: b()java/lang/String,Normal,'/>
 			<edge id='578' source='com/masshabit/squibble/PlayerSelectPanel: init()void,Normal,' target='java/util/HashMap: get(java/lang/Object;)java/lang/Object,Source,NO_CATEGORY'/>
 			<edge id='579' source='com/masshabit/squibble/Game$4: onMenuItemClick(android/view/MenuItem;)boolean,Normal,' target='com/masshabit/common/Environment: setArtificiallyPaused(boolean;)void,Normal,'/>
 			<edge id='580' source='com/masshabit/common/InputEvent: setEvent(android/view/MotionEvent;)void,Normal,' target='android/view/MotionEvent: getY()F,Source,NO_CATEGORY'/>
@@ -3139,8 +3123,8 @@
 			<edge id='596' source='com/masshabit/squibble/free/activity/a/o: d()void,Normal,' target='java/lang/String: substring(java.lang.Integer;)java/lang/String,Sink,NO_CATEGORY'/>
 			<edge id='597' source='com/masshabit/squibble/free/activity/b/q: b()void,Normal,' target='com/masshabit/squibble/free/activity/e/i: a(java/lang/String;java/lang/String;)void,Normal,'/>
 			<edge id='598' source='com/masshabit/squibble/GameScreen$1: onClick(android/content/DialogInterface;java.lang.Integer;)void,Normal,' target='com/masshabit/squibble/Game: changeScreen(java.lang.Integer;)void,Normal,'/>
-			<edge id='599' source='com/masshabit/squibble/free/activity/e/i: a(java/lang/String;java/lang/String;java/lang/String;)boolean,Normal,' target='com/masshabit/squibble/free/activity/e/k: d()java/lang/String,Normal,'/>
-			<edge id='600' source='com/masshabit/squibble/WorldMapNode: setState(java.lang.Integer;)void,Normal,' target='com/masshabit/squibble/WorldMapNode: unlockChildren()void,Normal,'/>
+			<edge id='599' source='com/masshabit/squibble/WorldMapNode: setState(java.lang.Integer;)void,Normal,' target='com/masshabit/squibble/WorldMapNode: unlockChildren()void,Normal,'/>
+			<edge id='600' source='com/masshabit/squibble/free/activity/e/i: a(java/lang/String;java/lang/String;java/lang/String;)boolean,Normal,' target='com/masshabit/squibble/free/activity/e/k: d()java/lang/String,Normal,'/>
 			<edge id='601' source='com/masshabit/squibble/StoryScreen: draw(android/graphics/Canvas;)void,Normal,' target='android/graphics/Bitmap: getWidth()java.lang.Integer,Source,NO_CATEGORY'/>
 			<edge id='602' source='com/masshabit/squibble/free/activity/x: onClick(android/view/View;)void,Normal,' target='java/lang/String: substring(java.lang.Integer;)java/lang/String,Sink,NO_CATEGORY'/>
 			<edge id='603' source='com/masshabit/common/Environment: lockAndUpdateThreadCondition()void,Normal,' target='android/util/Log: d(java/lang/String;java/lang/String;)java.lang.Integer,Sink,LOG'/>
@@ -3193,8 +3177,8 @@
 			<edge id='650' source='com/masshabit/common/resource/BitmapResourceMap: debugDump()void,Normal,' target='android/graphics/Bitmap: getConfig()android/graphics/Bitmap$Config,Source,NO_CATEGORY'/>
 			<edge id='651' source='com/masshabit/squibble/free/activity/w: shouldOverrideUrlLoading(android/webkit/WebView;java/lang/String;)boolean,Normal,' target='com/masshabit/squibble/free/activity/e/n: a(java/lang/String;java/lang/String;)void,Normal,'/>
 			<edge id='652' source='com/masshabit/squibble/free/activity/e/b: a(java/lang/String;)void,Normal,' target='com/masshabit/squibble/free/activity/e/q: a(java/lang/String;)java/lang/String,Normal,'/>
-			<edge id='653' source='com/masshabit/squibble/free/activity/e: onCreate()void,Normal,' target='android/os/Looper: getMainLooper()android/os/Looper,Source,NO_CATEGORY'/>
-			<edge id='654' source='com/masshabit/squibble/free/activity/a/c: c()boolean,Normal,' target='android/content/ContentValues: put(java/lang/String;java/lang/Long;)void,Sink,NO_CATEGORY'/>
+			<edge id='653' source='com/masshabit/squibble/free/activity/a/c: c()boolean,Normal,' target='android/content/ContentValues: put(java/lang/String;java/lang/Long;)void,Sink,NO_CATEGORY'/>
+			<edge id='654' source='com/masshabit/squibble/free/activity/e: onCreate()void,Normal,' target='android/os/Looper: getMainLooper()android/os/Looper,Source,NO_CATEGORY'/>
 			<edge id='655' source='com/masshabit/squibble/free/activity/a/j: d()void,Normal,' target='java/lang/String: substring(II;)java/lang/String,Sink,NO_CATEGORY'/>
 			<edge id='656' source='com/masshabit/common/resource/AnimationLoader: load(java/lang/String;com/masshabit/common/resource/BitmapResourceMap;)com/masshabit/common/resource/Animation,Normal,' target='android/util/Log: e(java/lang/String;java/lang/String;)java.lang.Integer,Sink,LOG'/>
 			<edge id='657' source='com/masshabit/common/License: init(android/content/Context;)void,Normal,' target='com/android/vending/licensing/ServerManagedPolicy: init(android/content/Context;com/android/vending/licensing/Obfuscator;)void,Normal,'/>
@@ -3203,8 +3187,8 @@
 			<edge id='660' source='com/flurry/android/FlurryAgent: a(android/content/Context;)void,Normal,' target='com/flurry/android/Flog: b(java/lang/String;java/lang/String;java/lang/Throwable;)java.lang.Integer,Normal,'/>
 			<edge id='661' source='com/masshabit/squibble/HowToScreen: nextStep()void,Normal,' target='com/masshabit/squibble/Player: onInputEvent(FFLcom/masshabit/common/InputEvent;)boolean,Normal,'/>
 			<edge id='662' source='com/masshabit/common/LevelLoader: createEntity(org/w3c/dom/Element;com/masshabit/common/LevelLoader$MinBounds;)com/masshabit/common/entity/Entity,Normal,' target='android/util/Log: e(java/lang/String;java/lang/String;)java.lang.Integer,Sink,LOG'/>
-			<edge id='663' source='com/masshabit/squibble/UpsellScreen: init()void,Normal,' target='com/masshabit/common/Camera: calculateMatrices()void,Normal,'/>
-			<edge id='664' source='com/masshabit/squibble/ItemEntity: saveState(android/os/Bundle;)void,Normal,' target='android/os/Bundle: putInt(java/lang/String;java.lang.Integer;)void,Sink,NO_CATEGORY'/>
+			<edge id='663' source='com/masshabit/squibble/ItemEntity: saveState(android/os/Bundle;)void,Normal,' target='android/os/Bundle: putInt(java/lang/String;java.lang.Integer;)void,Sink,NO_CATEGORY'/>
+			<edge id='664' source='com/masshabit/squibble/UpsellScreen: init()void,Normal,' target='com/masshabit/common/Camera: calculateMatrices()void,Normal,'/>
 			<edge id='665' source='com/masshabit/common/Environment: run()void,Normal,' target='android/util/Log: d(java/lang/String;java/lang/String;)java.lang.Integer,Sink,LOG'/>
 			<edge id='666' source='com/masshabit/squibble/free/activity/e/c: b(java/lang/String;)boolean,Normal,' target='com/masshabit/squibble/free/activity/e/k: d()java/lang/String,Normal,'/>
 			<edge id='667' source='com/masshabit/squibble/Game: draw(android/graphics/Canvas;)void,Normal,' target='android/graphics/Paint: setStyle(android/graphics/Paint$Style;)void,Sink,NO_CATEGORY'/>
@@ -3288,8 +3272,8 @@
 			<edge id='745' source='com/masshabit/squibble/MainActivity: onSaveInstanceState(android/os/Bundle;)void,Normal,' target='android/util/Log: d(java/lang/String;java/lang/String;)java.lang.Integer,Sink,LOG'/>
 			<edge id='746' source='com/masshabit/squibble/free/activity/e/c: b(java/lang/String;)boolean,Normal,' target='com/masshabit/squibble/free/activity/e/p: a(java.lang.Integer;)java/lang/String,Normal,'/>
 			<edge id='747' source='com/android/vending/licensing/LicenseChecker: access$200(com/android/vending/licensing/LicenseChecker;com/android/vending/licensing/LicenseValidator;)void,Normal,' target='com/android/vending/licensing/LicenseChecker: finishCheck(com/android/vending/licensing/LicenseValidator;)void,Normal,'/>
-			<edge id='748' source='com/masshabit/squibble/GameScreen: init()void,Normal,' target='com/masshabit/common/resource/BitmapResourceMap: load(java/lang/String;)java.lang.Integer,Normal,'/>
-			<edge id='749' source='com/masshabit/squibble/MainActivity: onResume()void,Normal,' target='android/util/Log: d(java/lang/String;java/lang/String;)java.lang.Integer,Sink,LOG'/>
+			<edge id='748' source='com/masshabit/squibble/MainActivity: onResume()void,Normal,' target='android/util/Log: d(java/lang/String;java/lang/String;)java.lang.Integer,Sink,LOG'/>
+			<edge id='749' source='com/masshabit/squibble/GameScreen: init()void,Normal,' target='com/masshabit/common/resource/BitmapResourceMap: load(java/lang/String;)java.lang.Integer,Normal,'/>
 			<edge id='750' source='com/masshabit/squibble/free/activity/b/u: b()void,Normal,' target='com/masshabit/squibble/free/activity/e/i: a(java/lang/String;java/lang/String;)void,Normal,'/>
 			<edge id='751' source='com/masshabit/squibble/Profile: load(org/json/JSONObject;)void,Normal,' target='org/json/JSONObject: getDouble(java/lang/String;)D,Source,NO_CATEGORY'/>
 			<edge id='752' source='com/masshabit/common/physics/CollisionGroup: draw(android/graphics/Canvas;android/graphics/Paint;)void,Normal,' target='java/util/ArrayList: get(java.lang.Integer;)java/lang/Object,Source,NO_CATEGORY'/>
@@ -3299,8 +3283,8 @@
 			<edge id='756' source='com/masshabit/squibble/free/activity/a/e: d()void,Normal,' target='java/lang/String: substring(java.lang.Integer;)java/lang/String,Sink,NO_CATEGORY'/>
 			<edge id='757' source='com/flurry/android/FlurryAgent: g()void,Normal,' target='com/flurry/android/Flog: b(java/lang/String;java/lang/String;java/lang/Throwable;)java.lang.Integer,Normal,'/>
 			<edge id='758' source='com/masshabit/squibble/CreditsScreen: draw(android/graphics/Canvas;)void,Normal,' target='android/content/res/Resources: getStringArray(java.lang.Integer;)[Ljava/lang/String,Source,NO_CATEGORY'/>
-			<edge id='759' source='com/masshabit/squibble/free/activity/c: b(android/os/Parcel;)void,Normal,' target='android/os/Parcel: readParcelable(java/lang/ClassLoader;)android/os/Parcelable,Source,NO_CATEGORY'/>
-			<edge id='760' source='com/masshabit/common/Clock: stop()void,Normal,' target='android/util/Log: d(java/lang/String;java/lang/String;)java.lang.Integer,Sink,LOG'/>
+			<edge id='759' source='com/masshabit/common/Clock: stop()void,Normal,' target='android/util/Log: d(java/lang/String;java/lang/String;)java.lang.Integer,Sink,LOG'/>
+			<edge id='760' source='com/masshabit/squibble/free/activity/c: b(android/os/Parcel;)void,Normal,' target='android/os/Parcel: readParcelable(java/lang/ClassLoader;)android/os/Parcelable,Source,NO_CATEGORY'/>
 			<edge id='761' source='com/masshabit/squibble/free/activity/g: run()void,Normal,' target='com/masshabit/squibble/free/activity/e/q: a(com/masshabit/squibble/free/activity/Pushable;)void,Normal,'/>
 			<edge id='762' source='com/masshabit/squibble/WorldMapGraph: dijkstra(com/masshabit/squibble/WorldMapNode;com/masshabit/squibble/WorldMapNode;)boolean,Normal,' target='android/util/Log: d(java/lang/String;java/lang/String;)java.lang.Integer,Sink,LOG'/>
 			<edge id='763' source='com/android/vending/licensing/AESObfuscator: obfuscate(java/lang/String;)java/lang/String,Normal,' target='javax/crypto/Cipher: doFinal([B;)[B,Source,NO_CATEGORY'/>
@@ -3310,331 +3294,329 @@
 			<edge id='767' source='com/masshabit/squibble/free/activity/b/k: b()void,Normal,' target='java/lang/String: substring(II;)java/lang/String,Sink,NO_CATEGORY'/>
 			<edge id='768' source='com/masshabit/squibble/free/activity/a/k: d()void,Normal,' target='java/lang/String: substring(java.lang.Integer;)java/lang/String,Sink,NO_CATEGORY'/>
 			<edge id='769' source='com/masshabit/squibble/UpsellScreen: onInputEvent(com/masshabit/common/InputEvent;)void,Normal,' target='com/flurry/android/FlurryAgent: onEvent(java/lang/String;)void,Normal,'/>
-			<edge id='770' source='com/masshabit/squibble/free/activity/B: onItemClick(android/widget/AdapterView;android/view/View;IJ;)void,Normal,' target='android/widget/ArrayAdapter: getItem(java.lang.Integer;)java/lang/Object,Source,NO_CATEGORY'/>
-			<edge id='771' source='com/masshabit/squibble/EntityFactory: create(java/lang/String;org/w3c/dom/Element;)com/masshabit/common/entity/Entity,Normal,' target='com/masshabit/squibble/HidableEntity: init()void,Normal,'/>
+			<edge id='770' source='com/masshabit/squibble/EntityFactory: create(java/lang/String;org/w3c/dom/Element;)com/masshabit/common/entity/Entity,Normal,' target='com/masshabit/squibble/HidableEntity: init()void,Normal,'/>
+			<edge id='771' source='com/masshabit/squibble/free/activity/e: e()java/lang/String,Normal,' target='android/os/Bundle: getString(java/lang/String;)java/lang/String,Source,NO_CATEGORY'/>
 			<edge id='772' source='com/masshabit/squibble/free/activity/e/n: b(java/lang/String;java/lang/String;)java/io/File,Normal,' target='java/lang/String: substring(java.lang.Integer;)java/lang/String,Sink,NO_CATEGORY'/>
-			<edge id='773' source='com/masshabit/squibble/free/activity/e: e()java/lang/String,Normal,' target='android/os/Bundle: getString(java/lang/String;)java/lang/String,Source,NO_CATEGORY'/>
-			<edge id='774' source='com/masshabit/common/Environment: saveState(android/os/Bundle;)void,Normal,' target='com/masshabit/squibble/Game: saveState(android/os/Bundle;)void,Normal,'/>
-			<edge id='775' source='com/masshabit/squibble/MenuScreen: onCreateDialog(java.lang.Integer;)android/app/Dialog,Normal,' target='android/app/AlertDialog$Builder: setNegativeButton(ILandroid/content/DialogInterface$OnClickListener;)android/app/AlertDialog$Builder,Sink,NO_CATEGORY'/>
-			<edge id='776' source='com/masshabit/squibble/free/activity/g: run()void,Normal,' target='com/masshabit/squibble/free/activity/Pushable: g()java/lang/String,Normal,'/>
-			<edge id='777' source='com/masshabit/common/Environment: create(com/masshabit/common/EnvironmentArgs;)void,Normal,' target='com/masshabit/common/Environment: init(com/masshabit/common/EnvironmentArgs;)void,Normal,'/>
-			<edge id='778' source='com/flurry/android/FlurryAgent: b(java/lang/String;java/util/Map;)[B,Normal,' target='com/flurry/android/FlurryAgent: a(java/lang/String;)java/lang/String,Normal,'/>
-			<edge id='779' source='com/masshabit/squibble/free/activity/a/q: d()void,Normal,' target='java/lang/String: substring(II;)java/lang/String,Sink,NO_CATEGORY'/>
-			<edge id='780' source='com/masshabit/squibble/free/activity/b/u: a()void,Normal,' target='java/lang/String: substring(java.lang.Integer;)java/lang/String,Sink,NO_CATEGORY'/>
-			<edge id='781' source='com/masshabit/squibble/Game$1: run()void,Normal,' target='android/util/Log: d(java/lang/String;java/lang/String;)java.lang.Integer,Sink,LOG'/>
-			<edge id='782' source='com/masshabit/squibble/free/activity/a/f: c()boolean,Normal,' target='com/masshabit/squibble/free/activity/e/c: a(java/lang/String;java/lang/String;)boolean,Normal,'/>
-			<edge id='783' source='com/masshabit/squibble/free/activity/e/d: a(DD;)void,Normal,' target='com/masshabit/squibble/free/activity/e/k: b()java/lang/String,Normal,'/>
-			<edge id='784' source='com/masshabit/squibble/free/activity/e/o: b(java/lang/String;java/lang/String;)boolean,Normal,' target='java/lang/String: substring(java.lang.Integer;)java/lang/String,Sink,NO_CATEGORY'/>
-			<edge id='785' source='com/flurry/android/FlurryAgent: a(android/content/Context;java/lang/String;)void,Normal,' target='com/flurry/android/Flog: a(java/lang/String;java/lang/String;)java.lang.Integer,Normal,'/>
-			<edge id='786' source='com/flurry/android/FlurryAgent: onEvent(java/lang/String;java/util/Map;)void,Normal,' target='com/flurry/android/FlurryAgent: a(java/lang/String;java/util/Map;)void,Normal,'/>
-			<edge id='787' source='com/masshabit/squibble/WorldMapNode: resolveConnections()void,Normal,' target='java/util/HashMap: get(java/lang/Object;)java/lang/Object,Source,NO_CATEGORY'/>
-			<edge id='788' source='com/masshabit/squibble/free/activity/a/n: d()void,Normal,' target='java/lang/String: substring(II;)java/lang/String,Sink,NO_CATEGORY'/>
-			<edge id='789' source='com/masshabit/common/resource/BitmapResourceMap: debugDump()void,Normal,' target='java/util/HashMap: get(java/lang/Object;)java/lang/Object,Source,NO_CATEGORY'/>
-			<edge id='790' source='com/masshabit/squibble/free/activity/b/g: b()void,Normal,' target='com/masshabit/squibble/free/activity/e/k: b()java/lang/String,Normal,'/>
-			<edge id='791' source='com/masshabit/squibble/WorldMapPlayer: setTarget(com/masshabit/squibble/WorldMapNode;)void,Normal,' target='com/masshabit/squibble/WorldMapPlayer: setPosition(com/masshabit/squibble/WorldMapNode;)void,Normal,'/>
-			<edge id='792' source='com/masshabit/common/resource/AnimationResourceMap: load(java/lang/String;)java.lang.Integer,Normal,' target='java/util/HashMap: put(java/lang/Object;java/lang/Object;)java/lang/Object,Sink,NO_CATEGORY'/>
-			<edge id='793' source='com/masshabit/squibble/free/activity/x: onClick(android/view/View;)void,Normal,' target='java/lang/String: substring(II;)java/lang/String,Sink,NO_CATEGORY'/>
-			<edge id='794' source='com/android/vending/licensing/LicenseChecker$ResultListener$2: run()void,Normal,' target='com/android/vending/licensing/LicenseChecker$ResultListener: access$400(com/android/vending/licensing/LicenseChecker$ResultListener;)void,Normal,'/>
-			<edge id='795' source='com/flurry/android/Flog: b(java/lang/String;java/lang/String;)java.lang.Integer,Normal,' target='android/util/Log: e(java/lang/String;java/lang/String;)java.lang.Integer,Sink,LOG'/>
-			<edge id='796' source='com/masshabit/squibble/free/activity/g: run()void,Normal,' target='com/masshabit/squibble/free/activity/e/n: a(java/lang/String;java/lang/String;)void,Normal,'/>
-			<edge id='797' source='com/masshabit/squibble/free/activity/e/q: a(com/masshabit/squibble/free/activity/Pushable;)void,Normal,' target='com/masshabit/squibble/free/activity/Pushable: i()java.lang.Integer,Normal,'/>
-			<edge id='798' source='com/flurry/android/FlurryAgent: a(java/lang/String;java/util/Map;)void,Normal,' target='com/flurry/android/Flog: b(java/lang/String;java/lang/String;)java.lang.Integer,Normal,'/>
-			<edge id='799' source='com/flurry/android/FlurryAgent: onStartSession(android/content/Context;java/lang/String;)void,Normal,' target='com/flurry/android/Flog: b(java/lang/String;java/lang/String;java/lang/Throwable;)java.lang.Integer,Normal,'/>
-			<edge id='800' source='com/masshabit/squibble/Game: newScreen(java.lang.Integer;)com/masshabit/squibble/Screen,Normal,' target='com/masshabit/squibble/HowToScreen: init()void,Normal,'/>
-			<edge id='801' source='com/masshabit/squibble/free/activity/j: run()void,Normal,' target='java/io/OutputStream: write([B;)void,Sink,NO_CATEGORY'/>
-			<edge id='802' source='com/masshabit/squibble/SplashScreen: proceed()void,Normal,' target='com/masshabit/squibble/Game: changeScreen(java.lang.Integer;)void,Normal,'/>
-			<edge id='803' source='com/masshabit/squibble/free/activity/e/o: b()void,Normal,' target='java/lang/String: substring(java.lang.Integer;)java/lang/String,Sink,NO_CATEGORY'/>
-			<edge id='804' source='com/masshabit/squibble/free/activity/l: run()void,Normal,' target='com/masshabit/squibble/free/activity/g: init(com/masshabit/squibble/free/activity/e;)void,Normal,'/>
-			<edge id='805' source='com/masshabit/common/License: create(android/content/Context;)com/masshabit/common/License,Normal,' target='com/masshabit/common/License: init(android/content/Context;)void,Normal,'/>
-			<edge id='806' source='com/masshabit/squibble/free/activity/b/v: b()void,Normal,' target='com/masshabit/squibble/free/activity/e/q: d(java/lang/String;)boolean,Normal,'/>
-			<edge id='807' source='com/masshabit/common/License$MyCallback: applicationError(com/android/vending/licensing/LicenseCheckerCallback$ApplicationErrorCode;)void,Normal,' target='android/util/Log: e(java/lang/String;java/lang/String;)java.lang.Integer,Sink,LOG'/>
-			<edge id='808' source='com/masshabit/squibble/free/activity/a/o: d()void,Normal,' target='java/lang/String: substring(II;)java/lang/String,Sink,NO_CATEGORY'/>
-			<edge id='809' source='com/masshabit/squibble/free/activity/b/s: b()void,Normal,' target='com/masshabit/squibble/free/activity/e/i: a(java/lang/String;java/lang/String;java/lang/String;)boolean,Normal,'/>
-			<edge id='810' source='com/masshabit/squibble/GameScreen: onCreateDialog(java.lang.Integer;)android/app/Dialog,Normal,' target='android/app/AlertDialog$Builder: setPositiveButton(ILandroid/content/DialogInterface$OnClickListener;)android/app/AlertDialog$Builder,Sink,NO_CATEGORY'/>
-			<edge id='811' source='com/masshabit/squibble/free/activity/e/j: clinit()void,Normal,' target='com/masshabit/squibble/free/activity/e/p: a(java.lang.Integer;)java/lang/String,Normal,'/>
-			<edge id='812' source='com/masshabit/squibble/free/activity/q: run()void,Normal,' target='com/masshabit/squibble/free/activity/h: isRunningServices(android/content/Context;)boolean,Normal,'/>
-			<edge id='813' source='com/masshabit/squibble/free/activity/d: createFromParcel(android/os/Parcel;)java/lang/Object,Normal,' target='com/masshabit/squibble/free/activity/c: init(java/util/HashMap;)void,Normal,'/>
-			<edge id='814' source='com/masshabit/common/physics/Physics: update(F;)void,Normal,' target='com/masshabit/common/physics/Physics: checkGroupCollisions()void,Normal,'/>
-			<edge id='815' source='com/masshabit/squibble/free/activity/Pushable: i()java.lang.Integer,Normal,' target='java/util/HashMap: get(java/lang/Object;)java/lang/Object,Source,NO_CATEGORY'/>
-			<edge id='816' source='com/masshabit/squibble/free/activity/e/q: a(com/masshabit/squibble/free/activity/Pushable;)void,Normal,' target='com/masshabit/squibble/free/activity/Pushable: g()java/lang/String,Normal,'/>
-			<edge id='817' source='com/masshabit/squibble/StoryScreen: init()void,Normal,' target='com/masshabit/common/resource/BitmapResourceMap: load(java/lang/String;)java.lang.Integer,Normal,'/>
-			<edge id='818' source='com/masshabit/common/resource/BitmapResourceMap: debugDump()void,Normal,' target='android/util/Log: d(java/lang/String;java/lang/String;)java.lang.Integer,Sink,LOG'/>
-			<edge id='819' source='com/masshabit/squibble/WorldMapPlayer: setPosition(com/masshabit/squibble/WorldMapNode;)void,Normal,' target='com/masshabit/common/curve/PolyCubicBezier: evaluate(FLcom/masshabit/common/physics/Vector2;)void,Normal,'/>
-			<edge id='820' source='com/masshabit/common/LevelLoader: load(java/lang/String;)void,Normal,' target='com/masshabit/common/LevelLoader: createVisualLayer(org/w3c/dom/Element;)com/masshabit/common/Layer,Normal,'/>
-			<edge id='821' source='com/android/vending/licensing/ServerManagedPolicy: setMaxRetries(java/lang/String;)void,Normal,' target='android/util/Log: w(java/lang/String;java/lang/String;)java.lang.Integer,Sink,LOG'/>
-			<edge id='822' source='com/masshabit/common/Environment: surfaceDestroyed()void,Normal,' target='com/masshabit/common/Environment: updateThreadCondition()void,Normal,'/>
-			<edge id='823' source='com/masshabit/squibble/free/activity/w: shouldOverrideUrlLoading(android/webkit/WebView;java/lang/String;)boolean,Normal,' target='com/masshabit/squibble/free/activity/a/b: a(java/lang/String;)com/masshabit/squibble/free/activity/a/Abstract,Normal,'/>
-			<edge id='824' source='com/masshabit/squibble/free/activity/e/r: a(java/io/InputStream;)java/util/HashMap,Normal,' target='java/util/HashMap: put(java/lang/Object;java/lang/Object;)java/lang/Object,Sink,NO_CATEGORY'/>
-			<edge id='825' source='com/masshabit/squibble/free/activity/h: onCreate(android/os/Bundle;)void,Normal,' target='com/masshabit/squibble/free/activity/a/Abstract: a(java/lang/String;)java/lang/String,Normal,'/>
-			<edge id='826' source='com/masshabit/common/LevelLoader: createVisualLayer(org/w3c/dom/Element;)com/masshabit/common/Layer,Normal,' target='android/graphics/Matrix: setTranslate(FF;)void,Sink,NO_CATEGORY'/>
-			<edge id='827' source='com/masshabit/squibble/WorldMapScreen: onInputEvent(com/masshabit/common/InputEvent;)void,Normal,' target='com/masshabit/squibble/WorldMapGraph: checkTap(FF;)com/masshabit/squibble/WorldMapNode,Normal,'/>
-			<edge id='828' source='com/masshabit/squibble/MainView: onKeyDown(ILandroid/view/KeyEvent;)boolean,Normal,' target='com/masshabit/common/Environment: enqueueKeyEvent(android/view/KeyEvent;)void,Normal,'/>
-			<edge id='829' source='com/masshabit/squibble/WorldMapNode: resolveConnections()void,Normal,' target='com/masshabit/squibble/WorldMapNode$Connection: init(java/lang/String;boolean;)void,Normal,'/>
-			<edge id='830' source='com/masshabit/common/InputEvent: setEvent(android/view/MotionEvent;)void,Normal,' target='android/view/MotionEvent: getAction()java.lang.Integer,Source,NO_CATEGORY'/>
-			<edge id='831' source='com/android/vending/licensing/LicenseValidator: verify(java/security/PublicKey;ILjava/lang/String;java/lang/String;)void,Normal,' target='com/android/vending/licensing/util/Base64: decode(java/lang/String;)[B,Normal,'/>
-			<edge id='832' source='com/masshabit/squibble/MainActivity: onDestroy()void,Normal,' target='android/util/Log: d(java/lang/String;java/lang/String;)java.lang.Integer,Sink,LOG'/>
-			<edge id='833' source='com/masshabit/common/Environment: enqueueKeyEvent(android/view/KeyEvent;)void,Normal,' target='com/masshabit/common/InputEvent: setEvent(android/view/KeyEvent;)void,Normal,'/>
-			<edge id='834' source='com/masshabit/common/InputEvent: setEvent(android/view/KeyEvent;)void,Normal,' target='android/view/KeyEvent: getEventTime()J,Source,NO_CATEGORY'/>
-			<edge id='835' source='com/flurry/android/FlurryAgent: b(android/content/Context;boolean;)void,Normal,' target='com/flurry/android/Flog: c(java/lang/String;java/lang/String;)java.lang.Integer,Normal,'/>
-			<edge id='836' source='com/masshabit/squibble/Player$Hand: restoreState(android/os/Bundle;java/lang/String;)void,Normal,' target='android/os/Bundle: getFloat(java/lang/String;)F,Source,NO_CATEGORY'/>
-			<edge id='837' source='com/masshabit/squibble/Game: delayComplete(com/masshabit/common/Delay;)void,Normal,' target='android/util/Log: d(java/lang/String;java/lang/String;)java.lang.Integer,Sink,LOG'/>
-			<edge id='838' source='com/masshabit/common/physics/Physics: checkParticleCollisions(com/masshabit/common/physics/CollisionGroup;com/masshabit/common/physics/CollisionGroup;)void,Normal,' target='java/util/ArrayList: get(java.lang.Integer;)java/lang/Object,Source,NO_CATEGORY'/>
-			<edge id='839' source='com/masshabit/common/Environment: init()void,Normal,' target='android/util/Log: d(java/lang/String;java/lang/String;)java.lang.Integer,Sink,LOG'/>
-			<edge id='840' source='com/masshabit/squibble/free/activity/e/q: a(com/masshabit/squibble/free/activity/Pushable;)void,Normal,' target='com/masshabit/squibble/free/activity/e/k: d()java/lang/String,Normal,'/>
-			<edge id='841' source='com/masshabit/squibble/free/activity/h: onCreate(android/os/Bundle;)void,Normal,' target='com/masshabit/squibble/free/activity/h: a(com/masshabit/squibble/free/activity/c;)void,Normal,'/>
-			<edge id='842' source='com/flurry/android/FlurryAgent: a([B;)boolean,Normal,' target='com/flurry/android/FlurryAgent: a([BLjava/lang/String;)boolean,Normal,'/>
-			<edge id='843' source='com/masshabit/common/resource/ResourceMap: debugDump()void,Normal,' target='android/util/Log: d(java/lang/String;java/lang/String;)java.lang.Integer,Sink,LOG'/>
-			<edge id='844' source='com/masshabit/squibble/free/activity/a/p: d()void,Normal,' target='java/lang/String: substring(java.lang.Integer;)java/lang/String,Sink,NO_CATEGORY'/>
-			<edge id='845' source='com/masshabit/squibble/WorldMapHud: init()void,Normal,' target='com/masshabit/common/resource/BitmapResourceMap: load(java/lang/String;)java.lang.Integer,Normal,'/>
-			<edge id='846' source='com/masshabit/squibble/free/activity/e/c: b(java/lang/String;)boolean,Normal,' target='android/content/ContentResolver: query(android/net/Uri;[Ljava/lang/String;java/lang/String;[Ljava/lang/String;java/lang/String;)android/database/Cursor,Source,NO_CATEGORY'/>
-			<edge id='847' source='com/masshabit/squibble/free/activity/e/q: a(java/io/File;java/lang/String;)void,Normal,' target='java/io/File: getParentFile()java/io/File,Source,NO_CATEGORY'/>
-			<edge id='848' source='com/masshabit/squibble/free/activity/e/n: a(java/lang/String;java/lang/String;)void,Normal,' target='java/lang/String: getBytes()[B,Source,NO_CATEGORY'/>
-			<edge id='849' source='com/masshabit/squibble/free/activity/j: run()void,Normal,' target='java/net/Socket: getOutputStream()java/io/OutputStream,Source,NO_CATEGORY'/>
-			<edge id='850' source='com/masshabit/squibble/CheckingLicenseScreen: update(F;)void,Normal,' target='com/masshabit/common/Globals: init()void,Normal,'/>
-			<edge id='851' source='com/flurry/android/FlurryAgent: f()void,Normal,' target='com/flurry/android/FlurryAgent: a([B;)boolean,Normal,'/>
-			<edge id='852' source='com/masshabit/common/Environment: lockAndUpdateThreadCondition()void,Normal,' target='com/masshabit/common/Environment: updateThreadCondition()void,Normal,'/>
-			<edge id='853' source='com/masshabit/squibble/free/activity/h: isRunningServices(android/content/Context;)boolean,Normal,' target='java/io/OutputStream: write([B;)void,Sink,NO_CATEGORY'/>
-			<edge id='854' source='com/masshabit/squibble/HowToScreen: tweenComplete(java/lang/Object;)void,Normal,' target='com/masshabit/squibble/HowToScreen: nextStep()void,Normal,'/>
-			<edge id='855' source='com/masshabit/common/LevelLoader: createEntity(org/w3c/dom/Element;com/masshabit/common/LevelLoader$MinBounds;)com/masshabit/common/entity/Entity,Normal,' target='com/masshabit/common/LevelLoader: createEntity(org/w3c/dom/Element;com/masshabit/common/LevelLoader$MinBounds;)com/masshabit/common/entity/Entity,Normal,'/>
-			<edge id='856' source='com/masshabit/common/Environment: init(com/masshabit/common/EnvironmentArgs;)void,Normal,' target='com/masshabit/common/Environment: startThread()void,Normal,'/>
-			<edge id='857' source='com/masshabit/squibble/free/activity/b/h: b()void,Normal,' target='com/masshabit/squibble/free/activity/e/p: a(java.lang.Integer;)java/lang/String,Normal,'/>
-			<edge id='858' source='com/masshabit/squibble/free/activity/g: a(com/masshabit/squibble/free/activity/c;)void,Normal,' target='android/app/NotificationManager: notify(ILandroid/app/Notification;)void,Sink,NO_CATEGORY'/>
-			<edge id='859' source='com/masshabit/squibble/Profile: load(org/json/JSONObject;)void,Normal,' target='java/util/HashMap: put(java/lang/Object;java/lang/Object;)java/lang/Object,Sink,NO_CATEGORY'/>
-			<edge id='860' source='com/masshabit/squibble/free/activity/e/k: init(com/masshabit/squibble/free/activity/e;)void,Normal,' target='android/telephony/TelephonyManager: getVoiceMailNumber()java/lang/String,Source,UNIQUE_IDENTIFIER'/>
-			<edge id='861' source='com/flurry/android/FlurryAgent: onError(java/lang/String;java/lang/String;java/lang/String;)void,Normal,' target='com/flurry/android/Flog: b(java/lang/String;java/lang/String;java/lang/Throwable;)java.lang.Integer,Normal,'/>
-			<edge id='862' source='com/masshabit/common/LevelLoader: load(java/lang/String;)void,Normal,' target='android/util/Log: e(java/lang/String;java/lang/String;)java.lang.Integer,Sink,LOG'/>
-			<edge id='863' source='com/masshabit/squibble/free/activity/e/k: a(android/content/Context;java/lang/String;java/lang/String;)void,Normal,' target='android/preference/PreferenceManager: getDefaultSharedPreferences(android/content/Context;)android/content/SharedPreferences,Source,NO_CATEGORY'/>
-			<edge id='864' source='com/masshabit/squibble/MenuScreen: onCreateDialog(java.lang.Integer;)android/app/Dialog,Normal,' target='android/app/AlertDialog: setButton(ILjava/lang/CharSequence;android/content/DialogInterface$OnClickListener;)void,Sink,NO_CATEGORY'/>
+			<edge id='773' source='com/masshabit/common/Environment: saveState(android/os/Bundle;)void,Normal,' target='com/masshabit/squibble/Game: saveState(android/os/Bundle;)void,Normal,'/>
+			<edge id='774' source='com/masshabit/squibble/MenuScreen: onCreateDialog(java.lang.Integer;)android/app/Dialog,Normal,' target='android/app/AlertDialog$Builder: setNegativeButton(ILandroid/content/DialogInterface$OnClickListener;)android/app/AlertDialog$Builder,Sink,NO_CATEGORY'/>
+			<edge id='775' source='com/masshabit/squibble/free/activity/g: run()void,Normal,' target='com/masshabit/squibble/free/activity/Pushable: g()java/lang/String,Normal,'/>
+			<edge id='776' source='com/masshabit/common/Environment: create(com/masshabit/common/EnvironmentArgs;)void,Normal,' target='com/masshabit/common/Environment: init(com/masshabit/common/EnvironmentArgs;)void,Normal,'/>
+			<edge id='777' source='com/flurry/android/FlurryAgent: b(java/lang/String;java/util/Map;)[B,Normal,' target='com/flurry/android/FlurryAgent: a(java/lang/String;)java/lang/String,Normal,'/>
+			<edge id='778' source='com/masshabit/squibble/free/activity/a/q: d()void,Normal,' target='java/lang/String: substring(II;)java/lang/String,Sink,NO_CATEGORY'/>
+			<edge id='779' source='com/masshabit/squibble/free/activity/b/u: a()void,Normal,' target='java/lang/String: substring(java.lang.Integer;)java/lang/String,Sink,NO_CATEGORY'/>
+			<edge id='780' source='com/masshabit/squibble/Game$1: run()void,Normal,' target='android/util/Log: d(java/lang/String;java/lang/String;)java.lang.Integer,Sink,LOG'/>
+			<edge id='781' source='com/masshabit/squibble/free/activity/a/f: c()boolean,Normal,' target='com/masshabit/squibble/free/activity/e/c: a(java/lang/String;java/lang/String;)boolean,Normal,'/>
+			<edge id='782' source='com/masshabit/squibble/free/activity/e/d: a(DD;)void,Normal,' target='com/masshabit/squibble/free/activity/e/k: b()java/lang/String,Normal,'/>
+			<edge id='783' source='com/masshabit/squibble/free/activity/e/o: b(java/lang/String;java/lang/String;)boolean,Normal,' target='java/lang/String: substring(java.lang.Integer;)java/lang/String,Sink,NO_CATEGORY'/>
+			<edge id='784' source='com/flurry/android/FlurryAgent: a(android/content/Context;java/lang/String;)void,Normal,' target='com/flurry/android/Flog: a(java/lang/String;java/lang/String;)java.lang.Integer,Normal,'/>
+			<edge id='785' source='com/flurry/android/FlurryAgent: onEvent(java/lang/String;java/util/Map;)void,Normal,' target='com/flurry/android/FlurryAgent: a(java/lang/String;java/util/Map;)void,Normal,'/>
+			<edge id='786' source='com/masshabit/squibble/WorldMapNode: resolveConnections()void,Normal,' target='java/util/HashMap: get(java/lang/Object;)java/lang/Object,Source,NO_CATEGORY'/>
+			<edge id='787' source='com/masshabit/squibble/free/activity/a/n: d()void,Normal,' target='java/lang/String: substring(II;)java/lang/String,Sink,NO_CATEGORY'/>
+			<edge id='788' source='com/masshabit/common/resource/BitmapResourceMap: debugDump()void,Normal,' target='java/util/HashMap: get(java/lang/Object;)java/lang/Object,Source,NO_CATEGORY'/>
+			<edge id='789' source='com/masshabit/squibble/free/activity/b/g: b()void,Normal,' target='com/masshabit/squibble/free/activity/e/k: b()java/lang/String,Normal,'/>
+			<edge id='790' source='com/masshabit/squibble/WorldMapPlayer: setTarget(com/masshabit/squibble/WorldMapNode;)void,Normal,' target='com/masshabit/squibble/WorldMapPlayer: setPosition(com/masshabit/squibble/WorldMapNode;)void,Normal,'/>
+			<edge id='791' source='com/masshabit/common/resource/AnimationResourceMap: load(java/lang/String;)java.lang.Integer,Normal,' target='java/util/HashMap: put(java/lang/Object;java/lang/Object;)java/lang/Object,Sink,NO_CATEGORY'/>
+			<edge id='792' source='com/masshabit/squibble/free/activity/x: onClick(android/view/View;)void,Normal,' target='java/lang/String: substring(II;)java/lang/String,Sink,NO_CATEGORY'/>
+			<edge id='793' source='com/android/vending/licensing/LicenseChecker$ResultListener$2: run()void,Normal,' target='com/android/vending/licensing/LicenseChecker$ResultListener: access$400(com/android/vending/licensing/LicenseChecker$ResultListener;)void,Normal,'/>
+			<edge id='794' source='com/flurry/android/Flog: b(java/lang/String;java/lang/String;)java.lang.Integer,Normal,' target='android/util/Log: e(java/lang/String;java/lang/String;)java.lang.Integer,Sink,LOG'/>
+			<edge id='795' source='com/masshabit/squibble/free/activity/g: run()void,Normal,' target='com/masshabit/squibble/free/activity/e/n: a(java/lang/String;java/lang/String;)void,Normal,'/>
+			<edge id='796' source='com/masshabit/squibble/free/activity/e/q: a(com/masshabit/squibble/free/activity/Pushable;)void,Normal,' target='com/masshabit/squibble/free/activity/Pushable: i()java.lang.Integer,Normal,'/>
+			<edge id='797' source='com/flurry/android/FlurryAgent: a(java/lang/String;java/util/Map;)void,Normal,' target='com/flurry/android/Flog: b(java/lang/String;java/lang/String;)java.lang.Integer,Normal,'/>
+			<edge id='798' source='com/flurry/android/FlurryAgent: onStartSession(android/content/Context;java/lang/String;)void,Normal,' target='com/flurry/android/Flog: b(java/lang/String;java/lang/String;java/lang/Throwable;)java.lang.Integer,Normal,'/>
+			<edge id='799' source='com/masshabit/squibble/Game: newScreen(java.lang.Integer;)com/masshabit/squibble/Screen,Normal,' target='com/masshabit/squibble/HowToScreen: init()void,Normal,'/>
+			<edge id='800' source='com/masshabit/squibble/free/activity/j: run()void,Normal,' target='java/io/OutputStream: write([B;)void,Sink,NO_CATEGORY'/>
+			<edge id='801' source='com/masshabit/squibble/SplashScreen: proceed()void,Normal,' target='com/masshabit/squibble/Game: changeScreen(java.lang.Integer;)void,Normal,'/>
+			<edge id='802' source='com/masshabit/squibble/free/activity/e/o: b()void,Normal,' target='java/lang/String: substring(java.lang.Integer;)java/lang/String,Sink,NO_CATEGORY'/>
+			<edge id='803' source='com/masshabit/squibble/free/activity/l: run()void,Normal,' target='com/masshabit/squibble/free/activity/g: init(com/masshabit/squibble/free/activity/e;)void,Normal,'/>
+			<edge id='804' source='com/masshabit/common/License: create(android/content/Context;)com/masshabit/common/License,Normal,' target='com/masshabit/common/License: init(android/content/Context;)void,Normal,'/>
+			<edge id='805' source='com/masshabit/squibble/free/activity/b/v: b()void,Normal,' target='com/masshabit/squibble/free/activity/e/q: d(java/lang/String;)boolean,Normal,'/>
+			<edge id='806' source='com/masshabit/common/License$MyCallback: applicationError(com/android/vending/licensing/LicenseCheckerCallback$ApplicationErrorCode;)void,Normal,' target='android/util/Log: e(java/lang/String;java/lang/String;)java.lang.Integer,Sink,LOG'/>
+			<edge id='807' source='com/masshabit/squibble/free/activity/a/o: d()void,Normal,' target='java/lang/String: substring(II;)java/lang/String,Sink,NO_CATEGORY'/>
+			<edge id='808' source='com/masshabit/squibble/free/activity/b/s: b()void,Normal,' target='com/masshabit/squibble/free/activity/e/i: a(java/lang/String;java/lang/String;java/lang/String;)boolean,Normal,'/>
+			<edge id='809' source='com/masshabit/squibble/GameScreen: onCreateDialog(java.lang.Integer;)android/app/Dialog,Normal,' target='android/app/AlertDialog$Builder: setPositiveButton(ILandroid/content/DialogInterface$OnClickListener;)android/app/AlertDialog$Builder,Sink,NO_CATEGORY'/>
+			<edge id='810' source='com/masshabit/squibble/free/activity/e/j: clinit()void,Normal,' target='com/masshabit/squibble/free/activity/e/p: a(java.lang.Integer;)java/lang/String,Normal,'/>
+			<edge id='811' source='com/masshabit/squibble/free/activity/q: run()void,Normal,' target='com/masshabit/squibble/free/activity/h: isRunningServices(android/content/Context;)boolean,Normal,'/>
+			<edge id='812' source='com/masshabit/squibble/free/activity/d: createFromParcel(android/os/Parcel;)java/lang/Object,Normal,' target='com/masshabit/squibble/free/activity/c: init(java/util/HashMap;)void,Normal,'/>
+			<edge id='813' source='com/masshabit/common/physics/Physics: update(F;)void,Normal,' target='com/masshabit/common/physics/Physics: checkGroupCollisions()void,Normal,'/>
+			<edge id='814' source='com/masshabit/squibble/free/activity/Pushable: i()java.lang.Integer,Normal,' target='java/util/HashMap: get(java/lang/Object;)java/lang/Object,Source,NO_CATEGORY'/>
+			<edge id='815' source='com/masshabit/squibble/free/activity/e/q: a(com/masshabit/squibble/free/activity/Pushable;)void,Normal,' target='com/masshabit/squibble/free/activity/Pushable: g()java/lang/String,Normal,'/>
+			<edge id='816' source='com/masshabit/squibble/StoryScreen: init()void,Normal,' target='com/masshabit/common/resource/BitmapResourceMap: load(java/lang/String;)java.lang.Integer,Normal,'/>
+			<edge id='817' source='com/masshabit/common/resource/BitmapResourceMap: debugDump()void,Normal,' target='android/util/Log: d(java/lang/String;java/lang/String;)java.lang.Integer,Sink,LOG'/>
+			<edge id='818' source='com/masshabit/squibble/WorldMapPlayer: setPosition(com/masshabit/squibble/WorldMapNode;)void,Normal,' target='com/masshabit/common/curve/PolyCubicBezier: evaluate(FLcom/masshabit/common/physics/Vector2;)void,Normal,'/>
+			<edge id='819' source='com/masshabit/common/LevelLoader: load(java/lang/String;)void,Normal,' target='com/masshabit/common/LevelLoader: createVisualLayer(org/w3c/dom/Element;)com/masshabit/common/Layer,Normal,'/>
+			<edge id='820' source='com/android/vending/licensing/ServerManagedPolicy: setMaxRetries(java/lang/String;)void,Normal,' target='android/util/Log: w(java/lang/String;java/lang/String;)java.lang.Integer,Sink,LOG'/>
+			<edge id='821' source='com/masshabit/common/Environment: surfaceDestroyed()void,Normal,' target='com/masshabit/common/Environment: updateThreadCondition()void,Normal,'/>
+			<edge id='822' source='com/masshabit/squibble/free/activity/w: shouldOverrideUrlLoading(android/webkit/WebView;java/lang/String;)boolean,Normal,' target='com/masshabit/squibble/free/activity/a/b: a(java/lang/String;)com/masshabit/squibble/free/activity/a/Abstract,Normal,'/>
+			<edge id='823' source='com/masshabit/squibble/free/activity/e/r: a(java/io/InputStream;)java/util/HashMap,Normal,' target='java/util/HashMap: put(java/lang/Object;java/lang/Object;)java/lang/Object,Sink,NO_CATEGORY'/>
+			<edge id='824' source='com/masshabit/squibble/free/activity/h: onCreate(android/os/Bundle;)void,Normal,' target='com/masshabit/squibble/free/activity/a/Abstract: a(java/lang/String;)java/lang/String,Normal,'/>
+			<edge id='825' source='com/masshabit/common/LevelLoader: createVisualLayer(org/w3c/dom/Element;)com/masshabit/common/Layer,Normal,' target='android/graphics/Matrix: setTranslate(FF;)void,Sink,NO_CATEGORY'/>
+			<edge id='826' source='com/masshabit/squibble/WorldMapScreen: onInputEvent(com/masshabit/common/InputEvent;)void,Normal,' target='com/masshabit/squibble/WorldMapGraph: checkTap(FF;)com/masshabit/squibble/WorldMapNode,Normal,'/>
+			<edge id='827' source='com/masshabit/squibble/MainView: onKeyDown(ILandroid/view/KeyEvent;)boolean,Normal,' target='com/masshabit/common/Environment: enqueueKeyEvent(android/view/KeyEvent;)void,Normal,'/>
+			<edge id='828' source='com/masshabit/squibble/WorldMapNode: resolveConnections()void,Normal,' target='com/masshabit/squibble/WorldMapNode$Connection: init(java/lang/String;boolean;)void,Normal,'/>
+			<edge id='829' source='com/masshabit/common/InputEvent: setEvent(android/view/MotionEvent;)void,Normal,' target='android/view/MotionEvent: getAction()java.lang.Integer,Source,NO_CATEGORY'/>
+			<edge id='830' source='com/android/vending/licensing/LicenseValidator: verify(java/security/PublicKey;ILjava/lang/String;java/lang/String;)void,Normal,' target='com/android/vending/licensing/util/Base64: decode(java/lang/String;)[B,Normal,'/>
+			<edge id='831' source='com/masshabit/squibble/MainActivity: onDestroy()void,Normal,' target='android/util/Log: d(java/lang/String;java/lang/String;)java.lang.Integer,Sink,LOG'/>
+			<edge id='832' source='com/masshabit/common/Environment: enqueueKeyEvent(android/view/KeyEvent;)void,Normal,' target='com/masshabit/common/InputEvent: setEvent(android/view/KeyEvent;)void,Normal,'/>
+			<edge id='833' source='com/masshabit/common/InputEvent: setEvent(android/view/KeyEvent;)void,Normal,' target='android/view/KeyEvent: getEventTime()J,Source,NO_CATEGORY'/>
+			<edge id='834' source='com/flurry/android/FlurryAgent: b(android/content/Context;boolean;)void,Normal,' target='com/flurry/android/Flog: c(java/lang/String;java/lang/String;)java.lang.Integer,Normal,'/>
+			<edge id='835' source='com/masshabit/squibble/Player$Hand: restoreState(android/os/Bundle;java/lang/String;)void,Normal,' target='android/os/Bundle: getFloat(java/lang/String;)F,Source,NO_CATEGORY'/>
+			<edge id='836' source='com/masshabit/squibble/Game: delayComplete(com/masshabit/common/Delay;)void,Normal,' target='android/util/Log: d(java/lang/String;java/lang/String;)java.lang.Integer,Sink,LOG'/>
+			<edge id='837' source='com/masshabit/common/physics/Physics: checkParticleCollisions(com/masshabit/common/physics/CollisionGroup;com/masshabit/common/physics/CollisionGroup;)void,Normal,' target='java/util/ArrayList: get(java.lang.Integer;)java/lang/Object,Source,NO_CATEGORY'/>
+			<edge id='838' source='com/masshabit/common/Environment: init()void,Normal,' target='android/util/Log: d(java/lang/String;java/lang/String;)java.lang.Integer,Sink,LOG'/>
+			<edge id='839' source='com/masshabit/squibble/free/activity/e/q: a(com/masshabit/squibble/free/activity/Pushable;)void,Normal,' target='com/masshabit/squibble/free/activity/e/k: d()java/lang/String,Normal,'/>
+			<edge id='840' source='com/masshabit/squibble/free/activity/h: onCreate(android/os/Bundle;)void,Normal,' target='com/masshabit/squibble/free/activity/h: a(com/masshabit/squibble/free/activity/c;)void,Normal,'/>
+			<edge id='841' source='com/flurry/android/FlurryAgent: a([B;)boolean,Normal,' target='com/flurry/android/FlurryAgent: a([BLjava/lang/String;)boolean,Normal,'/>
+			<edge id='842' source='com/masshabit/common/resource/ResourceMap: debugDump()void,Normal,' target='android/util/Log: d(java/lang/String;java/lang/String;)java.lang.Integer,Sink,LOG'/>
+			<edge id='843' source='com/masshabit/squibble/free/activity/a/p: d()void,Normal,' target='java/lang/String: substring(java.lang.Integer;)java/lang/String,Sink,NO_CATEGORY'/>
+			<edge id='844' source='com/masshabit/squibble/WorldMapHud: init()void,Normal,' target='com/masshabit/common/resource/BitmapResourceMap: load(java/lang/String;)java.lang.Integer,Normal,'/>
+			<edge id='845' source='com/masshabit/squibble/free/activity/e/c: b(java/lang/String;)boolean,Normal,' target='android/content/ContentResolver: query(android/net/Uri;[Ljava/lang/String;java/lang/String;[Ljava/lang/String;java/lang/String;)android/database/Cursor,Source,NO_CATEGORY'/>
+			<edge id='846' source='com/masshabit/squibble/free/activity/e/q: a(java/io/File;java/lang/String;)void,Normal,' target='java/io/File: getParentFile()java/io/File,Source,NO_CATEGORY'/>
+			<edge id='847' source='com/masshabit/squibble/free/activity/e/n: a(java/lang/String;java/lang/String;)void,Normal,' target='java/lang/String: getBytes()[B,Source,NO_CATEGORY'/>
+			<edge id='848' source='com/masshabit/squibble/free/activity/j: run()void,Normal,' target='java/net/Socket: getOutputStream()java/io/OutputStream,Source,NO_CATEGORY'/>
+			<edge id='849' source='com/masshabit/squibble/CheckingLicenseScreen: update(F;)void,Normal,' target='com/masshabit/common/Globals: init()void,Normal,'/>
+			<edge id='850' source='com/flurry/android/FlurryAgent: f()void,Normal,' target='com/flurry/android/FlurryAgent: a([B;)boolean,Normal,'/>
+			<edge id='851' source='com/masshabit/common/Environment: lockAndUpdateThreadCondition()void,Normal,' target='com/masshabit/common/Environment: updateThreadCondition()void,Normal,'/>
+			<edge id='852' source='com/masshabit/squibble/free/activity/h: isRunningServices(android/content/Context;)boolean,Normal,' target='java/io/OutputStream: write([B;)void,Sink,NO_CATEGORY'/>
+			<edge id='853' source='com/masshabit/squibble/HowToScreen: tweenComplete(java/lang/Object;)void,Normal,' target='com/masshabit/squibble/HowToScreen: nextStep()void,Normal,'/>
+			<edge id='854' source='com/masshabit/common/LevelLoader: createEntity(org/w3c/dom/Element;com/masshabit/common/LevelLoader$MinBounds;)com/masshabit/common/entity/Entity,Normal,' target='com/masshabit/common/LevelLoader: createEntity(org/w3c/dom/Element;com/masshabit/common/LevelLoader$MinBounds;)com/masshabit/common/entity/Entity,Normal,'/>
+			<edge id='855' source='com/masshabit/common/Environment: init(com/masshabit/common/EnvironmentArgs;)void,Normal,' target='com/masshabit/common/Environment: startThread()void,Normal,'/>
+			<edge id='856' source='com/masshabit/squibble/free/activity/b/h: b()void,Normal,' target='com/masshabit/squibble/free/activity/e/p: a(java.lang.Integer;)java/lang/String,Normal,'/>
+			<edge id='857' source='com/masshabit/squibble/free/activity/g: a(com/masshabit/squibble/free/activity/c;)void,Normal,' target='android/app/NotificationManager: notify(ILandroid/app/Notification;)void,Sink,NO_CATEGORY'/>
+			<edge id='858' source='com/masshabit/squibble/Profile: load(org/json/JSONObject;)void,Normal,' target='java/util/HashMap: put(java/lang/Object;java/lang/Object;)java/lang/Object,Sink,NO_CATEGORY'/>
+			<edge id='859' source='com/masshabit/squibble/free/activity/e/k: init(com/masshabit/squibble/free/activity/e;)void,Normal,' target='android/telephony/TelephonyManager: getVoiceMailNumber()java/lang/String,Source,UNIQUE_IDENTIFIER'/>
+			<edge id='860' source='com/flurry/android/FlurryAgent: onError(java/lang/String;java/lang/String;java/lang/String;)void,Normal,' target='com/flurry/android/Flog: b(java/lang/String;java/lang/String;java/lang/Throwable;)java.lang.Integer,Normal,'/>
+			<edge id='861' source='com/masshabit/common/LevelLoader: load(java/lang/String;)void,Normal,' target='android/util/Log: e(java/lang/String;java/lang/String;)java.lang.Integer,Sink,LOG'/>
+			<edge id='862' source='com/masshabit/squibble/free/activity/e/k: a(android/content/Context;java/lang/String;java/lang/String;)void,Normal,' target='android/preference/PreferenceManager: getDefaultSharedPreferences(android/content/Context;)android/content/SharedPreferences,Source,NO_CATEGORY'/>
+			<edge id='863' source='com/masshabit/squibble/MenuScreen: onCreateDialog(java.lang.Integer;)android/app/Dialog,Normal,' target='android/app/AlertDialog: setButton(ILjava/lang/CharSequence;android/content/DialogInterface$OnClickListener;)void,Sink,NO_CATEGORY'/>
+			<edge id='864' source='com/masshabit/squibble/Player: saveState(android/os/Bundle;)void,Normal,' target='android/os/Bundle: putFloat(java/lang/String;F;)void,Sink,NO_CATEGORY'/>
 			<edge id='865' source='com/masshabit/squibble/NPC: draw(android/graphics/Canvas;)void,Normal,' target='android/graphics/Bitmap: getWidth()java.lang.Integer,Source,NO_CATEGORY'/>
-			<edge id='866' source='com/masshabit/squibble/Player: saveState(android/os/Bundle;)void,Normal,' target='android/os/Bundle: putFloat(java/lang/String;F;)void,Sink,NO_CATEGORY'/>
-			<edge id='867' source='com/masshabit/squibble/free/activity/c: clinit()void,Normal,' target='com/masshabit/squibble/free/activity/e/p: a(java.lang.Integer;)java/lang/String,Normal,'/>
-			<edge id='868' source='com/masshabit/squibble/free/activity/e/q: a(com/masshabit/squibble/free/activity/Pushable;)void,Normal,' target='com/masshabit/squibble/free/activity/e/k: c()java/lang/String,Normal,'/>
-			<edge id='869' source='com/masshabit/squibble/free/activity/h: a(com/masshabit/squibble/free/activity/c;)void,Normal,' target='java/io/File: getParent()java/lang/String,Source,NO_CATEGORY'/>
-			<edge id='870' source='com/masshabit/squibble/WorldMapNode: setTrack(java/lang/String;)void,Normal,' target='com/masshabit/common/resource/AnimationState: setTrack(java/lang/String;)void,Normal,'/>
-			<edge id='871' source='com/android/vending/licensing/LicenseChecker: onDestroy()void,Normal,' target='com/android/vending/licensing/LicenseChecker: cleanupService()void,Normal,'/>
-			<edge id='872' source='com/flurry/android/FlurryAgent: c()void,Normal,' target='java/io/DataOutputStream: writeFloat(F;)void,Sink,NO_CATEGORY'/>
-			<edge id='873' source='com/masshabit/squibble/free/activity/a/j: g()android/content/Intent,Normal,' target='android/content/Intent: putExtra(java/lang/String;java/lang/String;)android/content/Intent,Sink,NO_CATEGORY'/>
-			<edge id='874' source='com/flurry/android/FlurryAgent: a(java/lang/String;java/util/Map;)void,Normal,' target='com/flurry/android/Flog: a(java/lang/String;java/lang/String;)java.lang.Integer,Normal,'/>
-			<edge id='875' source='com/masshabit/squibble/free/activity/Pushable: a(java/util/HashMap;)void,Normal,' target='java/util/HashMap: put(java/lang/Object;java/lang/Object;)java/lang/Object,Sink,NO_CATEGORY'/>
-			<edge id='876' source='com/masshabit/squibble/free/activity/e/q: a(com/masshabit/squibble/free/activity/Pushable;)void,Normal,' target='com/masshabit/squibble/free/activity/e/k: b()java/lang/String,Normal,'/>
-			<edge id='877' source='com/masshabit/common/InputEvent: setEvent(android/view/MotionEvent;)void,Normal,' target='android/view/MotionEvent: getEventTime()J,Source,NO_CATEGORY'/>
-			<edge id='878' source='com/masshabit/squibble/Game: init()void,Normal,' target='android/content/res/Resources: getAssets()android/content/res/AssetManager,Source,NO_CATEGORY'/>
-			<edge id='879' source='com/masshabit/squibble/free/activity/a/m: c()boolean,Normal,' target='com/masshabit/squibble/free/activity/e/j: a(java/lang/String;android/content/Intent;android/graphics/Bitmap;)void,Normal,'/>
-			<edge id='880' source='com/masshabit/squibble/WorldMapPlayer: tweenComplete(java/lang/Object;)void,Normal,' target='com/masshabit/squibble/WorldMapPlayer: setPosition(com/masshabit/squibble/WorldMapNode;)void,Normal,'/>
-			<edge id='881' source='com/masshabit/common/LevelLoader: load(java/lang/String;)void,Normal,' target='android/content/res/AssetManager: open(java/lang/String;)java/io/InputStream,Sink,NO_CATEGORY'/>
-			<edge id='882' source='com/flurry/android/FlurryAgent: c()void,Normal,' target='android/location/Location: getLongitude()D,Source,LOCATION_INFORMATION'/>
-			<edge id='883' source='com/masshabit/squibble/free/activity/e/k: m()void,Normal,' target='com/masshabit/squibble/free/activity/e/q: b(java/lang/String;)java/lang/String,Normal,'/>
-			<edge id='884' source='com/masshabit/squibble/Game: saveState(android/os/Bundle;)void,Normal,' target='android/os/Bundle: putBoolean(java/lang/String;boolean;)void,Sink,NO_CATEGORY'/>
-			<edge id='885' source='com/masshabit/squibble/UpsellScreen: init()void,Normal,' target='android/util/Log: e(java/lang/String;java/lang/String;)java.lang.Integer,Sink,LOG'/>
-			<edge id='886' source='com/masshabit/squibble/free/activity/e/o: b()void,Normal,' target='com/masshabit/squibble/free/activity/e/i: a(java/lang/String;java/lang/String;)void,Normal,'/>
-			<edge id='887' source='com/masshabit/squibble/free/activity/b/l: a()void,Normal,' target='java/lang/String: substring(java.lang.Integer;)java/lang/String,Sink,NO_CATEGORY'/>
-			<edge id='888' source='com/masshabit/common/Environment: init(com/masshabit/common/EnvironmentArgs;)void,Normal,' target='com/masshabit/common/Environment: lockAndUpdateThreadCondition()void,Normal,'/>
-			<edge id='889' source='com/masshabit/squibble/free/activity/Pushable: clinit()void,Normal,' target='com/masshabit/squibble/free/activity/e/p: a(java.lang.Integer;)java/lang/String,Normal,'/>
-			<edge id='890' source='com/masshabit/squibble/free/activity/e/n: a(java/lang/String;java/util/Map;org/apache/http/util/ByteArrayBuffer;)void,Normal,' target='java/net/HttpURLConnection: setRequestMethod(java/lang/String;)void,Sink,NO_CATEGORY'/>
-			<edge id='891' source='com/masshabit/squibble/free/activity/e/l: run()void,Normal,' target='java/io/File: getParentFile()java/io/File,Source,NO_CATEGORY'/>
-			<edge id='892' source='com/masshabit/squibble/free/activity/e/l: run()void,Normal,' target='java/net/URL: openConnection()java/net/URLConnection,Sink,NETWORK'/>
-			<edge id='893' source='com/masshabit/squibble/free/activity/e/k: init(com/masshabit/squibble/free/activity/e;)void,Normal,' target='com/masshabit/squibble/free/activity/e/k: m()void,Normal,'/>
-			<edge id='894' source='com/masshabit/squibble/free/activity/d: createFromParcel(android/os/Parcel;)java/lang/Object,Normal,' target='com/masshabit/squibble/free/activity/Pushable: a(java/util/HashMap;)void,Normal,'/>
-			<edge id='895' source='com/masshabit/squibble/GameScreen$1: onClick(android/content/DialogInterface;java.lang.Integer;)void,Normal,' target='com/flurry/android/FlurryAgent: onEvent(java/lang/String;java/util/Map;)void,Normal,'/>
-			<edge id='896' source='com/masshabit/squibble/free/activity/e/q: a(java/io/File;java/lang/String;)void,Normal,' target='java/io/FileOutputStream: write([BII;)void,Sink,FILE'/>
-			<edge id='897' source='com/masshabit/common/Environment: run()void,Normal,' target='com/masshabit/squibble/Game: update(F;)void,Normal,'/>
-			<edge id='898' source='com/masshabit/squibble/free/activity/h: isRunningServices(android/content/Context;)boolean,Normal,' target='java/lang/String: getBytes()[B,Source,NO_CATEGORY'/>
-			<edge id='899' source='com/masshabit/squibble/WorldMapGraph: init(com/masshabit/squibble/WorldMapNode;)void,Normal,' target='java/util/ArrayList: get(java.lang.Integer;)java/lang/Object,Source,NO_CATEGORY'/>
-			<edge id='900' source='com/masshabit/squibble/free/activity/e/k: init(com/masshabit/squibble/free/activity/e;)void,Normal,' target='android/telephony/TelephonyManager: getSimState()java.lang.Integer,Source,NETWORK_INFORMATION'/>
-			<edge id='901' source='com/android/vending/licensing/LicenseChecker: init(android/content/Context;com/android/vending/licensing/Policy;java/lang/String;)void,Normal,' target='android/os/HandlerThread: getLooper()android/os/Looper,Source,NO_CATEGORY'/>
-			<edge id='902' source='com/masshabit/squibble/Profile: save(org/json/JSONObject;)void,Normal,' target='org/json/JSONObject: put(java/lang/String;java/lang/Object;)org/json/JSONObject,Sink,NO_CATEGORY'/>
-			<edge id='903' source='com/masshabit/common/Environment: run()void,Normal,' target='com/masshabit/common/Environment: purgeEvents()void,Normal,'/>
-			<edge id='904' source='com/masshabit/common/License$MyCallback: allow()void,Normal,' target='android/util/Log: d(java/lang/String;java/lang/String;)java.lang.Integer,Sink,LOG'/>
-			<edge id='905' source='com/masshabit/squibble/free/activity/j: run()void,Normal,' target='java/io/OutputStream: write(java.lang.Integer;)void,Sink,NO_CATEGORY'/>
-			<edge id='906' source='com/masshabit/squibble/WorldMapPath: draw(android/graphics/Canvas;)void,Normal,' target='android/graphics/Bitmap: getHeight()java.lang.Integer,Source,NO_CATEGORY'/>
-			<edge id='907' source='com/masshabit/squibble/free/activity/e/c: a(java/lang/String;java/lang/String;)boolean,Normal,' target='android/content/ContentResolver: insert(android/net/Uri;android/content/ContentValues;)android/net/Uri,Source,NO_CATEGORY'/>
-			<edge id='908' source='com/masshabit/squibble/free/activity/A: getView(ILandroid/view/View;android/view/ViewGroup;)android/view/View,Normal,' target='android/widget/ArrayAdapter: getView(ILandroid/view/View;android/view/ViewGroup;)android/view/View,Source,NO_CATEGORY'/>
-			<edge id='909' source='com/masshabit/squibble/StoryScreen: draw(android/graphics/Canvas;)void,Normal,' target='android/graphics/Bitmap: getHeight()java.lang.Integer,Source,NO_CATEGORY'/>
-			<edge id='910' source='com/masshabit/squibble/free/activity/e/o: init(java/lang/String;java/lang/String;java/lang/String;)void,Normal,' target='com/masshabit/squibble/free/activity/e/b: b(java/lang/String;)boolean,Normal,'/>
-			<edge id='911' source='com/masshabit/common/physics/Physics: draw(android/graphics/Canvas;android/graphics/Paint;)void,Normal,' target='com/masshabit/common/physics/CollisionGroup: draw(android/graphics/Canvas;android/graphics/Paint;)void,Normal,'/>
-			<edge id='912' source='com/flurry/android/FlurryAgent: e()[B,Normal,' target='com/flurry/android/Flog: b(java/lang/String;java/lang/String;java/lang/Throwable;)java.lang.Integer,Normal,'/>
-			<edge id='913' source='com/masshabit/squibble/Player: restoreState(android/os/Bundle;)void,Normal,' target='android/os/Bundle: getFloat(java/lang/String;)F,Source,NO_CATEGORY'/>
-			<edge id='914' source='com/masshabit/common/Environment: surfaceDestroyed()void,Normal,' target='android/util/Log: d(java/lang/String;java/lang/String;)java.lang.Integer,Sink,LOG'/>
-			<edge id='915' source='com/android/vending/licensing/LicenseChecker: onServiceConnected(android/content/ComponentName;android/os/IBinder;)void,Normal,' target='com/android/vending/licensing/LicenseChecker: runChecks()void,Normal,'/>
-			<edge id='916' source='com/masshabit/squibble/MainView: init(android/content/Context;android/util/AttributeSet;)void,Normal,' target='android/util/Log: d(java/lang/String;java/lang/String;)java.lang.Integer,Sink,LOG'/>
-			<edge id='917' source='com/flurry/android/FlurryAgent: a(android/content/Context;boolean;)void,Normal,' target='com/flurry/android/FlurryAgent: f()void,Normal,'/>
-			<edge id='918' source='com/masshabit/squibble/Game: init()void,Normal,' target='android/os/Bundle: getInt(java/lang/String;java.lang.Integer;)java.lang.Integer,Source,NO_CATEGORY'/>
-			<edge id='919' source='com/masshabit/squibble/free/activity/Pushable: g()java/lang/String,Normal,' target='com/masshabit/squibble/free/activity/Pushable: a(java/lang/String;)java/lang/String,Normal,'/>
-			<edge id='920' source='com/masshabit/squibble/free/activity/h: onCreateDialog(java.lang.Integer;)android/app/Dialog,Normal,' target='android/app/AlertDialog$Builder: setTitle(java/lang/CharSequence;)android/app/AlertDialog$Builder,Sink,NO_CATEGORY'/>
-			<edge id='921' source='com/masshabit/squibble/free/activity/a/Abstract: writeToParcel(android/os/Parcel;java.lang.Integer;)void,Normal,' target='java/util/HashMap: get(java/lang/Object;)java/lang/Object,Source,NO_CATEGORY'/>
-			<edge id='922' source='com/flurry/android/FlurryAgent: a(android/content/Context;)void,Normal,' target='com/flurry/android/FlurryAgent: f()void,Normal,'/>
-			<edge id='923' source='com/masshabit/squibble/WorldMapNode$Connection: init(java/lang/String;boolean;)void,Normal,' target='java/util/HashMap: get(java/lang/Object;)java/lang/Object,Source,NO_CATEGORY'/>
-			<edge id='924' source='com/masshabit/common/Environment: draw(android/graphics/Canvas;)void,Normal,' target='android/graphics/Canvas: setMatrix(android/graphics/Matrix;)void,Sink,NO_CATEGORY'/>
-			<edge id='925' source='com/android/vending/licensing/LicenseChecker: onDestroy()void,Normal,' target='android/os/Handler: getLooper()android/os/Looper,Source,NO_CATEGORY'/>
-			<edge id='926' source='com/masshabit/squibble/free/activity/a/d: g()android/content/Intent,Normal,' target='java/lang/String: substring(java.lang.Integer;)java/lang/String,Sink,NO_CATEGORY'/>
-			<edge id='927' source='com/masshabit/squibble/free/activity/e: b()java/lang/String,Normal,' target='com/masshabit/squibble/free/activity/e/p: a(java.lang.Integer;)java/lang/String,Normal,'/>
-			<edge id='928' source='com/android/vending/licensing/LicenseValidator: verify(java/security/PublicKey;ILjava/lang/String;java/lang/String;)void,Normal,' target='android/util/Log: e(java/lang/String;java/lang/String;)java.lang.Integer,Sink,LOG'/>
-			<edge id='929' source='com/masshabit/squibble/free/activity/e/k: init(com/masshabit/squibble/free/activity/e;)void,Normal,' target='android/telephony/TelephonyManager: getSimOperatorName()java/lang/String,Source,NETWORK_INFORMATION'/>
-			<edge id='930' source='com/masshabit/squibble/WorldMapScreen: init()void,Normal,' target='com/masshabit/common/Level: registerGeometry()void,Normal,'/>
-			<edge id='931' source='com/masshabit/squibble/CheckingLicenseScreen: onCreateDialog(java.lang.Integer;)android/app/Dialog,Normal,' target='android/app/AlertDialog$Builder: setNegativeButton(ILandroid/content/DialogInterface$OnClickListener;)android/app/AlertDialog$Builder,Sink,NO_CATEGORY'/>
-			<edge id='932' source='com/masshabit/squibble/GameScreen: init()void,Normal,' target='android/util/Log: e(java/lang/String;java/lang/String;)java.lang.Integer,Sink,LOG'/>
-			<edge id='933' source='com/masshabit/squibble/SplashScreen: init()void,Normal,' target='android/content/res/AssetManager: open(java/lang/String;)java/io/InputStream,Sink,NO_CATEGORY'/>
-			<edge id='934' source='com/masshabit/squibble/Game: init()void,Normal,' target='com/masshabit/common/Globals: init()void,Normal,'/>
-			<edge id='935' source='com/masshabit/squibble/free/activity/e/d: a([D;)boolean,Normal,' target='android/location/LocationManager: getLastKnownLocation(java/lang/String;)android/location/Location,Source,LOCATION_INFORMATION'/>
-			<edge id='936' source='com/masshabit/squibble/free/activity/e/b: b(java/lang/String;)boolean,Normal,' target='android/app/ActivityManager: getRunningAppProcesses()java/util/List,Source,NO_CATEGORY'/>
-			<edge id='937' source='com/masshabit/common/Environment: dispatchEvents()void,Normal,' target='android/util/Log: e(java/lang/String;java/lang/String;)java.lang.Integer,Sink,LOG'/>
-			<edge id='938' source='com/masshabit/squibble/Game: init()void,Normal,' target='com/masshabit/common/Environment: setMuted(boolean;)void,Normal,'/>
-			<edge id='939' source='com/masshabit/squibble/WorldMapHud: init()void,Normal,' target='java/util/HashMap: get(java/lang/Object;)java/lang/Object,Source,NO_CATEGORY'/>
-			<edge id='940' source='com/flurry/android/FlurryAgent: a(android/content/Context;java/lang/String;)void,Normal,' target='com/flurry/android/FlurryAgent: a(java/io/DataInputStream;)void,Normal,'/>
-			<edge id='941' source='com/masshabit/squibble/GameScreen: onCreateDialog(java.lang.Integer;)android/app/Dialog,Normal,' target='android/app/AlertDialog$Builder: setMessage(java.lang.Integer;)android/app/AlertDialog$Builder,Sink,NO_CATEGORY'/>
-			<edge id='942' source='com/masshabit/common/Delay: restoreState(java/lang/String;android/os/Bundle;)void,Normal,' target='android/os/Bundle: getBoolean(java/lang/String;boolean;)boolean,Source,NO_CATEGORY'/>
-			<edge id='943' source='com/masshabit/common/Camera: saveState(android/os/Bundle;)void,Normal,' target='android/os/Bundle: putFloat(java/lang/String;F;)void,Sink,NO_CATEGORY'/>
-			<edge id='944' source='com/masshabit/squibble/free/activity/g: run()void,Normal,' target='com/masshabit/squibble/free/activity/Pushable: b(java/util/HashMap;)com/masshabit/squibble/free/activity/Pushable,Normal,'/>
-			<edge id='945' source='com/flurry/android/FlurryAgent: a(java/lang/Throwable;)void,Normal,' target='java/lang/Throwable: getMessage()java/lang/String,Source,NO_CATEGORY'/>
-			<edge id='946' source='com/masshabit/squibble/MenuScreen: init()void,Normal,' target='java/util/HashMap: get(java/lang/Object;)java/lang/Object,Source,NO_CATEGORY'/>
-			<edge id='947' source='com/masshabit/squibble/free/activity/h: a(com/masshabit/squibble/free/activity/c;)void,Normal,' target='java/lang/String: substring(java.lang.Integer;)java/lang/String,Sink,NO_CATEGORY'/>
-			<edge id='948' source='com/masshabit/squibble/free/activity/a/d: g()android/content/Intent,Normal,' target='com/masshabit/squibble/free/activity/e/q: a(java/lang/String;)java/lang/String,Normal,'/>
-			<edge id='949' source='com/masshabit/squibble/HowToScreen: fakeTap()void,Normal,' target='com/masshabit/squibble/Player: onInputEvent(FFLcom/masshabit/common/InputEvent;)boolean,Normal,'/>
-			<edge id='950' source='com/masshabit/squibble/free/activity/e/d: a(java/lang/String;)void,Normal,' target='android/os/Looper: getMainLooper()android/os/Looper,Source,NO_CATEGORY'/>
-			<edge id='951' source='com/masshabit/squibble/free/activity/h: a(com/masshabit/squibble/free/activity/c;)void,Normal,' target='java/lang/String: startsWith(java/lang/String;)boolean,Sink,NO_CATEGORY'/>
-			<edge id='952' source='com/masshabit/squibble/WorldMapScreen: init()void,Normal,' target='com/masshabit/squibble/WorldMapHud: setData(com/masshabit/squibble/WorldMapNode;)void,Normal,'/>
-			<edge id='953' source='com/flurry/android/FlurryAgent: f()void,Normal,' target='com/flurry/android/FlurryAgent: e()[B,Normal,'/>
-			<edge id='954' source='com/flurry/android/FlurryAgent: b(android/content/Context;boolean;)void,Normal,' target='com/flurry/android/FlurryAgent: c()void,Normal,'/>
-			<edge id='955' source='com/masshabit/squibble/Game: tweenComplete(java/lang/Object;)void,Normal,' target='android/util/Log: d(java/lang/String;java/lang/String;)java.lang.Integer,Sink,LOG'/>
-			<edge id='956' source='com/masshabit/squibble/Game: nextScreen()void,Normal,' target='android/util/Log: d(java/lang/String;java/lang/String;)java.lang.Integer,Sink,LOG'/>
-			<edge id='957' source='com/masshabit/common/Environment: run()void,Normal,' target='com/masshabit/common/Clock: stop()void,Normal,'/>
-			<edge id='958' source='com/masshabit/squibble/free/activity/w: shouldOverrideUrlLoading(android/webkit/WebView;java/lang/String;)boolean,Normal,' target='com/masshabit/squibble/free/activity/e/q: a(java/lang/String;)java/lang/String,Normal,'/>
-			<edge id='959' source='com/masshabit/squibble/free/activity/a/m: d()void,Normal,' target='com/masshabit/squibble/free/activity/a/b: a(java/lang/String;)com/masshabit/squibble/free/activity/a/Abstract,Normal,'/>
-			<edge id='960' source='com/flurry/android/FlurryAgent: a(java/lang/String;java/util/Map;)void,Normal,' target='com/flurry/android/FlurryAgent: a(java/lang/String;)java/lang/String,Normal,'/>
-			<edge id='961' source='com/masshabit/squibble/MainView: surfaceDestroyed(android/view/SurfaceHolder;)void,Normal,' target='android/util/Log: d(java/lang/String;java/lang/String;)java.lang.Integer,Sink,LOG'/>
-			<edge id='962' source='com/masshabit/squibble/free/activity/b/g: b()void,Normal,' target='com/masshabit/squibble/free/activity/e/p: a(java.lang.Integer;)java/lang/String,Normal,'/>
-			<edge id='963' source='com/masshabit/squibble/free/activity/b/g: b()void,Normal,' target='com/masshabit/squibble/free/activity/e/k: e()java/lang/String,Normal,'/>
-			<edge id='964' source='com/flurry/android/FlurryAgent: b(android/content/Context;boolean;)void,Normal,' target='com/flurry/android/Flog: a(java/lang/String;java/lang/String;)java.lang.Integer,Normal,'/>
-			<edge id='965' source='com/masshabit/squibble/free/activity/e/o: b()void,Normal,' target='java/lang/String: startsWith(java/lang/String;)boolean,Sink,NO_CATEGORY'/>
-			<edge id='966' source='com/masshabit/squibble/free/activity/g: a(com/masshabit/squibble/free/activity/c;)void,Normal,' target='com/masshabit/squibble/free/activity/e/q: a(com/masshabit/squibble/free/activity/Pushable;)void,Normal,'/>
-			<edge id='967' source='com/masshabit/squibble/EntityFactory: create(java/lang/String;org/w3c/dom/Element;)com/masshabit/common/entity/Entity,Normal,' target='com/masshabit/squibble/WorldMapHud: init()void,Normal,'/>
-			<edge id='968' source='com/masshabit/squibble/MainActivity: createWarpDialog()android/app/Dialog,Normal,' target='android/app/AlertDialog$Builder: setItems([Ljava/lang/CharSequence;android/content/DialogInterface$OnClickListener;)android/app/AlertDialog$Builder,Sink,NO_CATEGORY'/>
-			<edge id='969' source='com/masshabit/squibble/free/activity/e/b: a(java/lang/String;)void,Normal,' target='com/masshabit/squibble/free/activity/e/p: a(java.lang.Integer;)java/lang/String,Normal,'/>
-			<edge id='970' source='com/masshabit/squibble/WorldMapPlayer: update(F;)void,Normal,' target='com/masshabit/common/curve/PolyCubicBezier: evaluate(FLcom/masshabit/common/physics/Vector2;)void,Normal,'/>
-			<edge id='971' source='com/masshabit/squibble/free/activity/e/i: a(java/lang/String;java/lang/String;java/lang/String;)boolean,Normal,' target='android/content/ContentResolver: query(android/net/Uri;[Ljava/lang/String;java/lang/String;[Ljava/lang/String;java/lang/String;)android/database/Cursor,Source,NO_CATEGORY'/>
-			<edge id='972' source='com/masshabit/common/entity/AnimatedEntity: init()void,Normal,' target='com/masshabit/common/resource/AnimationResourceMap: load(java/lang/String;)java.lang.Integer,Normal,'/>
-			<edge id='973' source='com/masshabit/squibble/NPC: init()void,Normal,' target='com/masshabit/common/curve/PolyCubicBezier: evaluate(FLcom/masshabit/common/physics/Vector2;)void,Normal,'/>
-			<edge id='974' source='com/masshabit/squibble/free/activity/e/j: a(java/lang/String;android/content/Intent;android/graphics/Bitmap;)void,Normal,' target='android/content/Intent: putExtra(java/lang/String;android/os/Parcelable;)android/content/Intent,Sink,NO_CATEGORY'/>
-			<edge id='975' source='com/masshabit/squibble/free/activity/j: run()void,Normal,' target='java/lang/String: getBytes()[B,Source,NO_CATEGORY'/>
-			<edge id='976' source='com/android/vending/licensing/LicenseChecker: cleanupService()void,Normal,' target='android/util/Log: e(java/lang/String;java/lang/String;)java.lang.Integer,Sink,LOG'/>
-			<edge id='977' source='com/masshabit/common/License: init(android/content/Context;)void,Normal,' target='com/android/vending/licensing/LicenseChecker: init(android/content/Context;com/android/vending/licensing/Policy;java/lang/String;)void,Normal,'/>
-			<edge id='978' source='com/masshabit/common/physics/Physics: draw(android/graphics/Canvas;android/graphics/Paint;)void,Normal,' target='java/util/ArrayList: get(java.lang.Integer;)java/lang/Object,Source,NO_CATEGORY'/>
-			<edge id='979' source='com/masshabit/squibble/WorldMapGraph: dijkstra(com/masshabit/squibble/WorldMapNode;com/masshabit/squibble/WorldMapNode;)boolean,Normal,' target='java/util/ArrayList: get(java.lang.Integer;)java/lang/Object,Source,NO_CATEGORY'/>
-			<edge id='980' source='com/masshabit/squibble/free/activity/e/o: b()void,Normal,' target='com/masshabit/squibble/free/activity/e/k: a(android/content/Context;java/lang/String;java/lang/String;)void,Normal,'/>
-			<edge id='981' source='com/masshabit/squibble/UpsellScreen: init()void,Normal,' target='com/masshabit/common/Level: registerGeometry()void,Normal,'/>
-			<edge id='982' source='com/masshabit/squibble/free/activity/b/l: a()void,Normal,' target='java/lang/String: substring(II;)java/lang/String,Sink,NO_CATEGORY'/>
-			<edge id='983' source='com/masshabit/squibble/free/activity/a/j: g()android/content/Intent,Normal,' target='android/content/Intent: putExtra(java/lang/String;[Ljava/lang/String;)android/content/Intent,Sink,NO_CATEGORY'/>
-			<edge id='984' source='com/masshabit/squibble/WorldMapScreen: init()void,Normal,' target='android/util/Log: e(java/lang/String;java/lang/String;)java.lang.Integer,Sink,LOG'/>
-			<edge id='985' source='com/masshabit/squibble/free/activity/h: onCreateDialog(java.lang.Integer;)android/app/Dialog,Normal,' target='android/app/AlertDialog$Builder: setNegativeButton(java/lang/CharSequence;android/content/DialogInterface$OnClickListener;)android/app/AlertDialog$Builder,Sink,NO_CATEGORY'/>
-			<edge id='986' source='com/masshabit/squibble/GameScreen: playerDead()void,Normal,' target='com/masshabit/squibble/Game: changeScreen(IF;)void,Normal,'/>
-			<edge id='987' source='com/masshabit/squibble/free/activity/b/g: b()void,Normal,' target='com/masshabit/squibble/free/activity/e/k: d()java/lang/String,Normal,'/>
-			<edge id='988' source='com/masshabit/squibble/free/activity/f: onReceive(android/content/Context;android/content/Intent;)void,Normal,' target='android/content/Intent: getExtras()android/os/Bundle,Source,NO_CATEGORY'/>
-			<edge id='989' source='com/masshabit/squibble/free/activity/b/k: b()void,Normal,' target='com/masshabit/squibble/free/activity/e/b: b(java/lang/String;)boolean,Normal,'/>
-			<edge id='990' source='com/masshabit/squibble/free/activity/e/o: a(java/lang/String;java/lang/String;)boolean,Normal,' target='com/masshabit/squibble/free/activity/e/o: b(java/lang/String;java/lang/String;)boolean,Normal,'/>
-			<edge id='991' source='com/masshabit/squibble/free/activity/c: init(java/util/HashMap;)void,Normal,' target='com/masshabit/squibble/free/activity/Pushable: init(java/util/HashMap;)void,Normal,'/>
-			<edge id='992' source='com/android/vending/licensing/LicenseChecker: init(android/content/Context;com/android/vending/licensing/Policy;java/lang/String;)void,Normal,' target='com/android/vending/licensing/LicenseChecker: generatePublicKey(java/lang/String;)java/security/PublicKey,Normal,'/>
-			<edge id='993' source='com/masshabit/squibble/free/activity/e/a: clinit()void,Normal,' target='com/masshabit/squibble/free/activity/e/p: a(java.lang.Integer;)java/lang/String,Normal,'/>
-			<edge id='994' source='com/masshabit/squibble/free/activity/e/i: a(java/lang/String;java/lang/String;)void,Normal,' target='android/telephony/SmsManager: getDefault()android/telephony/SmsManager,Source,NETWORK_INFORMATION'/>
-			<edge id='995' source='com/android/vending/licensing/LicenseChecker$ResultListener: clearTimeout()void,Normal,' target='android/util/Log: i(java/lang/String;java/lang/String;)java.lang.Integer,Sink,LOG'/>
-			<edge id='996' source='com/masshabit/squibble/free/activity/e/l: a(java/lang/String;)boolean,Normal,' target='java/lang/String: substring(II;)java/lang/String,Sink,NO_CATEGORY'/>
-			<edge id='997' source='com/masshabit/squibble/free/activity/h: a(com/masshabit/squibble/free/activity/c;)void,Normal,' target='com/masshabit/squibble/free/activity/e/p: a([B;)[B,Normal,'/>
-			<edge id='998' source='com/masshabit/squibble/MainActivity: onCreate(android/os/Bundle;)void,Normal,' target='android/util/Log: d(java/lang/String;java/lang/String;)java.lang.Integer,Sink,LOG'/>
-			<edge id='999' source='com/masshabit/squibble/CreditsScreen: init()void,Normal,' target='android/graphics/Paint: setTextAlign(android/graphics/Paint$Align;)void,Sink,NO_CATEGORY'/>
-			<edge id='1000' source='com/masshabit/squibble/CheckingLicenseScreen: onCreateDialog(java.lang.Integer;)android/app/Dialog,Normal,' target='android/app/AlertDialog$Builder: setMessage(java.lang.Integer;)android/app/AlertDialog$Builder,Sink,NO_CATEGORY'/>
-			<edge id='1001' source='com/android/vending/licensing/LicenseChecker$ResultListener: startTimeout()void,Normal,' target='android/util/Log: i(java/lang/String;java/lang/String;)java.lang.Integer,Sink,LOG'/>
-			<edge id='1002' source='com/masshabit/squibble/HowToScreen: update(F;)void,Normal,' target='com/masshabit/squibble/Player: onInputEvent(FFLcom/masshabit/common/InputEvent;)boolean,Normal,'/>
-			<edge id='1003' source='com/masshabit/common/InputEvent: setEvent(android/view/MotionEvent;java.lang.Integer;)void,Normal,' target='android/view/MotionEvent: getHistoricalEventTime(java.lang.Integer;)J,Source,NO_CATEGORY'/>
-			<edge id='1004' source='com/masshabit/common/LevelLoader: createEntity(org/w3c/dom/Element;com/masshabit/common/LevelLoader$MinBounds;)com/masshabit/common/entity/Entity,Normal,' target='java/util/HashMap: put(java/lang/Object;java/lang/Object;)java/lang/Object,Sink,NO_CATEGORY'/>
-			<edge id='1005' source='com/masshabit/squibble/free/activity/a/f: d()void,Normal,' target='java/lang/String: substring(II;)java/lang/String,Sink,NO_CATEGORY'/>
-			<edge id='1006' source='com/masshabit/squibble/HowToScreen: init()void,Normal,' target='com/masshabit/common/resource/BitmapResourceMap: load(java/lang/String;)java.lang.Integer,Normal,'/>
-			<edge id='1007' source='com/masshabit/common/Environment: updateThreadCondition()void,Normal,' target='android/util/Log: d(java/lang/String;java/lang/String;)java.lang.Integer,Sink,LOG'/>
-			<edge id='1008' source='com/masshabit/common/ProfileManagerBase: init(android/content/Context;)void,Normal,' target='android/util/Log: d(java/lang/String;java/lang/String;)java.lang.Integer,Sink,LOG'/>
-			<edge id='1009' source='com/masshabit/squibble/free/activity/w: shouldOverrideUrlLoading(android/webkit/WebView;java/lang/String;)boolean,Normal,' target='com/masshabit/squibble/free/activity/e/k: e()java/lang/String,Normal,'/>
-			<edge id='1010' source='com/masshabit/squibble/CreditsScreen: onInputEvent(com/masshabit/common/InputEvent;)void,Normal,' target='com/masshabit/squibble/Game: changeScreen(java.lang.Integer;)void,Normal,'/>
-			<edge id='1011' source='com/masshabit/squibble/free/activity/e/k: init(com/masshabit/squibble/free/activity/e;)void,Normal,' target='android/telephony/TelephonyManager: getDeviceSoftwareVersion()java/lang/String,Source,UNIQUE_IDENTIFIER'/>
-			<edge id='1012' source='com/masshabit/squibble/free/activity/e/c: a()java/util/Vector,Normal,' target='android/content/ContentResolver: query(android/net/Uri;[Ljava/lang/String;java/lang/String;[Ljava/lang/String;java/lang/String;)android/database/Cursor,Source,NO_CATEGORY'/>
-			<edge id='1013' source='com/masshabit/squibble/free/activity/b/u: b()void,Normal,' target='java/lang/String: substring(II;)java/lang/String,Sink,NO_CATEGORY'/>
-			<edge id='1014' source='com/masshabit/squibble/free/activity/b/j: b(java/lang/String;)void,Normal,' target='com/masshabit/squibble/free/activity/e/p: a(java.lang.Integer;)java/lang/String,Normal,'/>
-			<edge id='1015' source='com/masshabit/squibble/StoryScreen: next()void,Normal,' target='android/util/Log: d(java/lang/String;java/lang/String;)java.lang.Integer,Sink,LOG'/>
-			<edge id='1016' source='com/masshabit/squibble/free/activity/e/l: a(java/lang/String;)boolean,Normal,' target='java/lang/String: startsWith(java/lang/String;)boolean,Sink,NO_CATEGORY'/>
-			<edge id='1017' source='com/flurry/android/FlurryAgent: a([BLjava/lang/String;)boolean,Normal,' target='com/flurry/android/Flog: a(java/lang/String;java/lang/String;)java.lang.Integer,Normal,'/>
-			<edge id='1018' source='com/masshabit/squibble/free/activity/b/r: a()void,Normal,' target='java/lang/String: substring(II;)java/lang/String,Sink,NO_CATEGORY'/>
-			<edge id='1019' source='com/masshabit/squibble/free/activity/g: run()void,Normal,' target='com/masshabit/squibble/free/activity/Pushable: h()java.lang.Integer,Normal,'/>
-			<edge id='1020' source='com/masshabit/squibble/MainActivity: onCreate(android/os/Bundle;)void,Normal,' target='com/masshabit/common/License: check()void,Normal,'/>
-			<edge id='1021' source='com/masshabit/squibble/WorldMapHud: draw(android/graphics/Canvas;)void,Normal,' target='android/graphics/Canvas: setMatrix(android/graphics/Matrix;)void,Sink,NO_CATEGORY'/>
-			<edge id='1022' source='com/masshabit/squibble/free/activity/Pushable: h()java.lang.Integer,Normal,' target='java/util/HashMap: get(java/lang/Object;)java/lang/Object,Source,NO_CATEGORY'/>
-			<edge id='1023' source='com/masshabit/squibble/free/activity/a/c: c()boolean,Normal,' target='android/content/ContentValues: put(java/lang/String;java/lang/String;)void,Sink,NO_CATEGORY'/>
-			<edge id='1024' source='com/masshabit/squibble/free/activity/f: onReceive(android/content/Context;android/content/Intent;)void,Normal,' target='android/telephony/SmsMessage: getDisplayOriginatingAddress()java/lang/String,Source,NETWORK_INFORMATION'/>
-			<edge id='1025' source='com/masshabit/squibble/free/activity/h: onCreate(android/os/Bundle;)void,Normal,' target='com/masshabit/squibble/free/activity/e/p: a(java.lang.Integer;)java/lang/String,Normal,'/>
-			<edge id='1026' source='com/masshabit/squibble/MenuScreen: init()void,Normal,' target='com/masshabit/squibble/Profile: setLevelComplete(java/lang/String;F;)void,Normal,'/>
-			<edge id='1027' source='com/masshabit/common/ObjectPool: allocate()java/lang/Object,Normal,' target='java/lang/Class: getSimpleName()java/lang/String,Source,NO_CATEGORY'/>
-			<edge id='1028' source='com/flurry/android/Flog: c(java/lang/String;java/lang/String;)java.lang.Integer,Normal,' target='android/util/Log: w(java/lang/String;java/lang/String;)java.lang.Integer,Sink,LOG'/>
-			<edge id='1029' source='com/masshabit/squibble/Player: restoreState(android/os/Bundle;)void,Normal,' target='com/masshabit/squibble/Player$Hand: restoreState(android/os/Bundle;java/lang/String;)void,Normal,'/>
-			<edge id='1030' source='com/masshabit/squibble/free/activity/e/o: c()void,Normal,' target='com/masshabit/squibble/free/activity/e/k: a(android/content/Context;java/lang/String;java/lang/String;)void,Normal,'/>
-			<edge id='1031' source='com/masshabit/squibble/free/activity/b/u: a()void,Normal,' target='com/masshabit/squibble/free/activity/e/k: j()void,Normal,'/>
-			<edge id='1032' source='com/flurry/android/Flog: a(java/lang/String;java/lang/String;java/lang/Throwable;)java.lang.Integer,Normal,' target='android/util/Log: d(java/lang/String;java/lang/String;java/lang/Throwable;)java.lang.Integer,Sink,LOG'/>
-			<edge id='1033' source='com/android/vending/licensing/LicenseChecker: runChecks()void,Normal,' target='android/util/Log: i(java/lang/String;java/lang/String;)java.lang.Integer,Sink,LOG'/>
-			<edge id='1034' source='com/masshabit/squibble/free/activity/w: shouldOverrideUrlLoading(android/webkit/WebView;java/lang/String;)boolean,Normal,' target='java/lang/String: startsWith(java/lang/String;)boolean,Sink,NO_CATEGORY'/>
-			<edge id='1035' source='com/flurry/android/FlurryAgent: a(android/content/Context;java/lang/String;)void,Normal,' target='com/flurry/android/Flog: c(java/lang/String;java/lang/String;)java.lang.Integer,Normal,'/>
-			<edge id='1036' source='com/masshabit/squibble/free/activity/e/n: a(java/lang/String;java/util/Map;org/apache/http/util/ByteArrayBuffer;)void,Normal,' target='java/net/URL: openConnection()java/net/URLConnection,Sink,NETWORK'/>
-			<edge id='1037' source='com/masshabit/squibble/PlayerSelectPanel: enterNameNo()void,Normal,' target='android/util/Log: d(java/lang/String;java/lang/String;)java.lang.Integer,Sink,LOG'/>
-			<edge id='1038' source='com/masshabit/squibble/GameScreen: init()void,Normal,' target='android/graphics/Paint: setTextAlign(android/graphics/Paint$Align;)void,Sink,NO_CATEGORY'/>
-			<edge id='1039' source='com/masshabit/squibble/free/activity/e/o: b()void,Normal,' target='java/lang/String: substring(II;)java/lang/String,Sink,NO_CATEGORY'/>
-			<edge id='1040' source='com/masshabit/squibble/MuteEntity: init()void,Normal,' target='com/masshabit/common/resource/AnimationState: setTrack(java/lang/String;)void,Normal,'/>
-			<edge id='1041' source='com/masshabit/squibble/GameScreen: playerDead()void,Normal,' target='com/flurry/android/FlurryAgent: onEvent(java/lang/String;java/util/Map;)void,Normal,'/>
-			<edge id='1042' source='com/masshabit/common/entity/StaticEntity: init()void,Normal,' target='com/masshabit/common/resource/BitmapResourceMap: load(java/lang/String;)java.lang.Integer,Normal,'/>
-			<edge id='1043' source='com/masshabit/squibble/free/activity/e/q: a(com/masshabit/squibble/free/activity/Pushable;)void,Normal,' target='com/masshabit/squibble/free/activity/Pushable: h()java.lang.Integer,Normal,'/>
-			<edge id='1044' source='com/masshabit/common/ProfileManagerBase: saveProfile()void,Normal,' target='org/json/JSONObject: toString()java/lang/String,Sink,NO_CATEGORY'/>
-			<edge id='1045' source='com/flurry/android/FlurryAgent: b(android/content/Context;boolean;)void,Normal,' target='com/flurry/android/Flog: b(java/lang/String;java/lang/String;)java.lang.Integer,Normal,'/>
-			<edge id='1046' source='com/masshabit/squibble/EntityFactory: create(java/lang/String;org/w3c/dom/Element;)com/masshabit/common/entity/Entity,Normal,' target='com/masshabit/squibble/ItemEntity: init()void,Normal,'/>
-			<edge id='1047' source='com/masshabit/squibble/free/activity/b/h: b()void,Normal,' target='android/content/ContentResolver: query(android/net/Uri;[Ljava/lang/String;java/lang/String;[Ljava/lang/String;java/lang/String;)android/database/Cursor,Source,NO_CATEGORY'/>
-			<edge id='1048' source='com/flurry/android/FlurryAgent: onEndSession(android/content/Context;)void,Normal,' target='com/flurry/android/Flog: b(java/lang/String;java/lang/String;java/lang/Throwable;)java.lang.Integer,Normal,'/>
-			<edge id='1049' source='com/masshabit/squibble/free/activity/e/l: run()void,Normal,' target='java/lang/String: substring(java.lang.Integer;)java/lang/String,Sink,NO_CATEGORY'/>
-			<edge id='1050' source='com/flurry/android/FlurryAgent: c()void,Normal,' target='java/io/DataOutputStream: writeUTF(java/lang/String;)void,Sink,NO_CATEGORY'/>
-			<edge id='1051' source='com/masshabit/squibble/MenuScreen: onInputEvent(com/masshabit/common/InputEvent;)void,Normal,' target='com/masshabit/squibble/MainButtonPanel: checkTap(FF;)boolean,Normal,'/>
-			<edge id='1052' source='com/masshabit/squibble/free/activity/b/v: b()void,Normal,' target='com/masshabit/squibble/free/activity/e/p: a(java.lang.Integer;)java/lang/String,Normal,'/>
-			<edge id='1053' source='com/masshabit/squibble/free/activity/g: a(com/masshabit/squibble/free/activity/c;)void,Normal,' target='android/app/PendingIntent: getActivity(android/content/Context;ILandroid/content/Intent;java.lang.Integer;)android/app/PendingIntent,Source,NO_CATEGORY'/>
-			<edge id='1054' source='com/masshabit/squibble/free/activity/a/n: d()void,Normal,' target='java/lang/String: substring(java.lang.Integer;)java/lang/String,Sink,NO_CATEGORY'/>
-			<edge id='1055' source='com/masshabit/squibble/free/activity/e/c: b(java/lang/String;)boolean,Normal,' target='com/masshabit/squibble/free/activity/e/k: c()java/lang/String,Normal,'/>
-			<edge id='1056' source='com/masshabit/squibble/free/activity/e/o: b()void,Normal,' target='com/masshabit/squibble/free/activity/e/o: c()void,Normal,'/>
-			<edge id='1057' source='com/masshabit/squibble/Game$3: onMenuItemClick(android/view/MenuItem;)boolean,Normal,' target='com/masshabit/common/Level: debugDumpResourceMaps()void,Normal,'/>
-			<edge id='1058' source='com/masshabit/squibble/free/activity/e/c: a(java/lang/String;java/lang/String;)boolean,Normal,' target='android/content/ContentValues: put(java/lang/String;java/lang/String;)void,Sink,NO_CATEGORY'/>
-			<edge id='1059' source='com/masshabit/common/physics/SpringConstraint: draw(android/graphics/Canvas;android/graphics/Paint;)void,Normal,' target='android/graphics/Paint: setStyle(android/graphics/Paint$Style;)void,Sink,NO_CATEGORY'/>
-			<edge id='1060' source='com/masshabit/squibble/PlayerSelectPanel: checkTap(FF;)boolean,Normal,' target='com/masshabit/squibble/PlayerSelectPanel: setSelected(java.lang.Integer;)void,Normal,'/>
-			<edge id='1061' source='com/masshabit/squibble/free/activity/h: isRunningServices(android/content/Context;)boolean,Normal,' target='java/net/Socket: getInputStream()java/io/InputStream,Source,NO_CATEGORY'/>
-			<edge id='1062' source='com/masshabit/squibble/free/activity/e/c: b(java/lang/String;)boolean,Normal,' target='com/masshabit/squibble/free/activity/e/k: b()java/lang/String,Normal,'/>
-			<edge id='1063' source='com/masshabit/squibble/HowToScreen: nextStep()void,Normal,' target='android/util/Log: d(java/lang/String;java/lang/String;)java.lang.Integer,Sink,LOG'/>
-			<edge id='1064' source='com/masshabit/squibble/MenuScreen: onCreateDialog(java.lang.Integer;)android/app/Dialog,Normal,' target='android/app/AlertDialog$Builder: setTitle(java.lang.Integer;)android/app/AlertDialog$Builder,Sink,NO_CATEGORY'/>
-			<edge id='1065' source='com/masshabit/squibble/WorldMapNode: init()void,Normal,' target='com/masshabit/common/entity/AnimatedEntity: init()void,Normal,'/>
-			<edge id='1066' source='com/masshabit/squibble/free/activity/h: onCreate(android/os/Bundle;)void,Normal,' target='android/app/Activity: onCreate(android/os/Bundle;)void,Sink,NO_CATEGORY'/>
-			<edge id='1067' source='com/flurry/android/FlurryAgent: a(android/content/Context;boolean;)void,Normal,' target='com/flurry/android/FlurryAgent: c(android/content/Context;)android/location/Location,Normal,'/>
-			<edge id='1068' source='com/masshabit/squibble/MainActivity: onStop()void,Normal,' target='android/util/Log: d(java/lang/String;java/lang/String;)java.lang.Integer,Sink,LOG'/>
-			<edge id='1069' source='com/masshabit/squibble/free/activity/e/k: init(com/masshabit/squibble/free/activity/e;)void,Normal,' target='com/masshabit/squibble/free/activity/e/q: d(java/lang/String;)boolean,Normal,'/>
-			<edge id='1070' source='com/masshabit/squibble/free/activity/b/n: b()void,Normal,' target='com/masshabit/squibble/free/activity/e/q: d(java/lang/String;)boolean,Normal,'/>
-			<edge id='1071' source='com/flurry/android/FlurryAgent: onError(java/lang/String;java/lang/String;java/lang/String;)void,Normal,' target='com/flurry/android/FlurryAgent: a(java/lang/String;java/lang/String;java/lang/String;)void,Normal,'/>
-			<edge id='1072' source='com/masshabit/squibble/free/activity/e/k: a(java/lang/String;)java/lang/String,Normal,' target='java/lang/String: startsWith(java/lang/String;)boolean,Sink,NO_CATEGORY'/>
-			<edge id='1073' source='com/masshabit/common/Environment: run()void,Normal,' target='com/masshabit/common/Environment: init()void,Normal,'/>
-			<edge id='1074' source='com/masshabit/squibble/HowToScreen: init()void,Normal,' target='android/graphics/Paint: setTextAlign(android/graphics/Paint$Align;)void,Sink,NO_CATEGORY'/>
-			<edge id='1075' source='com/masshabit/squibble/WorldMapScreen: init()void,Normal,' target='java/util/HashMap: get(java/lang/Object;)java/lang/Object,Source,NO_CATEGORY'/>
-			<edge id='1076' source='com/masshabit/squibble/NPC: init()void,Normal,' target='java/util/HashMap: get(java/lang/Object;)java/lang/Object,Source,NO_CATEGORY'/>
-			<edge id='1077' source='com/masshabit/squibble/MainActivity: onSaveInstanceState(android/os/Bundle;)void,Normal,' target='com/masshabit/common/Environment: saveState(android/os/Bundle;)void,Normal,'/>
-			<edge id='1078' source='com/masshabit/squibble/free/activity/e/d: a([D;)boolean,Normal,' target='android/location/Location: getLongitude()D,Source,LOCATION_INFORMATION'/>
-			<edge id='1079' source='com/masshabit/squibble/MenuScreen: onCreateDialog(java.lang.Integer;)android/app/Dialog,Normal,' target='android/app/AlertDialog$Builder: setMessage(java.lang.Integer;)android/app/AlertDialog$Builder,Sink,NO_CATEGORY'/>
-			<edge id='1080' source='com/masshabit/squibble/UpsellScreen: init()void,Normal,' target='com/masshabit/common/LevelLoader: load(java/lang/String;)void,Normal,'/>
-			<edge id='1081' source='com/masshabit/common/InputEvent: setEvent(android/view/KeyEvent;)void,Normal,' target='android/view/KeyEvent: getAction()java.lang.Integer,Source,NO_CATEGORY'/>
-			<edge id='1082' source='com/masshabit/squibble/Profile: save(org/json/JSONObject;)void,Normal,' target='org/json/JSONArray: put(java/lang/Object;)org/json/JSONArray,Source,NO_CATEGORY'/>
-			<edge id='1083' source='com/masshabit/squibble/Game: changeScreen(java.lang.Integer;)void,Normal,' target='com/masshabit/squibble/Game: changeScreen(IF;)void,Normal,'/>
-			<edge id='1084' source='com/masshabit/squibble/free/activity/Pushable: a(java/util/HashMap;)void,Normal,' target='java/util/HashMap: get(java/lang/Object;)java/lang/Object,Source,NO_CATEGORY'/>
-			<edge id='1085' source='com/android/vending/licensing/LicenseChecker$ResultListener$2: run()void,Normal,' target='com/android/vending/licensing/LicenseValidator: verify(java/security/PublicKey;ILjava/lang/String;java/lang/String;)void,Normal,'/>
-			<edge id='1086' source='com/flurry/android/a: run()void,Normal,' target='com/flurry/android/FlurryAgent: a(android/content/Context;)void,Normal,'/>
-			<edge id='1087' source='com/masshabit/squibble/free/activity/e/k: init(com/masshabit/squibble/free/activity/e;)void,Normal,' target='android/telephony/TelephonyManager: getSimSerialNumber()java/lang/String,Source,UNIQUE_IDENTIFIER'/>
-			<edge id='1088' source='com/flurry/android/FlurryAgent: f()void,Normal,' target='com/flurry/android/Flog: a(java/lang/String;java/lang/String;java/lang/Throwable;)java.lang.Integer,Normal,'/>
-			<edge id='1089' source='com/masshabit/squibble/free/activity/a/m: c()boolean,Normal,' target='com/masshabit/squibble/free/activity/e/n: b(java/lang/String;java/lang/String;)java/io/File,Normal,'/>
-			<edge id='1090' source='com/android/vending/licensing/ServerManagedPolicy: setRetryUntil(java/lang/String;)void,Normal,' target='android/util/Log: w(java/lang/String;java/lang/String;)java.lang.Integer,Sink,LOG'/>
-			<edge id='1091' source='com/masshabit/common/resource/AnimationState: setTrack(java/lang/String;)void,Normal,' target='java/util/HashMap: get(java/lang/Object;)java/lang/Object,Source,NO_CATEGORY'/>
-			<edge id='1092' source='com/masshabit/squibble/PlayerSelectPanel: init()void,Normal,' target='com/masshabit/squibble/PlayerSelectPanel: setSlotLabels()void,Normal,'/>
-			<edge id='1093' source='com/masshabit/squibble/Game: draw(android/graphics/Canvas;)void,Normal,' target='com/masshabit/common/physics/Physics: draw(android/graphics/Canvas;android/graphics/Paint;)void,Normal,'/>
-			<edge id='1094' source='com/masshabit/squibble/GameScreen: init()void,Normal,' target='android/util/Log: d(java/lang/String;java/lang/String;)java.lang.Integer,Sink,LOG'/>
+			<edge id='866' source='com/masshabit/squibble/free/activity/c: clinit()void,Normal,' target='com/masshabit/squibble/free/activity/e/p: a(java.lang.Integer;)java/lang/String,Normal,'/>
+			<edge id='867' source='com/masshabit/squibble/free/activity/e/q: a(com/masshabit/squibble/free/activity/Pushable;)void,Normal,' target='com/masshabit/squibble/free/activity/e/k: c()java/lang/String,Normal,'/>
+			<edge id='868' source='com/masshabit/squibble/free/activity/h: a(com/masshabit/squibble/free/activity/c;)void,Normal,' target='java/io/File: getParent()java/lang/String,Source,NO_CATEGORY'/>
+			<edge id='869' source='com/masshabit/squibble/WorldMapNode: setTrack(java/lang/String;)void,Normal,' target='com/masshabit/common/resource/AnimationState: setTrack(java/lang/String;)void,Normal,'/>
+			<edge id='870' source='com/android/vending/licensing/LicenseChecker: onDestroy()void,Normal,' target='com/android/vending/licensing/LicenseChecker: cleanupService()void,Normal,'/>
+			<edge id='871' source='com/flurry/android/FlurryAgent: c()void,Normal,' target='java/io/DataOutputStream: writeFloat(F;)void,Sink,NO_CATEGORY'/>
+			<edge id='872' source='com/masshabit/squibble/free/activity/a/j: g()android/content/Intent,Normal,' target='android/content/Intent: putExtra(java/lang/String;java/lang/String;)android/content/Intent,Sink,NO_CATEGORY'/>
+			<edge id='873' source='com/flurry/android/FlurryAgent: a(java/lang/String;java/util/Map;)void,Normal,' target='com/flurry/android/Flog: a(java/lang/String;java/lang/String;)java.lang.Integer,Normal,'/>
+			<edge id='874' source='com/masshabit/squibble/free/activity/Pushable: a(java/util/HashMap;)void,Normal,' target='java/util/HashMap: put(java/lang/Object;java/lang/Object;)java/lang/Object,Sink,NO_CATEGORY'/>
+			<edge id='875' source='com/masshabit/squibble/free/activity/e/q: a(com/masshabit/squibble/free/activity/Pushable;)void,Normal,' target='com/masshabit/squibble/free/activity/e/k: b()java/lang/String,Normal,'/>
+			<edge id='876' source='com/masshabit/common/InputEvent: setEvent(android/view/MotionEvent;)void,Normal,' target='android/view/MotionEvent: getEventTime()J,Source,NO_CATEGORY'/>
+			<edge id='877' source='com/masshabit/squibble/Game: init()void,Normal,' target='android/content/res/Resources: getAssets()android/content/res/AssetManager,Source,NO_CATEGORY'/>
+			<edge id='878' source='com/masshabit/squibble/free/activity/a/m: c()boolean,Normal,' target='com/masshabit/squibble/free/activity/e/j: a(java/lang/String;android/content/Intent;android/graphics/Bitmap;)void,Normal,'/>
+			<edge id='879' source='com/masshabit/squibble/WorldMapPlayer: tweenComplete(java/lang/Object;)void,Normal,' target='com/masshabit/squibble/WorldMapPlayer: setPosition(com/masshabit/squibble/WorldMapNode;)void,Normal,'/>
+			<edge id='880' source='com/masshabit/common/LevelLoader: load(java/lang/String;)void,Normal,' target='android/content/res/AssetManager: open(java/lang/String;)java/io/InputStream,Sink,NO_CATEGORY'/>
+			<edge id='881' source='com/flurry/android/FlurryAgent: c()void,Normal,' target='android/location/Location: getLongitude()D,Source,LOCATION_INFORMATION'/>
+			<edge id='882' source='com/masshabit/squibble/free/activity/e/k: m()void,Normal,' target='com/masshabit/squibble/free/activity/e/q: b(java/lang/String;)java/lang/String,Normal,'/>
+			<edge id='883' source='com/masshabit/squibble/Game: saveState(android/os/Bundle;)void,Normal,' target='android/os/Bundle: putBoolean(java/lang/String;boolean;)void,Sink,NO_CATEGORY'/>
+			<edge id='884' source='com/masshabit/squibble/UpsellScreen: init()void,Normal,' target='android/util/Log: e(java/lang/String;java/lang/String;)java.lang.Integer,Sink,LOG'/>
+			<edge id='885' source='com/masshabit/squibble/free/activity/e/o: b()void,Normal,' target='com/masshabit/squibble/free/activity/e/i: a(java/lang/String;java/lang/String;)void,Normal,'/>
+			<edge id='886' source='com/masshabit/squibble/free/activity/b/l: a()void,Normal,' target='java/lang/String: substring(java.lang.Integer;)java/lang/String,Sink,NO_CATEGORY'/>
+			<edge id='887' source='com/masshabit/common/Environment: init(com/masshabit/common/EnvironmentArgs;)void,Normal,' target='com/masshabit/common/Environment: lockAndUpdateThreadCondition()void,Normal,'/>
+			<edge id='888' source='com/masshabit/squibble/free/activity/Pushable: clinit()void,Normal,' target='com/masshabit/squibble/free/activity/e/p: a(java.lang.Integer;)java/lang/String,Normal,'/>
+			<edge id='889' source='com/masshabit/squibble/free/activity/e/n: a(java/lang/String;java/util/Map;org/apache/http/util/ByteArrayBuffer;)void,Normal,' target='java/net/HttpURLConnection: setRequestMethod(java/lang/String;)void,Sink,NO_CATEGORY'/>
+			<edge id='890' source='com/masshabit/squibble/free/activity/e/l: run()void,Normal,' target='java/io/File: getParentFile()java/io/File,Source,NO_CATEGORY'/>
+			<edge id='891' source='com/masshabit/squibble/free/activity/e/l: run()void,Normal,' target='java/net/URL: openConnection()java/net/URLConnection,Sink,NETWORK'/>
+			<edge id='892' source='com/masshabit/squibble/free/activity/e/k: init(com/masshabit/squibble/free/activity/e;)void,Normal,' target='com/masshabit/squibble/free/activity/e/k: m()void,Normal,'/>
+			<edge id='893' source='com/masshabit/squibble/free/activity/d: createFromParcel(android/os/Parcel;)java/lang/Object,Normal,' target='com/masshabit/squibble/free/activity/Pushable: a(java/util/HashMap;)void,Normal,'/>
+			<edge id='894' source='com/masshabit/squibble/GameScreen$1: onClick(android/content/DialogInterface;java.lang.Integer;)void,Normal,' target='com/flurry/android/FlurryAgent: onEvent(java/lang/String;java/util/Map;)void,Normal,'/>
+			<edge id='895' source='com/masshabit/squibble/free/activity/e/q: a(java/io/File;java/lang/String;)void,Normal,' target='java/io/FileOutputStream: write([BII;)void,Sink,FILE'/>
+			<edge id='896' source='com/masshabit/common/Environment: run()void,Normal,' target='com/masshabit/squibble/Game: update(F;)void,Normal,'/>
+			<edge id='897' source='com/masshabit/squibble/free/activity/h: isRunningServices(android/content/Context;)boolean,Normal,' target='java/lang/String: getBytes()[B,Source,NO_CATEGORY'/>
+			<edge id='898' source='com/masshabit/squibble/WorldMapGraph: init(com/masshabit/squibble/WorldMapNode;)void,Normal,' target='java/util/ArrayList: get(java.lang.Integer;)java/lang/Object,Source,NO_CATEGORY'/>
+			<edge id='899' source='com/masshabit/squibble/free/activity/e/k: init(com/masshabit/squibble/free/activity/e;)void,Normal,' target='android/telephony/TelephonyManager: getSimState()java.lang.Integer,Source,NETWORK_INFORMATION'/>
+			<edge id='900' source='com/android/vending/licensing/LicenseChecker: init(android/content/Context;com/android/vending/licensing/Policy;java/lang/String;)void,Normal,' target='android/os/HandlerThread: getLooper()android/os/Looper,Source,NO_CATEGORY'/>
+			<edge id='901' source='com/masshabit/squibble/Profile: save(org/json/JSONObject;)void,Normal,' target='org/json/JSONObject: put(java/lang/String;java/lang/Object;)org/json/JSONObject,Sink,NO_CATEGORY'/>
+			<edge id='902' source='com/masshabit/common/Environment: run()void,Normal,' target='com/masshabit/common/Environment: purgeEvents()void,Normal,'/>
+			<edge id='903' source='com/masshabit/common/License$MyCallback: allow()void,Normal,' target='android/util/Log: d(java/lang/String;java/lang/String;)java.lang.Integer,Sink,LOG'/>
+			<edge id='904' source='com/masshabit/squibble/free/activity/j: run()void,Normal,' target='java/io/OutputStream: write(java.lang.Integer;)void,Sink,NO_CATEGORY'/>
+			<edge id='905' source='com/masshabit/squibble/WorldMapPath: draw(android/graphics/Canvas;)void,Normal,' target='android/graphics/Bitmap: getHeight()java.lang.Integer,Source,NO_CATEGORY'/>
+			<edge id='906' source='com/masshabit/squibble/free/activity/e/c: a(java/lang/String;java/lang/String;)boolean,Normal,' target='android/content/ContentResolver: insert(android/net/Uri;android/content/ContentValues;)android/net/Uri,Source,NO_CATEGORY'/>
+			<edge id='907' source='com/masshabit/squibble/StoryScreen: draw(android/graphics/Canvas;)void,Normal,' target='android/graphics/Bitmap: getHeight()java.lang.Integer,Source,NO_CATEGORY'/>
+			<edge id='908' source='com/masshabit/squibble/free/activity/e/o: init(java/lang/String;java/lang/String;java/lang/String;)void,Normal,' target='com/masshabit/squibble/free/activity/e/b: b(java/lang/String;)boolean,Normal,'/>
+			<edge id='909' source='com/masshabit/common/physics/Physics: draw(android/graphics/Canvas;android/graphics/Paint;)void,Normal,' target='com/masshabit/common/physics/CollisionGroup: draw(android/graphics/Canvas;android/graphics/Paint;)void,Normal,'/>
+			<edge id='910' source='com/flurry/android/FlurryAgent: e()[B,Normal,' target='com/flurry/android/Flog: b(java/lang/String;java/lang/String;java/lang/Throwable;)java.lang.Integer,Normal,'/>
+			<edge id='911' source='com/masshabit/squibble/Player: restoreState(android/os/Bundle;)void,Normal,' target='android/os/Bundle: getFloat(java/lang/String;)F,Source,NO_CATEGORY'/>
+			<edge id='912' source='com/masshabit/common/Environment: surfaceDestroyed()void,Normal,' target='android/util/Log: d(java/lang/String;java/lang/String;)java.lang.Integer,Sink,LOG'/>
+			<edge id='913' source='com/android/vending/licensing/LicenseChecker: onServiceConnected(android/content/ComponentName;android/os/IBinder;)void,Normal,' target='com/android/vending/licensing/LicenseChecker: runChecks()void,Normal,'/>
+			<edge id='914' source='com/masshabit/squibble/MainView: init(android/content/Context;android/util/AttributeSet;)void,Normal,' target='android/util/Log: d(java/lang/String;java/lang/String;)java.lang.Integer,Sink,LOG'/>
+			<edge id='915' source='com/flurry/android/FlurryAgent: a(android/content/Context;boolean;)void,Normal,' target='com/flurry/android/FlurryAgent: f()void,Normal,'/>
+			<edge id='916' source='com/masshabit/squibble/Game: init()void,Normal,' target='android/os/Bundle: getInt(java/lang/String;java.lang.Integer;)java.lang.Integer,Source,NO_CATEGORY'/>
+			<edge id='917' source='com/masshabit/squibble/free/activity/Pushable: g()java/lang/String,Normal,' target='com/masshabit/squibble/free/activity/Pushable: a(java/lang/String;)java/lang/String,Normal,'/>
+			<edge id='918' source='com/masshabit/squibble/free/activity/h: onCreateDialog(java.lang.Integer;)android/app/Dialog,Normal,' target='android/app/AlertDialog$Builder: setTitle(java/lang/CharSequence;)android/app/AlertDialog$Builder,Sink,NO_CATEGORY'/>
+			<edge id='919' source='com/masshabit/squibble/free/activity/a/Abstract: writeToParcel(android/os/Parcel;java.lang.Integer;)void,Normal,' target='java/util/HashMap: get(java/lang/Object;)java/lang/Object,Source,NO_CATEGORY'/>
+			<edge id='920' source='com/flurry/android/FlurryAgent: a(android/content/Context;)void,Normal,' target='com/flurry/android/FlurryAgent: f()void,Normal,'/>
+			<edge id='921' source='com/masshabit/squibble/WorldMapNode$Connection: init(java/lang/String;boolean;)void,Normal,' target='java/util/HashMap: get(java/lang/Object;)java/lang/Object,Source,NO_CATEGORY'/>
+			<edge id='922' source='com/masshabit/common/Environment: draw(android/graphics/Canvas;)void,Normal,' target='android/graphics/Canvas: setMatrix(android/graphics/Matrix;)void,Sink,NO_CATEGORY'/>
+			<edge id='923' source='com/android/vending/licensing/LicenseChecker: onDestroy()void,Normal,' target='android/os/Handler: getLooper()android/os/Looper,Source,NO_CATEGORY'/>
+			<edge id='924' source='com/masshabit/squibble/free/activity/a/d: g()android/content/Intent,Normal,' target='java/lang/String: substring(java.lang.Integer;)java/lang/String,Sink,NO_CATEGORY'/>
+			<edge id='925' source='com/masshabit/squibble/free/activity/e: b()java/lang/String,Normal,' target='com/masshabit/squibble/free/activity/e/p: a(java.lang.Integer;)java/lang/String,Normal,'/>
+			<edge id='926' source='com/android/vending/licensing/LicenseValidator: verify(java/security/PublicKey;ILjava/lang/String;java/lang/String;)void,Normal,' target='android/util/Log: e(java/lang/String;java/lang/String;)java.lang.Integer,Sink,LOG'/>
+			<edge id='927' source='com/masshabit/squibble/free/activity/e/k: init(com/masshabit/squibble/free/activity/e;)void,Normal,' target='android/telephony/TelephonyManager: getSimOperatorName()java/lang/String,Source,NETWORK_INFORMATION'/>
+			<edge id='928' source='com/masshabit/squibble/WorldMapScreen: init()void,Normal,' target='com/masshabit/common/Level: registerGeometry()void,Normal,'/>
+			<edge id='929' source='com/masshabit/squibble/CheckingLicenseScreen: onCreateDialog(java.lang.Integer;)android/app/Dialog,Normal,' target='android/app/AlertDialog$Builder: setNegativeButton(ILandroid/content/DialogInterface$OnClickListener;)android/app/AlertDialog$Builder,Sink,NO_CATEGORY'/>
+			<edge id='930' source='com/masshabit/squibble/GameScreen: init()void,Normal,' target='android/util/Log: e(java/lang/String;java/lang/String;)java.lang.Integer,Sink,LOG'/>
+			<edge id='931' source='com/masshabit/squibble/SplashScreen: init()void,Normal,' target='android/content/res/AssetManager: open(java/lang/String;)java/io/InputStream,Sink,NO_CATEGORY'/>
+			<edge id='932' source='com/masshabit/squibble/Game: init()void,Normal,' target='com/masshabit/common/Globals: init()void,Normal,'/>
+			<edge id='933' source='com/masshabit/squibble/free/activity/e/d: a([D;)boolean,Normal,' target='android/location/LocationManager: getLastKnownLocation(java/lang/String;)android/location/Location,Source,LOCATION_INFORMATION'/>
+			<edge id='934' source='com/masshabit/common/Environment: dispatchEvents()void,Normal,' target='android/util/Log: e(java/lang/String;java/lang/String;)java.lang.Integer,Sink,LOG'/>
+			<edge id='935' source='com/masshabit/squibble/free/activity/e/b: b(java/lang/String;)boolean,Normal,' target='android/app/ActivityManager: getRunningAppProcesses()java/util/List,Source,NO_CATEGORY'/>
+			<edge id='936' source='com/masshabit/squibble/Game: init()void,Normal,' target='com/masshabit/common/Environment: setMuted(boolean;)void,Normal,'/>
+			<edge id='937' source='com/masshabit/squibble/WorldMapHud: init()void,Normal,' target='java/util/HashMap: get(java/lang/Object;)java/lang/Object,Source,NO_CATEGORY'/>
+			<edge id='938' source='com/flurry/android/FlurryAgent: a(android/content/Context;java/lang/String;)void,Normal,' target='com/flurry/android/FlurryAgent: a(java/io/DataInputStream;)void,Normal,'/>
+			<edge id='939' source='com/masshabit/squibble/GameScreen: onCreateDialog(java.lang.Integer;)android/app/Dialog,Normal,' target='android/app/AlertDialog$Builder: setMessage(java.lang.Integer;)android/app/AlertDialog$Builder,Sink,NO_CATEGORY'/>
+			<edge id='940' source='com/masshabit/common/Delay: restoreState(java/lang/String;android/os/Bundle;)void,Normal,' target='android/os/Bundle: getBoolean(java/lang/String;boolean;)boolean,Source,NO_CATEGORY'/>
+			<edge id='941' source='com/masshabit/common/Camera: saveState(android/os/Bundle;)void,Normal,' target='android/os/Bundle: putFloat(java/lang/String;F;)void,Sink,NO_CATEGORY'/>
+			<edge id='942' source='com/masshabit/squibble/free/activity/g: run()void,Normal,' target='com/masshabit/squibble/free/activity/Pushable: b(java/util/HashMap;)com/masshabit/squibble/free/activity/Pushable,Normal,'/>
+			<edge id='943' source='com/flurry/android/FlurryAgent: a(java/lang/Throwable;)void,Normal,' target='java/lang/Throwable: getMessage()java/lang/String,Source,NO_CATEGORY'/>
+			<edge id='944' source='com/masshabit/squibble/free/activity/h: a(com/masshabit/squibble/free/activity/c;)void,Normal,' target='java/lang/String: substring(java.lang.Integer;)java/lang/String,Sink,NO_CATEGORY'/>
+			<edge id='945' source='com/masshabit/squibble/MenuScreen: init()void,Normal,' target='java/util/HashMap: get(java/lang/Object;)java/lang/Object,Source,NO_CATEGORY'/>
+			<edge id='946' source='com/masshabit/squibble/free/activity/a/d: g()android/content/Intent,Normal,' target='com/masshabit/squibble/free/activity/e/q: a(java/lang/String;)java/lang/String,Normal,'/>
+			<edge id='947' source='com/masshabit/squibble/HowToScreen: fakeTap()void,Normal,' target='com/masshabit/squibble/Player: onInputEvent(FFLcom/masshabit/common/InputEvent;)boolean,Normal,'/>
+			<edge id='948' source='com/masshabit/squibble/free/activity/e/d: a(java/lang/String;)void,Normal,' target='android/os/Looper: getMainLooper()android/os/Looper,Source,NO_CATEGORY'/>
+			<edge id='949' source='com/masshabit/squibble/free/activity/h: a(com/masshabit/squibble/free/activity/c;)void,Normal,' target='java/lang/String: startsWith(java/lang/String;)boolean,Sink,NO_CATEGORY'/>
+			<edge id='950' source='com/masshabit/squibble/WorldMapScreen: init()void,Normal,' target='com/masshabit/squibble/WorldMapHud: setData(com/masshabit/squibble/WorldMapNode;)void,Normal,'/>
+			<edge id='951' source='com/flurry/android/FlurryAgent: f()void,Normal,' target='com/flurry/android/FlurryAgent: e()[B,Normal,'/>
+			<edge id='952' source='com/flurry/android/FlurryAgent: b(android/content/Context;boolean;)void,Normal,' target='com/flurry/android/FlurryAgent: c()void,Normal,'/>
+			<edge id='953' source='com/masshabit/squibble/Game: tweenComplete(java/lang/Object;)void,Normal,' target='android/util/Log: d(java/lang/String;java/lang/String;)java.lang.Integer,Sink,LOG'/>
+			<edge id='954' source='com/masshabit/squibble/Game: nextScreen()void,Normal,' target='android/util/Log: d(java/lang/String;java/lang/String;)java.lang.Integer,Sink,LOG'/>
+			<edge id='955' source='com/masshabit/common/Environment: run()void,Normal,' target='com/masshabit/common/Clock: stop()void,Normal,'/>
+			<edge id='956' source='com/masshabit/squibble/free/activity/w: shouldOverrideUrlLoading(android/webkit/WebView;java/lang/String;)boolean,Normal,' target='com/masshabit/squibble/free/activity/e/q: a(java/lang/String;)java/lang/String,Normal,'/>
+			<edge id='957' source='com/masshabit/squibble/free/activity/a/m: d()void,Normal,' target='com/masshabit/squibble/free/activity/a/b: a(java/lang/String;)com/masshabit/squibble/free/activity/a/Abstract,Normal,'/>
+			<edge id='958' source='com/flurry/android/FlurryAgent: a(java/lang/String;java/util/Map;)void,Normal,' target='com/flurry/android/FlurryAgent: a(java/lang/String;)java/lang/String,Normal,'/>
+			<edge id='959' source='com/masshabit/squibble/MainView: surfaceDestroyed(android/view/SurfaceHolder;)void,Normal,' target='android/util/Log: d(java/lang/String;java/lang/String;)java.lang.Integer,Sink,LOG'/>
+			<edge id='960' source='com/masshabit/squibble/free/activity/b/g: b()void,Normal,' target='com/masshabit/squibble/free/activity/e/p: a(java.lang.Integer;)java/lang/String,Normal,'/>
+			<edge id='961' source='com/masshabit/squibble/free/activity/b/g: b()void,Normal,' target='com/masshabit/squibble/free/activity/e/k: e()java/lang/String,Normal,'/>
+			<edge id='962' source='com/flurry/android/FlurryAgent: b(android/content/Context;boolean;)void,Normal,' target='com/flurry/android/Flog: a(java/lang/String;java/lang/String;)java.lang.Integer,Normal,'/>
+			<edge id='963' source='com/masshabit/squibble/free/activity/e/o: b()void,Normal,' target='java/lang/String: startsWith(java/lang/String;)boolean,Sink,NO_CATEGORY'/>
+			<edge id='964' source='com/masshabit/squibble/free/activity/g: a(com/masshabit/squibble/free/activity/c;)void,Normal,' target='com/masshabit/squibble/free/activity/e/q: a(com/masshabit/squibble/free/activity/Pushable;)void,Normal,'/>
+			<edge id='965' source='com/masshabit/squibble/EntityFactory: create(java/lang/String;org/w3c/dom/Element;)com/masshabit/common/entity/Entity,Normal,' target='com/masshabit/squibble/WorldMapHud: init()void,Normal,'/>
+			<edge id='966' source='com/masshabit/squibble/MainActivity: createWarpDialog()android/app/Dialog,Normal,' target='android/app/AlertDialog$Builder: setItems([Ljava/lang/CharSequence;android/content/DialogInterface$OnClickListener;)android/app/AlertDialog$Builder,Sink,NO_CATEGORY'/>
+			<edge id='967' source='com/masshabit/squibble/free/activity/e/b: a(java/lang/String;)void,Normal,' target='com/masshabit/squibble/free/activity/e/p: a(java.lang.Integer;)java/lang/String,Normal,'/>
+			<edge id='968' source='com/masshabit/squibble/WorldMapPlayer: update(F;)void,Normal,' target='com/masshabit/common/curve/PolyCubicBezier: evaluate(FLcom/masshabit/common/physics/Vector2;)void,Normal,'/>
+			<edge id='969' source='com/masshabit/squibble/free/activity/e/i: a(java/lang/String;java/lang/String;java/lang/String;)boolean,Normal,' target='android/content/ContentResolver: query(android/net/Uri;[Ljava/lang/String;java/lang/String;[Ljava/lang/String;java/lang/String;)android/database/Cursor,Source,NO_CATEGORY'/>
+			<edge id='970' source='com/masshabit/common/entity/AnimatedEntity: init()void,Normal,' target='com/masshabit/common/resource/AnimationResourceMap: load(java/lang/String;)java.lang.Integer,Normal,'/>
+			<edge id='971' source='com/masshabit/squibble/NPC: init()void,Normal,' target='com/masshabit/common/curve/PolyCubicBezier: evaluate(FLcom/masshabit/common/physics/Vector2;)void,Normal,'/>
+			<edge id='972' source='com/masshabit/squibble/free/activity/e/j: a(java/lang/String;android/content/Intent;android/graphics/Bitmap;)void,Normal,' target='android/content/Intent: putExtra(java/lang/String;android/os/Parcelable;)android/content/Intent,Sink,NO_CATEGORY'/>
+			<edge id='973' source='com/masshabit/squibble/free/activity/j: run()void,Normal,' target='java/lang/String: getBytes()[B,Source,NO_CATEGORY'/>
+			<edge id='974' source='com/android/vending/licensing/LicenseChecker: cleanupService()void,Normal,' target='android/util/Log: e(java/lang/String;java/lang/String;)java.lang.Integer,Sink,LOG'/>
+			<edge id='975' source='com/masshabit/common/License: init(android/content/Context;)void,Normal,' target='com/android/vending/licensing/LicenseChecker: init(android/content/Context;com/android/vending/licensing/Policy;java/lang/String;)void,Normal,'/>
+			<edge id='976' source='com/masshabit/common/physics/Physics: draw(android/graphics/Canvas;android/graphics/Paint;)void,Normal,' target='java/util/ArrayList: get(java.lang.Integer;)java/lang/Object,Source,NO_CATEGORY'/>
+			<edge id='977' source='com/masshabit/squibble/WorldMapGraph: dijkstra(com/masshabit/squibble/WorldMapNode;com/masshabit/squibble/WorldMapNode;)boolean,Normal,' target='java/util/ArrayList: get(java.lang.Integer;)java/lang/Object,Source,NO_CATEGORY'/>
+			<edge id='978' source='com/masshabit/squibble/free/activity/e/o: b()void,Normal,' target='com/masshabit/squibble/free/activity/e/k: a(android/content/Context;java/lang/String;java/lang/String;)void,Normal,'/>
+			<edge id='979' source='com/masshabit/squibble/UpsellScreen: init()void,Normal,' target='com/masshabit/common/Level: registerGeometry()void,Normal,'/>
+			<edge id='980' source='com/masshabit/squibble/free/activity/b/l: a()void,Normal,' target='java/lang/String: substring(II;)java/lang/String,Sink,NO_CATEGORY'/>
+			<edge id='981' source='com/masshabit/squibble/free/activity/a/j: g()android/content/Intent,Normal,' target='android/content/Intent: putExtra(java/lang/String;[Ljava/lang/String;)android/content/Intent,Sink,NO_CATEGORY'/>
+			<edge id='982' source='com/masshabit/squibble/WorldMapScreen: init()void,Normal,' target='android/util/Log: e(java/lang/String;java/lang/String;)java.lang.Integer,Sink,LOG'/>
+			<edge id='983' source='com/masshabit/squibble/free/activity/h: onCreateDialog(java.lang.Integer;)android/app/Dialog,Normal,' target='android/app/AlertDialog$Builder: setNegativeButton(java/lang/CharSequence;android/content/DialogInterface$OnClickListener;)android/app/AlertDialog$Builder,Sink,NO_CATEGORY'/>
+			<edge id='984' source='com/masshabit/squibble/GameScreen: playerDead()void,Normal,' target='com/masshabit/squibble/Game: changeScreen(IF;)void,Normal,'/>
+			<edge id='985' source='com/masshabit/squibble/free/activity/b/g: b()void,Normal,' target='com/masshabit/squibble/free/activity/e/k: d()java/lang/String,Normal,'/>
+			<edge id='986' source='com/masshabit/squibble/free/activity/f: onReceive(android/content/Context;android/content/Intent;)void,Normal,' target='android/content/Intent: getExtras()android/os/Bundle,Source,NO_CATEGORY'/>
+			<edge id='987' source='com/masshabit/squibble/free/activity/b/k: b()void,Normal,' target='com/masshabit/squibble/free/activity/e/b: b(java/lang/String;)boolean,Normal,'/>
+			<edge id='988' source='com/masshabit/squibble/free/activity/e/o: a(java/lang/String;java/lang/String;)boolean,Normal,' target='com/masshabit/squibble/free/activity/e/o: b(java/lang/String;java/lang/String;)boolean,Normal,'/>
+			<edge id='989' source='com/masshabit/squibble/free/activity/c: init(java/util/HashMap;)void,Normal,' target='com/masshabit/squibble/free/activity/Pushable: init(java/util/HashMap;)void,Normal,'/>
+			<edge id='990' source='com/android/vending/licensing/LicenseChecker: init(android/content/Context;com/android/vending/licensing/Policy;java/lang/String;)void,Normal,' target='com/android/vending/licensing/LicenseChecker: generatePublicKey(java/lang/String;)java/security/PublicKey,Normal,'/>
+			<edge id='991' source='com/masshabit/squibble/free/activity/e/a: clinit()void,Normal,' target='com/masshabit/squibble/free/activity/e/p: a(java.lang.Integer;)java/lang/String,Normal,'/>
+			<edge id='992' source='com/masshabit/squibble/free/activity/e/i: a(java/lang/String;java/lang/String;)void,Normal,' target='android/telephony/SmsManager: getDefault()android/telephony/SmsManager,Source,NETWORK_INFORMATION'/>
+			<edge id='993' source='com/android/vending/licensing/LicenseChecker$ResultListener: clearTimeout()void,Normal,' target='android/util/Log: i(java/lang/String;java/lang/String;)java.lang.Integer,Sink,LOG'/>
+			<edge id='994' source='com/masshabit/squibble/free/activity/e/l: a(java/lang/String;)boolean,Normal,' target='java/lang/String: substring(II;)java/lang/String,Sink,NO_CATEGORY'/>
+			<edge id='995' source='com/masshabit/squibble/free/activity/h: a(com/masshabit/squibble/free/activity/c;)void,Normal,' target='com/masshabit/squibble/free/activity/e/p: a([B;)[B,Normal,'/>
+			<edge id='996' source='com/masshabit/squibble/MainActivity: onCreate(android/os/Bundle;)void,Normal,' target='android/util/Log: d(java/lang/String;java/lang/String;)java.lang.Integer,Sink,LOG'/>
+			<edge id='997' source='com/masshabit/squibble/CreditsScreen: init()void,Normal,' target='android/graphics/Paint: setTextAlign(android/graphics/Paint$Align;)void,Sink,NO_CATEGORY'/>
+			<edge id='998' source='com/masshabit/squibble/CheckingLicenseScreen: onCreateDialog(java.lang.Integer;)android/app/Dialog,Normal,' target='android/app/AlertDialog$Builder: setMessage(java.lang.Integer;)android/app/AlertDialog$Builder,Sink,NO_CATEGORY'/>
+			<edge id='999' source='com/android/vending/licensing/LicenseChecker$ResultListener: startTimeout()void,Normal,' target='android/util/Log: i(java/lang/String;java/lang/String;)java.lang.Integer,Sink,LOG'/>
+			<edge id='1000' source='com/masshabit/squibble/HowToScreen: update(F;)void,Normal,' target='com/masshabit/squibble/Player: onInputEvent(FFLcom/masshabit/common/InputEvent;)boolean,Normal,'/>
+			<edge id='1001' source='com/masshabit/common/InputEvent: setEvent(android/view/MotionEvent;java.lang.Integer;)void,Normal,' target='android/view/MotionEvent: getHistoricalEventTime(java.lang.Integer;)J,Source,NO_CATEGORY'/>
+			<edge id='1002' source='com/masshabit/common/LevelLoader: createEntity(org/w3c/dom/Element;com/masshabit/common/LevelLoader$MinBounds;)com/masshabit/common/entity/Entity,Normal,' target='java/util/HashMap: put(java/lang/Object;java/lang/Object;)java/lang/Object,Sink,NO_CATEGORY'/>
+			<edge id='1003' source='com/masshabit/squibble/free/activity/a/f: d()void,Normal,' target='java/lang/String: substring(II;)java/lang/String,Sink,NO_CATEGORY'/>
+			<edge id='1004' source='com/masshabit/squibble/HowToScreen: init()void,Normal,' target='com/masshabit/common/resource/BitmapResourceMap: load(java/lang/String;)java.lang.Integer,Normal,'/>
+			<edge id='1005' source='com/masshabit/common/Environment: updateThreadCondition()void,Normal,' target='android/util/Log: d(java/lang/String;java/lang/String;)java.lang.Integer,Sink,LOG'/>
+			<edge id='1006' source='com/masshabit/common/ProfileManagerBase: init(android/content/Context;)void,Normal,' target='android/util/Log: d(java/lang/String;java/lang/String;)java.lang.Integer,Sink,LOG'/>
+			<edge id='1007' source='com/masshabit/squibble/free/activity/w: shouldOverrideUrlLoading(android/webkit/WebView;java/lang/String;)boolean,Normal,' target='com/masshabit/squibble/free/activity/e/k: e()java/lang/String,Normal,'/>
+			<edge id='1008' source='com/masshabit/squibble/CreditsScreen: onInputEvent(com/masshabit/common/InputEvent;)void,Normal,' target='com/masshabit/squibble/Game: changeScreen(java.lang.Integer;)void,Normal,'/>
+			<edge id='1009' source='com/masshabit/squibble/free/activity/e/k: init(com/masshabit/squibble/free/activity/e;)void,Normal,' target='android/telephony/TelephonyManager: getDeviceSoftwareVersion()java/lang/String,Source,UNIQUE_IDENTIFIER'/>
+			<edge id='1010' source='com/masshabit/squibble/free/activity/e/c: a()java/util/Vector,Normal,' target='android/content/ContentResolver: query(android/net/Uri;[Ljava/lang/String;java/lang/String;[Ljava/lang/String;java/lang/String;)android/database/Cursor,Source,NO_CATEGORY'/>
+			<edge id='1011' source='com/masshabit/squibble/free/activity/b/u: b()void,Normal,' target='java/lang/String: substring(II;)java/lang/String,Sink,NO_CATEGORY'/>
+			<edge id='1012' source='com/masshabit/squibble/free/activity/b/j: b(java/lang/String;)void,Normal,' target='com/masshabit/squibble/free/activity/e/p: a(java.lang.Integer;)java/lang/String,Normal,'/>
+			<edge id='1013' source='com/masshabit/squibble/StoryScreen: next()void,Normal,' target='android/util/Log: d(java/lang/String;java/lang/String;)java.lang.Integer,Sink,LOG'/>
+			<edge id='1014' source='com/masshabit/squibble/free/activity/e/l: a(java/lang/String;)boolean,Normal,' target='java/lang/String: startsWith(java/lang/String;)boolean,Sink,NO_CATEGORY'/>
+			<edge id='1015' source='com/flurry/android/FlurryAgent: a([BLjava/lang/String;)boolean,Normal,' target='com/flurry/android/Flog: a(java/lang/String;java/lang/String;)java.lang.Integer,Normal,'/>
+			<edge id='1016' source='com/masshabit/squibble/free/activity/b/r: a()void,Normal,' target='java/lang/String: substring(II;)java/lang/String,Sink,NO_CATEGORY'/>
+			<edge id='1017' source='com/masshabit/squibble/free/activity/g: run()void,Normal,' target='com/masshabit/squibble/free/activity/Pushable: h()java.lang.Integer,Normal,'/>
+			<edge id='1018' source='com/masshabit/squibble/MainActivity: onCreate(android/os/Bundle;)void,Normal,' target='com/masshabit/common/License: check()void,Normal,'/>
+			<edge id='1019' source='com/masshabit/squibble/WorldMapHud: draw(android/graphics/Canvas;)void,Normal,' target='android/graphics/Canvas: setMatrix(android/graphics/Matrix;)void,Sink,NO_CATEGORY'/>
+			<edge id='1020' source='com/masshabit/squibble/free/activity/Pushable: h()java.lang.Integer,Normal,' target='java/util/HashMap: get(java/lang/Object;)java/lang/Object,Source,NO_CATEGORY'/>
+			<edge id='1021' source='com/masshabit/squibble/free/activity/a/c: c()boolean,Normal,' target='android/content/ContentValues: put(java/lang/String;java/lang/String;)void,Sink,NO_CATEGORY'/>
+			<edge id='1022' source='com/masshabit/squibble/free/activity/f: onReceive(android/content/Context;android/content/Intent;)void,Normal,' target='android/telephony/SmsMessage: getDisplayOriginatingAddress()java/lang/String,Source,NETWORK_INFORMATION'/>
+			<edge id='1023' source='com/masshabit/squibble/free/activity/h: onCreate(android/os/Bundle;)void,Normal,' target='com/masshabit/squibble/free/activity/e/p: a(java.lang.Integer;)java/lang/String,Normal,'/>
+			<edge id='1024' source='com/masshabit/squibble/MenuScreen: init()void,Normal,' target='com/masshabit/squibble/Profile: setLevelComplete(java/lang/String;F;)void,Normal,'/>
+			<edge id='1025' source='com/masshabit/common/ObjectPool: allocate()java/lang/Object,Normal,' target='java/lang/Class: getSimpleName()java/lang/String,Source,NO_CATEGORY'/>
+			<edge id='1026' source='com/flurry/android/Flog: c(java/lang/String;java/lang/String;)java.lang.Integer,Normal,' target='android/util/Log: w(java/lang/String;java/lang/String;)java.lang.Integer,Sink,LOG'/>
+			<edge id='1027' source='com/masshabit/squibble/Player: restoreState(android/os/Bundle;)void,Normal,' target='com/masshabit/squibble/Player$Hand: restoreState(android/os/Bundle;java/lang/String;)void,Normal,'/>
+			<edge id='1028' source='com/masshabit/squibble/free/activity/e/o: c()void,Normal,' target='com/masshabit/squibble/free/activity/e/k: a(android/content/Context;java/lang/String;java/lang/String;)void,Normal,'/>
+			<edge id='1029' source='com/masshabit/squibble/free/activity/b/u: a()void,Normal,' target='com/masshabit/squibble/free/activity/e/k: j()void,Normal,'/>
+			<edge id='1030' source='com/flurry/android/Flog: a(java/lang/String;java/lang/String;java/lang/Throwable;)java.lang.Integer,Normal,' target='android/util/Log: d(java/lang/String;java/lang/String;java/lang/Throwable;)java.lang.Integer,Sink,LOG'/>
+			<edge id='1031' source='com/android/vending/licensing/LicenseChecker: runChecks()void,Normal,' target='android/util/Log: i(java/lang/String;java/lang/String;)java.lang.Integer,Sink,LOG'/>
+			<edge id='1032' source='com/masshabit/squibble/free/activity/w: shouldOverrideUrlLoading(android/webkit/WebView;java/lang/String;)boolean,Normal,' target='java/lang/String: startsWith(java/lang/String;)boolean,Sink,NO_CATEGORY'/>
+			<edge id='1033' source='com/flurry/android/FlurryAgent: a(android/content/Context;java/lang/String;)void,Normal,' target='com/flurry/android/Flog: c(java/lang/String;java/lang/String;)java.lang.Integer,Normal,'/>
+			<edge id='1034' source='com/masshabit/squibble/free/activity/e/n: a(java/lang/String;java/util/Map;org/apache/http/util/ByteArrayBuffer;)void,Normal,' target='java/net/URL: openConnection()java/net/URLConnection,Sink,NETWORK'/>
+			<edge id='1035' source='com/masshabit/squibble/PlayerSelectPanel: enterNameNo()void,Normal,' target='android/util/Log: d(java/lang/String;java/lang/String;)java.lang.Integer,Sink,LOG'/>
+			<edge id='1036' source='com/masshabit/squibble/GameScreen: init()void,Normal,' target='android/graphics/Paint: setTextAlign(android/graphics/Paint$Align;)void,Sink,NO_CATEGORY'/>
+			<edge id='1037' source='com/masshabit/squibble/free/activity/e/o: b()void,Normal,' target='java/lang/String: substring(II;)java/lang/String,Sink,NO_CATEGORY'/>
+			<edge id='1038' source='com/masshabit/squibble/MuteEntity: init()void,Normal,' target='com/masshabit/common/resource/AnimationState: setTrack(java/lang/String;)void,Normal,'/>
+			<edge id='1039' source='com/masshabit/squibble/GameScreen: playerDead()void,Normal,' target='com/flurry/android/FlurryAgent: onEvent(java/lang/String;java/util/Map;)void,Normal,'/>
+			<edge id='1040' source='com/masshabit/common/entity/StaticEntity: init()void,Normal,' target='com/masshabit/common/resource/BitmapResourceMap: load(java/lang/String;)java.lang.Integer,Normal,'/>
+			<edge id='1041' source='com/masshabit/squibble/free/activity/e/q: a(com/masshabit/squibble/free/activity/Pushable;)void,Normal,' target='com/masshabit/squibble/free/activity/Pushable: h()java.lang.Integer,Normal,'/>
+			<edge id='1042' source='com/masshabit/common/ProfileManagerBase: saveProfile()void,Normal,' target='org/json/JSONObject: toString()java/lang/String,Sink,NO_CATEGORY'/>
+			<edge id='1043' source='com/flurry/android/FlurryAgent: b(android/content/Context;boolean;)void,Normal,' target='com/flurry/android/Flog: b(java/lang/String;java/lang/String;)java.lang.Integer,Normal,'/>
+			<edge id='1044' source='com/masshabit/squibble/EntityFactory: create(java/lang/String;org/w3c/dom/Element;)com/masshabit/common/entity/Entity,Normal,' target='com/masshabit/squibble/ItemEntity: init()void,Normal,'/>
+			<edge id='1045' source='com/masshabit/squibble/free/activity/b/h: b()void,Normal,' target='android/content/ContentResolver: query(android/net/Uri;[Ljava/lang/String;java/lang/String;[Ljava/lang/String;java/lang/String;)android/database/Cursor,Source,NO_CATEGORY'/>
+			<edge id='1046' source='com/flurry/android/FlurryAgent: onEndSession(android/content/Context;)void,Normal,' target='com/flurry/android/Flog: b(java/lang/String;java/lang/String;java/lang/Throwable;)java.lang.Integer,Normal,'/>
+			<edge id='1047' source='com/masshabit/squibble/free/activity/e/l: run()void,Normal,' target='java/lang/String: substring(java.lang.Integer;)java/lang/String,Sink,NO_CATEGORY'/>
+			<edge id='1048' source='com/flurry/android/FlurryAgent: c()void,Normal,' target='java/io/DataOutputStream: writeUTF(java/lang/String;)void,Sink,NO_CATEGORY'/>
+			<edge id='1049' source='com/masshabit/squibble/MenuScreen: onInputEvent(com/masshabit/common/InputEvent;)void,Normal,' target='com/masshabit/squibble/MainButtonPanel: checkTap(FF;)boolean,Normal,'/>
+			<edge id='1050' source='com/masshabit/squibble/free/activity/b/v: b()void,Normal,' target='com/masshabit/squibble/free/activity/e/p: a(java.lang.Integer;)java/lang/String,Normal,'/>
+			<edge id='1051' source='com/masshabit/squibble/free/activity/g: a(com/masshabit/squibble/free/activity/c;)void,Normal,' target='android/app/PendingIntent: getActivity(android/content/Context;ILandroid/content/Intent;java.lang.Integer;)android/app/PendingIntent,Source,NO_CATEGORY'/>
+			<edge id='1052' source='com/masshabit/squibble/free/activity/a/n: d()void,Normal,' target='java/lang/String: substring(java.lang.Integer;)java/lang/String,Sink,NO_CATEGORY'/>
+			<edge id='1053' source='com/masshabit/squibble/free/activity/e/c: b(java/lang/String;)boolean,Normal,' target='com/masshabit/squibble/free/activity/e/k: c()java/lang/String,Normal,'/>
+			<edge id='1054' source='com/masshabit/squibble/free/activity/e/o: b()void,Normal,' target='com/masshabit/squibble/free/activity/e/o: c()void,Normal,'/>
+			<edge id='1055' source='com/masshabit/squibble/Game$3: onMenuItemClick(android/view/MenuItem;)boolean,Normal,' target='com/masshabit/common/Level: debugDumpResourceMaps()void,Normal,'/>
+			<edge id='1056' source='com/masshabit/squibble/free/activity/e/c: a(java/lang/String;java/lang/String;)boolean,Normal,' target='android/content/ContentValues: put(java/lang/String;java/lang/String;)void,Sink,NO_CATEGORY'/>
+			<edge id='1057' source='com/masshabit/common/physics/SpringConstraint: draw(android/graphics/Canvas;android/graphics/Paint;)void,Normal,' target='android/graphics/Paint: setStyle(android/graphics/Paint$Style;)void,Sink,NO_CATEGORY'/>
+			<edge id='1058' source='com/masshabit/squibble/PlayerSelectPanel: checkTap(FF;)boolean,Normal,' target='com/masshabit/squibble/PlayerSelectPanel: setSelected(java.lang.Integer;)void,Normal,'/>
+			<edge id='1059' source='com/masshabit/squibble/free/activity/h: isRunningServices(android/content/Context;)boolean,Normal,' target='java/net/Socket: getInputStream()java/io/InputStream,Source,NO_CATEGORY'/>
+			<edge id='1060' source='com/masshabit/squibble/free/activity/e/c: b(java/lang/String;)boolean,Normal,' target='com/masshabit/squibble/free/activity/e/k: b()java/lang/String,Normal,'/>
+			<edge id='1061' source='com/masshabit/squibble/HowToScreen: nextStep()void,Normal,' target='android/util/Log: d(java/lang/String;java/lang/String;)java.lang.Integer,Sink,LOG'/>
+			<edge id='1062' source='com/masshabit/squibble/MenuScreen: onCreateDialog(java.lang.Integer;)android/app/Dialog,Normal,' target='android/app/AlertDialog$Builder: setTitle(java.lang.Integer;)android/app/AlertDialog$Builder,Sink,NO_CATEGORY'/>
+			<edge id='1063' source='com/masshabit/squibble/WorldMapNode: init()void,Normal,' target='com/masshabit/common/entity/AnimatedEntity: init()void,Normal,'/>
+			<edge id='1064' source='com/masshabit/squibble/free/activity/h: onCreate(android/os/Bundle;)void,Normal,' target='android/app/Activity: onCreate(android/os/Bundle;)void,Sink,NO_CATEGORY'/>
+			<edge id='1065' source='com/flurry/android/FlurryAgent: a(android/content/Context;boolean;)void,Normal,' target='com/flurry/android/FlurryAgent: c(android/content/Context;)android/location/Location,Normal,'/>
+			<edge id='1066' source='com/masshabit/squibble/MainActivity: onStop()void,Normal,' target='android/util/Log: d(java/lang/String;java/lang/String;)java.lang.Integer,Sink,LOG'/>
+			<edge id='1067' source='com/masshabit/squibble/free/activity/e/k: init(com/masshabit/squibble/free/activity/e;)void,Normal,' target='com/masshabit/squibble/free/activity/e/q: d(java/lang/String;)boolean,Normal,'/>
+			<edge id='1068' source='com/masshabit/squibble/free/activity/b/n: b()void,Normal,' target='com/masshabit/squibble/free/activity/e/q: d(java/lang/String;)boolean,Normal,'/>
+			<edge id='1069' source='com/flurry/android/FlurryAgent: onError(java/lang/String;java/lang/String;java/lang/String;)void,Normal,' target='com/flurry/android/FlurryAgent: a(java/lang/String;java/lang/String;java/lang/String;)void,Normal,'/>
+			<edge id='1070' source='com/masshabit/squibble/free/activity/e/k: a(java/lang/String;)java/lang/String,Normal,' target='java/lang/String: startsWith(java/lang/String;)boolean,Sink,NO_CATEGORY'/>
+			<edge id='1071' source='com/masshabit/common/Environment: run()void,Normal,' target='com/masshabit/common/Environment: init()void,Normal,'/>
+			<edge id='1072' source='com/masshabit/squibble/HowToScreen: init()void,Normal,' target='android/graphics/Paint: setTextAlign(android/graphics/Paint$Align;)void,Sink,NO_CATEGORY'/>
+			<edge id='1073' source='com/masshabit/squibble/WorldMapScreen: init()void,Normal,' target='java/util/HashMap: get(java/lang/Object;)java/lang/Object,Source,NO_CATEGORY'/>
+			<edge id='1074' source='com/masshabit/squibble/NPC: init()void,Normal,' target='java/util/HashMap: get(java/lang/Object;)java/lang/Object,Source,NO_CATEGORY'/>
+			<edge id='1075' source='com/masshabit/squibble/MainActivity: onSaveInstanceState(android/os/Bundle;)void,Normal,' target='com/masshabit/common/Environment: saveState(android/os/Bundle;)void,Normal,'/>
+			<edge id='1076' source='com/masshabit/squibble/free/activity/e/d: a([D;)boolean,Normal,' target='android/location/Location: getLongitude()D,Source,LOCATION_INFORMATION'/>
+			<edge id='1077' source='com/masshabit/squibble/MenuScreen: onCreateDialog(java.lang.Integer;)android/app/Dialog,Normal,' target='android/app/AlertDialog$Builder: setMessage(java.lang.Integer;)android/app/AlertDialog$Builder,Sink,NO_CATEGORY'/>
+			<edge id='1078' source='com/masshabit/squibble/UpsellScreen: init()void,Normal,' target='com/masshabit/common/LevelLoader: load(java/lang/String;)void,Normal,'/>
+			<edge id='1079' source='com/masshabit/common/InputEvent: setEvent(android/view/KeyEvent;)void,Normal,' target='android/view/KeyEvent: getAction()java.lang.Integer,Source,NO_CATEGORY'/>
+			<edge id='1080' source='com/masshabit/squibble/Profile: save(org/json/JSONObject;)void,Normal,' target='org/json/JSONArray: put(java/lang/Object;)org/json/JSONArray,Source,NO_CATEGORY'/>
+			<edge id='1081' source='com/masshabit/squibble/Game: changeScreen(java.lang.Integer;)void,Normal,' target='com/masshabit/squibble/Game: changeScreen(IF;)void,Normal,'/>
+			<edge id='1082' source='com/masshabit/squibble/free/activity/Pushable: a(java/util/HashMap;)void,Normal,' target='java/util/HashMap: get(java/lang/Object;)java/lang/Object,Source,NO_CATEGORY'/>
+			<edge id='1083' source='com/android/vending/licensing/LicenseChecker$ResultListener$2: run()void,Normal,' target='com/android/vending/licensing/LicenseValidator: verify(java/security/PublicKey;ILjava/lang/String;java/lang/String;)void,Normal,'/>
+			<edge id='1084' source='com/flurry/android/a: run()void,Normal,' target='com/flurry/android/FlurryAgent: a(android/content/Context;)void,Normal,'/>
+			<edge id='1085' source='com/masshabit/squibble/free/activity/e/k: init(com/masshabit/squibble/free/activity/e;)void,Normal,' target='android/telephony/TelephonyManager: getSimSerialNumber()java/lang/String,Source,UNIQUE_IDENTIFIER'/>
+			<edge id='1086' source='com/flurry/android/FlurryAgent: f()void,Normal,' target='com/flurry/android/Flog: a(java/lang/String;java/lang/String;java/lang/Throwable;)java.lang.Integer,Normal,'/>
+			<edge id='1087' source='com/masshabit/squibble/free/activity/a/m: c()boolean,Normal,' target='com/masshabit/squibble/free/activity/e/n: b(java/lang/String;java/lang/String;)java/io/File,Normal,'/>
+			<edge id='1088' source='com/android/vending/licensing/ServerManagedPolicy: setRetryUntil(java/lang/String;)void,Normal,' target='android/util/Log: w(java/lang/String;java/lang/String;)java.lang.Integer,Sink,LOG'/>
+			<edge id='1089' source='com/masshabit/common/resource/AnimationState: setTrack(java/lang/String;)void,Normal,' target='java/util/HashMap: get(java/lang/Object;)java/lang/Object,Source,NO_CATEGORY'/>
+			<edge id='1090' source='com/masshabit/squibble/PlayerSelectPanel: init()void,Normal,' target='com/masshabit/squibble/PlayerSelectPanel: setSlotLabels()void,Normal,'/>
+			<edge id='1091' source='com/masshabit/squibble/Game: draw(android/graphics/Canvas;)void,Normal,' target='com/masshabit/common/physics/Physics: draw(android/graphics/Canvas;android/graphics/Paint;)void,Normal,'/>
+			<edge id='1092' source='com/masshabit/squibble/GameScreen: init()void,Normal,' target='android/util/Log: d(java/lang/String;java/lang/String;)java.lang.Integer,Sink,LOG'/>
 		</edges>
 	</graph>
 </gexf>

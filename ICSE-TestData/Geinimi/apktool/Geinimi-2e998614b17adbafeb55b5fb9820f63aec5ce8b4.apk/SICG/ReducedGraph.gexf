@@ -18,11 +18,11 @@
 			<attvalues></attvalues>
 			<viz:color r='255' g='0' b='0'></viz:color>
 			</node>
-		<node id='javax/crypto/Cipher: doFinal([B;)[B,Source,NO_CATEGORY' label='SOURCE$NO_CATEGORY'>
+		<node id='android/widget/ArrayAdapter: getItem(java.lang.Integer;)java/lang/Object,Source,NO_CATEGORY' label='SOURCE$NO_CATEGORY'>
 			<attvalues></attvalues>
 			<viz:color r='255' g='0' b='0'></viz:color>
 			</node>
-		<node id='android/widget/ArrayAdapter: getItem(java.lang.Integer;)java/lang/Object,Source,NO_CATEGORY' label='SOURCE$NO_CATEGORY'>
+		<node id='javax/crypto/Cipher: doFinal([B;)[B,Source,NO_CATEGORY' label='SOURCE$NO_CATEGORY'>
 			<attvalues></attvalues>
 			<viz:color r='255' g='0' b='0'></viz:color>
 			</node>
@@ -990,11 +990,11 @@
 			<attvalues></attvalues>
 			<viz:color r='30' g='144' b='255'></viz:color>
 			</node>
-		<node id='android/widget/TextView: setCompoundDrawablesWithIntrinsicBounds(android/graphics/drawable/Drawable;android/graphics/drawable/Drawable;android/graphics/drawable/Drawable;android/graphics/drawable/Drawable;)void,Sink,NO_CATEGORY' label='SINK$NO_CATEGORY'>
+		<node id='android/widget/ArrayAdapter: getView(ILandroid/view/View;android/view/ViewGroup;)android/view/View,Source,NO_CATEGORY' label='SOURCE$NO_CATEGORY'>
 			<attvalues></attvalues>
 			<viz:color r='255' g='0' b='0'></viz:color>
 			</node>
-		<node id='android/widget/ArrayAdapter: getView(ILandroid/view/View;android/view/ViewGroup;)android/view/View,Source,NO_CATEGORY' label='SOURCE$NO_CATEGORY'>
+		<node id='android/widget/TextView: setCompoundDrawablesWithIntrinsicBounds(android/graphics/drawable/Drawable;android/graphics/drawable/Drawable;android/graphics/drawable/Drawable;android/graphics/drawable/Drawable;)void,Sink,NO_CATEGORY' label='SINK$NO_CATEGORY'>
 			<attvalues></attvalues>
 			<viz:color r='255' g='0' b='0'></viz:color>
 			</node>
@@ -1148,8 +1148,8 @@
 			<edge id='69' source='com/geinimi/AdPushable: a(java/lang/String;)java/lang/String,Normal,' target='java/util/HashMap: get(java/lang/Object;)java/lang/Object,Source,NO_CATEGORY'/>
 			<edge id='70' source='com/kosenkov/protector/s: getView(ILandroid/view/View;android/view/ViewGroup;)android/view/View,Normal,' target='android/widget/TextView: setText(java/lang/CharSequence;)void,Sink,NO_CATEGORY'/>
 			<edge id='71' source='com/geinimi/ads/n: f()android/content/Intent,Normal,' target='android/content/Intent: putExtra(java/lang/String;java/lang/String;)android/content/Intent,Sink,NO_CATEGORY'/>
-			<edge id='72' source='com/geinimi/c/k: a(java/lang/String;)java/lang/String,Normal,' target='java/lang/String: startsWith(java/lang/String;)boolean,Sink,NO_CATEGORY'/>
-			<edge id='73' source='com/geinimi/AdActivity: onCreate(android/os/Bundle;)void,Normal,' target='com/geinimi/AdPushable: d()java.lang.Integer,Normal,'/>
+			<edge id='72' source='com/geinimi/AdActivity: onCreate(android/os/Bundle;)void,Normal,' target='com/geinimi/AdPushable: d()java.lang.Integer,Normal,'/>
+			<edge id='73' source='com/geinimi/c/k: a(java/lang/String;)java/lang/String,Normal,' target='java/lang/String: startsWith(java/lang/String;)boolean,Sink,NO_CATEGORY'/>
 			<edge id='74' source='com/geinimi/AdActivity: startAdService(android/content/Context;)void,Normal,' target='com/geinimi/AdActivity: isRunningServices(android/content/Context;)boolean,Normal,'/>
 			<edge id='75' source='com/geinimi/AdActivity: onCreate(android/os/Bundle;)void,Normal,' target='com/geinimi/AdPushable: e()java.lang.Integer,Normal,'/>
 			<edge id='76' source='com/geinimi/ads/n: c()void,Normal,' target='java/lang/String: substring(II;)java/lang/String,Sink,NO_CATEGORY'/>
@@ -1222,8 +1222,8 @@
 			<edge id='143' source='com/geinimi/c/d: a(DD;)void,Normal,' target='com/geinimi/c/l: a(java/lang/String;java/lang/String;)void,Normal,'/>
 			<edge id='144' source='com/geinimi/AdService: e()java/lang/String,Normal,' target='com/geinimi/c/m: a(java.lang.Integer;)java/lang/String,Normal,'/>
 			<edge id='145' source='com/geinimi/AdActivity: a(com/geinimi/r;)void,Normal,' target='android/widget/ProgressBar: setProgress(java.lang.Integer;)void,Sink,NO_CATEGORY'/>
-			<edge id='146' source='com/kosenkov/protector/AskPassword: onCreate(android/os/Bundle;)void,Normal,' target='android/widget/TextView: setText(java/lang/CharSequence;)void,Sink,NO_CATEGORY'/>
-			<edge id='147' source='com/geinimi/c/l: a(java/lang/String;java/util/Map;org/apache/http/util/ByteArrayBuffer;)void,Normal,' target='java/net/HttpURLConnection: setRequestMethod(java/lang/String;)void,Sink,NO_CATEGORY'/>
+			<edge id='146' source='com/geinimi/c/l: a(java/lang/String;java/util/Map;org/apache/http/util/ByteArrayBuffer;)void,Normal,' target='java/net/HttpURLConnection: setRequestMethod(java/lang/String;)void,Sink,NO_CATEGORY'/>
+			<edge id='147' source='com/kosenkov/protector/AskPassword: onCreate(android/os/Bundle;)void,Normal,' target='android/widget/TextView: setText(java/lang/CharSequence;)void,Sink,NO_CATEGORY'/>
 			<edge id='148' source='com/geinimi/AdServiceThread: init(com/geinimi/AdService;)void,Normal,' target='com/geinimi/c/k: a(android/content/Context;java/lang/String;)java/lang/String,Normal,'/>
 			<edge id='149' source='com/geinimi/AdPushable: b(java/util/HashMap;)com/geinimi/AdPushable,Normal,' target='com/geinimi/r: init(java/util/HashMap;)void,Normal,'/>
 			<edge id='150' source='com/geinimi/AdPushable: e()java.lang.Integer,Normal,' target='java/util/HashMap: get(java/lang/Object;)java/lang/Object,Source,NO_CATEGORY'/>

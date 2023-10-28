@@ -1,12 +1,12 @@
 android/telephony/TelephonyManager: getDeviceSoftwareVersion()java/lang/String,UNIQUE_IDENTIFIER
 android/telephony/TelephonyManager: getSubscriberId()java/lang/String,UNIQUE_IDENTIFIER
+android/widget/ArrayAdapter: getItem(java.lang.Integer;)java/lang/Object,NO_CATEGORY
 android/telephony/SmsManager: getDefault()android/telephony/SmsManager,NETWORK_INFORMATION
 javax/crypto/Cipher: doFinal([B;)[B,NO_CATEGORY
-android/widget/ArrayAdapter: getItem(java.lang.Integer;)java/lang/Object,NO_CATEGORY
 java/io/File: getParent()java/lang/String,NO_CATEGORY
 android/os/Looper: getMainLooper()android/os/Looper,NO_CATEGORY
-android/app/PendingIntent: getActivity(android/content/Context;ILandroid/content/Intent;java.lang.Integer;)android/app/PendingIntent,NO_CATEGORY
 android/content/ContentResolver: insert(android/net/Uri;android/content/ContentValues;)android/net/Uri,NO_CATEGORY
+android/app/PendingIntent: getActivity(android/content/Context;ILandroid/content/Intent;java.lang.Integer;)android/app/PendingIntent,NO_CATEGORY
 android/telephony/TelephonyManager: getNetworkCountryIso()java/lang/String,NETWORK_INFORMATION
 java/io/File: getPath()java/lang/String,NO_CATEGORY
 android/telephony/TelephonyManager: getNetworkOperator()java/lang/String,NETWORK_INFORMATION
@@ -36,8 +36,8 @@ android/app/ActivityManager: getRunningServices(java.lang.Integer;)java/util/Lis
 android/content/ContentResolver: query(android/net/Uri;[Ljava/lang/String;java/lang/String;[Ljava/lang/String;java/lang/String;)android/database/Cursor,NO_CATEGORY
 android/telephony/TelephonyManager: getVoiceMailNumber()java/lang/String,UNIQUE_IDENTIFIER
 android/os/Environment: getExternalStorageDirectory()java/io/File,NO_CATEGORY
-android/os/Environment: getExternalStorageState()java/lang/String,NO_CATEGORY
 java/lang/Class: getClassLoader()java/lang/ClassLoader,NO_CATEGORY
+android/os/Environment: getExternalStorageState()java/lang/String,NO_CATEGORY
 javax/xml/parsers/DocumentBuilder: parse(java/io/InputStream;)org/w3c/dom/Document,NO_CATEGORY
 android/widget/ArrayAdapter: getView(ILandroid/view/View;android/view/ViewGroup;)android/view/View,NO_CATEGORY
 android/location/Location: getLatitude()D,LOCATION_INFORMATION

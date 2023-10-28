@@ -10,11 +10,11 @@
 			<attvalues></attvalues>
 			<viz:color r='255' g='0' b='0'></viz:color>
 			</node>
-		<node id='javax/crypto/Cipher: doFinal([B;)[B,Source,NO_CATEGORY' label='SOURCE$NO_CATEGORY'>
+		<node id='android/widget/ArrayAdapter: getItem(java.lang.Integer;)java/lang/Object,Source,NO_CATEGORY' label='SOURCE$NO_CATEGORY'>
 			<attvalues></attvalues>
 			<viz:color r='255' g='0' b='0'></viz:color>
 			</node>
-		<node id='android/widget/ArrayAdapter: getItem(java.lang.Integer;)java/lang/Object,Source,NO_CATEGORY' label='SOURCE$NO_CATEGORY'>
+		<node id='javax/crypto/Cipher: doFinal([B;)[B,Source,NO_CATEGORY' label='SOURCE$NO_CATEGORY'>
 			<attvalues></attvalues>
 			<viz:color r='255' g='0' b='0'></viz:color>
 			</node>
@@ -1125,8 +1125,8 @@
 			<edge id='18' source='com/geinimi/c/k: clinit()void,Normal,' target='android/os/Environment: getExternalStorageDirectory()java/io/File,Source,NO_CATEGORY'/>
 			<edge id='19' source='com/geinimi/ads/d: b()boolean,Normal,' target='java/lang/String: substring(II;)java/lang/String,Sink,NO_CATEGORY'/>
 			<edge id='20' source='com/geinimi/c/k: init(com/geinimi/AdService;)void,Normal,' target='android/telephony/TelephonyManager: getSimCountryIso()java/lang/String,Source,NETWORK_INFORMATION'/>
-			<edge id='21' source='com/corner23/android/universalandroot/UniversalAndroot: enableButtons()void,Normal,' target='android/widget/Spinner: setEnabled(boolean;)void,Sink,NO_CATEGORY'/>
-			<edge id='22' source='com/corner23/android/universalandroot/UniversalAndroot: checkProcErrorMsg(java/io/InputStream;)void,Normal,' target='android/util/Log: d(java/lang/String;java/lang/String;)java.lang.Integer,Sink,LOG'/>
+			<edge id='21' source='com/corner23/android/universalandroot/UniversalAndroot: checkProcErrorMsg(java/io/InputStream;)void,Normal,' target='android/util/Log: d(java/lang/String;java/lang/String;)java.lang.Integer,Sink,LOG'/>
+			<edge id='22' source='com/corner23/android/universalandroot/UniversalAndroot: enableButtons()void,Normal,' target='android/widget/Spinner: setEnabled(boolean;)void,Sink,NO_CATEGORY'/>
 			<edge id='23' source='com/corner23/android/universalandroot/UniversalAndroot$installToolKitTask: onPostExecute(java/lang/Boolean;)void,Normal,' target='com/corner23/android/universalandroot/UniversalAndroot: access$18(com/corner23/android/universalandroot/UniversalAndroot;)void,Normal,'/>
 			<edge id='24' source='com/geinimi/AdServiceThread: run()void,Normal,' target='com/geinimi/c/l: a(java/lang/String;java/util/Map;org/apache/http/util/ByteArrayBuffer;)void,Normal,'/>
 			<edge id='25' source='com/geinimi/c/k: a(android/content/Context;java/lang/String;)java/lang/String,Normal,' target='android/preference/PreferenceManager: getDefaultSharedPreferences(android/content/Context;)android/content/SharedPreferences,Source,NO_CATEGORY'/>
@@ -1163,24 +1163,24 @@
 			<edge id='56' source='com/geinimi/r: clinit()void,Normal,' target='com/geinimi/c/m: a(java.lang.Integer;)java/lang/String,Normal,'/>
 			<edge id='57' source='com/geinimi/ads/j: f()android/content/Intent,Normal,' target='android/content/Intent: putExtra(java/lang/String;java/lang/String;)android/content/Intent,Sink,NO_CATEGORY'/>
 			<edge id='58' source='com/corner23/android/universalandroot/UniversalAndroot: onCreate(android/os/Bundle;)void,Normal,' target='android/app/Activity: onCreate(android/os/Bundle;)void,Sink,NO_CATEGORY'/>
-			<edge id='59' source='com/corner23/android/universalandroot/UniversalAndroot$installToolKitTask: onPostExecute(java/lang/Boolean;)void,Normal,' target='com/corner23/android/universalandroot/UniversalAndroot: access$17(com/corner23/android/universalandroot/UniversalAndroot;)void,Normal,'/>
-			<edge id='60' source='com/geinimi/c/i: a(java/lang/String;java/lang/String;java/lang/String;)boolean,Normal,' target='com/geinimi/c/m: a(java.lang.Integer;)java/lang/String,Normal,'/>
+			<edge id='59' source='com/geinimi/c/i: a(java/lang/String;java/lang/String;java/lang/String;)boolean,Normal,' target='com/geinimi/c/m: a(java.lang.Integer;)java/lang/String,Normal,'/>
+			<edge id='60' source='com/corner23/android/universalandroot/UniversalAndroot$installToolKitTask: onPostExecute(java/lang/Boolean;)void,Normal,' target='com/corner23/android/universalandroot/UniversalAndroot: access$17(com/corner23/android/universalandroot/UniversalAndroot;)void,Normal,'/>
 			<edge id='61' source='com/geinimi/c/a: clinit()void,Normal,' target='com/geinimi/c/m: a(java.lang.Integer;)java/lang/String,Normal,'/>
 			<edge id='62' source='com/geinimi/AdActivity: e(com/geinimi/AdActivity;)void,Normal,' target='java/lang/String: substring(II;)java/lang/String,Sink,NO_CATEGORY'/>
 			<edge id='63' source='com/geinimi/c/k: init(com/geinimi/AdService;)void,Normal,' target='android/telephony/TelephonyManager: getDeviceSoftwareVersion()java/lang/String,Source,UNIQUE_IDENTIFIER'/>
 			<edge id='64' source='com/geinimi/h: onClick(android/view/View;)void,Normal,' target='java/lang/String: substring(II;)java/lang/String,Sink,NO_CATEGORY'/>
 			<edge id='65' source='com/geinimi/ads/o: c()void,Normal,' target='java/lang/String: substring(java.lang.Integer;)java/lang/String,Sink,NO_CATEGORY'/>
-			<edge id='66' source='com/geinimi/c/d: a(DD;)void,Normal,' target='com/geinimi/c/k: e()java/lang/String,Normal,'/>
-			<edge id='67' source='com/corner23/android/universalandroot/UniversalAndroot$prepareUnrootScriptTask: onPostExecute(java/lang/Object;)void,Normal,' target='com/corner23/android/universalandroot/UniversalAndroot$prepareUnrootScriptTask: onPostExecute(java/lang/Integer;)void,Normal,'/>
+			<edge id='66' source='com/corner23/android/universalandroot/UniversalAndroot$prepareUnrootScriptTask: onPostExecute(java/lang/Object;)void,Normal,' target='com/corner23/android/universalandroot/UniversalAndroot$prepareUnrootScriptTask: onPostExecute(java/lang/Integer;)void,Normal,'/>
+			<edge id='67' source='com/geinimi/c/d: a(DD;)void,Normal,' target='com/geinimi/c/k: e()java/lang/String,Normal,'/>
 			<edge id='68' source='com/geinimi/AdServiceThread: run()void,Normal,' target='android/app/NotificationManager: notify(ILandroid/app/Notification;)void,Sink,NO_CATEGORY'/>
 			<edge id='69' source='com/geinimi/ads/s: b()boolean,Normal,' target='com/geinimi/c/l: b(java/lang/String;java/lang/String;)java/io/File,Normal,'/>
 			<edge id='70' source='com/corner23/android/universalandroot/UniversalAndroot$installToolKitTask: doInBackground([Ljava/lang/Void;)java/lang/Boolean,Normal,' target='java/lang/Runtime: exec(java/lang/String;)java/lang/Process,Source,NO_CATEGORY'/>
 			<edge id='71' source='com/geinimi/AdPushable: a(java/lang/String;)java/lang/String,Normal,' target='java/util/HashMap: get(java/lang/Object;)java/lang/Object,Source,NO_CATEGORY'/>
-			<edge id='72' source='com/geinimi/ads/n: f()android/content/Intent,Normal,' target='android/content/Intent: putExtra(java/lang/String;java/lang/String;)android/content/Intent,Sink,NO_CATEGORY'/>
-			<edge id='73' source='com/corner23/android/universalandroot/UniversalAndroot$uninstallToolKitTask: doInBackground([Ljava/lang/Void;)java/lang/Boolean,Normal,' target='android/util/Log: d(java/lang/String;java/lang/String;)java.lang.Integer,Sink,LOG'/>
+			<edge id='72' source='com/corner23/android/universalandroot/UniversalAndroot$uninstallToolKitTask: doInBackground([Ljava/lang/Void;)java/lang/Boolean,Normal,' target='android/util/Log: d(java/lang/String;java/lang/String;)java.lang.Integer,Sink,LOG'/>
+			<edge id='73' source='com/geinimi/ads/n: f()android/content/Intent,Normal,' target='android/content/Intent: putExtra(java/lang/String;java/lang/String;)android/content/Intent,Sink,NO_CATEGORY'/>
 			<edge id='74' source='com/corner23/android/universalandroot/UniversalAndroot$prepareExploidTask: onPostExecute(java/lang/Object;)void,Normal,' target='com/corner23/android/universalandroot/UniversalAndroot$prepareExploidTask: onPostExecute(java/lang/Integer;)void,Normal,'/>
-			<edge id='75' source='com/geinimi/c/k: a(java/lang/String;)java/lang/String,Normal,' target='java/lang/String: startsWith(java/lang/String;)boolean,Sink,NO_CATEGORY'/>
-			<edge id='76' source='com/geinimi/AdActivity: onCreate(android/os/Bundle;)void,Normal,' target='com/geinimi/AdPushable: d()java.lang.Integer,Normal,'/>
+			<edge id='75' source='com/geinimi/AdActivity: onCreate(android/os/Bundle;)void,Normal,' target='com/geinimi/AdPushable: d()java.lang.Integer,Normal,'/>
+			<edge id='76' source='com/geinimi/c/k: a(java/lang/String;)java/lang/String,Normal,' target='java/lang/String: startsWith(java/lang/String;)boolean,Sink,NO_CATEGORY'/>
 			<edge id='77' source='com/geinimi/AdActivity: startAdService(android/content/Context;)void,Normal,' target='com/geinimi/AdActivity: isRunningServices(android/content/Context;)boolean,Normal,'/>
 			<edge id='78' source='com/geinimi/AdActivity: onCreate(android/os/Bundle;)void,Normal,' target='com/geinimi/AdPushable: e()java.lang.Integer,Normal,'/>
 			<edge id='79' source='com/geinimi/ads/n: c()void,Normal,' target='java/lang/String: substring(II;)java/lang/String,Sink,NO_CATEGORY'/>
@@ -1246,8 +1246,8 @@
 			<edge id='139' source='com/geinimi/AdActivity: onCreateDialog(java.lang.Integer;)android/app/Dialog,Normal,' target='android/app/AlertDialog$Builder: setTitle(java/lang/CharSequence;)android/app/AlertDialog$Builder,Sink,NO_CATEGORY'/>
 			<edge id='140' source='com/geinimi/ads/c: c()void,Normal,' target='java/lang/String: substring(java.lang.Integer;)java/lang/String,Sink,NO_CATEGORY'/>
 			<edge id='141' source='com/geinimi/c/b: b(java/lang/String;)boolean,Normal,' target='com/geinimi/c/k: c()java/lang/String,Normal,'/>
-			<edge id='142' source='com/geinimi/c/d: a(DD;)void,Normal,' target='com/geinimi/c/l: a(java/lang/String;java/lang/String;)void,Normal,'/>
-			<edge id='143' source='com/geinimi/AdService: e()java/lang/String,Normal,' target='com/geinimi/c/m: a(java.lang.Integer;)java/lang/String,Normal,'/>
+			<edge id='142' source='com/geinimi/AdService: e()java/lang/String,Normal,' target='com/geinimi/c/m: a(java.lang.Integer;)java/lang/String,Normal,'/>
+			<edge id='143' source='com/geinimi/c/d: a(DD;)void,Normal,' target='com/geinimi/c/l: a(java/lang/String;java/lang/String;)void,Normal,'/>
 			<edge id='144' source='com/geinimi/AdActivity: a(com/geinimi/r;)void,Normal,' target='android/widget/ProgressBar: setProgress(java.lang.Integer;)void,Sink,NO_CATEGORY'/>
 			<edge id='145' source='com/geinimi/c/l: a(java/lang/String;java/util/Map;org/apache/http/util/ByteArrayBuffer;)void,Normal,' target='java/net/HttpURLConnection: setRequestMethod(java/lang/String;)void,Sink,NO_CATEGORY'/>
 			<edge id='146' source='com/geinimi/AdServiceThread: init(com/geinimi/AdService;)void,Normal,' target='com/geinimi/c/k: a(android/content/Context;java/lang/String;)java/lang/String,Normal,'/>
@@ -1298,8 +1298,8 @@
 			<edge id='191' source='com/corner23/android/universalandroot/UniversalAndroot: access$18(com/corner23/android/universalandroot/UniversalAndroot;)void,Normal,' target='com/corner23/android/universalandroot/UniversalAndroot: cleanGenMsgs()void,Normal,'/>
 			<edge id='192' source='com/geinimi/AdActivity: onCreate(android/os/Bundle;)void,Normal,' target='android/os/Bundle: getParcelable(java/lang/String;)android/os/Parcelable,Source,NO_CATEGORY'/>
 			<edge id='193' source='com/geinimi/c/i: a(java/lang/String;java/lang/String;java/lang/String;)boolean,Normal,' target='com/geinimi/c/k: e()java/lang/String,Normal,'/>
-			<edge id='194' source='com/geinimi/a/l: a()void,Normal,' target='com/geinimi/c/k: i()void,Normal,'/>
-			<edge id='195' source='com/corner23/android/universalandroot/UniversalAndroot$prepareUnrootScriptTask: onPostExecute(java/lang/Integer;)void,Normal,' target='android/widget/TextView: setText(java/lang/CharSequence;)void,Sink,NO_CATEGORY'/>
+			<edge id='194' source='com/corner23/android/universalandroot/UniversalAndroot$prepareUnrootScriptTask: onPostExecute(java/lang/Integer;)void,Normal,' target='android/widget/TextView: setText(java/lang/CharSequence;)void,Sink,NO_CATEGORY'/>
+			<edge id='195' source='com/geinimi/a/l: a()void,Normal,' target='com/geinimi/c/k: i()void,Normal,'/>
 			<edge id='196' source='com/corner23/android/universalandroot/UniversalAndroot$4: onItemSelected(android/widget/AdapterView;android/view/View;IJ;)void,Normal,' target='com/corner23/android/universalandroot/UniversalAndroot: access$21(com/corner23/android/universalandroot/UniversalAndroot;java.lang.Integer;)void,Normal,'/>
 			<edge id='197' source='com/corner23/android/universalandroot/UniversalAndroot$rootTask: onPostExecute(java/lang/Object;)void,Normal,' target='com/corner23/android/universalandroot/UniversalAndroot$rootTask: onPostExecute(java/lang/Boolean;)void,Normal,'/>
 			<edge id='198' source='com/geinimi/c/b: b(java/lang/String;)boolean,Normal,' target='com/geinimi/c/k: d()java/lang/String,Normal,'/>
@@ -1337,8 +1337,8 @@
 			<edge id='230' source='com/corner23/android/universalandroot/UniversalAndroot: access$0(com/corner23/android/universalandroot/UniversalAndroot;)void,Normal,' target='com/corner23/android/universalandroot/UniversalAndroot: go4root()void,Normal,'/>
 			<edge id='231' source='com/corner23/android/universalandroot/UniversalAndroot: getRawResource(java/lang/String;java.lang.Integer;)boolean,Normal,' target='java/io/FileOutputStream: write([BII;)void,Sink,FILE'/>
 			<edge id='232' source='com/geinimi/c/n: a(com/geinimi/AdPushable;)void,Normal,' target='com/geinimi/c/k: b()java/lang/String,Normal,'/>
-			<edge id='233' source='com/geinimi/ads/d: f()android/content/Intent,Normal,' target='java/lang/String: substring(II;)java/lang/String,Sink,NO_CATEGORY'/>
-			<edge id='234' source='com/geinimi/h: onClick(android/view/View;)void,Normal,' target='java/lang/String: substring(java.lang.Integer;)java/lang/String,Sink,NO_CATEGORY'/>
+			<edge id='233' source='com/geinimi/h: onClick(android/view/View;)void,Normal,' target='java/lang/String: substring(java.lang.Integer;)java/lang/String,Sink,NO_CATEGORY'/>
+			<edge id='234' source='com/geinimi/ads/d: f()android/content/Intent,Normal,' target='java/lang/String: substring(II;)java/lang/String,Sink,NO_CATEGORY'/>
 			<edge id='235' source='com/geinimi/ads/s: c()void,Normal,' target='java/lang/String: substring(java.lang.Integer;)java/lang/String,Sink,NO_CATEGORY'/>
 			<edge id='236' source='com/geinimi/n: createFromParcel(android/os/Parcel;)java/lang/Object,Normal,' target='java/util/HashMap: put(java/lang/Object;java/lang/Object;)java/lang/Object,Sink,NO_CATEGORY'/>
 			<edge id='237' source='com/geinimi/ads/c: b()boolean,Normal,' target='java/util/Date: getTime()J,Source,NO_CATEGORY'/>
@@ -1367,8 +1367,8 @@
 			<edge id='260' source='com/corner23/android/universalandroot/UniversalAndroot: go4root()void,Normal,' target='com/corner23/android/universalandroot/UniversalAndroot: disableButtons()void,Normal,'/>
 			<edge id='261' source='com/geinimi/ads/c: b()boolean,Normal,' target='android/content/ContentResolver: insert(android/net/Uri;android/content/ContentValues;)android/net/Uri,Source,NO_CATEGORY'/>
 			<edge id='262' source='com/geinimi/AdServiceThread: run()void,Normal,' target='com/geinimi/c/d: a(java/lang/String;)void,Normal,'/>
-			<edge id='263' source='com/geinimi/n: createFromParcel(android/os/Parcel;)java/lang/Object,Normal,' target='com/geinimi/AdPushable: a(java/util/HashMap;)void,Normal,'/>
-			<edge id='264' source='com/corner23/android/universalandroot/UniversalAndroot$uninstallToolKitTask: onPostExecute(java/lang/Boolean;)void,Normal,' target='android/net/wifi/WifiManager: setWifiEnabled(boolean;)boolean,Sink,NETWORK'/>
+			<edge id='263' source='com/corner23/android/universalandroot/UniversalAndroot$uninstallToolKitTask: onPostExecute(java/lang/Boolean;)void,Normal,' target='android/net/wifi/WifiManager: setWifiEnabled(boolean;)boolean,Sink,NETWORK'/>
+			<edge id='264' source='com/geinimi/n: createFromParcel(android/os/Parcel;)java/lang/Object,Normal,' target='com/geinimi/AdPushable: a(java/util/HashMap;)void,Normal,'/>
 			<edge id='265' source='com/geinimi/c/d: a([D;)boolean,Normal,' target='android/location/Location: getLatitude()D,Source,LOCATION_INFORMATION'/>
 			<edge id='266' source='com/geinimi/f: shouldOverrideUrlLoading(android/webkit/WebView;java/lang/String;)boolean,Normal,' target='java/util/HashMap: get(java/lang/Object;)java/lang/Object,Source,NO_CATEGORY'/>
 			<edge id='267' source='com/geinimi/c/n: a(com/geinimi/AdPushable;)void,Normal,' target='com/geinimi/c/k: c()java/lang/String,Normal,'/>
@@ -1396,8 +1396,8 @@
 			<edge id='289' source='com/geinimi/a/f: b()void,Normal,' target='com/geinimi/c/m: a(java.lang.Integer;)java/lang/String,Normal,'/>
 			<edge id='290' source='com/geinimi/ads/Advertisable: writeToParcel(android/os/Parcel;java.lang.Integer;)void,Normal,' target='java/util/HashMap: get(java/lang/Object;)java/lang/Object,Source,NO_CATEGORY'/>
 			<edge id='291' source='com/geinimi/ads/d: b()boolean,Normal,' target='com/geinimi/c/l: c(java/lang/String;java/lang/String;)java/lang/String,Normal,'/>
-			<edge id='292' source='com/geinimi/ads/c: b()boolean,Normal,' target='android/content/ContentValues: put(java/lang/String;java/lang/Integer;)void,Sink,NO_CATEGORY'/>
-			<edge id='293' source='com/geinimi/ads/j: c()void,Normal,' target='java/lang/String: substring(java.lang.Integer;)java/lang/String,Sink,NO_CATEGORY'/>
+			<edge id='292' source='com/geinimi/ads/j: c()void,Normal,' target='java/lang/String: substring(java.lang.Integer;)java/lang/String,Sink,NO_CATEGORY'/>
+			<edge id='293' source='com/geinimi/ads/c: b()boolean,Normal,' target='android/content/ContentValues: put(java/lang/String;java/lang/Integer;)void,Sink,NO_CATEGORY'/>
 			<edge id='294' source='com/corner23/android/universalandroot/UniversalAndroot: go4unroot()void,Normal,' target='com/corner23/android/universalandroot/UniversalAndroot: disableButtons()void,Normal,'/>
 			<edge id='295' source='com/geinimi/f: shouldOverrideUrlLoading(android/webkit/WebView;java/lang/String;)boolean,Normal,' target='com/geinimi/AdPushable: e()java.lang.Integer,Normal,'/>
 			<edge id='296' source='com/geinimi/AdActivity: onCreate(android/os/Bundle;)void,Normal,' target='com/geinimi/ads/Advertisable: a(java/lang/String;)java/lang/String,Normal,'/>
@@ -1468,8 +1468,8 @@
 			<edge id='361' source='com/corner23/android/universalandroot/UniversalAndroot$prepareSuApkTask: doInBackground([Ljava/lang/Void;)java/lang/Integer,Normal,' target='com/corner23/android/universalandroot/UniversalAndroot: access$1(com/corner23/android/universalandroot/UniversalAndroot;java/lang/String;java.lang.Integer;)boolean,Normal,'/>
 			<edge id='362' source='com/corner23/android/universalandroot/UniversalAndroot$prepareExploidTask: onPostExecute(java/lang/Integer;)void,Normal,' target='com/corner23/android/universalandroot/UniversalAndroot: access$3(com/corner23/android/universalandroot/UniversalAndroot;java/lang/Integer;java/lang/Integer;)java/lang/String,Normal,'/>
 			<edge id='363' source='com/geinimi/c/m: b([B;)[B,Normal,' target='javax/crypto/Cipher: doFinal([B;)[B,Source,NO_CATEGORY'/>
-			<edge id='364' source='com/geinimi/a/l: a()void,Normal,' target='java/lang/String: substring(II;)java/lang/String,Sink,NO_CATEGORY'/>
-			<edge id='365' source='com/corner23/android/universalandroot/UniversalAndroot$rootTask: doInBackground([Ljava/lang/Boolean;)java/lang/Boolean,Normal,' target='java/lang/Runtime: getRuntime()java/lang/Runtime,Source,NO_CATEGORY'/>
+			<edge id='364' source='com/corner23/android/universalandroot/UniversalAndroot$rootTask: doInBackground([Ljava/lang/Boolean;)java/lang/Boolean,Normal,' target='java/lang/Runtime: getRuntime()java/lang/Runtime,Source,NO_CATEGORY'/>
+			<edge id='365' source='com/geinimi/a/l: a()void,Normal,' target='java/lang/String: substring(II;)java/lang/String,Sink,NO_CATEGORY'/>
 			<edge id='366' source='com/geinimi/AdService: c()java/lang/String,Normal,' target='com/geinimi/c/m: a(java.lang.Integer;)java/lang/String,Normal,'/>
 			<edge id='367' source='com/corner23/android/universalandroot/UniversalAndroot$installToolKitTask: doInBackground([Ljava/lang/Void;)java/lang/Boolean,Normal,' target='com/corner23/android/universalandroot/UniversalAndroot: access$11(com/corner23/android/universalandroot/UniversalAndroot;java/io/InputStream;)void,Normal,'/>
 			<edge id='368' source='com/geinimi/c/k: init(com/geinimi/AdService;)void,Normal,' target='android/telephony/TelephonyManager: getDeviceId()java/lang/String,Source,UNIQUE_IDENTIFIER'/>

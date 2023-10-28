@@ -1,1 +1,1 @@
-android.telephony.SmsManager: sendTextMessage(java.lang.String,java.lang.String,java.lang.String,android.app.PendingIntent,android.app.PendingIntent)void---android.telephony.SmsManager: getDefault()android.telephony.SmsManager : 0.9697620228076415
+android.telephony.SmsManager: sendTextMessage(java.lang.String,java.lang.String,java.lang.String,android.app.PendingIntent,android.app.PendingIntent)void---android.telephony.SmsManager: getDefault()android.telephony.SmsManager : 0.0

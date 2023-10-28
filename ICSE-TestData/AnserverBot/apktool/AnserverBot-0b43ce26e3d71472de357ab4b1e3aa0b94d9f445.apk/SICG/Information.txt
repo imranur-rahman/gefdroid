@@ -1,4 +1,4 @@
-文件路径：/home/fan/data/ICSE/AnserverBot/apktool/AnserverBot-0b43ce26e3d71472de357ab4b1e3aa0b94d9f445.apk
+文件路径：/Users/imranur/Research/LLM-for-package-clustering/ICSE19-GefDroid/GefDroid-Code/ICSE-TestData/AnserverBot/apktool/AnserverBot-0b43ce26e3d71472de357ab4b1e3aa0b94d9f445.apk
 节点个数：1360
 边个数：2441
 敏感源节点69

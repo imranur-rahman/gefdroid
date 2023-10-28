@@ -1,7 +1,7 @@
 digraph G{
 	"android/telephony/TelephonyManager: getSubscriberId()java/lang/String,Source,UNIQUE_IDENTIFIER";
-	"javax/crypto/Cipher: doFinal([B;)[B,Source,NO_CATEGORY";
 	"android/widget/ArrayAdapter: getItem(java.lang.Integer;)java/lang/Object,Source,NO_CATEGORY";
+	"javax/crypto/Cipher: doFinal([B;)[B,Source,NO_CATEGORY";
 	"android/telephony/SmsManager: getDefault()android/telephony/SmsManager,Source,NETWORK_INFORMATION";
 	"com/corner23/android/universalandroot/UniversalAndroot$prepareUnrootScriptTask: doInBackground([Ljava/lang/Void;)java/lang/Integer,Normal,";
 	"android/app/AlertDialog$Builder: setTitle(java/lang/CharSequence;)android/app/AlertDialog$Builder,Sink,NO_CATEGORY";
@@ -294,8 +294,8 @@ digraph G{
 	"com/geinimi/c/k: clinit()void,Normal,"->"android/os/Environment: getExternalStorageDirectory()java/io/File,Source,NO_CATEGORY"[label="com/geinimi/c/k"];
 	"com/geinimi/ads/d: b()boolean,Normal,"->"java/lang/String: substring(II;)java/lang/String,Sink,NO_CATEGORY"[label="com/geinimi/ads/d"];
 	"com/geinimi/c/k: init(com/geinimi/AdService;)void,Normal,"->"android/telephony/TelephonyManager: getSimCountryIso()java/lang/String,Source,NETWORK_INFORMATION"[label="com/geinimi/c/k"];
-	"com/corner23/android/universalandroot/UniversalAndroot: enableButtons()void,Normal,"->"android/widget/Spinner: setEnabled(boolean;)void,Sink,NO_CATEGORY"[label="com/corner23/android/universalandroot/UniversalAndroot"];
 	"com/corner23/android/universalandroot/UniversalAndroot: checkProcErrorMsg(java/io/InputStream;)void,Normal,"->"android/util/Log: d(java/lang/String;java/lang/String;)java.lang.Integer,Sink,LOG"[label="com/corner23/android/universalandroot/UniversalAndroot"];
+	"com/corner23/android/universalandroot/UniversalAndroot: enableButtons()void,Normal,"->"android/widget/Spinner: setEnabled(boolean;)void,Sink,NO_CATEGORY"[label="com/corner23/android/universalandroot/UniversalAndroot"];
 	"com/corner23/android/universalandroot/UniversalAndroot$installToolKitTask: onPostExecute(java/lang/Boolean;)void,Normal,"->"com/corner23/android/universalandroot/UniversalAndroot: access$18(com/corner23/android/universalandroot/UniversalAndroot;)void,Normal,"[label="com/corner23/android/universalandroot/UniversalAndroot$installToolKitTask"];
 	"com/geinimi/AdServiceThread: run()void,Normal,"->"com/geinimi/c/l: a(java/lang/String;java/util/Map;org/apache/http/util/ByteArrayBuffer;)void,Normal,"[label="com/geinimi/AdServiceThread"];
 	"com/geinimi/c/k: a(android/content/Context;java/lang/String;)java/lang/String,Normal,"->"android/preference/PreferenceManager: getDefaultSharedPreferences(android/content/Context;)android/content/SharedPreferences,Source,NO_CATEGORY"[label="com/geinimi/c/k"];
@@ -332,24 +332,24 @@ digraph G{
 	"com/geinimi/r: clinit()void,Normal,"->"com/geinimi/c/m: a(java.lang.Integer;)java/lang/String,Normal,"[label="com/geinimi/r"];
 	"com/geinimi/ads/j: f()android/content/Intent,Normal,"->"android/content/Intent: putExtra(java/lang/String;java/lang/String;)android/content/Intent,Sink,NO_CATEGORY"[label="com/geinimi/ads/j"];
 	"com/corner23/android/universalandroot/UniversalAndroot: onCreate(android/os/Bundle;)void,Normal,"->"android/app/Activity: onCreate(android/os/Bundle;)void,Sink,NO_CATEGORY"[label="com/corner23/android/universalandroot/UniversalAndroot"];
-	"com/corner23/android/universalandroot/UniversalAndroot$installToolKitTask: onPostExecute(java/lang/Boolean;)void,Normal,"->"com/corner23/android/universalandroot/UniversalAndroot: access$17(com/corner23/android/universalandroot/UniversalAndroot;)void,Normal,"[label="com/corner23/android/universalandroot/UniversalAndroot$installToolKitTask"];
 	"com/geinimi/c/i: a(java/lang/String;java/lang/String;java/lang/String;)boolean,Normal,"->"com/geinimi/c/m: a(java.lang.Integer;)java/lang/String,Normal,"[label="com/geinimi/c/i"];
+	"com/corner23/android/universalandroot/UniversalAndroot$installToolKitTask: onPostExecute(java/lang/Boolean;)void,Normal,"->"com/corner23/android/universalandroot/UniversalAndroot: access$17(com/corner23/android/universalandroot/UniversalAndroot;)void,Normal,"[label="com/corner23/android/universalandroot/UniversalAndroot$installToolKitTask"];
 	"com/geinimi/c/a: clinit()void,Normal,"->"com/geinimi/c/m: a(java.lang.Integer;)java/lang/String,Normal,"[label="com/geinimi/c/a"];
 	"com/geinimi/AdActivity: e(com/geinimi/AdActivity;)void,Normal,"->"java/lang/String: substring(II;)java/lang/String,Sink,NO_CATEGORY"[label="com/geinimi/AdActivity"];
 	"com/geinimi/c/k: init(com/geinimi/AdService;)void,Normal,"->"android/telephony/TelephonyManager: getDeviceSoftwareVersion()java/lang/String,Source,UNIQUE_IDENTIFIER"[label="com/geinimi/c/k"];
 	"com/geinimi/h: onClick(android/view/View;)void,Normal,"->"java/lang/String: substring(II;)java/lang/String,Sink,NO_CATEGORY"[label="com/geinimi/h"];
 	"com/geinimi/ads/o: c()void,Normal,"->"java/lang/String: substring(java.lang.Integer;)java/lang/String,Sink,NO_CATEGORY"[label="com/geinimi/ads/o"];
-	"com/geinimi/c/d: a(DD;)void,Normal,"->"com/geinimi/c/k: e()java/lang/String,Normal,"[label="com/geinimi/c/d"];
 	"com/corner23/android/universalandroot/UniversalAndroot$prepareUnrootScriptTask: onPostExecute(java/lang/Object;)void,Normal,"->"com/corner23/android/universalandroot/UniversalAndroot$prepareUnrootScriptTask: onPostExecute(java/lang/Integer;)void,Normal,"[label="com/corner23/android/universalandroot/UniversalAndroot$prepareUnrootScriptTask"];
+	"com/geinimi/c/d: a(DD;)void,Normal,"->"com/geinimi/c/k: e()java/lang/String,Normal,"[label="com/geinimi/c/d"];
 	"com/geinimi/AdServiceThread: run()void,Normal,"->"android/app/NotificationManager: notify(ILandroid/app/Notification;)void,Sink,NO_CATEGORY"[label="com/geinimi/AdServiceThread"];
 	"com/geinimi/ads/s: b()boolean,Normal,"->"com/geinimi/c/l: b(java/lang/String;java/lang/String;)java/io/File,Normal,"[label="com/geinimi/ads/s"];
 	"com/corner23/android/universalandroot/UniversalAndroot$installToolKitTask: doInBackground([Ljava/lang/Void;)java/lang/Boolean,Normal,"->"java/lang/Runtime: exec(java/lang/String;)java/lang/Process,Source,NO_CATEGORY"[label="com/corner23/android/universalandroot/UniversalAndroot$installToolKitTask"];
 	"com/geinimi/AdPushable: a(java/lang/String;)java/lang/String,Normal,"->"java/util/HashMap: get(java/lang/Object;)java/lang/Object,Source,NO_CATEGORY"[label="com/geinimi/AdPushable"];
-	"com/geinimi/ads/n: f()android/content/Intent,Normal,"->"android/content/Intent: putExtra(java/lang/String;java/lang/String;)android/content/Intent,Sink,NO_CATEGORY"[label="com/geinimi/ads/n"];
 	"com/corner23/android/universalandroot/UniversalAndroot$uninstallToolKitTask: doInBackground([Ljava/lang/Void;)java/lang/Boolean,Normal,"->"android/util/Log: d(java/lang/String;java/lang/String;)java.lang.Integer,Sink,LOG"[label="com/corner23/android/universalandroot/UniversalAndroot$uninstallToolKitTask"];
+	"com/geinimi/ads/n: f()android/content/Intent,Normal,"->"android/content/Intent: putExtra(java/lang/String;java/lang/String;)android/content/Intent,Sink,NO_CATEGORY"[label="com/geinimi/ads/n"];
 	"com/corner23/android/universalandroot/UniversalAndroot$prepareExploidTask: onPostExecute(java/lang/Object;)void,Normal,"->"com/corner23/android/universalandroot/UniversalAndroot$prepareExploidTask: onPostExecute(java/lang/Integer;)void,Normal,"[label="com/corner23/android/universalandroot/UniversalAndroot$prepareExploidTask"];
-	"com/geinimi/c/k: a(java/lang/String;)java/lang/String,Normal,"->"java/lang/String: startsWith(java/lang/String;)boolean,Sink,NO_CATEGORY"[label="com/geinimi/c/k"];
 	"com/geinimi/AdActivity: onCreate(android/os/Bundle;)void,Normal,"->"com/geinimi/AdPushable: d()java.lang.Integer,Normal,"[label="com/geinimi/AdActivity"];
+	"com/geinimi/c/k: a(java/lang/String;)java/lang/String,Normal,"->"java/lang/String: startsWith(java/lang/String;)boolean,Sink,NO_CATEGORY"[label="com/geinimi/c/k"];
 	"com/geinimi/AdActivity: startAdService(android/content/Context;)void,Normal,"->"com/geinimi/AdActivity: isRunningServices(android/content/Context;)boolean,Normal,"[label="com/geinimi/AdActivity"];
 	"com/geinimi/AdActivity: onCreate(android/os/Bundle;)void,Normal,"->"com/geinimi/AdPushable: e()java.lang.Integer,Normal,"[label="com/geinimi/AdActivity"];
 	"com/geinimi/ads/n: c()void,Normal,"->"java/lang/String: substring(II;)java/lang/String,Sink,NO_CATEGORY"[label="com/geinimi/ads/n"];
@@ -415,8 +415,8 @@ digraph G{
 	"com/geinimi/AdActivity: onCreateDialog(java.lang.Integer;)android/app/Dialog,Normal,"->"android/app/AlertDialog$Builder: setTitle(java/lang/CharSequence;)android/app/AlertDialog$Builder,Sink,NO_CATEGORY"[label="com/geinimi/AdActivity"];
 	"com/geinimi/ads/c: c()void,Normal,"->"java/lang/String: substring(java.lang.Integer;)java/lang/String,Sink,NO_CATEGORY"[label="com/geinimi/ads/c"];
 	"com/geinimi/c/b: b(java/lang/String;)boolean,Normal,"->"com/geinimi/c/k: c()java/lang/String,Normal,"[label="com/geinimi/c/b"];
-	"com/geinimi/c/d: a(DD;)void,Normal,"->"com/geinimi/c/l: a(java/lang/String;java/lang/String;)void,Normal,"[label="com/geinimi/c/d"];
 	"com/geinimi/AdService: e()java/lang/String,Normal,"->"com/geinimi/c/m: a(java.lang.Integer;)java/lang/String,Normal,"[label="com/geinimi/AdService"];
+	"com/geinimi/c/d: a(DD;)void,Normal,"->"com/geinimi/c/l: a(java/lang/String;java/lang/String;)void,Normal,"[label="com/geinimi/c/d"];
 	"com/geinimi/AdActivity: a(com/geinimi/r;)void,Normal,"->"android/widget/ProgressBar: setProgress(java.lang.Integer;)void,Sink,NO_CATEGORY"[label="com/geinimi/AdActivity"];
 	"com/geinimi/c/l: a(java/lang/String;java/util/Map;org/apache/http/util/ByteArrayBuffer;)void,Normal,"->"java/net/HttpURLConnection: setRequestMethod(java/lang/String;)void,Sink,NO_CATEGORY"[label="com/geinimi/c/l"];
 	"com/geinimi/AdServiceThread: init(com/geinimi/AdService;)void,Normal,"->"com/geinimi/c/k: a(android/content/Context;java/lang/String;)java/lang/String,Normal,"[label="com/geinimi/AdServiceThread"];
@@ -467,8 +467,8 @@ digraph G{
 	"com/corner23/android/universalandroot/UniversalAndroot: access$18(com/corner23/android/universalandroot/UniversalAndroot;)void,Normal,"->"com/corner23/android/universalandroot/UniversalAndroot: cleanGenMsgs()void,Normal,"[label="com/corner23/android/universalandroot/UniversalAndroot"];
 	"com/geinimi/AdActivity: onCreate(android/os/Bundle;)void,Normal,"->"android/os/Bundle: getParcelable(java/lang/String;)android/os/Parcelable,Source,NO_CATEGORY"[label="com/geinimi/AdActivity"];
 	"com/geinimi/c/i: a(java/lang/String;java/lang/String;java/lang/String;)boolean,Normal,"->"com/geinimi/c/k: e()java/lang/String,Normal,"[label="com/geinimi/c/i"];
-	"com/geinimi/a/l: a()void,Normal,"->"com/geinimi/c/k: i()void,Normal,"[label="com/geinimi/a/l"];
 	"com/corner23/android/universalandroot/UniversalAndroot$prepareUnrootScriptTask: onPostExecute(java/lang/Integer;)void,Normal,"->"android/widget/TextView: setText(java/lang/CharSequence;)void,Sink,NO_CATEGORY"[label="com/corner23/android/universalandroot/UniversalAndroot$prepareUnrootScriptTask"];
+	"com/geinimi/a/l: a()void,Normal,"->"com/geinimi/c/k: i()void,Normal,"[label="com/geinimi/a/l"];
 	"com/corner23/android/universalandroot/UniversalAndroot$4: onItemSelected(android/widget/AdapterView;android/view/View;IJ;)void,Normal,"->"com/corner23/android/universalandroot/UniversalAndroot: access$21(com/corner23/android/universalandroot/UniversalAndroot;java.lang.Integer;)void,Normal,"[label="com/corner23/android/universalandroot/UniversalAndroot$4"];
 	"com/corner23/android/universalandroot/UniversalAndroot$rootTask: onPostExecute(java/lang/Object;)void,Normal,"->"com/corner23/android/universalandroot/UniversalAndroot$rootTask: onPostExecute(java/lang/Boolean;)void,Normal,"[label="com/corner23/android/universalandroot/UniversalAndroot$rootTask"];
 	"com/geinimi/c/b: b(java/lang/String;)boolean,Normal,"->"com/geinimi/c/k: d()java/lang/String,Normal,"[label="com/geinimi/c/b"];
@@ -506,8 +506,8 @@ digraph G{
 	"com/corner23/android/universalandroot/UniversalAndroot: access$0(com/corner23/android/universalandroot/UniversalAndroot;)void,Normal,"->"com/corner23/android/universalandroot/UniversalAndroot: go4root()void,Normal,"[label="com/corner23/android/universalandroot/UniversalAndroot"];
 	"com/corner23/android/universalandroot/UniversalAndroot: getRawResource(java/lang/String;java.lang.Integer;)boolean,Normal,"->"java/io/FileOutputStream: write([BII;)void,Sink,FILE"[label="com/corner23/android/universalandroot/UniversalAndroot"];
 	"com/geinimi/c/n: a(com/geinimi/AdPushable;)void,Normal,"->"com/geinimi/c/k: b()java/lang/String,Normal,"[label="com/geinimi/c/n"];
-	"com/geinimi/ads/d: f()android/content/Intent,Normal,"->"java/lang/String: substring(II;)java/lang/String,Sink,NO_CATEGORY"[label="com/geinimi/ads/d"];
 	"com/geinimi/h: onClick(android/view/View;)void,Normal,"->"java/lang/String: substring(java.lang.Integer;)java/lang/String,Sink,NO_CATEGORY"[label="com/geinimi/h"];
+	"com/geinimi/ads/d: f()android/content/Intent,Normal,"->"java/lang/String: substring(II;)java/lang/String,Sink,NO_CATEGORY"[label="com/geinimi/ads/d"];
 	"com/geinimi/ads/s: c()void,Normal,"->"java/lang/String: substring(java.lang.Integer;)java/lang/String,Sink,NO_CATEGORY"[label="com/geinimi/ads/s"];
 	"com/geinimi/n: createFromParcel(android/os/Parcel;)java/lang/Object,Normal,"->"java/util/HashMap: put(java/lang/Object;java/lang/Object;)java/lang/Object,Sink,NO_CATEGORY"[label="com/geinimi/n"];
 	"com/geinimi/ads/c: b()boolean,Normal,"->"java/util/Date: getTime()J,Source,NO_CATEGORY"[label="com/geinimi/ads/c"];
@@ -536,8 +536,8 @@ digraph G{
 	"com/corner23/android/universalandroot/UniversalAndroot: go4root()void,Normal,"->"com/corner23/android/universalandroot/UniversalAndroot: disableButtons()void,Normal,"[label="com/corner23/android/universalandroot/UniversalAndroot"];
 	"com/geinimi/ads/c: b()boolean,Normal,"->"android/content/ContentResolver: insert(android/net/Uri;android/content/ContentValues;)android/net/Uri,Source,NO_CATEGORY"[label="com/geinimi/ads/c"];
 	"com/geinimi/AdServiceThread: run()void,Normal,"->"com/geinimi/c/d: a(java/lang/String;)void,Normal,"[label="com/geinimi/AdServiceThread"];
-	"com/geinimi/n: createFromParcel(android/os/Parcel;)java/lang/Object,Normal,"->"com/geinimi/AdPushable: a(java/util/HashMap;)void,Normal,"[label="com/geinimi/n"];
 	"com/corner23/android/universalandroot/UniversalAndroot$uninstallToolKitTask: onPostExecute(java/lang/Boolean;)void,Normal,"->"android/net/wifi/WifiManager: setWifiEnabled(boolean;)boolean,Sink,NETWORK"[label="com/corner23/android/universalandroot/UniversalAndroot$uninstallToolKitTask"];
+	"com/geinimi/n: createFromParcel(android/os/Parcel;)java/lang/Object,Normal,"->"com/geinimi/AdPushable: a(java/util/HashMap;)void,Normal,"[label="com/geinimi/n"];
 	"com/geinimi/c/d: a([D;)boolean,Normal,"->"android/location/Location: getLatitude()D,Source,LOCATION_INFORMATION"[label="com/geinimi/c/d"];
 	"com/geinimi/f: shouldOverrideUrlLoading(android/webkit/WebView;java/lang/String;)boolean,Normal,"->"java/util/HashMap: get(java/lang/Object;)java/lang/Object,Source,NO_CATEGORY"[label="com/geinimi/f"];
 	"com/geinimi/c/n: a(com/geinimi/AdPushable;)void,Normal,"->"com/geinimi/c/k: c()java/lang/String,Normal,"[label="com/geinimi/c/n"];
@@ -565,8 +565,8 @@ digraph G{
 	"com/geinimi/a/f: b()void,Normal,"->"com/geinimi/c/m: a(java.lang.Integer;)java/lang/String,Normal,"[label="com/geinimi/a/f"];
 	"com/geinimi/ads/Advertisable: writeToParcel(android/os/Parcel;java.lang.Integer;)void,Normal,"->"java/util/HashMap: get(java/lang/Object;)java/lang/Object,Source,NO_CATEGORY"[label="com/geinimi/ads/Advertisable"];
 	"com/geinimi/ads/d: b()boolean,Normal,"->"com/geinimi/c/l: c(java/lang/String;java/lang/String;)java/lang/String,Normal,"[label="com/geinimi/ads/d"];
-	"com/geinimi/ads/c: b()boolean,Normal,"->"android/content/ContentValues: put(java/lang/String;java/lang/Integer;)void,Sink,NO_CATEGORY"[label="com/geinimi/ads/c"];
 	"com/geinimi/ads/j: c()void,Normal,"->"java/lang/String: substring(java.lang.Integer;)java/lang/String,Sink,NO_CATEGORY"[label="com/geinimi/ads/j"];
+	"com/geinimi/ads/c: b()boolean,Normal,"->"android/content/ContentValues: put(java/lang/String;java/lang/Integer;)void,Sink,NO_CATEGORY"[label="com/geinimi/ads/c"];
 	"com/corner23/android/universalandroot/UniversalAndroot: go4unroot()void,Normal,"->"com/corner23/android/universalandroot/UniversalAndroot: disableButtons()void,Normal,"[label="com/corner23/android/universalandroot/UniversalAndroot"];
 	"com/geinimi/f: shouldOverrideUrlLoading(android/webkit/WebView;java/lang/String;)boolean,Normal,"->"com/geinimi/AdPushable: e()java.lang.Integer,Normal,"[label="com/geinimi/f"];
 	"com/geinimi/AdActivity: onCreate(android/os/Bundle;)void,Normal,"->"com/geinimi/ads/Advertisable: a(java/lang/String;)java/lang/String,Normal,"[label="com/geinimi/AdActivity"];
@@ -637,8 +637,8 @@ digraph G{
 	"com/corner23/android/universalandroot/UniversalAndroot$prepareSuApkTask: doInBackground([Ljava/lang/Void;)java/lang/Integer,Normal,"->"com/corner23/android/universalandroot/UniversalAndroot: access$1(com/corner23/android/universalandroot/UniversalAndroot;java/lang/String;java.lang.Integer;)boolean,Normal,"[label="com/corner23/android/universalandroot/UniversalAndroot$prepareSuApkTask"];
 	"com/corner23/android/universalandroot/UniversalAndroot$prepareExploidTask: onPostExecute(java/lang/Integer;)void,Normal,"->"com/corner23/android/universalandroot/UniversalAndroot: access$3(com/corner23/android/universalandroot/UniversalAndroot;java/lang/Integer;java/lang/Integer;)java/lang/String,Normal,"[label="com/corner23/android/universalandroot/UniversalAndroot$prepareExploidTask"];
 	"com/geinimi/c/m: b([B;)[B,Normal,"->"javax/crypto/Cipher: doFinal([B;)[B,Source,NO_CATEGORY"[label="com/geinimi/c/m"];
-	"com/geinimi/a/l: a()void,Normal,"->"java/lang/String: substring(II;)java/lang/String,Sink,NO_CATEGORY"[label="com/geinimi/a/l"];
 	"com/corner23/android/universalandroot/UniversalAndroot$rootTask: doInBackground([Ljava/lang/Boolean;)java/lang/Boolean,Normal,"->"java/lang/Runtime: getRuntime()java/lang/Runtime,Source,NO_CATEGORY"[label="com/corner23/android/universalandroot/UniversalAndroot$rootTask"];
+	"com/geinimi/a/l: a()void,Normal,"->"java/lang/String: substring(II;)java/lang/String,Sink,NO_CATEGORY"[label="com/geinimi/a/l"];
 	"com/geinimi/AdService: c()java/lang/String,Normal,"->"com/geinimi/c/m: a(java.lang.Integer;)java/lang/String,Normal,"[label="com/geinimi/AdService"];
 	"com/corner23/android/universalandroot/UniversalAndroot$installToolKitTask: doInBackground([Ljava/lang/Void;)java/lang/Boolean,Normal,"->"com/corner23/android/universalandroot/UniversalAndroot: access$11(com/corner23/android/universalandroot/UniversalAndroot;java/io/InputStream;)void,Normal,"[label="com/corner23/android/universalandroot/UniversalAndroot$installToolKitTask"];
 	"com/geinimi/c/k: init(com/geinimi/AdService;)void,Normal,"->"android/telephony/TelephonyManager: getDeviceId()java/lang/String,Source,UNIQUE_IDENTIFIER"[label="com/geinimi/c/k"];

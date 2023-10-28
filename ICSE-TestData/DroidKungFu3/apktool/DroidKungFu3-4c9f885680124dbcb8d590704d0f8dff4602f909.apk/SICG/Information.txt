@@ -1,11 +1,11 @@
-文件路径：/home/fan/data/ICSE/DroidKungFu3/apktool/DroidKungFu3-4c9f885680124dbcb8d590704d0f8dff4602f909.apk
-节点个数：3158
-边个数：7651
-敏感源节点155
+文件路径：/Users/imranur/Research/LLM-for-package-clustering/ICSE19-GefDroid/GefDroid-Code/ICSE-TestData/DroidKungFu3/apktool/DroidKungFu3-4c9f885680124dbcb8d590704d0f8dff4602f909.apk
+节点个数：3067
+边个数：7373
+敏感源节点154
 	LOCATION_INFORMATION:	6
 	CALENDAR_INFORMATION:	2
 	DATABASE_INFORMATION:	3
-	NO_CATEGORY:	129
+	NO_CATEGORY:	128
 	UNIQUE_IDENTIFIER:	4
 	NETWORK_INFORMATION:	11
 敏感目的节点97

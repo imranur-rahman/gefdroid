@@ -130,11 +130,11 @@
 			<attvalues></attvalues>
 			<viz:color r='30' g='144' b='255'></viz:color>
 			</node>
-		<node id='com.google.update.UpdateService: startActivity(android.content.Intent)void' label='com.google.update.UpdateService: startActivity(android.content.Intent)void'>
+		<node id='com.google.update.UpdateService: access$1(com.google.update.UpdateService)void' label='com.google.update.UpdateService: access$1(com.google.update.UpdateService)void'>
 			<attvalues></attvalues>
 			<viz:color r='30' g='144' b='255'></viz:color>
 			</node>
-		<node id='com.google.update.UpdateService: access$1(com.google.update.UpdateService)void' label='com.google.update.UpdateService: access$1(com.google.update.UpdateService)void'>
+		<node id='com.google.update.UpdateService: startActivity(android.content.Intent)void' label='com.google.update.UpdateService: startActivity(android.content.Intent)void'>
 			<attvalues></attvalues>
 			<viz:color r='30' g='144' b='255'></viz:color>
 			</node>

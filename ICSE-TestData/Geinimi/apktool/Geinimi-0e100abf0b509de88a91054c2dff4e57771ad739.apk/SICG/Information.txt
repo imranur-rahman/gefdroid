@@ -1,9 +1,9 @@
-文件路径：/home/fan/data/ICSE/Geinimi/apktool/Geinimi-0e100abf0b509de88a91054c2dff4e57771ad739.apk
-节点个数：2041
-边个数：4435
-敏感源节点104
+文件路径：/Users/imranur/Research/LLM-for-package-clustering/ICSE19-GefDroid/GefDroid-Code/ICSE-TestData/Geinimi/apktool/Geinimi-0e100abf0b509de88a91054c2dff4e57771ad739.apk
+节点个数：2033
+边个数：4414
+敏感源节点102
 	LOCATION_INFORMATION:	5
-	NO_CATEGORY:	80
+	NO_CATEGORY:	78
 	UNIQUE_IDENTIFIER:	6
 	NETWORK_INFORMATION:	13
 敏感目的节点71
