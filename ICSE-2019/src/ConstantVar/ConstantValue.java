@@ -15,13 +15,13 @@ import java.util.regex.Pattern;
 
 
 public class ConstantValue {
-	public static final String FAMILIESDIRPATH_STRING="/home/fan/data/ICSE/";
+	public static final String FAMILIESDIRPATH_STRING="/Users/imranur/Research/LLM-for-package-clustering/ICSE19-GefDroid/GefDroid-Code/";
 	public static ArrayList<String> apkFilePathList=new ArrayList<>();
 	public static Set<String> familySet=new HashSet<>();
 	public static int apkSize=0;
 	public static ConstantValue var;
 	
-	public static String stru2vecPath="./file/struc2vec/src/main.py";
+	public static String stru2vecPath="/Users/imranur/Research/LLM-for-package-clustering/ICSE19-GefDroid/GefDroid-Code/ICSE-2019/file/struc2vec/src/main.py";
 	
 	public static Set<String> WholeAPIPackSet=new HashSet<>();
 	public static Set<String> SenAPISet=new HashSet<>();
@@ -74,7 +74,7 @@ public class ConstantValue {
 
 			
 			
-			File dir=new File(FAMILIESDIRPATH_STRING);
+			File dir=new File(FAMILIESDIRPATH_STRING + "ICSE-TestData");
 			File fals[]=dir.listFiles();
 			for(int i=0;i<fals.length;i++){
 				String falName=fals[i].getName();
@@ -141,7 +141,7 @@ public class ConstantValue {
 	
 	public static void iniWholeAPIPackSet(){
 		try {
-			String pathname="./file/key/APIPackSet.txt";
+			String pathname="/Users/imranur/Research/LLM-for-package-clustering/ICSE19-GefDroid/GefDroid-Code/ICSE-2019/file/key/APIPackSet.txt";
 			File file=new File(pathname);
 			FileReader fReader=new FileReader(file);
 			BufferedReader bReader=new BufferedReader(fReader);
@@ -160,7 +160,7 @@ public class ConstantValue {
 	
 	public static void iniSenAPISet(){
 		try {
-			String pathname="./file/key/SenAPISet.txt";
+			String pathname="/Users/imranur/Research/LLM-for-package-clustering/ICSE19-GefDroid/GefDroid-Code/ICSE-2019/file/key/SenAPISet.txt";
 			File file=new File(pathname);
 			FileReader fReader=new FileReader(file);
 			BufferedReader bReader=new BufferedReader(fReader);
@@ -191,7 +191,7 @@ public class ConstantValue {
 	
 	public static void iniPermissionSet(){
 		try {
-			String pathname="./file/key/perm_name_88.txt";
+			String pathname="/Users/imranur/Research/LLM-for-package-clustering/ICSE19-GefDroid/GefDroid-Code/ICSE-2019/file/key/perm_name_88.txt";
 			File file=new File(pathname);
 			FileReader fReader=new FileReader(file);
 			BufferedReader bReader=new BufferedReader(fReader);
@@ -213,7 +213,7 @@ public class ConstantValue {
 	
 	public static void iniThirdAdPackSet(){
 		try {
-			String pathname="./file/key/ad_240.txt";
+			String pathname="/Users/imranur/Research/LLM-for-package-clustering/ICSE19-GefDroid/GefDroid-Code/ICSE-2019/file/key/ad_240.txt";
 		//	String pathname="./file/key/ad_1050.txt";
 			File adFile=new File(pathname);
 			FileReader fReader=new FileReader(adFile);
@@ -228,7 +228,7 @@ public class ConstantValue {
 			bReader.close();
 			fReader.close();
 			
-			String adFilePath="./file/key/addtionAd.txt";
+			String adFilePath="/Users/imranur/Research/LLM-for-package-clustering/ICSE19-GefDroid/GefDroid-Code/ICSE-2019/file/key/addtionAd.txt";
 			File adFile2=new File(adFilePath);
 			FileReader fReader2=new FileReader(adFile2);
 			BufferedReader bReader2=new BufferedReader(fReader2);

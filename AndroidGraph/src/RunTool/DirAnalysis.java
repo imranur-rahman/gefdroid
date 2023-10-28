@@ -15,7 +15,7 @@ import ConstantVar.ConstantValue;
 public class DirAnalysis {
    //	public static String dirString=ConstantValue.getVar().FAMILIESDIRPATH_STRING;
   //  public static String dirString="/home/fan/lab/IR/data/fal/";
- 	public static String dirString="/home/fan/data/ICSE/";
+ 	public static String dirString="/Users/imranur/Research/LLM-for-package-clustering/ICSE19-GefDroid/GefDroid-Code/ICSE-TestData/";
  	
 	public static ArrayList<Double> timeList=new ArrayList<>();
 	public static void main(String[] args) {

@@ -32,8 +32,8 @@ public class ConstantValue {
 	
 	//public static final String CONMMUNITYDETECTIONPYTHONFILEPATH_STRING="/home/fan/lab/Family/file/SICG-community-CDF.py";
 	//public static final String CONNECEDFILE_STRING="/home/fan/lab/Family/file/ConnectedGraph.py";
-	public static final String sourceFilePath="./file/SourcesSinks/Ouput_CatSources_v0_9.txt";
-	public static final String sinkFilePath="./file/SourcesSinks/Ouput_CatSinks_v0_9.txt";
+	public static final String sourceFilePath="/Users/imranur/Research/LLM-for-package-clustering/ICSE19-GefDroid/GefDroid-Code/AndroidGraph/file/Ouput_CatSources_v0_9.txt";
+	public static final String sinkFilePath="/Users/imranur/Research/LLM-for-package-clustering/ICSE19-GefDroid/GefDroid-Code/AndroidGraph/file/Ouput_CatSinks_v0_9.txt";
 	public static ReadSourceAndSinks ss=new ReadSourceAndSinks(sourceFilePath,sinkFilePath);
 	//public static final String SVMMODEL="/home/fan/data/Family/file/SVM.model";
 	

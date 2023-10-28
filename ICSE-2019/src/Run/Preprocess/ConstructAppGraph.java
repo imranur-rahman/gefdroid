@@ -16,8 +16,8 @@ import Util.DirDelete;
 public class ConstructAppGraph {
 
 	public static String featureType="";
-	public static String communityDetectionFilePath="./file/result/CommunityDetection.py";
-	public static String metricCalculationFilePath="./file/result/Measure.py";
+	public static String communityDetectionFilePath="/Users/imranur/Research/LLM-for-package-clustering/ICSE19-GefDroid/GefDroid-Code/ICSE-2019/file/result/CommunityDetection.py";
+	public static String metricCalculationFilePath="/Users/imranur/Research/LLM-for-package-clustering/ICSE19-GefDroid/GefDroid-Code/ICSE-2019/file/result/Measure.py";
 	public static double simThreshold=ConstantValue.getVar().graphSimThreshold;
 	public static int simEdge=ConstantValue.getVar().minEdgeWeight;
 	
@@ -42,7 +42,7 @@ public class ConstructAppGraph {
 	
 	public static void mvResultFile(){
 		try {
-			String resultDirPath="./file/result/"+featureType+"/"+String.valueOf(simThreshold)+"--"+String.valueOf(simEdge);
+			String resultDirPath="/Users/imranur/Research/LLM-for-package-clustering/ICSE19-GefDroid/GefDroid-Code/ICSE-2019/file/result/"+featureType+"/"+String.valueOf(simThreshold)+"--"+String.valueOf(simEdge);
 			File resultDir=new File(resultDirPath);
 			if(resultDir.exists()){
 				DirDelete dirDelete=new DirDelete();
@@ -61,7 +61,7 @@ public class ConstructAppGraph {
 			Iterator<String> fileIterator=resultFileSet.iterator();
 			while(fileIterator.hasNext()){
 				String fileName=fileIterator.next();
-				String srcFilePath="./file/result/"+fileName;
+				String srcFilePath="/Users/imranur/Research/LLM-for-package-clustering/ICSE19-GefDroid/GefDroid-Code/ICSE-2019/file/result/"+fileName;
 				String dstFilePath=resultDirPath+"/"+fileName;
 				String cmd="mv "+srcFilePath+" "+dstFilePath;
 				exeCmd(cmd);
@@ -75,7 +75,7 @@ public class ConstructAppGraph {
 	
 	public static void newDir(){
 		try {
-			String resultDir="./file/result/";
+			String resultDir="/Users/imranur/Research/LLM-for-package-clustering/ICSE19-GefDroid/GefDroid-Code/ICSE-2019/file/result/";
 //			String apiDirPath=resultDir+"API/";
 //			File apiDir=new File(apiDirPath);
 //			if(!apiDir.exists()){
@@ -131,19 +131,19 @@ public class ConstructAppGraph {
 			double dureTime=(endTime-startTime)/Double.valueOf(1000);
 			
 			
-			String appGraphGexfFilePath="./file/result/graph.gexf";
+			String appGraphGexfFilePath="/Users/imranur/Research/LLM-for-package-clustering/ICSE19-GefDroid/GefDroid-Code/ICSE-2019/file/result/graph.gexf";
 			graph.storeGraph2Gexf(appGraphGexfFilePath);
 			
-//			String appGraphDotFilePath="./file/result/graph.dot";
+//			String appGraphDotFilePath="/Users/imranur/Research/LLM-for-package-clustering/ICSE19-GefDroid/GefDroid-Code/ICSE-2019/file/result/graph.dot";
 //			graph.storeGraph2Dot(appGraphDotFilePath);
 			
-			String appGraphGMLFilePath="./file/result/gml.txt";
+			String appGraphGMLFilePath="/Users/imranur/Research/LLM-for-package-clustering/ICSE19-GefDroid/GefDroid-Code/ICSE-2019/file/result/gml.txt";
 			graph.storeGraph2GML(appGraphGMLFilePath);
 			
-			String simFileLogPath="./file/result/SimFileLog.txt";
+			String simFileLogPath="/Users/imranur/Research/LLM-for-package-clustering/ICSE19-GefDroid/GefDroid-Code/ICSE-2019/file/result/SimFileLog.txt";
 			graph.storeSimFileLog(simFileLogPath);
 			
-			String appFalIdPath="./file/result/AppFalId.txt";
+			String appFalIdPath="/Users/imranur/Research/LLM-for-package-clustering/ICSE19-GefDroid/GefDroid-Code/ICSE-2019/file/result/AppFalId.txt";
 			graph.storeAppFalId(appFalIdPath);
 			System.out.println("Construct App graph Using Time : "+dureTime);
 		} catch (Exception e) {
@@ -156,16 +156,16 @@ public class ConstructAppGraph {
 		try {
 			//String dotFilePath="./file/result/graph.dot";
 			
-			String inputFilePath="./file/result/gml.txt";
+			String inputFilePath="/Users/imranur/Research/LLM-for-package-clustering/ICSE19-GefDroid/GefDroid-Code/ICSE-2019/file/result/gml.txt";
 			File inputFile=new File(inputFilePath);
 			inputFilePath=inputFile.getAbsolutePath();
 			
-			String outputFilePath="./file/result/Community_Result.txt";
+			String outputFilePath="/Users/imranur/Research/LLM-for-package-clustering/ICSE19-GefDroid/GefDroid-Code/ICSE-2019/file/result/Community_Result.txt";
 			File outFile=new File(outputFilePath);
 			outputFilePath=outFile.getAbsolutePath();
 			
 			long startTime=System.currentTimeMillis();
-			String cmd="python2.7 "+communityDetectionFilePath+" --infile "+inputFilePath+" --outfile "+outputFilePath;
+			String cmd="python3 "+communityDetectionFilePath+" --infile "+inputFilePath+" --outfile "+outputFilePath;
 			exeCmd(cmd);
 			long endTime=System.currentTimeMillis();
 			double dureTime=(endTime-startTime)/Double.valueOf(1000);
@@ -180,24 +180,24 @@ public class ConstructAppGraph {
 	public static void analyzeResult(){
 		try {
 			long startTime=System.currentTimeMillis();
-			String communityResultFilePath="./file/result/Community_Result.txt";
-			String groudTruthDataFilePath="./file/result/AppFalId.txt";
+			String communityResultFilePath="/Users/imranur/Research/LLM-for-package-clustering/ICSE19-GefDroid/GefDroid-Code/ICSE-2019/file/result/Community_Result.txt";
+			String groudTruthDataFilePath="/Users/imranur/Research/LLM-for-package-clustering/ICSE19-GefDroid/GefDroid-Code/ICSE-2019/file/result/AppFalId.txt";
 			ComunityResult comResult=new ComunityResult();
 			comResult.readDataFromFile(communityResultFilePath);
 			comResult.readGroudTruthData(groudTruthDataFilePath);
 			
-			String metricInputFilePath="./file/result/metricInput.txt";
+			String metricInputFilePath="/Users/imranur/Research/LLM-for-package-clustering/ICSE19-GefDroid/GefDroid-Code/ICSE-2019/file/result/metricInput.txt";
 			comResult.storeMetricInput(metricInputFilePath);
 			
 			String inputFilePath=metricInputFilePath;
 			File inputFile=new File(inputFilePath);
 			inputFilePath=inputFile.getAbsolutePath();
-			String outputFilePath="./file/result/metricOutput.txt";
+			String outputFilePath="/Users/imranur/Research/LLM-for-package-clustering/ICSE19-GefDroid/GefDroid-Code/ICSE-2019/file/result/metricOutput.txt";
 			File outputFile=new File(outputFilePath);
 			outputFilePath=outputFile.getAbsolutePath();
 			
 			
-			String cmd="python2.7 "+metricCalculationFilePath+" --infile "+inputFilePath+" --outfile "+outputFilePath;
+			String cmd="python3 "+metricCalculationFilePath+" --infile "+inputFilePath+" --outfile "+outputFilePath;
 			exeCmd(cmd);
 			
 			
